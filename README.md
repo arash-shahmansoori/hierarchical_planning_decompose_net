@@ -19,7 +19,7 @@ This project introduces a novel approach to equipping LLMs with hierarchical pla
 
 ## Repository Contents
 - **Training Source Code**: Complete source code for fine-tuning the Mistral-7B v2 LLM, including the implementation of QLORA and the TrImE process.
-- **Adapters and Datasets**: Pre-trained adapters and a 1000-row sample of our groundbreaking dataset designed for hierarchical planning of multi-modal task decomposition.
+- **Adapters and Datasets**: Pre-trained adapters (will be available in HuggingFace) and a 1000-row sample of our groundbreaking dataset designed for hierarchical planning of multi-modal task decomposition.
 - **Evaluation Results**: Detailed benchmarks and evaluation results showcasing the effectiveness of the multi-layer planning approach.
 - **Mermaid Diagram**: Visual representation of the fine-tuning and training workflow for enhanced understanding.
 
