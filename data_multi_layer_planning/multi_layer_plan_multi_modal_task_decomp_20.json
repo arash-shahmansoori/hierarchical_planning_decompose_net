@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Compose a short story about a haunted house (text), illustrate the main setting (image), and create a soundtrack that captures the story's mood (audio). Provide an analysis of how each component enhances the narrative.",
+        "output-abstract": "1. Short Story, 2. Illustration, 3. Soundtrack.",
+        "output-detail": "1. Short Story: Draft a narrative focusing on eerie, suspenseful elements. 2. Illustration: Depict the haunted house using dark, gloomy colors to visualize the setting. 3. Soundtrack: Compose music that uses minor keys and sudden, low-pitched tones to evoke a haunting atmosphere."
+    },
+    {
+        "instruction": "Design a virtual reality (VR) tour of the Solar System (video), write an educational script (text) explaining each planet, and develop a quiz (text) to test knowledge retention. Analyze the effectiveness of VR in education.",
+        "output-abstract": "1. VR Tour, 2. Script, 3. Quiz.",
+        "output-detail": "1. VR Tour: Create 3D models of planets and animate their orbits. 2. Script: Detail characteristics and fun facts of each planet for the narration. 3. Quiz: Frame multiple-choice questions based on the script content to assess learning."
+    },
+    {
+        "instruction": "Generate a marketing campaign for a new eco-friendly product that includes a promotional video (video), a catchy jingle (audio), and a series of infographics (image) highlighting its benefits. Discuss target audience engagement strategies.",
+        "output-abstract": "1. Promotional Video, 2. Jingle, 3. Infographics.",
+        "output-detail": "1. Promotional Video: Showcase the product in real-life scenarios emphasizing its eco-friendliness. 2. Jingle: Compose a simple, memorable melody with lyrics that highlight product benefits. 3. Infographics: Design visuals that clearly articulate the product's environmental impact and benefits."
+    },
+    {
+        "instruction": "Write a review of a fictional technology product (text), create a conceptual design of the product (image), and simulate a user interface walk-through (video). Evaluate the conceptual design's usability.",
+        "output-abstract": "1. Product Review, 2. Conceptual Design, 3. UI Walk-through.",
+        "output-detail": "1. Product Review: Formulate a critique focusing on features, benefits, and potential market impact. 2. Conceptual Design: Sketch the product's appearance and functionality. 3. UI Walk-through: Produce a video demonstrating interactions with the product's interface."
+    },
+    {
+        "instruction": "Create a tutorial on making a simple Android app (text), record a codding session (video), and develop beginner-friendly documentation (text). Assess the tutorial's comprehensibility for newcomers.",
+        "output-abstract": "1. Tutorial, 2. Coding Session, 3. Documentation.",
+        "output-detail": "1. Tutorial: Outline steps for app creation from setup to deployment. 2. Coding Session: Record the development process, highlighting key moments. 3. Documentation: Write detailed explanations of code snippets and functionalities."
+    },
+    {
+        "instruction": "Develop a brand identity for a startup, including a name (text), logo (image), mission statement (text), and an introductory presentation (video). Explain how each element contributes to the brand's visibility and appeal.",
+        "output-abstract": "1. Name, 2. Logo, 3. Mission Statement, 4. Introduction Video.",
+        "output-detail": "1. Name: Brainstorm names that are memorable and reflect the startup's values. 2. Logo: Design a logo that is visually appealing and represents the startup ethos. 3. Mission Statement: Craft a concise statement that communicates the startup\u2019s purpose. 4. Introduction Video: Create a brief video that introduces the team, product, and mission."
+    },
+    {
+        "instruction": "Compose an instrumental piece (audio) inspired by a season, paint a landscape (image) that visually represents the music, and write an essay (text) on the interplay between sound and visuals. Examine the emotions evoked through this synergy.",
+        "output-abstract": "1. Instrumental Piece, 2. Painting, 3. Essay.",
+        "output-detail": "1. Instrumental Piece: Create a melody that captures the essence of the chosen season. 2. Painting: Use colors and motifs that reflect the music\u2019s mood. 3. Essay: Discuss how the music and painting complement each other and the emotional response they generate together."
+    },
+    {
+        "instruction": "Create an animated explainer video (video) for a complex scientific concept, draft a simplified script (text) breaking down the concept, and produce a set of supplementary diagrams (image). Assess the overall clarity and educational value.",
+        "output-abstract": "1. Explainer Video, 2. Script, 3. Diagrams.",
+        "output-detail": "1. Explainer Video: Develop an animation that narratively conveys the scientific concept. 2. Script: Write a script that simplifies the explanation of the concept, to be used in the video. 3. Diagrams: Illustrate key points from the script with clear, informative diagrams."
+    },
+    {
+        "instruction": "Curate a photography exhibition (image) on urban decay, compose descriptive captions for each photo (text), and create an ambient soundscape (audio) that reflects the exhibition\u2019s theme. Discuss the atmosphere created by combining these elements.",
+        "output-abstract": "1. Photography, 2. Captions, 3. Soundscape.",
+        "output-detail": "1. Photography: Select photos that vividly capture aspects of urban decay. 2. Captions: Write informative and thought-provoking captions for each photo. 3. Soundscape: Compose an audio track that mirrors the visual and emotional tone of the photos."
+    },
+    {
+        "instruction": "Produce a documentary (video) on a historical event, develop a podcast series (audio) covering detailed discussions of the event, and create an interactive timeline (image+text) on a website. Analyze the engagement and educational impact of each format.",
+        "output-abstract": "1. Documentary, 2. Podcast Series, 3. Interactive Timeline.",
+        "output-detail": "1. Documentary: Film interviews, reenactments, and commentary to provide a comprehensive view of the event. 2. Podcast Series: Record episodes with experts discussing various aspects of the event in depth. 3. Interactive Timeline: Design a timeline with key dates, photos, and short descriptions for web users to explore."
+    },
+    {
+        "instruction": "Design a meal plan for a week (text), including a shopping list (text), cook a signature dish from the plan (video), and photograph the finished meal (image). Evaluate the plan's nutritional balance and practicality.",
+        "output-abstract": "1. Meal Plan, 2. Shopping List, 3. Cooking Video, 4. Meal Photo.",
+        "output-detail": "1. Meal Plan: Outline a balanced diet for a week, considering dietary needs and preferences. 2. Shopping List: Compile a list of ingredients required for the plan. 3. Cooking Video: Record the preparation of a chosen dish, highlighting techniques and tips. 4. Meal Photo: Capture a high-quality image of the plated dish."
+    },
+    {
+        "instruction": "Construct a time-lapse video (video) of a sunrise, write poetic descriptions (text) of the scene, and compose ambient music (audio) to accompany the video. Analyze the harmony of visual and auditory elements in capturing the scene.",
+        "output-abstract": "1. Time-Lapse Video, 2. Poetic Descriptions, 3. Ambient Music.",
+        "output-detail": "1. Time-Lapse Video: Set up a camera to record the sunrise, noting changes in light and color. 2. Poetic Descriptions: Craft descriptions that capture the beauty and tranquility of the sunrise. 3. Ambient Music: Compose a piece that mirrors the serenity and gradual brightening of the scene."
+    },
+    {
+        "instruction": "Illustrate a children's book (image) about forest animals, write the story (text), and record a narration (audio) of the story. Discuss the importance of visual and auditory stimuli in children's learning.",
+        "output-abstract": "1. Illustrations, 2. Story, 3. Narration.",
+        "output-detail": "1. Illustrations: Create vivid, captivating images of forest animals and environments. 2. Story: Develop a narrative that is engaging and educational for children. 3. Narration: Record a clear, expressive reading of the story, suitable for young listeners."
+    },
+    {
+        "instruction": "Create an infographic (image) explaining the water cycle, write an informational guide (text) on water conservation strategies, and produce a public service announcement (audio) emphasizing the importance of saving water. Evaluate the message's clarity and call to action.",
+        "output-abstract": "1. Infographic, 2. Guide, 3. Announcement.",
+        "output-detail": "1. Infographic: Design a visual representation of the water cycle, highlighting key processes. 2. Guide: Write a detailed guide on practical water conservation techniques. 3. Announcement: Record a compelling message that motivates individuals to adopt water-saving practices."
+    },
+    {
+        "instruction": "Develop a personal brand by creating a portfolio website (image+text), recording an introduction video (video), and a podcast episode (audio) discussing professional experiences. Analyze the coherence and effectiveness of self-presentation across these platforms.",
+        "output-abstract": "1. Portfolio Website, 2. Introduction Video, 3. Podcast Episode.",
+        "output-detail": "1. Portfolio Website: Design a visually appealing site that showcases work samples, a biography, and contact information. 2. Introduction Video: Produce a short video introducing oneself and highlighting professional achievements. 3. Podcast Episode: Record an in-depth discussion of career milestones, challenges, and insights."
+    },
+    {
+        "instruction": "Design a series of motivational posters (image) with empowering quotes (text), record a motivational speech (audio) that complements the themes of the posters, and create a montage video (video) of people achieving their dreams. Discuss the posters' impact on motivation.",
+        "output-abstract": "1. Posters, 2. Motivational Speech, 3. Montage Video.",
+        "output-detail": "1. Posters: Combine striking visuals with motivational quotes to inspire action. 2. Motivational Speech: Write and record a speech that aligns with the themes of the posters, encouraging listeners to persevere. 3. Montage Video: Edit together clips of individuals overcoming obstacles and pursuing success."
+    },
+    {
+        "instruction": "Write a comprehensive guide to learning Python programming (text), compile a list of code examples (text), create instructional videos (video) for each major topic, and develop an interactive quiz (text+image) to test understanding. Evaluate the guide's accessibility to beginners.",
+        "output-abstract": "1. Learning Guide, 2. Code Examples, 3. Instructional Videos, 4. Interactive Quiz.",
+        "output-detail": "1. Learning Guide: Structure the content into chapters covering fundamental concepts. 2. Code Examples: Provide clear, commented examples demonstrating each concept in action. 3. Instructional Videos: Record step-by-step tutorials for visual and practical learning. 4. Interactive Quiz: Design questions with visual aids to assess comprehension of topics covered."
+    },
+    {
+        "instruction": "Organize a virtual art exhibition (image) featuring contemporary artists, write bios for each artist (text), and compile a playlist (audio) of music that inspires their work. Analyze the exhibition's accessibility and the digital presentation's impact.",
+        "output-abstract": "1. Art Exhibition, 2. Artist Bios, 3. Playlist.",
+        "output-detail": "1. Art Exhibition: Curate a selection of digital images representing each artist's work. 2. Artist Bios: Craft concise biographies highlighting each artist's background, style, and influences. 3. Playlist: Assemble a collection of songs or musical pieces cited as inspiration by the artists."
+    },
+    {
+        "instruction": "Host a podcast interview (audio) with a technology innovator, create a visual timeline (image) of their career accomplishments, and transcribe the interview (text). Discuss the insights gained about innovation and industry trends.",
+        "output-abstract": "1. Podcast Interview, 2. Visual Timeline, 3. Transcription.",
+        "output-detail": "1. Podcast Interview: Prepare and conduct an interview focusing on the innovator's contributions and visions for the future. 2. Visual Timeline: Design a graphic that traces key milestones in the innovator's career. 3. Transcription: Provide a written record of the interview for accessibility and further analysis."
+    },
+    {
+        "instruction": "Design a digital greeting card (image) for a cultural holiday, compose a message (text) that reflects the holiday's significance, and create a short melody (audio) that can be played when the card is opened. Evaluate the cultural respectfulness and inclusivity of the card.",
+        "output-abstract": "1. Greeting Card, 2. Message, 3. Melody.",
+        "output-detail": "1. Greeting Card: Use culturally relevant symbols and colors to design the card. 2. Message: Write a heartfelt message that honors the holiday's traditions and values. 3. Melody: Compose a brief, festive tune that enhances the card's emotional impact."
+    },
+    {
+        "instruction": "Produce a comparative analysis (text) of different coffee brewing methods, record a series of tutorial videos (video) demonstrating each method, and capture high-quality photographs (image) of the coffee produced by each method. Discuss the nuances in flavor and technique.",
+        "output-abstract": "1. Comparative Analysis, 2. Tutorial Videos, 3. Photographs.",
+        "output-detail": "1. Comparative Analysis: Research and write about the history, process, and taste profile associated with each brewing method. 2. Tutorial Videos: Show the step-by-step process for each method, focusing on tips for optimal results. 3. Photographs: Take clear, appealing photos of the coffee produced, highlighting differences in color and texture."
+    }
+]

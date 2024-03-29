@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Design a themed restaurant with a concept presentation (text), interior sketches (image), a sample menu (text), and background music playlist (audio).",
+        "output-abstract": "1. Concept presentation, 2. Interior sketches, 3. Sample menu, 4. Background music playlist.",
+        "output-detail": "1. Concept presentation: Outline the restaurant's theme, target audience, and unique selling points. 2. Interior sketches: Create visuals showing the proposed interior design, color scheme, and seating layout. 3. Sample menu: Draft a menu that aligns with the theme, including appetizers, main courses, desserts, and beverages. 4. Background music playlist: Compile a list of songs that complement the restaurant's atmosphere, considering genre, tempo, and theme."
+    },
+    {
+        "instruction": "Produce a short educational video on the water cycle including a script (text), storyboards (image), voice-over (audio), and the final video (video).",
+        "output-abstract": "1. Script, 2. Storyboards, 3. Voice-over, 4. Final video.",
+        "output-detail": "1. Script: Write an educational narrative explaining the water cycle stages. 2. Storyboards: Sketch scenes based on the script depicting evaporation, condensation, precipitation, and collection. 3. Voice-over: Record a clear, engaging narration of the script. 4. Final video: Combine the storyboards and voice-over with animated visuals and background music to create the educational video."
+    },
+    {
+        "instruction": "Create a blog post about sustainable living with engaging text (text), high-quality photographs (image), and an infographic summarizing key points (image).",
+        "output-abstract": "1. Blog post script, 2. Photographs, 3. Infographic.",
+        "output-detail": "1. Blog post script: Write comprehensive content covering the importance of sustainable living, practical tips, and everyday examples. 2. Photographs: Capture or select relevant, high-resolution images that complement the post content. 3. Infographic: Design an infographic that distills the blog post into visual key points, tips, and statistics for easier understanding and sharing."
+    },
+    {
+        "instruction": "Compose a piece of instrumental music inspired by a sunrise (audio), write a poem that embodies the emotion the music evokes (text), and create a digital painting to visually represent the poem (image).",
+        "output-abstract": "1. Instrumental music, 2. Poem, 3. Digital painting.",
+        "output-detail": "1. Instrumental music: Develop a music piece capturing the serenity and beauty of a sunrise. 2. Poem: Write a poem reflecting the feelings and imagery suggested by the music. 3. Digital painting: Create a visual interpretation of the poem, focusing on colors, imagery, and emotions tied to the sunrise inspiration."
+    },
+    {
+        "instruction": "Develop a brand identity for a tech start-up including a name and logo design (text and image), a promotional video introducing the company (video), and a company theme song (audio).",
+        "output-abstract": "1. Name and logo, 2. Promotional video, 3. Theme song.",
+        "output-detail": "1. Name and logo: Brainstorm and select a brand name that reflects the start-up's mission and design a logo that fits the tech industry. 2. Promotional video: Produce a short video detailing the start-up's vision, products, and team. 3. Theme song: Compose a catchy song that embodies the company's ethos and can be used in future marketing materials."
+    },
+    {
+        "instruction": "Plan a virtual conference including writing the schedule (text), designing promotional graphics (image), recording a welcome message from the keynote speaker (audio), and a highlights reel of past events (video).",
+        "output-abstract": "1. Conference schedule, 2. Promotional graphics, 3. Keynote welcome message, 4. Highlights reel.",
+        "output-detail": "1. Conference schedule: Draft a detailed agenda covering all sessions, speakers, and breaks. 2. Promotional graphics: Create visually appealing graphics for social media and emails. 3. Keynote welcome message: Record an audio message from the keynote speaker teasing conference content. 4. Highlights reel: Edit a short video showcasing the best moments from previous events to generate interest."
+    },
+    {
+        "instruction": "Compose a multimedia study guide on ancient Egypt with written summaries (text), illustrative diagrams (image), narrated video tours of landmarks (video), and period-appropriate background music (audio).",
+        "output-abstract": "1. Written summaries, 2. Diagrams, 3. Video tours, 4. Background music.",
+        "output-detail": "1. Written summaries: Prepare concise descriptions of key historical periods, figures, and cultural practices in ancient Egypt. 2. Diagrams: Create detailed visuals of architectural landmarks, artifacts, and social structures. 3. Video tours: Produce narrated virtual tours of significant Egyptian landmarks using video footage. 4. Background music: Compile music that represents ancient Egyptian culture to play alongside the written and visual content."
+    },
+    {
+        "instruction": "Prepare a city guide package for tourists including a written guidebook (text), a map with highlighted attractions (image), audio descriptions of major sights (audio), and a welcome video by the mayor (video).",
+        "output-abstract": "1. Guidebook, 2. Map, 3. Audio descriptions, 4. Welcome video.",
+        "output-detail": "1. Guidebook: Write comprehensive information on city attractions, dining, and accommodations. 2. Map: Design a user-friendly map marking key tourist spots, restaurants, and hotels. 3. Audio descriptions: Record brief audio guides that tourists can listen to at major attractions. 4. Welcome video: Produce a video message from the mayor, welcoming tourists to the city and highlighting must-see destinations."
+    },
+    {
+        "instruction": "Design a personal fitness plan including a workout schedule (text), instructional exercise videos (video), motivational posters (image), and a playlist for exercising (audio).",
+        "output-abstract": "1. Workout schedule, 2. Instructional videos, 3. Motivational posters, 4. Exercise playlist.",
+        "output-detail": "1. Workout schedule: Create a detailed weekly exercise regime tailored to personal goals. 2. Instructional videos: Film step-by-step guides for each exercise in the schedule. 3. Motivational posters: Design vivid posters with motivational quotes and fitness tips. 4. Exercise playlist: Compile an upbeat music playlist to energize workouts."
+    },
+    {
+        "instruction": "Produce an online cooking show featuring a series of recipe tutorials with written recipes (text), step-by-step instruction videos (video), high-quality images of each dish (image), and a theme jingle for the show (audio).",
+        "output-abstract": "1. Written recipes, 2. Instruction videos, 3. Dish images, 4. Theme jingle.",
+        "output-detail": "1. Written recipes: Detail the ingredients, portions, and preparation steps for each dish. 2. Instruction videos: Record detailed cooking demonstrations for each recipe, highlighting techniques and tips. 3. Dish images: Capture professional photographs of the finished dishes. 4. Theme jingle: Compose a catchy jingle that captures the essence of the cooking show, to be used in intros and outros."
+    },
+    {
+        "instruction": "Develop an experimental short film integrating a scripted narrative (text), original film footage (video), digital effects (image), and a tailored soundtrack (audio).",
+        "output-abstract": "1. Scripted narrative, 2. Original film footage, 3. Digital effects, 4. Soundtrack.",
+        "output-detail": "1. Scripted narrative: Write a compelling story that blends genres or themes in an innovative way. 2. Original film footage: Capture high-quality video content that tells the narrative visually. 3. Digital effects: Create or integrate digital imagery and visual effects to enhance the storytelling. 4. Soundtrack: Compose or curate a soundtrack that complements the film's mood, pacing, and thematic elements."
+    },
+    {
+        "instruction": "Curate a portfolio for an artist encompassing a biography (text), a gallery of artworks (image), a video interview discussing their methodology (video), and ambient music for the gallery viewing (audio).",
+        "output-abstract": "1. Biography, 2. Artwork gallery, 3. Methodology interview, 4. Gallery music.",
+        "output-detail": "1. Biography: Write an engaging, comprehensive biography of the artist, covering their background, influences, and achievements. 2. Artwork gallery: Digitally compile high-resolution images of the artist's key works. 3. Methodology interview: Record a video interview with the artist, focusing on their creative process and the stories behind major works. 4. Gallery music: Select or compose subtle, ambient music to enhance the viewing experience of the online gallery."
+    },
+    {
+        "instruction": "Create a marketing package for a new book release including a press release (text), cover design (image), author interview (video), and a reading of an excerpt by the author (audio).",
+        "output-abstract": "1. Press release, 2. Cover design, 3. Author interview, 4. Audio excerpt.",
+        "output-detail": "1. Press release: Write a compelling announcement that highlights the book's themes, author's background, and critical reception. 2. Cover design: Develop a visually striking cover that captures the essence of the book's content. 3. Author interview: Produce a video interview where the author discusses their inspiration, writing process, and what they hope readers gain. 4. Audio excerpt: Record the author reading a poignant excerpt, giving potential readers a taste of the narrative style and theme."
+    },
+    {
+        "instruction": "Launch a local community event with promotional flyers (image), event details and schedule (text), a series of instructional workshops (video), and a live event recording (audio).",
+        "output-abstract": "1. Promotional flyers, 2. Event details and schedule, 3. Instructional workshops, 4. Live event recording.",
+        "output-detail": "1. Promotional flyers: Design colorful, informative flyers that provide a summary of the event and reasons to attend. 2. Event details and schedule: Write a clear, detailed schedule of the event, including times, locations, and descriptions of each activity. 3. Instructional workshops: Record video tutorials or workshops that will be featured at the event, providing a teaser or online resource. 4. Live event recording: Capture the audio from the event, such as speeches, presentations, or live music, to share with those who could not attend."
+    },
+    {
+        "instruction": "Construct a virtual museum exhibit on the evolution of communication technologies including exhibit descriptions (text), photographs of artifacts (image), a narrated tour (audio), and a 3D virtual tour (video).",
+        "output-abstract": "1. Exhibit descriptions, 2. Artifact photographs, 3. Narrated tour, 4. 3D virtual tour.",
+        "output-detail": "1. Exhibit descriptions: Write informative descriptions of each piece in the exhibit, explaining its historical significance and role in the evolution of communication. 2. Artifact photographs: Take or source high-quality photographs of each exhibit item. 3. Narrated tour: Record a detailed audio guide that walks the listener through the exhibit, providing context and stories behind the artifacts. 4. 3D virtual tour: Create a 3D-rendered tour that allows online visitors to explore the exhibit virtually."
+    },
+    {
+        "instruction": "Develop a digital wellness seminar including a webinar presentation (text and video), downloadable wellness guides (text), meditation audio tracks (audio), and interactive activities (image).",
+        "output-abstract": "1. Webinar presentation, 2. Wellness guides, 3. Meditation tracks, 4. Interactive activities.",
+        "output-detail": "1. Webinar presentation: Create slide-based content covering key wellness topics, to be presented in a live video seminar. 2. Wellness guides: Write comprehensive guides on wellness practices, to be made available for download. 3. Meditation tracks: Produce a series of guided meditation audio tracks focusing on relaxation and mindfulness. 4. Interactive activities: Design PDF-based activities or challenges that viewers can engage with to apply wellness concepts in their daily lives."
+    },
+    {
+        "instruction": "Craft an educational toolkit on biodiversity for schools including lesson plans (text), printable worksheets (image), educational animations (video), and sounds of nature recordings (audio).",
+        "output-abstract": "1. Lesson plans, 2. Worksheets, 3. Educational animations, 4. Nature sounds.",
+        "output-detail": "1. Lesson plans: Write detailed plans covering various aspects of biodiversity, tailored for different age groups. 2. Worksheets: Design and create printable activities that complement the lesson plans, focusing on student interaction with the topic. 3. Educational animations: Produce short animations that visually explain concepts of biodiversity, ecosystems, and conservation. 4. Nature sounds: Record or compile authentic sounds from various natural environments to enhance the learning experience."
+    },
+    {
+        "instruction": "Organize a charity marathon including the creation of race route maps (image), promotional material (text and image), instructional videos for participants (video), and an inspirational playlist for race day (audio).",
+        "output-abstract": "1. Race route maps, 2. Promotional material, 3. Instructional videos, 4. Inspirational playlist.",
+        "output-detail": "1. Race route maps: Design clear, detailed maps showing the marathon route, including start and finish lines, water stations, and landmarks. 2. Promotional material: Create engaging content about the marathon's purpose, details, and how to participate or contribute, along with visually compelling designs for online and print distribution. 3. Instructional videos: Produce video guides covering training tips, race day preparation, and safety measures. 4. Inspirational playlist: Compile a high-energy music playlist to motivate runners throughout the marathon."
+    },
+    {
+        "instruction": "Create a comprehensive travel blog post featuring a destination with a narrative description (text), stunning photography (image), a vlog detailing personal experiences (video), and ambient sounds from the location (audio).",
+        "output-abstract": "1. Narrative description, 2. Photography, 3. Vlog, 4. Ambient sounds.",
+        "output-detail": "1. Narrative description: Write a vivid, engaging blog post exploring the destination's history, culture, and main attractions. 2. Photography: Include high-quality, captivating photographs that showcase the beauty and uniqueness of the location. 3. Vlog: Create a personal, anecdotal video that shares experiences, tips, and hidden gems discovered during the visit. 4. Ambient sounds: Incorporate audio recordings captured at the destination, such as street sounds, nature, or local music, to provide an immersive reading experience."
+    },
+    {
+        "instruction": "Design a social media campaign for an environmental cause including hashtag creation (text), impactful posters (image), influencer collaboration videos (video), and podcasts featuring expert discussions (audio).",
+        "output-abstract": "1. Hashtag creation, 2. Posters, 3. Influencer videos, 4. Podcasts.",
+        "output-detail": "1. Hashtag creation: Coin a catchy, memorable hashtag that encapsulates the campaign's message and encourages sharing. 2. Posters: Design a series of striking, informative posters that highlight the campaign's key points and call to action. 3. Influencer videos: Collaborate with social media influencers to produce short videos that discuss the environmental issue, share personal insights, and promote the campaign. 4. Podcasts: Produce podcast episodes featuring discussions with experts on the cause, providing depth, educational value, and engaging content to listeners."
+    }
+]

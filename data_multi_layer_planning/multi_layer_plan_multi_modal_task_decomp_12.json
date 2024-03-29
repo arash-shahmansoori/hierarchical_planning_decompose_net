@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Create a digital cookbook composed of recipes (text), step-by-step preparation videos (video), and high-quality images of the dishes (image). Include a section for user feedback (text).",
+        "output-abstract": "1. Recipes, 2. Preparation videos, 3. Dish images, 4. User feedback section.",
+        "output-detail": "1. Recipes: Curate diverse cuisine, clearly outlined ingredients and instructions. 2. Preparation videos: Short clips showcasing key preparation steps, ensuring clarity and engagement. 3. Dish images: Capture each dish in visually appealing settings to entice users. 4. User feedback section: Design an interactive area for users to submit reviews, photos, and suggestions."
+    },
+    {
+        "instruction": "Develop an educational website featuring interactive quizzes (text), instructional videos (video), illustrated tutorials (image), and an AI assistant for Q&A (text).",
+        "output-abstract": "1. Interactive quizzes, 2. Instructional videos, 3. Illustrated tutorials, 4. AI Q&A.",
+        "output-detail": "1. Interactive quizzes: Create engaging, subject-specific quizzes with instant feedback. 2. Instructional videos: Develop concise, informative videos on a range of topics with clear visuals and explanations. 3. Illustrated tutorials: Provide step-by-step guides with detailed illustrations for complex concepts. 4. AI Q&A: Implement an intelligent chat interface that can understand and respond to student queries in real-time."
+    },
+    {
+        "instruction": "Design a promotional campaign for a new mobile game including a striking game logo (image), a captivating trailer (video), an engaging game description (text), and an original soundtrack (audio).",
+        "output-abstract": "1. Game logo, 2. Trailer, 3. Game description, 4. Soundtrack.",
+        "output-detail": "1. Game logo: Design a unique logo that embodies the game's essence, using vibrant colors and dynamic shapes. 2. Trailer: Produce a high-energy video that highlights the game's features, storyline, and gameplay. 3. Game description: Write a compelling description that outlines the game's mechanics, storyline, and unique features. 4. Soundtrack: Compose an original piece that captures the game's mood, enhancing the gaming experience."
+    },
+    {
+        "instruction": "Produce an environmental awareness campaign with an infographic (image), persuasive essay (text), narrated video (video), and thematic soundscape (audio).",
+        "output-abstract": "1. Infographic, 2. Persuasive essay, 3. Narrated video, 4. Soundscape.",
+        "output-detail": "1. Infographic: Design a visually engaging infographic that presents data on environmental issues. 2. Persuasive essay: Write a thought-provoking essay that highlights the importance of environmental conservation. 3. Narrated video: Create a video combining powerful imagery with a compelling narration that calls for action. 4. Soundscape: Develop an audio piece that incorporates natural sounds, evoking a connection to the environment."
+    },
+    {
+        "instruction": "Organize a virtual conference including a schedule (text), speaker introductions (video), digital brochures (image), and a live Q&A session environment (audio/video).",
+        "output-abstract": "1. Schedule, 2. Speaker intros, 3. Digital brochures, 4. Live Q&A.",
+        "output-detail": "1. Schedule: Compile a detailed schedule listing topics, speakers, and timings. 2. Speaker intros: Produce short introduction videos for each speaker, highlighting their expertise and presentation topics. 3. Digital brochures: Design informative brochures for each session, incorporating visuals and key information. 4. Live Q&A: Set up an interactive platform allowing attendees to ask questions in real-time, using audio/video."
+    },
+    {
+        "instruction": "Design an immersive language learning course with interactive lessons (text/video), pronunciation guides (audio), cultural exploration videos (video), and quizzes (text).",
+        "output-abstract": "1. Interactive lessons, 2. Pronunciation guides, 3. Cultural videos, 4. Quizzes.",
+        "output-detail": "1. Interactive lessons: Develop comprehensive lessons combining text and video to teach language fundamentals. 2. Pronunciation guides: Record clear, slow pronunciation examples for critical words and phrases. 3. Cultural videos: Produce videos exploring cultural contexts behind language use, featuring native speakers. 4. Quizzes: Design quizzes that test various aspects of language learning, providing immediate feedback."
+    },
+    {
+        "instruction": "Produce a documentary on ancient civilizations including detailed scriptwriting (text), on-location footage (video), voice-over narration (audio), and historical reconstructions (image/video).",
+        "output-abstract": "1. Scriptwriting, 2. On-location footage, 3. Voice-over, 4. Reconstructions.",
+        "output-detail": "1. Scriptwriting: Research and write a compelling narrative that tells the story of the civilization. 2. On-location footage: Capture high-quality video footage of archaeological sites and interviews with experts. 3. Voice-over: Record a clear, engaging narration that complements the visual content. 4. Reconstructions: Use digital imaging and video editing to create realistic reconstructions of ancient settings and events."
+    },
+    {
+        "instruction": "Create a multi-modal art exhibition catalog including an artist statement (text), a gallery of artwork (image), critical reviews (text), and a virtual tour of the exhibition (video).",
+        "output-abstract": "1. Artist statement, 2. Artwork gallery, 3. Critical reviews, 4. Virtual tour.",
+        "output-detail": "1. Artist statement: Craft a descriptive text that encapsulates the artist's vision and themes explored in the artwork. 2. Artwork gallery: Compile high-resolution images of the featured artworks, with accompanying descriptions. 3. Critical reviews: Gather insightful reviews from art critics, detailing the significance and impact of the exhibition. 4. Virtual tour: Produce a video walkthrough of the exhibition space, highlighting key pieces and their placements."
+    },
+    {
+        "instruction": "Develop a health and wellness app with daily workout plans (text/video), nutritional guides (text/image), progress tracking (text/image), and relaxation audios (audio).",
+        "output-abstract": "1. Workout plans, 2. Nutritional guides, 3. Progress tracking, 4. Relaxation audios.",
+        "output-detail": "1. Workout plans: Offer a variety of text-based and video-supported workout routines tailored to different fitness levels. 2. Nutritional guides: Create informational content on healthy eating, including meal plans and visual food guides. 3. Progress tracking: Provide tools for users to track workouts, dietary habits, and milestones, using easy-to-understand charts and visuals. 4. Relaxation audios: Compile a library of soothing soundtracks and guided meditations to promote rest and recovery."
+    },
+    {
+        "instruction": "Compose a travel guide for a fictional world, including a map of the world (image), descriptions of key locations (text), culturally immersive stories (text/audio), and a travel advisory video (video).",
+        "output-abstract": "1. World map, 2. Location descriptions, 3. Culturally immersive stories, 4. Travel advisory video.",
+        "output-detail": "1. World map: Design a detailed map that highlights major regions and points of interest of the fictional world. 2. Location descriptions: Write engaging texts that detail the history, culture, and significance of each key location. 3. Culturally immersive stories: Create stories and accompanying audio that capture the essence of the world's cultures, from the perspectives of fictional locals. 4. Travel advisory video: Produce a video that outlines important travel tips, etiquette, and safety information for adventurers exploring the fictional world."
+    },
+    {
+        "instruction": "Launch a technology blog featuring in-depth reviews (text), tutorial videos (video), product wallpapers (image), and a podcast series discussing tech trends (audio).",
+        "output-abstract": "1. In-depth reviews, 2. Tutorial videos, 3. Product wallpapers, 4. Podcast series.",
+        "output-detail": "1. In-depth reviews: Write comprehensive analyses of the latest tech gadgets, considering performance, design, and value. 2. Tutorial videos: Create step-by-step guide videos for using technology effectively, catering to varying skill levels. 3. Product wallpapers: Design a collection of high-quality wallpapers featuring popular tech products. 4. Podcast series: Develop a podcast that hosts discussions on emerging technology trends, interviews with industry experts, and listener Q&A sessions."
+    },
+    {
+        "instruction": "Produce an online music festival experience with a lineup announcement (text/image), artist spotlight videos (video), live stream performances (video/audio), and a digital festival map (image).",
+        "output-abstract": "1. Lineup announcement, 2. Artist spotlight, 3. Live stream performances, 4. Festival map.",
+        "output-detail": "1. Lineup announcement: Craft an engaging announcement detailing the festival lineup, using vibrant visuals and text. 2. Artist spotlight: Produce short videos that introduce each performing artist, featuring interviews, music previews, and performance highlights. 3. Live stream performances: Set up a multi-camera live stream for each stage, ensuring high-quality audio and video for viewers. 4. Festival map: Create an interactive digital map showing stage locations, vendor booths, and amenity areas, enhancing the virtual experience."
+    },
+    {
+        "instruction": "Design a car manufacturer's annual report combining a CEO's message (text), financial overview charts (image), market analysis (text/video), and a future outlook presentation (video/audio).",
+        "output-abstract": "1. CEO's message, 2. Financial charts, 3. Market analysis, 4. Future outlook.",
+        "output-detail": "1. CEO's message: Draft a reflective and forward-looking statement from the CEO, touching on achievements and challenges. 2. Financial charts: Visualize the year's financial data in clear, informative charts and graphs. 3. Market analysis: Provide a detailed analysis of the current car market trends and the company's position, using both text and video. 4. Future outlook: Produce a dynamic presentation detailing the company's future plans, including upcoming models and strategic initiatives, supported by narration."
+    },
+    {
+        "instruction": "Create a social media strategy for a local bakery including daily posting plans (text), engaging photo content (image), behind-the-scenes videos (video), and interactive polls (text/image).",
+        "output-abstract": "1. Posting plans, 2. Photo content, 3. BTS videos, 4. Polls.",
+        "output-detail": "1. Posting plans: Develop a content calendar that outlines daily themes, such as #MondayMuffins or #WednesdayWisdom, providing fresh content ideas. 2. Photo content: Schedule daily shoots to capture the bakery's products in aesthetically pleasing settings. 3. BTS videos: Record and edit videos showing the bakery's daily operations, highlighting the skill and care in making the baked goods. 4. Polls: Design engaging polls that encourage followers to vote on their favorite products, new flavor ideas, and other interactive content."
+    },
+    {
+        "instruction": "Assemble a comprehensive fitness challenge online including a kickoff introduction video (video), daily workout routines (text/video), nutrition guides (text/image), and a motivational community forum (text).",
+        "output-abstract": "1. Kickoff video, 2. Daily workouts, 3. Nutrition guides, 4. Community forum.",
+        "output-detail": "1. Kickoff video: Start with a high-energy video that outlines the challenge, benefits, and how to participate. 2. Daily workouts: Post daily, clearly detailed workout plans that participants can do at home, supplemented with instructional videos. 3. Nutrition guides: Provide daily dietary advice with meal plans and visual guides to support workout routines. 4. Community forum: Establish a moderated online community where participants can share progress, ask questions, and motivate each other."
+    },
+    {
+        "instruction": "Design a narrative-driven video game with a compelling storyline (text), character design sketches (image), original soundtrack (audio), and cinematic trailers (video).",
+        "output-abstract": "1. Storyline, 2. Character sketches, 3. Soundtrack, 4. Trailers.",
+        "output-detail": "1. Storyline: Write an immersive, detailed narrative that guides the game's plot and player choices. 2. Character sketches: Develop initial sketches for the game's main characters, focusing on visualizing their personality traits and roles within the story. 3. Soundtrack: Compose a unique soundtrack that enhances the game's emotional depth and immersion. 4. Trailers: Produce captivating trailers that highlight the game's storyline, gameplay mechanics, and key characters, stirring interest and excitement."
+    },
+    {
+        "instruction": "Develop a multilingual educational platform including course material translations (text), language choice navigation (text/image), subtitled instructional videos (video), and a global learner forum (text).",
+        "output-abstract": "1. Translations, 2. Language navigation, 3. Subtitled videos, 4. Learner forum.",
+        "output-detail": "1. Translations: Translate all course materials into multiple languages, ensuring accuracy and cultural sensitivity. 2. Language navigation: Design an intuitive interface that allows users to easily switch languages, incorporating both text and visual cues. 3. Subtitled videos: Produce all instructional videos with clear, accurate subtitles in several languages. 4. Learner forum: Create an online community where users can engage in discussions, share insights, and support one another across languages."
+    },
+    {
+        "instruction": "Launch a personal finance app featuring budgeting tools (text/image), investment tutorials (video), real-time market updates (text/image), and savings goal trackers (text/image).",
+        "output-abstract": "1. Budgeting tools, 2. Investment tutorials, 3. Market updates, 4. Savings trackers.",
+        "output-detail": "1. Budgeting tools: Develop an easy-to-use interface where users can create and manage their budgets, incorporating visuals for better understanding. 2. Investment tutorials: Create a series of instructional videos that guide users through various investment strategies, highlighting risks and rewards. 3. Market updates: Offer real-time text and visual updates on market trends, making complex data accessible. 4. Savings trackers: Include a feature that allows users to set and track savings goals, providing motivational feedback to encourage progress."
+    },
+    {
+        "instruction": "Create a virtual city tour experience combining a detailed city map (image), narrated historical facts (audio), panoramic views of landmarks (video), and interactive quizzes about the city (text/image).",
+        "output-abstract": "1. City map, 2. Historical facts, 3. Panoramic views, 4. Quizzes.",
+        "output-detail": "1. City map: Design an interactive map that highlights key landmarks and areas of interest. 2. Historical facts: Record audio narrations that share interesting historical insights about each landmark. 3. Panoramic views: Utilize 360-degree video technology to offer panoramic views of landmarks, providing a realistic visiting experience. 4. Quizzes: Incorporate quizzes that test the user's knowledge about the city and its landmarks, adding an educational and interactive element to the tour."
+    },
+    {
+        "instruction": "Produce a professional networking event online including a schedule of keynote speeches (text), speaker presentation slides (image), live panel discussions (video/audio), and a digital networking lobby (text/video).",
+        "output-abstract": "1. Schedule, 2. Presentation slides, 3. Panel discussions, 4. Networking lobby.",
+        "output-detail": "1. Schedule: Publish a clear, detailed event schedule outlining the times and topics of keynote speeches. 2. Presentation slides: Prepare and distribute digital slideshows for each speaker, enhancing audience engagement and clarity. 3. Panel discussions: Facilitate live panel discussions featuring industry experts, streamed with high-quality video and audio. 4. Networking lobby: Create a virtual space where attendees can engage in video chats, exchange contact information, and discuss topics of mutual interest."
+    },
+    {
+        "instruction": "Design a cross-platform content marketing strategy including a central blog platform (text), social media teaser content (text/image/video), targeted email campaigns (text/image), and webinars for engagement (video/audio).",
+        "output-abstract": "1. Blog platform, 2. Social media teasers, 3. Email campaigns, 4. Webinars.",
+        "output-detail": "1. Blog platform: Create a content-rich blog that delivers valuable insights, tutorials, and industry news, positioning the brand as a thought leader. 2. Social media teasers: Develop engaging teaser content for social media that highlights key blog posts, driving traffic to the main platform. 3. Email campaigns: Craft targeted email marketing campaigns that provide exclusive content and offers, encouraging subscriptions and customer loyalty. 4. Webinars: Host informative webinars that delve deeper into blog topics, offering direct engagement opportunities and fostering community."
+    }
+]

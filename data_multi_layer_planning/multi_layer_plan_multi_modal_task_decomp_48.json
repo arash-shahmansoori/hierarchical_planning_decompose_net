@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Develop a marketing campaign for a new coffee blend including a product name (text), packaging design (image), a 15-second advertisement storyboard (video), and a catchy jingle (audio).",
+        "output-abstract": "1. Product Name, 2. Packaging Design, 3. Advertisement Storyboard, 4. Jingle.",
+        "output-detail": "1. Product Name: Brainstorm and select a name evoking warmth and energy. 2. Packaging Design: Use cozy, inviting colors with modern fonts, showcasing the coffee's origin. 3. Advertisement Storyboard: Create a narrative that transitions from morning grogginess to energetic readiness, incorporating user experiences. 4. Jingle: Compose a melody that is upbeat and memorable, with lyrics that highlight the coffee blend's unique qualities."
+    },
+    {
+        "instruction": "Compose a bedtime story for children involving interactive elements (text), illustrations (image), voice-over narration (audio), and an animated story sequence (video).",
+        "output-abstract": "1. Story Creation, 2. Illustrations, 3. Voice-Over, 4. Animation.",
+        "output-detail": "1. Story Creation: Write a soothing tale with a moral, incorporating interactive questions to engage children. 2. Illustrations: Design accompanying scenes for key moments in the story, using soft colors and friendly characters. 3. Voice-Over: Record a calm, engaging narration of the story, pacing to suit bedtime. 4. Animation: Animate critical scenes with gentle motion to bring the story to life visually."
+    },
+    {
+        "instruction": "Design a virtual reality (VR) tour of the Solar System including the script for narration (text), 3D models of planets and moons (image), background space music (audio), and interactive VR scenes (video).",
+        "output-abstract": "1. Narration Script, 2. 3D Models, 3. Background Music, 4. VR Scenes.",
+        "output-detail": "1. Narration Script: Write engaging content describing each celestial body and its features. 2. 3D Models: Develop accurate, detailed models of planets and moons, considering lighting and texture. 3. Background Music: Compose ambient, spacious music that evokes the majesty of space. 4. VR Scenes: Create immersive, interactive scenes allowing users to 'visit' each planet and moon, incorporating educational pop-ups."
+    },
+    {
+        "instruction": "Prepare a gourmet restaurant menu featuring descriptions of dishes (text), photos of each dish (image), chef's commentary on selected items (audio), and a promotional video tour of the kitchen (video).",
+        "output-abstract": "1. Dish Descriptions, 2. Dish Photos, 3. Chef's Commentary, 4. Video Tour.",
+        "output-detail": "1. Dish Descriptions: Create appetizing and descriptive text for each menu item, highlighting unique ingredients. 2. Dish Photos: Photograph each dish in high-quality, using styling to enhance appeal. 3. Chef's Commentary: Record the chef explaining the inspiration behind selected dishes, noting special cooking techniques. 4. Video Tour: Produce a behind-the-scenes look at the restaurant's kitchen, showcasing cleanliness and innovation."
+    },
+    {
+        "instruction": "Create a digital art portfolio including a personal artist statement (text), curated artwork collection (image), behind-the-scenes creation process (video), and an ambient soundtrack for viewers (audio).",
+        "output-abstract": "1. Artist Statement, 2. Artwork Collection, 3. Creation Process Video, 4. Soundtrack.",
+        "output-detail": "1. Artist Statement: Draft a compelling narrative on your journey and style. 2. Artwork Collection: Select and retouch images of your best works for display. 3. Creation Process Video: Film and edit clips showing the making of key pieces, including commentary. 4. Soundtrack: Compile or create subtle background music that complements the viewing experience."
+    },
+    {
+        "instruction": "Organize a virtual conference on renewable energy with a promotional flyer (image), keynote speaker introductions (text), a series of educational webinars (video), and interactive Q&A sessions (audio).",
+        "output-abstract": "1. Promotional Flyer, 2. Keynote Speaker Introductions, 3. Educational Webinars, 4. Interactive Q&A.",
+        "output-detail": "1. Promotional Flyer: Design an eye-catching flyer that highlights the event dates, topics, and speakers. 2. Keynote Speaker Introductions: Write brief, engaging biographies for each speaker, emphasizing their contributions to renewable energy. 3. Educational Webinars: Plan and record webinars covering various renewable energy topics, ensuring high-quality visuals and sound. 4. Interactive Q&A: Host live Q&A sessions allowing attendees to ask speakers questions via an audio platform."
+    },
+    {
+        "instruction": "Produce a wellness mobile app featuring daily meditation guides (text), calming landscape backgrounds (image), guided meditation audio clips (audio), and intro animations for each meditation session (video).",
+        "output-abstract": "1. Meditation Guides, 2. Backgrounds, 3. Audio Clips, 4. Intro Animations.",
+        "output-detail": "1. Meditation Guides: Write instructions for various meditation practices, catering to different experience levels. 2. Backgrounds: Curate or create serene, calming landscape images for each meditation theme. 3. Audio Clips: Record clear, soothing guided meditation clips with peaceful background music. 4. Intro Animations: Design short animations that gently introduce users to the meditation session's focus."
+    },
+    {
+        "instruction": "Design a study aid for high school chemistry including explainer videos (video), infographics summarizing key concepts (image), practice problem sets (text), and podcast episodes discussing complex topics (audio).",
+        "output-abstract": "1. Explainer Videos, 2. Infographics, 3. Problem Sets, 4. Podcast Episodes.",
+        "output-detail": "1. Explainer Videos: Produce concise, engaging videos that simplify concepts using visual aids. 2. Infographics: Create colorful, informative graphics that outline and summarize fundamental principles. 3. Problem Sets: Compile and format a variety of practice questions, with answers and explanations. 4. Podcast Episodes: Record discussions with chemistry experts to provide deeper insights into challenging topics, encouraging a conversational tone."
+    },
+    {
+        "instruction": "Create a multi-language learning platform including interactive language exercises (text), country cultural guides (image), pronunciation practice clips (audio), and conversational practice videos (video).",
+        "output-abstract": "1. Language Exercises, 2. Cultural Guides, 3. Pronunciation Clips, 4. Practice Videos.",
+        "output-detail": "1. Language Exercises: Develop engaging text-based activities to practice grammar, vocabulary, and reading comprehension. 2. Cultural Guides: Assemble images and infographics about countries where the language is spoken, highlighting cultural norms. 3. Pronunciation Clips: Record native speakers demonstrating the correct pronunciation of key phrases. 4. Practice Videos: Create interactive videos simulating real-life conversations for speaking practice."
+    },
+    {
+        "instruction": "Develop a digital cookbook for healthy eating including recipe instructions (text), high-quality images of each dish (image), tutorial videos for cooking techniques (video), and narrated cooking tips (audio).",
+        "output-abstract": "1. Recipe Instructions, 2. Dish Images, 3. Tutorial Videos, 4. Cooking Tips.",
+        "output-detail": "1. Recipe Instructions: Write clear, simple steps for each recipe, focusing on health benefits and ingredient substitutions. 2. Dish Images: Photograph each completed dish in a visually appealing manner, emphasizing the vibrant colors of fresh ingredients. 3. Tutorial Videos: Demonstrate key cooking techniques through short, clear videos. 4. Cooking Tips: Offer practical advice and additional information through engaging, narrated audio clips."
+    },
+    {
+        "instruction": "Launch a virtual museum exhibit on Ancient Rome including a catalog of artifacts (text), high-resolution images of key items (image), an audio tour describing major exhibits (audio), and a 3D virtual tour experience (video).",
+        "output-abstract": "1. Artifact Catalog, 2. Artifact Images, 3. Audio Tour, 4. Virtual Tour.",
+        "output-detail": "1. Artifact Catalog: Compile detailed descriptions of each item, including historical context and significance. 2. Artifact Images: Capture clear, detailed photographs of each artifact, using lighting to enhance features. 3. Audio Tour: Record an informative, engaging audio guide through the exhibit, highlighting fascinating stories behind select items. 4. Virtual Tour: Create a seamless, interactive 3D tour allowing visitors to explore the exhibit space as if they were there."
+    },
+    {
+        "instruction": "Design a social media campaign for Earth Day including engaging posts (text), striking visuals (image), an inspiring message video (video), and a call-to-action audio clip (audio).",
+        "output-abstract": "1. Posts, 2. Visuals, 3. Message Video, 4. Audio Clip.",
+        "output-detail": "1. Posts: Draft captivating, informative text highlighting Earth Day's importance and suggesting actions for environmental protection. 2. Visuals: Develop impactful graphics and photos that draw attention to the cause, using Earth's beauty and vulnerability as themes. 3. Message Video: Produce a short, powerful video encouraging viewers to contribute positively to the planet's future. 4. Audio Clip: Record a persuasive call-to-action, urging community involvement in local and global eco-friendly initiatives."
+    },
+    {
+        "instruction": "Compile a travel guide for Tokyo featuring neighborhood overviews (text), photo galleries of attractions (image), narrated cultural insights (audio), and video walkthroughs of landmark districts (video).",
+        "output-abstract": "1. Neighborhood Overviews, 2. Photo Galleries, 3. Cultural Insights, 4. Video Walkthroughs.",
+        "output-detail": "1. Neighborhood Overviews: Write concise, informative descriptions of Tokyo's diverse neighborhoods, highlighting key attractions and dining options. 2. Photo Galleries: Capture and select vivid photographs showcasing the vibrancy and uniqueness of each area. 3. Cultural Insights: Record audio narration explaining significant cultural practices, historical tidbits, and etiquette tips. 4. Video Walkthroughs: Film and edit immersive tours of iconic districts, providing viewers with a sense of being there."
+    },
+    {
+        "instruction": "Create a fitness challenge application including daily workout routines (text), motivational images (image), instructional exercise videos (video), and upbeat workout playlists (audio).",
+        "output-abstract": "1. Workout Routines, 2. Motivational Images, 3. Instructional Videos, 4. Playlists.",
+        "output-detail": "1. Workout Routines: Compile diverse, scalable routines catering to various fitness levels, detailed through clear textual instructions. 2. Motivational Images: Design or curate powerful images with fitness quotes and success stories to inspire users. 3. Instructional Videos: Produce high-quality videos demonstrating each exercise, focusing on form and technique. 4. Playlists: Assemble energetic, motivating music playlists to enhance the workout experience."
+    },
+    {
+        "instruction": "Develop a storytelling podcast series involving scripting (text), episode cover artwork (image), original background music (audio), and engaging visual animations for promotional clips (video).",
+        "output-abstract": "1. Scripting, 2. Artwork, 3. Background Music, 4. Promotional Clips.",
+        "output-detail": "1. Scripting: Write captivating stories with compelling characters and plot twists, tailored for audio delivery. 2. Artwork: Create unique, thematic illustrations for each episode to intrigue potential listeners. 3. Background Music: Compose or curate fitting background scores that enhance the narration and mood of the stories. 4. Promotional Clips: Design brief, animated sequences highlighting key moments from the podcast, aimed at generating interest and sharing on social media."
+    },
+    {
+        "instruction": "Produce an educational toolkit on climate change for schools including an infographic series (image), detailed lesson plans (text), documentary-style explainer videos (video), and interviews with environmental scientists (audio).",
+        "output-abstract": "1. Infographic Series, 2. Lesson Plans, 3. Explainer Videos, 4. Interviews.",
+        "output-detail": "1. Infographic Series: Create visually engaging infographics that break down complex climate concepts into understandable tidbits. 2. Lesson Plans: Develop comprehensive, interactive lesson plans that guide teachers through the subject matter, including activities and discussion points. 3. Explainer Videos: Produce clear, factual videos that cover various aspects of climate science and impacts. 4. Interviews: Record insightful interviews with experts in the field, providing real-world perspectives on climate issues."
+    },
+    {
+        "instruction": "Organize an online art competition including a call for entries (text), a gallery of submitted works (image), a presentation video of the winners (video), and jury member feedback on selected entries (audio).",
+        "output-abstract": "1. Call for Entries, 2. Gallery, 3. Winners Video, 4. Jury Feedback.",
+        "output-detail": "1. Call for Entries: Draft clear, inviting guidelines and promotional material encouraging artists to participate. 2. Gallery: Set up an online platform to display submitted artwork, ensuring easy navigation and high-quality image presentation. 3. Winners Video: Edit a professional video showcasing the winning pieces and their creators, including brief artist statements. 4. Jury Feedback: Provide constructive critique and praise from the jury for selected works in audio format, offering insights into the decision-making process."
+    },
+    {
+        "instruction": "Launch a digital music album release including song lyrics (text), album cover art (image), behind-the-scenes footage of recording sessions (video), and teaser audio clips of the tracks (audio).",
+        "output-abstract": "1. Song Lyrics, 2. Album Cover Art, 3. Behind-The-Scenes Footage, 4. Teaser Audio Clips.",
+        "output-detail": "1. Song Lyrics: Carefully craft and edit the lyrics for each track, ensuring they convey the intended themes and emotions. 2. Album Cover Art: Design a visually striking cover that represents the album's overall vibe and aesthetic. 3. Behind-The-Scenes Footage: Record and compile engaging video content from the recording sessions, showcasing the creative process. 4. Teaser Audio Clips: Select compelling snippets from each track to tantalize potential listeners, encouraging anticipation for the full release."
+    },
+    {
+        "instruction": "Develop a series of educational short stories for children featuring text-based narratives (text), vibrant illustrations (image), narrated versions with sound effects (audio), and animated story adaptations (video).",
+        "output-abstract": "1. Narratives, 2. Illustrations, 3. Narrated Versions, 4. Animated Stories.",
+        "output-detail": "1. Narratives: Write engaging, morally enriching stories suitable for young readers, focusing on character development and plot simplicity. 2. Illustrations: Pair each story with colorful, captivating artwork that reflects the storyline and characters. 3. Narrated Versions: Record storytelling sessions, adding expressive voice acting and immersive sound effects for auditory learning. 4. Animated Stories: Transform the narratives into interactive, animated versions, adding motion and interactivity to bring the stories to life visually."
+    },
+    {
+        "instruction": "Create an online training module for digital marketing including an introduction to principles (text), infographic summaries of key strategies (image), expert commentary webinars (video), and podcasts on case studies (audio).",
+        "output-abstract": "1. Introduction, 2. Infographics, 3. Webinars, 4. Podcasts.",
+        "output-detail": "1. Introduction: Write a comprehensive overview of digital marketing fundamentals, laying the foundation for deeper exploration. 2. Infographics: Design engaging visuals that distill complex marketing strategies into easy-to-understand graphics. 3. Webinars: Produce a series of webinars featuring industry experts sharing insights and experiences on various digital marketing topics. 4. Podcasts: Compile episodes discussing successful case studies and the lessons learned, with guest speakers from renowned brands."
+    }
+]

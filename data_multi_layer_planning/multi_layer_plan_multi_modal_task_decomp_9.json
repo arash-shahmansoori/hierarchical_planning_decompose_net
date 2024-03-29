@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Write a haunted house short story (text), create accompanying ambient sound effects (audio), and illustrate the climax scene (image). Analyze how each element enhances the horror atmosphere.",
+        "output-abstract": "1. Short Story, 2. Sound Effects, 3. Climax Illustration.",
+        "output-detail": "1. Short Story: Craft a narrative with a suspenseful build-up leading to a harrowing climax. 2. Sound Effects: Design ambient noises that correlate with the story's key moments, increasing tension. 3. Climax Illustration: Capture the story's peak moment in a detailed artwork, utilizing shadows and expressions to amplify fear. Analysis: Evaluate how each mode contributes to the overall horror ambiance, with particular focus on synergy between the audio-visual elements and narrative pacing."
+    },
+    {
+        "instruction": "Design a virtual fashion magazine (text, image), model one featured outfit in 3D (video), and create an interview podcast discussing the future of fashion technology (audio).",
+        "output-abstract": "1. Magazine Design, 2. Outfit Modeling, 3. Interview Podcast.",
+        "output-detail": "1. Magazine Design: Combine high-resolution photographs with articles discussing trends, technology, and sustainability in fashion. 2. Outfit Modeling: Utilize 3D software to model a standout outfit from the magazine, creating a runway walk video. 3. Interview Podcast: Record a conversation with a fashion technologist, focusing on innovations and future predictions. Analyze the integration of traditional media with emerging technologies, highlighting audience engagement across modalities."
+    },
+    {
+        "instruction": "Craft a multi-platform marketing campaign for a new health drink. This includes creating a product name and slogan (text), designing the packaging (image), producing a 15-second advertisement (video), and a catchy jingle (audio).",
+        "output-abstract": "1. Name and Slogan, 2. Packaging Design, 3. Advertisement, 4. Jingle.",
+        "output-detail": "1. Name and Slogan: Develop a memorable product name and a slogan emphasizing health benefits and taste. 2. Packaging Design: Create an appealing, eco-friendly packaging design that visually communicates the drink's health benefits. 3. Advertisement: Produce a short video showcasing the product in everyday scenarios, highlighting its unique selling points. 4. Jingle: Compose a catchy, memorable tune that reinforces the product name and slogan. Evaluate the campaign's consistency and potential market impact."
+    },
+    {
+        "instruction": "Compose a nostalgic photo essay about vintage cars (text, image), including interviews with owners (audio), and a time-lapse restoration video (video) of a classic model.",
+        "output-abstract": "1. Photo Essay, 2. Owner Interviews, 3. Restoration Video.",
+        "output-detail": "1. Photo Essay: Curate a series of high-quality images and descriptive text showcasing various vintage cars and their unique features. 2. Owner Interviews: Record insightful audio interviews with car owners about their vehicles' histories and personal significance. 3. Restoration Video: Capture the process of restoring a classic car in a time-lapse video, highlighting key steps and challenges. Analyze the interplay between visual nostalgia and personal narratives in evoking an emotional response."
+    },
+    {
+        "instruction": "Develop a bilingual educational app for children that teaches basic math through interactive games (text, image, video), complemented by cheerful background music (audio) and achievement badges (image).",
+        "output-abstract": "1. Educational Games, 2. Background Music, 3. Achievement Badges.",
+        "output-detail": "1. Educational Games: Design a series of interactive games that visually and textually teach basic math concepts, supporting bilingual users. 2. Background Music: Create a loop of cheerful, motivational music to maintain engagement without distraction. 3. Achievement Badges: Design colorful badges for various milestones, encouraging continued learning. Assess the app's user interface, engagement strategies, and educational impact, considering audiovisual appeal and language options."
+    },
+    {
+        "instruction": "Organize a virtual cultural festival featuring a guided video tour (video) of art exhibits, live streamed traditional cooking demonstrations (video), and performances of folk music (audio). Prepare a review report (text) on the event's outreach and participant feedback.",
+        "output-abstract": "1. Video Tour, 2. Cooking Demos, 3. Music Performances, 4. Review Report.",
+        "output-detail": "1. Video Tour: Create a pre-recorded video tour of art exhibits, including interviews with artists. 2. Cooking Demos: Schedule live streams of cooking demonstrations, showcasing traditional recipes with interactive audience Q&A. 3. Music Performances: Stream live audio performances of folk music, introducing each with a brief history of the genre. 4. Review Report: Compile participant feedback and analytics to evaluate the festival's reach, engagement, and areas for improvement. Analyze the effectiveness of multimedia integration in virtual event execution."
+    },
+    {
+        "instruction": "Write and illustrate a children\u2019s book about space exploration (text, image), create an animated short film (video) based on the book, and produce a soundtrack (audio) for the animation.",
+        "output-abstract": "1. Children\u2019s Book, 2. Animated Film, 3. Soundtrack.",
+        "output-detail": "1. Children\u2019s Book: Write a captivating story about a child's adventure in space, accompanied by vibrant illustrations. 2. Animated Film: Develop a short animation that brings the book's story to life, focusing on key moments and characters. 3. Soundtrack: Compose a thematic soundtrack that enhances the animation, reflecting the story\u2019s moods and settings. Measure the project's success in storytelling and engagement across different formats, considering cohesion between the narrative, visual arts, and music."
+    },
+    {
+        "instruction": "Generate a series of blog posts (text) about eco-friendly living, complement these with instructional DIY videos (video) on recycling and upcycling, and record a podcast series (audio) interviewing environmental experts.",
+        "output-abstract": "1. Blog Posts, 2. DIY Videos, 3. Expert Podcasts.",
+        "output-detail": "1. Blog Posts: Write informative and engaging posts on various aspects of sustainable living, including tips and benefits. 2. DIY Videos: Produce videos showing step-by-step processes for recycling and upcycling household items. 3. Expert Podcasts: Host discussions with environmental experts on sustainability challenges and innovations. Analyze content strategy for audience engagement, knowledge dissemination, and actionable insight promotion through diverse media."
+    },
+    {
+        "instruction": "Create a corporate training program on digital security practices, including an e-book (text, image), a series of tutorial videos (video), and scenario-based interactive modules (text, image, video).",
+        "output-abstract": "1. E-Book, 2. Tutorial Videos, 3. Interactive Modules.",
+        "output-detail": "1. E-Book: Compile a comprehensive guide on digital security fundamentals, best practices, and policies, incorporating infographics for key concepts. 2. Tutorial Videos: Record step-by-step tutorials on implementing security measures and using relevant tools. 3. Interactive Modules: Design scenario-based training to simulate digital security threats and responses, integrating quizzes and problem-solving exercises. Evaluate the program's effectiveness in enhancing employee understanding and preparedness for digital security challenges."
+    },
+    {
+        "instruction": "Design a social media campaign for a local library, including thematic posts (text, image) promoting reading, a series of author interview videos (video), and ambient soundscapes of the library (audio) for relaxation.",
+        "output-abstract": "1. Thematic Posts, 2. Author Interviews, 3. Library Soundscapes.",
+        "output-detail": "1. Thematic Posts: Create engaging content highlighting book recommendations, reading benefits, and event announcements. 2. Author Interviews: Produce video interviews with authors discussing their books and writing processes. 3. Library Soundscapes: Record the ambient sounds within different areas of the library, presenting them as audio backgrounds for study or relaxation. Analyze the campaign\u2019s impact on community engagement and library attendance, considering content variety and multimedia interaction."
+    },
+    {
+        "instruction": "Produce a documentary on urban wildlife (video), including detailed footage of species observed (video), a narrated background story (audio), and an accompanying photo book (text, image) featuring high-resolution images and informational captions.",
+        "output-abstract": "1. Documentary Footage, 2. Narration, 3. Photo Book.",
+        "output-detail": "1. Documentary Footage: Capture varied footage of urban wildlife in their habitats, including rare behaviors and interactions. 2. Narration: Provide a compelling audio narrative that contextualizes the footage, highlighting ecological significance and conservation challenges. 3. Photo Book: Curate a selection of high-resolution images from the footage, accompanied by detailed captions explaining species and contexts. Assess the documentary\u2019s ability to inform and engage audiences on urban biodiversity, using visual and auditory storytelling."
+    },
+    {
+        "instruction": "Launch an online course on photography basics including written modules (text), video tutorials (video), peer review forums (text), and a final project gallery (image).",
+        "output-abstract": "1. Written Modules, 2. Video Tutorials, 3. Peer Review, 4. Project Gallery.",
+        "output-detail": "1. Written Modules: Draft comprehensive modules covering fundamental photography concepts, techniques, and equipment. 2. Video Tutorials: Record step-by-step instructional videos on different photography techniques and post-processing. 3. Peer Review: Establish online forums for course participants to submit work, receive, and give peer feedback. 4. Project Gallery: Design a virtual gallery for students to showcase their final projects. Analyze course effectiveness in skill development and community building, monitoring student engagement and progression."
+    },
+    {
+        "instruction": "Develop a cinematic trailer for an upcoming indie game, including gameplay footage (video), voice-over narration (audio), original music score (audio), and promotional posters (image).",
+        "output-abstract": "1. Gameplay Footage, 2. Narration, 3. Music Score, 4. Posters.",
+        "output-detail": "1. Gameplay Footage: Edit key sequences from the game to showcase its mechanics, graphics, and themes. 2. Narration: Script and record a voice-over that introduces the game\u2019s premise and hooks the viewer. 3. Music Score: Compose an original soundtrack that enhances the trailer\u2019s mood and appeal. 4. Posters: Design compelling posters that capture the game\u2019s essence and encourage viewer interest. Determine the trailer\u2019s impact on viewer anticipation and engagement, assessing visual and auditory storytelling coherence."
+    },
+    {
+        "instruction": "Create an explainer video on the importance of bees in the ecosystem, featuring animated graphics (video), voice-over explanation (audio), and an accompanying infographic (image) summarizing key points.",
+        "output-abstract": "1. Animated Video, 2. Voice-Over, 3. Infographic.",
+        "output-detail": "1. Animated Video: Design an engaging animation that illustrates the role of bees in pollination and ecosystem health. 2. Voice-Over: Develop a script that educates viewers on bees\u2019 ecological value and challenges they face, recording a clear, informative narration. 3. Infographic: Create a visually appealing infographic that highlights the main facts and figures from the video for easy reference. Evaluate the effectiveness of the explainer video in raising awareness and promoting conservation actions."
+    },
+    {
+        "instruction": "Orchestrate a virtual reality (VR) tour of the solar system (video, text), including interactive elements that provide detailed information on each planet (text, image), and ambient space music (audio) to enhance the experience.",
+        "output-abstract": "1. VR Tour, 2. Interactive Elements, 3. Ambient Music.",
+        "output-detail": "1. VR Tour: Develop a virtual reality experience that takes users on a guided journey through the solar system, visually representing each planet and feature. 2. Interactive Elements: Integrate clickable areas within the VR environment that reveal in-depth information and images about the planets\u2019 characteristics, history, and research. 3. Ambient Music: Compose space-themed ambient music to accompany the tour, adding to the immersive experience. Analyze user engagement and educational value, considering interactivity and sensory stimulation."
+    },
+    {
+        "instruction": "Assemble a mobile app for live sports commentary (audio), including text-based updates (text), real-time statistics (image), and highlight clips (video).",
+        "output-abstract": "1. Live Commentary, 2. Text Updates, 3. Real-Time Stats, 4. Highlight Clips.",
+        "output-detail": "1. Live Commentary: Provide continuous audio commentary for games, offering insights and play-by-play analysis. 2. Text Updates: Supply live text updates on game progress and critical moments. 3. Real-Time Stats: Design graphical representations of game statistics updated in real-time for visual comprehension. 4. Highlight Clips: Edit and upload short video clips of game highlights for user viewing. Evaluate the app\u2019s performance in delivering an engaging and comprehensive sports viewing experience, considering accessibility and user interaction."
+    },
+    {
+        "instruction": "Produce an educational podcast series on world history (audio) with supplemental e-books (text, image) for each episode, and interactive quizzes (text, image) to test listener comprehension.",
+        "output-abstract": "1. Podcast Series, 2. Supplemental E-Books, 3. Interactive Quizzes.",
+        "output-detail": "1. Podcast Series: Record episodes covering significant eras, events, and figures in world history, with engaging narration and expert interviews. 2. Supplemental E-Books: Create detailed e-books with images, timelines, and additional information corresponding to each podcast episode. 3. Interactive Quizzes: Develop quizzes on the e-book content and podcast discussions to reinforce learning and measure comprehension. Assess the educational impact of the series, focusing on content integration and the effectiveness of multimedia learning aids."
+    },
+    {
+        "instruction": "Design a digital escape room focused on solving puzzles related to environmental conservation (text, image, video), complemented by a soundscape of nature sounds (audio) to enhance immersion.",
+        "output-abstract": "1. Puzzles, 2. Nature Soundscape, 3. Solution Walkthrough.",
+        "output-detail": "1. Puzzles: Create a variety of interactive puzzles and challenges that require knowledge of environmental issues and conservation efforts to solve. 2. Nature Soundscape: Record and integrate a soothing, realistic background audio of nature sounds to increase immersion and thematic consistency. 3. Solution Walkthrough: Offer a text and video guide for players who need help, explaining the answers while reinforcing educational content. Analyze player engagement and learning outcomes, considering the balance between entertainment and educational value."
+    },
+    {
+        "instruction": "Host a web series on innovative startups (video), include pitch presentation analyses (text), interviews with founders (video, audio), and create infographics (image) summarizing each startup's core idea and market potential.",
+        "output-abstract": "1. Startup Web Series, 2. Pitch Analyses, 3. Founder Interviews, 4. Infographics.",
+        "output-detail": "1. Startup Web Series: Produce episodes featuring different innovative startups, showcasing their products or services. 2. Pitch Analyses: Write detailed analyses of the startups' pitch presentations, evaluating their strengths and potential improvements. 3. Founder Interviews: Conduct video and audio interviews with startup founders to capture their vision, challenges, and success stories. 4. Infographics: Create visually engaging infographics that summarize key information about each startup, including core concept and market analysis. Examine the series' effectiveness in providing insights and inspiration to potential entrepreneurs and investors."
+    },
+    {
+        "instruction": "Compile a global street food guide (text) with high-quality images (image) of each dish, cooking tutorial videos (video) on selected recipes, and field recordings (audio) of bustling marketplaces.",
+        "output-abstract": "1. Guidebook, 2. Dish Images, 3. Tutorial Videos, 4. Marketplace Recordings.",
+        "output-detail": "1. Guidebook: Write comprehensive descriptions of various street foods around the world, including their history and cultural significance. 2. Dish Images: Photograph each featured dish in high resolution to showcase its appeal. 3. Tutorial Videos: Produce step-by-step cooking tutorials for some of the most iconic or unique street foods. 4. Marketplace Recordings: Capture the ambient sounds of busy street food markets to give readers an auditory sense of place. Assess the guide's ability to engage readers and inspire culinary exploration through multimedia integration."
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Design an educational package focused on the solar system that includes an interactive ebook (text and images), a series of short explainer videos (video), and a quiz (text) to test knowledge.",
+        "output-abstract": "1. Interactive Ebook, 2. Explainer Videos, 3. Knowledge Quiz.",
+        "output-detail": "1. Interactive Ebook: Incorporate detailed descriptions of each planet, including high-resolution images and interactive elements like zoom-in features on planet surfaces. 2. Explainer Videos: Create short videos for each planet highlighting key features, narrated with facts and figures. Use animation to depict planetary motion. 3. Knowledge Quiz: Develop a quiz with multiple-choice questions based on the ebook content and video series, including feedback on answers to reinforce learning."
+    },
+    {
+        "instruction": "Produce a promotional campaign for a new coffee blend, comprising of a name and logo (image), a commercial jingle (audio), and a launch video (video) that conveys the blend's unique qualities.",
+        "output-abstract": "1. Name and Logo, 2. Jingle, 3. Launch Video.",
+        "output-detail": "1. Name and Logo: Brainstorm a catchy name that reflects the blend\u2019s uniqueness followed by a logo design that embodies warmth and energy. 2. Jingle: Compose a short, memorable musical piece that incorporates the coffee's name and evokes morning freshness. 3. Launch Video: Produce a vibrant video showcasing the coffee being enjoyed in various morning scenarios, interspersed with testimonials and scenes highlighting its unique production process."
+    },
+    {
+        "instruction": "Create a travel itinerary for Tokyo that integrates a route map (image), daily schedules (text), and vlogs (video) documenting notable experiences.",
+        "output-abstract": "1. Route Map, 2. Daily Schedules, 3. Vlogs.",
+        "output-detail": "1. Route Map: Design a detailed map marking key attractions, dining spots, and transit lines. 2. Daily Schedules: Write up a planned itinerary for each day, balancing sightseeing, dining, and relaxation. Include timings, locations, and tips. 3. Vlogs: Record and edit video diary entries that capture personal insights, experiences at must-see locations, and hidden gems discovered along the way."
+    },
+    {
+        "instruction": "Develop a digital art exhibit focused on ocean conservation, featuring a virtual gallery walkthrough (video), an informational booklet (text and images), and an immersive ocean soundscape (audio).",
+        "output-abstract": "1. Virtual Walkthrough, 2. Informational Booklet, 3. Ocean Soundscape.",
+        "output-detail": "1. Virtual Walkthrough: Use 360-degree video technology to simulate a walk through the exhibit, showcasing artworks and installations. 2. Informational Booklet: Compile a digital booklet with artist bios, artwork descriptions, and conservation messages, integrating vivid imagery and interactive links. 3. Ocean Soundscape: Create an audio track blending recordings of waves, whale calls, and soothing undersea ambience to complement the visual experience."
+    },
+    {
+        "instruction": "Generate a branding package for a tech startup specializing in green technologies, including a company name and motto (text), a dynamic website layout (image), a corporate video (video), and a signature sound (audio).",
+        "output-abstract": "1. Name and Motto, 2. Website Layout, 3. Corporate Video, 4. Signature Sound.",
+        "output-detail": "1. Name and Motto: Ideate a futuristic and eco-friendly name with a motto that highlights innovation in sustainability. 2. Website Layout: Design a user-friendly interface reflecting the company\u2019s green ethos, with interactive sections showcasing products and technologies. 3. Corporate Video: Produce an engaging video illustrating the startup's mission, products, and impact on the environment. 4. Signature Sound: Develop a unique sound logo that plays on the website and at the beginning of all corporate videos, embodying the brand\u2019s focus on eco-innovation."
+    },
+    {
+        "instruction": "Create educational content for children about recycling, including an animated storybook (text and images), a song about recycling (audio), and a series of interactive quizzes (text).",
+        "output-abstract": "1. Animated Storybook, 2. Recycling Song, 3. Interactive Quizzes.",
+        "output-detail": "1. Animated Storybook: Develop a digital storybook with engaging narratives and characters teaching recycling practices, supported by colorful illustrations. 2. Recycling Song: Compose a catchy and informative song that teaches the importance and methods of recycling in a fun way. 3. Interactive Quizzes: Create quizzes with visuals from the storybook and song lyrics to reinforce learning, providing instant feedback and explanations."
+    },
+    {
+        "instruction": "Plan a virtual conference on climate change, including creating the event logo (image), drafting the presentation slides for speakers (text and images), producing a teaser video for social media (video), and synthesizing an ambient background playlist (audio).",
+        "output-abstract": "1. Event Logo, 2. Presentation Slides, 3. Teaser Video, 4. Background Playlist.",
+        "output-detail": "1. Event Logo: Design a logo that effectively represents the urgency and global scale of climate change. 2. Presentation Slides: Prepare comprehensive slide decks for each speaker, incorporating compelling visuals and key points on climate actions. 3. Teaser Video: Develop a short, impactful video highlighting the significance of the conference, showcasing featured speakers, and encouraging online registration. 4. Background Playlist: Compile a list of ambient tracks to play during breaks and networking sessions, enhancing the virtual environment."
+    },
+    {
+        "instruction": "Develop a wellness app that offers guided meditation sessions (audio), daily motivational quotes (text), and a mood tracker (text and images).",
+        "output-abstract": "1. Guided Meditation Sessions, 2. Daily Motivational Quotes, 3. Mood Tracker.",
+        "output-detail": "1. Guided Meditation Sessions: Record a series of meditation guides with varying themes and lengths. Include background sounds that enhance relaxation. 2. Daily Motivational Quotes: Curate a diverse collection of inspiring quotes to be delivered through the app each morning. 3. Mood Tracker: Create an easy-to-use interface for users to log daily moods, using colors and icons, and offer personalized tips based on the mood history."
+    },
+    {
+        "instruction": "Create a social media challenge to promote fitness, including the challenge announcement post (text and image), a demonstration video (video), and a catchy challenge hashtag (text).",
+        "output-abstract": "1. Announcement Post, 2. Demonstration Video, 3. Challenge Hashtag.",
+        "output-detail": "1. Announcement Post: Design a visually appealing graphic that encapsulates the challenge\u2019s fitness goal, accompanied by a post outlining the challenge rules and benefits. 2. Demonstration Video: Film a clear, engaging instructional video showcasing how to properly perform the challenge activities. 3. Challenge Hashtag: Brainstorm a memorable, specific hashtag that easily associates with the challenge, encouraging sharing and participation across social media platforms."
+    },
+    {
+        "instruction": "Produce a digital cookbook focusing on healthy eating, featuring recipes (text), step-by-step cooking videos (video), and downloadable grocery lists (text).",
+        "output-abstract": "1. Recipes, 2. Cooking Videos, 3. Grocery Lists.",
+        "output-detail": "1. Recipes: Compile a selection of healthy recipes, detailing ingredients and preparation steps in an engaging, easy-to-follow manner. 2. Cooking Videos: Create video tutorials for each recipe, demonstrating techniques and offering tips for healthy substitutions. 3. Grocery Lists: Generate printable, mobile-friendly grocery lists that correlate with each recipe, simplifying the shopping process for users."
+    },
+    {
+        "instruction": "Design a series of digital posters for a music festival, incorporating lineup announcements (text and images), teaser audio clips from performing artists (audio), and a highlight reel from the previous year's festival (video).",
+        "output-abstract": "1. Lineup Announcements, 2. Teaser Audio Clips, 3. Highlight Reel.",
+        "output-detail": "1. Lineup Announcements: Create visually striking posters with the festival dates, venue, and artist lineup, using design elements that reflect the festival\u2019s vibe. 2. Teaser Audio Clips: Compile short audio snippets from each of the performing artists, teasing their upcoming performances at the festival. 3. Highlight Reel: Edit together footage from the last festival, capturing the energy, the crowds, and memorable performances to generate excitement for this year's event."
+    },
+    {
+        "instruction": "Organize a digital storytelling workshop, including workshop curriculum (text), participant storyboards (image), recorded storytelling examples (audio), and a final project showcase (video).",
+        "output-abstract": "1. Workshop Curriculum, 2. Storyboards, 3. Recorded Examples, 4. Showcase.",
+        "output-detail": "1. Workshop Curriculum: Develop a comprehensive curriculum covering storytelling techniques, narrative structure, and digital storytelling tools. 2. Storyboards: Guide participants in creating storyboards for their stories, emphasizing visual storytelling elements. 3. Recorded Examples: Provide high-quality audio recordings of well-told stories as examples for analysis and inspiration. 4. Showcase: Plan and execute a virtual event where participants can present their final digital storytelling projects, incorporating feedback from peers and instructors."
+    },
+    {
+        "instruction": "Create a virtual museum tour focused on ancient civilizations, including narrated tour guides (audio), interactive maps (image), detailed exhibit descriptions (text), and panoramic video tours of select exhibits (video).",
+        "output-abstract": "1. Narrated Tour Guides, 2. Interactive Maps, 3. Exhibit Descriptions, 4. Panoramic Tours.",
+        "output-detail": "1. Narrated Tour Guides: Record audio guides offering insights into the history, culture, and significance of ancient civilizations featured in the museum. 2. Interactive Maps: Design maps that allow users to explore different museum sections virtually, indicating points of interest. 3. Exhibit Descriptions: Write informative texts detailing the artifacts, their origins, and their historical context. 4. Panoramic Tours: Film and compile 360-degree videos of key exhibits, allowing online visitors to experience them as if they were walking through the museum."
+    },
+    {
+        "instruction": "Launch a product review blog focusing on sustainable living products, including written reviews (text), product photography (image), unboxing videos (video), and consumer ratings (text).",
+        "output-abstract": "1. Written Reviews, 2. Product Photography, 3. Unboxing Videos, 4. Consumer Ratings.",
+        "output-detail": "1. Written Reviews: Research and compose thorough reviews highlighting the sustainability, usability, and cost-effectiveness of each product. 2. Product Photography: Capture high-quality, aesthetically pleasing images of the products in various settings to complement the reviews. 3. Unboxing Videos: Record and edit videos showcasing the opening and first use of products, providing viewers with a genuine first impression. 4. Consumer Ratings: Implement a system for readers to submit their own ratings and reviews, enriching the content with diverse perspectives."
+    },
+    {
+        "instruction": "Develop a motivational podcast series aimed at personal development, including episode scripts (text), inspirational interviews (audio), visual summaries of key points (image), and promotional trailers (video).",
+        "output-abstract": "1. Episode Scripts, 2. Interviews, 3. Visual Summaries, 4. Promotional Trailers.",
+        "output-detail": "1. Episode Scripts: Write engaging scripts for each episode, focusing on different aspects of personal growth and success strategies. 2. Interviews: Record conversations with thought leaders and motivators, extracting actionable advice and personal stories. 3. Visual Summaries: Design infographics or visual aids summarizing the main takeaways from each episode for social media and web posting. 4. Promotional Trailers: Produce captivating video trailers for upcoming episodes, featuring highlights and teasers to build anticipation."
+    },
+    {
+        "instruction": "Compile a city guide for Barcelona, combining a written guide with top attractions (text), a photo gallery of iconic sites (image), recommended local music playlists (audio), and walking tour videos of different neighborhoods (video).",
+        "output-abstract": "1. Written Guide, 2. Photo Gallery, 3. Local Music Playlists, 4. Walking Tour Videos.",
+        "output-detail": "1. Written Guide: Draft an engaging, informative guide covering must-visit attractions, local eateries, and hidden gems. Highlight cultural nuances and tips for travelers. 2. Photo Gallery: Assemble a collection of high-quality images showcasing Barcelona's architecture, street life, and vibrant markets. 3. Local Music Playlists: Curate playlists featuring a mix of traditional Catalan music and contemporary Barcelona artists to give visitors a taste of the local sound. 4. Walking Tour Videos: Film immersive walking tours through Barcelona\u2019s various districts, providing commentary on historical and cultural insights."
+    },
+    {
+        "instruction": "Create an online course on digital marketing, including module outlines (text), PowerPoint presentations (text and images), expert interview podcasts (audio), and case study analysis videos (video).",
+        "output-abstract": "1. Module Outlines, 2. PowerPoint Presentations, 3. Expert Podcasts, 4. Case Study Videos.",
+        "output-detail": "1. Module Outlines: Structure the course into manageable modules, covering topics from SEO strategies to social media marketing. 2. PowerPoint Presentations: Design slides for each module, combining text and visuals to aid in teaching complex concepts. 3. Expert Podcasts: Record interviews with digital marketing professionals, gathering insights and experiences. 4. Case Study Videos: Produce video analyses of successful digital marketing campaigns, highlighting strategies, results, and learning points."
+    },
+    {
+        "instruction": "Generate a multimedia project on the life cycle of stars, encompassing illustrated explanations (image), written descriptions of each stage (text), narrated animations (video), and a soundtrack that captures the wonder of the cosmos (audio).",
+        "output-abstract": "1. Illustrated Explanations, 2. Written Descriptions, 3. Narrated Animations, 4. Soundtrack.",
+        "output-detail": "1. Illustrated Explanations: Create detailed illustrations for each stage in a star\u2019s life cycle, from nebula to black hole. 2. Written Descriptions: Provide comprehensive texts explaining the processes at each stage, designed to accompany the illustrations. 3. Narrated Animations: Develop animations that visually represent the transformation of stars over time, accompanied by a clear, engaging narration that explains the science. 4. Soundtrack: Compose an original soundtrack that evokes the majesty and mystery of the universe, to play alongside the animations."
+    },
+    {
+        "instruction": "Curate an exhibition on the evolution of video games, featuring era descriptions (text), original game artwork (image), interviews with game developers (audio), and interactive game demos (video).",
+        "output-abstract": "1. Era Descriptions, 2. Game Artwork, 3. Developer Interviews, 4. Game Demos.",
+        "output-detail": "1. Era Descriptions: Write detailed narratives for each significant video game era, from early arcade games to modern virtual reality experiences. 2. Game Artwork: Collect and display high-quality images of original artwork and design sketches from iconic games. 3. Developer Interviews: Record and edit audio interviews with influential game developers, discussing their contributions and the industry's evolution. 4. Game Demos: Provide interactive demos or video overviews of landmark games, allowing visitors to engage directly with the history of video gaming."
+    },
+    {
+        "instruction": "Design an anniversary campaign for a nature conservancy, including articles detailing achievements (text), a photo montage of protected areas (image), testimonials from community members (audio), and a celebratory video highlighting future initiatives (video).",
+        "output-abstract": "1. Articles, 2. Photo Montage, 3. Testimonials, 4. Celebratory Video.",
+        "output-detail": "1. Articles: Write comprehensive articles focusing on the conservancy's milestones, conservation efforts, and achievements over the years. 2. Photo Montage: Compile a collection of striking photos showcasing the beauty and biodiversity of the areas protected by the conservancy. 3. Testimonials: Record heartfelt audio messages from community members, volunteers, and staff, sharing their experiences and the impact of the conservancy's work. 4. Celebratory Video: Produce a dynamic video that not only celebrates past accomplishments but also outlines visions and goals for the future, inspiring continued support and involvement."
+    },
+    {
+        "instruction": "Launch a campaign to raise awareness about water conservation, including creative infographics (image), informative blog posts (text), public service announcements (audio), and a documentary-style video (video) featuring water conservation efforts around the world.",
+        "output-abstract": "1. Infographics, 2. Blog Posts, 3. Public Service Announcements, 4. Documentary Video.",
+        "output-detail": "1. Infographics: Design visually engaging infographics that outline key water conservation tips, statistics on water usage, and the impacts of water scarcity. 2. Blog Posts: Write detailed blog posts discussing the importance of water conservation, practical tips for reducing water usage at home, and highlighting global water conservation projects. 3. Public Service Announcements: Produce brief, compelling audio messages urging the public to adopt water-saving practices, featuring voices from community leaders. 4. Documentary Video: Create a documentary-style video showcasing efforts to combat water scarcity, including interviews with experts and on-the-ground footage of conservation projects."
+    }
+]

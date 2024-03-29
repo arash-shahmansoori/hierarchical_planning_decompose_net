@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Design a smart city exhibition preview including a 3D model of the city (image), a promotional video (video), a detailed project description (text), and a VR tour (video/audio).",
+        "output-abstract": "1. 3D model, 2. Promotional video, 3. Project description, 4. VR tour.",
+        "output-detail": "1. 3D model: Design a detailed 3D render focusing on sustainability features. 2. Promotional video: Highlight innovation and sustainability, integrating 3D model visuals. 3. Project description: In-depth text on smart city objectives, technology, and benefits. 4. VR tour: Interactive VR experience combining video and spatial audio, guiding viewers through the city."
+    },
+    {
+        "instruction": "Create a digital cookbook with recipes (text), cooking demonstration videos (video), and audio commentary on culinary tips (audio).",
+        "output-abstract": "1. Recipes, 2. Demonstration videos, 3. Audio commentary.",
+        "output-detail": "1. Recipes: Write detailed recipes including ingredients and steps. 2. Demonstration videos: Record step-by-step cooking processes highlighting key techniques. 3. Audio commentary: Provide expert culinary tips and insights related to the recipes, adding value beyond the written and visual content."
+    },
+    {
+        "instruction": "Compose a multi-part tutorial on how to build a gaming PC, including parts selection (text), assembly instructions (video), and troubleshooting guide (text/audio).",
+        "output-abstract": "1. Parts selection, 2. Assembly instructions, 3. Troubleshooting guide.",
+        "output-detail": "1. Parts selection: List and explain the choice of components for optimal gaming performance. 2. Assembly instructions: Videotaped step-by-step guide on assembling the components. 3. Troubleshooting guide: Write a detailed text guide, complemented by audio explanations, for solving common setup issues."
+    },
+    {
+        "instruction": "Organize a virtual art exhibit featuring digital paintings (image), artist interviews (video), and an interactive gallery tour (video/audio).",
+        "output-abstract": "1. Digital paintings, 2. Artist interviews, 3. Interactive gallery tour.",
+        "output-detail": "1. Digital paintings: Curate a collection of high-quality digital art pieces. 2. Artist interviews: Record video interviews discussing the inspiration and technique behind each piece. 3. Interactive gallery tour: Design a video/audio tour allowing online visitors to explore the exhibit as if they were physically present."
+    },
+    {
+        "instruction": "Develop a language learning app with written lessons (text), pronunciation guides (audio), interactive exercises (text/image), and cultural immersion videos (video).",
+        "output-abstract": "1. Written lessons, 2. Pronunciation guides, 3. Interactive exercises, 4. Cultural immersion videos.",
+        "output-detail": "1. Written lessons: Structure lessons around grammar, vocabulary, and usage. 2. Pronunciation guides: Record native speakers for accurate pronunciation. 3. Interactive exercises: Create visually engaging exercises for practice. 4. Cultural immersion videos: Produce videos that showcase cultural contexts where the language is spoken."
+    },
+    {
+        "instruction": "Produce a documentary on renewable energy, including research findings (text), expert interviews (video), infographics (image), and a podcast series (audio).",
+        "output-abstract": "1. Research findings, 2. Expert interviews, 3. Infographics, 4. Podcast series.",
+        "output-detail": "1. Research findings: Compile and summarize research on renewable energy trends and impacts. 2. Expert interviews: Film interviews with leading researchers and practitioners in the field. 3. Infographics: Design visual summaries of key statistics and data. 4. Podcast series: Create a series of discussions and analyses on renewable energy topics."
+    },
+    {
+        "instruction": "Create a historical documentary series featuring archive footage (video), narrations (audio), interactive timelines (image/text), and expert commentary (text).",
+        "output-abstract": "1. Archive footage, 2. Narrations, 3. Interactive timelines, 4. Expert commentary.",
+        "output-detail": "1. Archive footage: Curate and restore relevant historical video materials. 2. Narrations: Record compelling audio narrations to enhance the footage. 3. Interactive timelines: Develop visual timelines with text annotations for each episode. 4. Expert commentary: Include written analyses and insights from historians."
+    },
+    {
+        "instruction": "Design a health and wellness blog with informative articles (text), exercise tutorials (video), nutritional guides (image), and meditation audio tracks (audio).",
+        "output-abstract": "1. Informative articles, 2. Exercise tutorials, 3. Nutritional guides, 4. Meditation tracks.",
+        "output-detail": "1. Informative articles: Write detailed posts on health, wellness, and lifestyle improvements. 2. Exercise tutorials: Create step-by-step video guides for different workouts. 3. Nutritional guides: Design visually appealing images of meal plans and ingredient benefits. 4. Meditation tracks: Produce calming meditation audio tracks for relaxation."
+    },
+    {
+        "instruction": "Launch a fashion brand with a collection lookbook (image), behind-the-scenes creation process (video), brand story (text), and an ambient music playlist for browsing (audio).",
+        "output-abstract": "1. Collection lookbook, 2. Behind-the-scenes video, 3. Brand story, 4. Ambient music playlist.",
+        "output-detail": "1. Collection lookbook: Photograph the collection in high-quality images showcasing styles and details. 2. Behind-the-scenes video: Document the creative process, from concept to final product. 3. Brand story: Craft a compelling narrative about the brand's origins and vision. 4. Ambient music playlist: Curate or create a playlist that reflects the brand's aesthetic and encourages immersive browsing."
+    },
+    {
+        "instruction": "Compile an environmental awareness campaign featuring informative posters (image), social media snippets (text/image), educational videos (video), and an interactive quiz (text/audio).",
+        "output-abstract": "1. Informative posters, 2. Social media snippets, 3. Educational videos, 4. Interactive quiz.",
+        "output-detail": "1. Informative posters: Design impactful posters highlighting environmental issues and solutions. 2. Social media snippets: Create engaging text and image content for daily social media engagement. 3. Educational videos: Produce short videos explaining environmental concepts and actions for sustainability. 4. Interactive quiz: Develop a quiz with feedback, incorporating text questions and audio explanations."
+    },
+    {
+        "instruction": "Produce a stop-motion animation film including the script (text), character designs (image), sound effects (audio), and the animation itself (video).",
+        "output-abstract": "1. Script, 2. Character designs, 3. Sound effects, 4. Animation.",
+        "output-detail": "1. Script: Write a compelling narrative and dialogue for the storyline. 2. Character designs: Sketch and finalize character appearances and settings. 3. Sound effects: Record or source fitting sound effects for scenes and actions. 4. Animation: Piece together the sequence of frames to bring the script and characters to life in a stop-motion format."
+    },
+    {
+        "instruction": "Organize an online music festival with artist line-up announcements (text), promotional artwork (image), highlight reels of performers (video), and live-streamed performances (video/audio).",
+        "output-abstract": "1. Artist line-up, 2. Promotional artwork, 3. Highlight reels, 4. Live performances.",
+        "output-detail": "1. Artist line-up: Write engaging announcements for each participating artist, including bios and performance times. 2. Promotional artwork: Design vibrant visuals that capture the essence of the festival. 3. Highlight reels: Compile footage of past performances by the artists for promotional use. 4. Live performances: Set up and manage the technical aspects of streaming live audio and video of performances."
+    },
+    {
+        "instruction": "Develop a digital magazine focusing on emerging technologies, with articles (text), infographics (image), expert interviews (video), and a podcast series discussing tech trends (audio).",
+        "output-abstract": "1. Articles, 2. Infographics, 3. Expert interviews, 4. Podcast series.",
+        "output-detail": "1. Articles: Craft insightful texts on recent developments and future forecasts in technology. 2. Infographics: Visualize data and concepts related to emerging tech in an accessible format. 3. Expert interviews: Record discussions with industry leaders about their work and visions. 4. Podcast series: Produce episodes analyzing current tech trends, featuring guest speakers."
+    },
+    {
+        "instruction": "Create a virtual reality education platform with interactive modules (video/audio), lesson summaries (text), 3D models for visualization (image), and an AI tutor for Q&A sessions (text/audio).",
+        "output-abstract": "1. Interactive modules, 2. Lesson summaries, 3. 3D models, 4. AI tutor.",
+        "output-detail": "1. Interactive modules: Develop immersive video/audio lessons that engage users in active learning. 2. Lesson summaries: Provide concise, written overviews of each lesson for quick reference. 3. 3D models: Utilize detailed visual models to aid in the comprehension of complex subjects. 4. AI tutor: Implement an AI-driven system for real-time questions and answers, supporting both text and voice interactions."
+    },
+    {
+        "instruction": "Architect a high-end restaurant's online presence with a menu (image/text), virtual tour of the establishment (video), chef's greeting (audio), and a reservation system (text).",
+        "output-abstract": "1. Menu, 2. Virtual tour, 3. Chef's greeting, 4. Reservation system.",
+        "output-detail": "1. Menu: Design an attractive visual and textual presentation of dishes and drinks. 2. Virtual tour: Produce a high-quality video showcasing the restaurant's ambiance and seating arrangements. 3. Chef's greeting: Record a welcoming message from the chef, sharing the philosophy behind the cuisine. 4. Reservation system: Implement an intuitive and user-friendly online booking text interface."
+    },
+    {
+        "instruction": "Plan a digital marketing campaign for an eco-friendly product with a product explainer video (video), customer testimonials (video/audio), a sustainability report (text), and social media promotional graphics (image).",
+        "output-abstract": "1. Explainer video, 2. Testimonials, 3. Sustainability report, 4. Promotional graphics.",
+        "output-detail": "1. Explainer video: Create a concise video that demonstrates the product's benefits and eco-friendly features. 2. Testimonials: Compile video/audio feedback from customers on their experience with the product. 3. Sustainability report: Draft a detailed text report highlighting the environmental impact and sustainability practices of the product and company. 4. Promotional graphics: Design eye-catching images for use across social media platforms to attract attention and drive engagement."
+    },
+    {
+        "instruction": "Design an interactive online course on photography, including theory lessons (text), photo editing tutorials (video), assignment galleries (image), and feedback sessions (audio).",
+        "output-abstract": "1. Theory lessons, 2. Editing tutorials, 3. Assignment galleries, 4. Feedback sessions.",
+        "output-detail": "1. Theory lessons: Write comprehensive texts covering photography fundamentals, techniques, and history. 2. Editing tutorials: Record step-by-step video guides on using photo editing software. 3. Assignment galleries: Create a platform for students to upload their work, displayed as galleries. 4. Feedback sessions: Offer constructive critiques and guidance through recorded audio feedback."
+    },
+    {
+        "instruction": "Launch a mobile app for public speaking improvement featuring instructional content (text/video), practice exercises (audio), performance tracking tools (text/image), and motivational quotes (text).",
+        "output-abstract": "1. Instructional content, 2. Practice exercises, 3. Performance tracking, 4. Motivational quotes.",
+        "output-detail": "1. Instructional content: Provide a mix of texts and videos outlining key public speaking strategies and techniques. 2. Practice exercises: Develop audio exercises for pronunciation, pace, and tone training. 3. Performance tracking: Introduce tools for tracking progress over time, using quantifiable metrics and visual graphs. 4. Motivational quotes: Include a daily inspirational quote to encourage continuous learning and improvement."
+    },
+    {
+        "instruction": "Create a series of nature documentaries with stunning landscapes (video), wildlife photography (image), narrations describing ecosystems (audio), and research-based scripts (text).",
+        "output-abstract": "1. Landscapes, 2. Wildlife photography, 3. Narrations, 4. Scripts.",
+        "output-detail": "1. Landscapes: Capture breathtaking video footage of diverse ecosystems and natural wonders. 2. Wildlife photography: Photograph animals in their natural habitats, focusing on behavior and interaction. 3. Narrations: Record descriptive audio pieces providing insights into the ecosystems shown. 4. Scripts: Write detailed scripts based on current research to inform the documentaries' narrative structures."
+    },
+    {
+        "instruction": "Develop a digital library platform featuring e-books (text), audiobooks (audio), author interviews (video), and reader discussion forums (text).",
+        "output-abstract": "1. E-books, 2. Audiobooks, 3. Author interviews, 4. Discussion forums.",
+        "output-detail": "1. E-books: Compile a diverse selection of digital books across genres. 2. Audiobooks: Produce high-quality audio versions of popular titles. 3. Author interviews: Record engaging video interviews with authors, exploring their works and writing processes. 4. Discussion forums: Create an interactive text-based space for readers to discuss books and share insights."
+    },
+    {
+        "instruction": "Host a virtual culinary festival with cooking demonstrations (video), chef interviews (audio), recipe booklets (text), and a gallery of dishes (image).",
+        "output-abstract": "1. Cooking demonstrations, 2. Chef interviews, 3. Recipe booklets, 4. Dish gallery.",
+        "output-detail": "1. Cooking demonstrations: Stream chefs preparing specialty dishes, providing viewers clear instructions and tips. 2. Chef interviews: Record audio sessions discussing culinary inspirations, challenges, and career highlights. 3. Recipe booklets: Assemble text-based recipes from the featured chefs, making them available for download. 4. Dish gallery: Display high-quality images of the prepared dishes, showcasing plating and presentation."
+    }
+]

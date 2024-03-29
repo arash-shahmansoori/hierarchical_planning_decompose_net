@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Design a virtual home tour, incorporating a 3D model of the home (image), a descriptive narration (text), and a walkthrough video (video).",
+        "output-abstract": "1. 3D Model, 2. Narration, 3. Video Walkthrough.",
+        "output-detail": "1. 3D Model: Create a detailed 3D rendering of the home, emphasizing architectural features and design aesthetics. 2. Narration: Craft a script that describes the home's features, history, and unique selling points, complementing the visual tour. 3. Video Walkthrough: Combine the 3D model and narration into a seamless video tour, using cinematic camera movements to enhance viewer engagement."
+    },
+    {
+        "instruction": "Compose a short science fiction story (text), then create an accompanying soundtrack (audio) and a cover image (image). Analyze how each element reflects the theme of the story.",
+        "output-abstract": "1. Story, 2. Soundtrack, 3. Cover Image.",
+        "output-detail": "1. Story: Write a compelling short story set in a futuristic universe with unique characters and a gripping plot. 2. Soundtrack: Develop a soundtrack that captures the mood and themes of the story, using electronic and orchestral elements. 3. Cover Image: Design a visually striking cover that embodies the essence of the story, focusing on key narrative elements. Analyze how the mood and themes of the soundtrack and the imagery of the cover enhance the storytelling."
+    },
+    {
+        "instruction": "Create a marketing campaign for a new coffee blend, featuring a promotional video (video), product images (image), customer testimonials (text), and a catchy jingle (audio).",
+        "output-abstract": "1. Promotional Video, 2. Product Images, 3. Testimonials, 4. Jingle.",
+        "output-detail": "1. Promotional Video: Produce a 30-second video showcasing the coffee's unique qualities and appeal, including scenes of enjoyment and satisfaction. 2. Product Images: Photograph the coffee packaging in various settings, highlighting its premium design. 3. Testimonials: Compile authentic customer reviews praising the coffee's taste and aroma. 4. Jingle: Compose a memorable jingle that encapsulates the brand's energy and the coffee's premium quality."
+    },
+    {
+        "instruction": "Develop an interactive e-learning module for children about the solar system, including an animated video (video), quizzes (text), and narrations (audio).",
+        "output-abstract": "1. Animated Video, 2. Quizzes, 3. Narrations.",
+        "output-detail": "1. Animated Video: Create a visually engaging animation that introduces the planets and significant features of the solar system. 2. Quizzes: Design interactive text-based quizzes to test comprehension and reinforce learning outcomes. 3. Narrations: Record clear and engaging audio explanations for each section of the module, enhancing the educational experience."
+    },
+    {
+        "instruction": "Produce a podcast episode about historical inventions, including research notes (text), a detailed script (text), the podcast recording (audio), and accompanying visuals (image).",
+        "output-abstract": "1. Research Notes, 2. Script, 3. Podcast Recording, 4. Visuals.",
+        "output-detail": "1. Research Notes: Compile detailed notes on several key inventions, including their historical context and impact. 2. Script: Write a captivating script that weaves together narratives, analysis, and expert interviews. 3. Podcast Recording: Record the episode, ensuring clear audio quality and dynamic pacing. 4. Visuals: Create informative images and infographics that complement the episode's topics and can be shared on social media."
+    },
+    {
+        "instruction": "Devise a brand identity for a startup, including a logo (image), mission statement (text), introductory video (video), and brand anthem (audio).",
+        "output-abstract": "1. Logo, 2. Mission Statement, 3. Introductory Video, 4. Brand Anthem.",
+        "output-detail": "1. Logo: Design a logo that visually communicates the startup's values and industry. 2. Mission Statement: Craft a concise, powerful statement that defines the brand's purpose and ambition. 3. Introductory Video: Create a compelling video that tells the startup's story, showcasing its people, values, and vision. 4. Brand Anthem: Compose an original piece of music that captures the spirit and energy of the brand, to be used in promotional materials and events."
+    },
+    {
+        "instruction": "Compile a travel guide for Tokyo, featuring street photography (image), personal anecdotes (text), a curated playlist of local music (audio), and video interviews with residents (video).",
+        "output-abstract": "1. Street Photography, 2. Anecdotes, 3. Playlist, 4. Interviews.",
+        "output-detail": "1. Street Photography: Capture vibrant images that highlight the uniqueness of Tokyo's urban landscape and culture. 2. Anecdotes: Write engaging personal stories that share experiences and insights from exploring Tokyo. 3. Playlist: Curate a playlist of music that embodies the city's atmosphere, featuring local artists and genres. 4. Interviews: Record video interviews with a diverse range of Tokyo residents, discussing their lives and offering perspectives on the city."
+    },
+    {
+        "instruction": "Plan and execute a virtual conference on renewable energy, including keynote presentations (video), research abstracts (text), interactive Q&A sessions (audio), and a visual infographic summarizing the event (image).",
+        "output-abstract": "1. Keynote Presentations, 2. Abstracts, 3. Q&A Sessions, 4. Infographic.",
+        "output-detail": "1. Keynote Presentations: Produce high-quality video recordings of presentations by experts, covering various aspects of renewable energy. 2. Abstracts: Compile concise abstracts of the research and topics discussed in the presentations. 3. Q&A Sessions: Organize live audio Q&A sessions allowing attendees to engage directly with speakers. 4. Infographic: Design a comprehensive infographic that captures the key points and data from the conference, serving as a valuable resource for attendees."
+    },
+    {
+        "instruction": "Design a multi-sensory experience for an art exhibit, featuring ambient music (audio), an exhibition catalog (text), interactive installations (video), and scent stations (image).",
+        "output-abstract": "1. Ambient Music, 2. Catalog, 3. Interactive Installations, 4. Scent Stations.",
+        "output-detail": "1. Ambient Music: Compose a looped ambient soundtrack to enhance the atmosphere of the exhibit, reflecting its themes and artworks. 2. Catalog: Produce a detailed catalog that includes images and descriptions of the artwork, artist bios, and curator's notes. 3. Interactive Installations: Create video-guided interactive pieces that engage visitors in immersive storytelling or creative expression. 4. Scent Stations: Design stations that emit scents associated with the artworks or themes, providing a unique olfactory dimension."
+    },
+    {
+        "instruction": "Construct a social media campaign for a nature conservation effort, including educational infographics (image), advocacy messages (text), a campaign theme song (audio), and testimonial videos from community members (video).",
+        "output-abstract": "1. Infographics, 2. Messages, 3. Theme Song, 4. Testimonial Videos.",
+        "output-detail": "1. Infographics: Design visually compelling infographics that highlight key facts and figures about conservation issues. 2. Messages: Draft concise, impactful text posts that motivate people to get involved and spread awareness. 3. Theme Song: Produce an original song that encapsulates the campaign's goals and evokes a sense of unity and purpose. 4. Testimonial Videos: Record heartfelt videos of community members and activists sharing why nature conservation is important to them."
+    },
+    {
+        "instruction": "Organize a digital cookbook project, composed of recipe tutorials (video), high-resolution food photography (image), narrated cooking tips (audio), and user-generated recipe submissions (text).",
+        "output-abstract": "1. Tutorials, 2. Photography, 3. Cooking Tips, 4. User Submissions.",
+        "output-detail": "1. Tutorials: Produce step-by-step video guides for a variety of recipes, focusing on clarity and visual appeal. 2. Photography: Capture stunning, high-quality images of the finished dishes, styled to emphasize their textures and colors. 3. Cooking Tips: Record audio clips of useful cooking tips and tricks, offering additional value to the audience. 4. User Submissions: Solicit text-based recipes from the community, including their personal stories related to the dishes. Analyze the submissions for creativity, ease of cooking, and taste."
+    },
+    {
+        "instruction": "Create a language learning app module, featuring interactive pronunciation guides (audio), grammar exercise worksheets (text), conversational practice videos (video), and cultural context infographics (image).",
+        "output-abstract": "1. Pronunciation Guides, 2. Grammar Exercises, 3. Conversational Practice, 4. Cultural Infographics.",
+        "output-detail": "1. Pronunciation Guides: Develop audio files with clear pronunciation examples and common phrase repetitions. 2. Grammar Exercises: Create comprehensive text worksheets focused on key grammatical structures and usage in sentences. 3. Conversational Practice: Produce short video scenarios that simulate real-life conversations, encouraging spoken language practice. 4. Cultural Infographics: Design informative infographics that provide cultural insights and context for the language, facilitating deeper understanding."
+    },
+    {
+        "instruction": "Develop a virtual reality (VR) experience that simulates historical events, incorporating narrative text overlays (text), reenacted scenes (video), environmental soundscapes (audio), and interactive 3D models (image).",
+        "output-abstract": "1. Text Overlays, 2. Reenacted Scenes, 3. Soundscapes, 4. 3D Models.",
+        "output-detail": "1. Text Overlays: Implement brief, informative text overlays throughout the experience to provide historical context. 2. Reenacted Scenes: Create immersive video reenactments of pivotal moments, integrating them smoothly within the VR environment. 3. Soundscapes: Design authentic audio backgrounds that complement each scene, enhancing the sense of immersion. 4. 3D Models: Develop detailed interactive models of historical artifacts or locations, allowing users to explore them within the VR setting."
+    },
+    {
+        "instruction": "Produce content for a health and wellness blog, including nutritional advice articles (text), workout demonstration videos (video), calming meditation audio tracks (audio), and infographics on sleep hygiene (image).",
+        "output-abstract": "1. Articles, 2. Demonstration Videos, 3. Meditation Tracks, 4. Sleep Hygiene Infographics.",
+        "output-detail": "1. Articles: Write informative pieces on nutrition and wellness, citing current research and expert opinions. 2. Demonstration Videos: Film clear, engaging workout demonstrations, highlighting proper form and techniques. 3. Meditation Tracks: Compose soothing audio tracks designed to reduce stress and enhance relaxation. 4. Sleep Hygiene Infographics: Create visually engaging infographics that offer practical tips on improving sleep quality, based on scientific research."
+    },
+    {
+        "instruction": "Assemble a personal development toolkit, including an e-book (text), motivational speech recordings (audio), success story interviews (video), and goal-setting worksheets (image).",
+        "output-abstract": "1. E-book, 2. Speeches, 3. Interviews, 4. Worksheets.",
+        "output-detail": "1. E-book: Write a comprehensive guide on personal growth, covering various topics like mindset, productivity, and relationships. 2. Speeches: Record inspiring speeches by prominent figures in personal development, focusing on motivation and life strategies. 3. Interviews: Produce video interviews with individuals sharing their success stories, offering insights and encouragement. 4. Worksheets: Design visually appealing goal-setting worksheets that help users articulate and track their personal and professional objectives."
+    },
+    {
+        "instruction": "Craft an email marketing campaign for an eco-friendly product line, encompassing a launch announcement (text), product demonstration videos (video), customer review clips (audio), and lifestyle images showcasing the products (image).",
+        "output-abstract": "1. Launch Announcement, 2. Demonstration Videos, 3. Review Clips, 4. Lifestyle Images.",
+        "output-detail": "1. Launch Announcement: Write an engaging email text that introduces the new eco-friendly product line, highlighting its benefits and sustainability features. 2. Demonstration Videos: Create short videos demonstrating how to use the products effectively, showcasing their quality and environmental advantages. 3. Review Clips: Compile audio testimonials from early users, focusing on their positive experiences and the products' impact. 4. Lifestyle Images: Photograph the products in everyday scenarios, emphasizing a green lifestyle and the aesthetic appeal of the product design."
+    },
+    {
+        "instruction": "Design a tutorial series for DIY home repairs, including step-by-step guidebooks (text), instructional videos (video), expert commentary tracks (audio), and before-and-after project images (image).",
+        "output-abstract": "1. Guidebooks, 2. Videos, 3. Commentary Tracks, 4. Project Images.",
+        "output-detail": "1. Guidebooks: Write detailed text guides for various DIY repairs, from simple fixes to more complex projects, including tools and materials lists. 2. Videos: Produce clear, easy-to-follow instructional videos for each guidebook topic, visually demonstrating the steps in real-time. 3. Commentary Tracks: Record audio commentaries by experts offering additional tips, tricks, and safety advice. 4. Project Images: Capture high-quality images of before-and-after views of repair projects, serving as visual proof of what can be achieved."
+    },
+    {
+        "instruction": "Compose a guided meditation sequence, including a written transcript (text), voice-over recording (audio), soothing background music (audio), and a series of calming visual animations (video).",
+        "output-abstract": "1. Transcript, 2. Voice-Over, 3. Background Music, 4. Visual Animations.",
+        "output-detail": "1. Transcript: Write a script that gently guides individuals through a meditation sequence, focusing on relaxation and mindfulness. 2. Voice-Over: Record the meditation guide with a soothing voice, ensuring clarity and a pace that fosters tranquility. 3. Background Music: Create or select ambient music that enhances the meditative experience without overshadowing the voice-over. 4. Visual Animations: Design soft, slow-moving visual animations that accompany the meditation sequence, providing a visual focus point that supports relaxation."
+    },
+    {
+        "instruction": "Develop a training program for new employees in retail, including a company culture booklet (text), product knowledge videos (video), customer service scenario simulations (audio), and role-specific checklists (image).",
+        "output-abstract": "1. Booklet, 2. Videos, 3. Simulations, 4. Checklists.",
+        "output-detail": "1. Booklet: Compile a comprehensive text booklet outlining the company's history, values, and culture, aimed at aligning new hires with the brand's ethos. 2. Videos: Create detailed product knowledge videos covering specifications, benefits, and common customer questions. 3. Simulations: Develop interactive audio simulations of typical customer service scenarios, training employees in effective communication and problem-solving. 4. Checklists: Design visually organized checklists for various roles, detailing daily tasks and responsibilities to ensure thorough training coverage."
+    },
+    {
+        "instruction": "Organize a social awareness campaign on mental health, featuring informative blog posts (text), expert interview podcasts (audio), supportive visual content (image), and engaging explainer videos (video).",
+        "output-abstract": "1. Blog Posts, 2. Podcasts, 3. Visual Content, 4. Explainer Videos.",
+        "output-detail": "1. Blog Posts: Write insightful articles that cover different aspects of mental health, including prevention, support, and destigmatization strategies. 2. Podcasts: Produce episodes interviewing mental health experts and individuals with lived experiences, providing depth and varying perspectives. 3. Visual Content: Design impactful imagery and graphics that convey supportive messages and facts about mental health. 4. Explainer Videos: Create engaging videos that explain mental health concepts in understandable terms, encouraging empathy and action."
+    }
+]

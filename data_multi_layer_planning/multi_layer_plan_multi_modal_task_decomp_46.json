@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Design a digital marketing campaign for a new coffee brand, including a product name (text), a logo (image), a promotional video (video), and a jingle (audio). Analyze how each component contributes to the overall brand image.",
+        "output-abstract": "1. Product Name, 2. Logo, 3. Promotional Video, 4. Jingle.",
+        "output-detail": "1. Product Name: Brainstorm memorable, catchy names that evoke warmth and energy. 2. Logo: Utilize warm colors and coffee imagery to attract attention. 3. Promotional Video: Create a 1-minute video showcasing the unique selling points of the coffee using engaging storytelling. 4. Jingle: Compose a catchy, upbeat tune that embodies the coffee's energizing qualities. Analysis should evaluate how each element reinforces the brand's identity as vibrant and inviting."
+    },
+    {
+        "instruction": "Create an educational module on environmental conservation, including an infographic (image), a series of blog posts (text), a podcast series (audio), and interactive quizzes (video). Discuss the didactic strategy behind each component.",
+        "output-abstract": "1. Infographic, 2. Blog Posts, 3. Podcast Series, 4. Interactive Quizzes.",
+        "output-detail": "1. Infographic: Design with striking visuals and statistics about environmental challenges. 2. Blog Posts: Draft engaging narratives that highlight different aspects of conservation. 3. Podcast Series: Plan interviews with experts and activists sharing real-world solutions. 4. Interactive Quizzes: Develop video quizzes to test viewer's knowledge and engage them actively. Each element's strategy should focus on creating a compelling narrative that educates and inspires action."
+    },
+    {
+        "instruction": "Develop a virtual reality (VR) tour of the solar system, combining descriptive narration (audio), 3D models of planets (image), interactive activities (video), and a user guide (text). Outline the educational objectives for each feature.",
+        "output-abstract": "1. Descriptive Narration, 2. 3D Models, 3. Interactive Activities, 4. User Guide.",
+        "output-detail": "1. Descriptive Narration: Script detailed explanations of each planet's features and history. 2. 3D Models: Design accurate and visually appealing models of planets and moons. 3. Interactive Activities: Create VR activities such as 'build your own planet' to reinforce learning. 4. User Guide: Write a comprehensive guide detailing navigational tips and learning objectives. The educational objectives include enhancing spatial understanding of the solar system, encouraging active learning, and providing an immersive learning experience."
+    },
+    {
+        "instruction": "Compose a piece of instrumental music inspired by rain (audio), create a digital painting of the mood the music evokes (image), and write a descriptive analysis of the mood (text).",
+        "output-abstract": "1. Instrumental Music, 2. Digital Painting, 3. Descriptive Analysis.",
+        "output-detail": "1. Instrumental Music: Craft a soothing and melodious piece reflective of rain's rhythms. 2. Digital Painting: Use shades of blue and grey to visually interpret the music's mood as serene or melancholic. 3. Descriptive Analysis: Analyze how the music's tone and rhythm, and the painting's color palette evoke certain emotions and sensations. Consider how the elements together create a holistic artistic expression of rain."
+    },
+    {
+        "instruction": "Create a tutorial video on making sourdough bread, including a step-by-step guide (text), original photographs of each step (image), a narrated video tutorial (video), and background music (audio). Highlight the instructional approach in each component.",
+        "output-abstract": "1. Step-by-Step Guide, 2. Photographs, 3. Video Tutorial, 4. Background Music.",
+        "output-detail": "1. Step-by-Step Guide: Write clear, concise instructions covering ingredients to final product. 2. Photographs: Capture high-quality images of each major step for visual reference. 3. Video Tutorial: Shoot a detailed video guide, narrated with tips and common mistakes. 4. Background Music: Choose a light, uplifting soundtrack to maintain viewer engagement without distraction. The instructional approach should focus on clarity, accessibility, and engaging the senses for an enjoyable learning experience."
+    },
+    {
+        "instruction": "Design a campaign to promote mental health awareness, featuring an animated explainer video (video), a series of motivational quotes (text), relaxing audio guides (audio), and supportive graphics (image). Explain the choice of modalities and their impact.",
+        "output-abstract": "1. Animated Video, 2. Motivational Quotes, 3. Audio Guides, 4. Supportive Graphics.",
+        "output-detail": "1. Animated Video: Produce a short, engaging explainer video that addresses common misconceptions. 2. Motivational Quotes: Select and design quotes with uplifting messages for daily encouragement. 3. Audio Guides: Record guided meditations and breathing exercises for stress relief. 4. Supportive Graphics: Create visuals that convey empathy and understanding. Analyze how each modality serves to educate, inspire, and provide practical support, using emotional engagement and accessibility as central themes."
+    },
+    {
+        "instruction": "Produce a cultural festival promotion, incorporating a schedule of events (text), posters for each main event (image), audio advertisements (audio), and a highlight reel of previous festivals (video). Describe the integration strategy for all elements.",
+        "output-abstract": "1. Schedule of Events, 2. Event Posters, 3. Audio Advertisements, 4. Highlight Reel.",
+        "output-detail": "1. Schedule of Events: Outline a detailed, easily navigable schedule highlighting key events. 2. Event Posters: Design vibrant posters that capture the essence of each main event. 3. Audio Advertisements: Produce catchy audio ads that summarize the festival's attractions and details. 4. Highlight Reel: Compile dynamic footage from past festivals to create anticipation for this year's event. The integration strategy focuses on creating a cohesive and engaging promotional package that attracts a wide audience through nostalgic appeal and visual spectacle."
+    },
+    {
+        "instruction": "Develop a mobile app for language learning, featuring interactive reading exercises (text), pronunciation guides (audio), grammar quizzes (video), and vocabulary flashcards (image). Detail the pedagogical approach for each type of content.",
+        "output-abstract": "1. Reading Exercises, 2. Pronunciation Guides, 3. Grammar Quizzes, 4. Vocabulary Flashcards.",
+        "output-detail": "1. Reading Exercises: Create engaging texts with clickable words for definitions and examples. 2. Pronunciation Guides: Record native speakers for authentic pronunciation examples. 3. Grammar Quizzes: Develop interactive video quizzes that provide instant feedback on users' answers. 4. Vocabulary Flashcards: Design visually appealing cards with words, images, and example sentences. The pedagogical approach focuses on immersive, interactive learning that builds language skills through repetition, real-world context, and immediate feedback."
+    },
+    {
+        "instruction": "Compile an online art exhibition, featuring artist biographies (text), gallery of artworks (image), curator's tour (video), and ambient gallery sounds (audio). Outline the curation and presentation strategy.",
+        "output-abstract": "1. Artist Biographies, 2. Gallery of Artworks, 3. Curator's Tour, 4. Ambient Gallery Sounds.",
+        "output-detail": "1. Artist Biographies: Draft compelling narratives about the artists' backgrounds and influences. 2. Gallery of Artworks: Digitally curate a selection of works with high-resolution images and detailed captions. 3. Curator's Tour: Film a walkthrough of the exhibition with insightful commentary on selected works. 4. Ambient Gallery Sounds: Create or select ambient sounds that enhance the virtual browsing experience. The strategy emphasizes storytelling through visual and auditory experiences, aiming to recreate the feel of an in-person gallery visit online."
+    },
+    {
+        "instruction": "Create a personal branding package for a freelancer, including a professional headshot (image), a compelling biography (text), a portfolio video showcasing work (video), and a signature tune (audio). Describe how each element reflects the freelancer's identity.",
+        "output-abstract": "1. Professional Headshot, 2. Biography, 3. Portfolio Video, 4. Signature Tune.",
+        "output-detail": "1. Professional Headshot: Capture a photo that conveys professionalism and personality. 2. Biography: Write a bio that highlights career achievements and unique skills. 3. Portfolio Video: Compile a creative video that showcases the freelancer's best work with detailed narration. 4. Signature Tune: Compose a piece of music that captures the freelancer's brand essence. Discuss how these elements together present a cohesive and attractive brand identity, tailored to attract the freelancer's target clientele."
+    },
+    {
+        "instruction": "Design an interactive e-learning course on astronomy, encompassing a module introduction (text), star charts (image), expert interviews (audio), and virtual telescope simulations (video). Explore the instructional design principles applied.",
+        "output-abstract": "1. Module Introduction, 2. Star Charts, 3. Expert Interviews, 4. Telescope Simulations.",
+        "output-detail": "1. Module Introduction: Draft an engaging introduction explaining the course objectives. 2. Star Charts: Create detailed and interactive charts of different constellations. 3. Expert Interviews: Record discussions with astronomers on key topics in the field. 4. Telescope Simulations: Develop simulations allowing users to explore celestial bodies. The course design principles emphasize interactivity, real-world application, and expert insight to foster a deep understanding of astronomy."
+    },
+    {
+        "instruction": "Produce a documentary film on urban wildlife, including research and scriptwriting (text), wildlife photographs (image), field recordings of animal sounds (audio), and interviews with conservationists (video). Discuss the storytelling approach for each component.",
+        "output-abstract": "1. Research and Scriptwriting, 2. Wildlife Photographs, 3. Animal Sounds, 4. Conservationist Interviews.",
+        "output-detail": "1. Research and Scriptwriting: Conduct thorough research and develop a narrative that highlights the coexistence of urban wildlife. 2. Wildlife Photographs: Capture intimate and revealing shots of animals in urban settings. 3. Animal Sounds: Record genuine sounds to provide an immersive audio experience. 4. Conservationist Interviews: Film conversations with experts to add authoritative voices on urban wildlife conservation. The storytelling approach intertwines the visual, auditory, and narrative components to evoke empathy and raise awareness of the challenges and beauty of urban wildlife."
+    },
+    {
+        "instruction": "Launch a social media campaign for a new fantasy book series, including teasers for the plot (text), character portraits (image), voice-over teasers by characters (audio), and an animated book trailer (video). Elucidate the campaign's narrative strategy.",
+        "output-abstract": "1. Plot Teasers, 2. Character Portraits, 3. Voice-Over Teasers, 4. Book Trailer.",
+        "output-detail": "1. Plot Teasers: Craft intriguing snippets about the series' storyline to pique interest. 2. Character Portraits: Design compelling images that reveal characters' personalities. 3. Voice-Over Teasers: Record audio snippets in character voices to offer a glimpse of the story's tone. 4. Book Trailer: Create an engaging animated video that highlights key storyline elements. The narrative strategy involves creating a multi-modal approach to storytelling that builds anticipation and depth around the book series, drawing in potential readers."
+    },
+    {
+        "instruction": "Construct a culinary travel blog, documenting a journey through Italy, including regional dish descriptions (text), food photography (image), local music playlists (audio), and video cooking demonstrations (video). Describe the integration process of all components.",
+        "output-abstract": "1. Dish Descriptions, 2. Food Photography, 3. Local Music Playlists, 4. Cooking Demonstrations.",
+        "output-detail": "1. Dish Descriptions: Write detailed accounts of each regional dish's history and ingredients. 2. Food Photography: Capture appetizing images of dishes and their preparation. 3. Local Music Playlists: Curate playlists featuring music from each region visited. 4. Cooking Demonstrations: Record authentic cooking demonstrations with local chefs. The integration process aims to immerse readers in the culinary culture of Italy by combining informative text, visually appealing images, authentically local sounds, and engaging video content."
+    },
+    {
+        "instruction": "Create a comprehensive guide to sustainable living, including ebook chapters (text), how-to illustrations (image), podcasts featuring experts (audio), and DIY project videos (video). Outline the guide's structure and content strategy.",
+        "output-abstract": "1. Ebook Chapters, 2. How-To Illustrations, 3. Expert Podcasts, 4. DIY Videos.",
+        "output-detail": "1. Ebook Chapters: Write focused chapters on various aspects of sustainability, such as reducing waste and conserving energy. 2. How-To Illustrations: Design clear, step-by-step illustrations for sustainable living practices. 3. Expert Podcasts: Record interviews with sustainability experts sharing insights and tips. 4. DIY Project Videos: Produce detailed video tutorials on sustainable DIY projects. The content strategy centers on providing a holistic approach to sustainable living, combining theoretical guidance with practical applications."
+    },
+    {
+        "instruction": "Develop an online course for beginner guitar players, including lesson outlines (text), chord diagrams (image), audio examples of chords (audio), and video tutorials for songs (video). Highlight the pedagogical approach in each content type.",
+        "output-abstract": "1. Lesson Outlines, 2. Chord Diagrams, 3. Audio Examples, 4. Song Tutorials.",
+        "output-detail": "1. Lesson Outlines: Draft detailed lesson plans that progress from basic to more advanced concepts. 2. Chord Diagrams: Create clear, easily understandable diagrams for each chord taught. 3. Audio Examples: Provide recordings of each chord being played to aid auditory learning. 4. Song Tutorials: Film step-by-step tutorials for playing simple songs, incorporating the chords learned. The pedagogical approach emphasizes a structured, progressively challenging curriculum that engages students visually, auditorily, and kinesthetically."
+    },
+    {
+        "instruction": "Stage a virtual exhibit for cutting-edge robotics technology, incorporating product descriptions (text), high-resolution images of robots (image), technical specifications narrated (audio), and demonstration videos (video). Discuss the exhibit's educational goals.",
+        "output-abstract": "1. Product Descriptions, 2. Robot Images, 3. Technical Narrations, 4. Demonstration Videos.",
+        "output-detail": "1. Product Descriptions: Write informative and engaging descriptions for each robot featured. 2. Robot Images: Provide detailed images showcasing the design and functionality. 3. Technical Narrations: Record audio of the technical specifications and unique features. 4. Demonstration Videos: Show the robots in action, highlighting their capabilities and applications. The educational goals include increasing public understanding of robotics, showcasing innovations, and inspiring future technologies."
+    },
+    {
+        "instruction": "Organize a virtual fashion week, featuring designer interviews (text), collections gallery (image), runway soundtrack (audio), and runway show videos (video). Clarify the event's organizational and presentation strategies.",
+        "output-abstract": "1. Designer Interviews, 2. Collections Gallery, 3. Runway Soundtrack, 4. Runway Shows.",
+        "output-detail": "1. Designer Interviews: Conduct and publish in-depth interviews with participating designers. 2. Collections Gallery: Curate high-resolution images of the fashion collections. 3. Runway Soundtrack: Select and compile the music that will accompany the runway shows. 4. Runway Shows: Produce high-quality videos of the runway presentations. The organizational strategy aims to seamlessly integrate textual, visual, and auditory experiences, while the presentation strategy seeks to immerse viewers in the creativity and emotion of fashion week."
+    },
+    {
+        "instruction": "Produce a health and fitness app, featuring workout routines (text), exercise illustrations (image), motivational speeches (audio), and instructional workout videos (video). Discuss the design and motivational strategies employed.",
+        "output-abstract": "1. Workout Routines, 2. Exercise Illustrations, 3. Motivational Speeches, 4. Instructional Videos.",
+        "output-detail": "1. Workout Routines: Compile varied routines catering to different fitness levels and goals. 2. Exercise Illustrations: Design clear and engaging illustrations for each exercise. 3. Motivational Speeches: Record inspiring speeches to encourage persistence and effort. 4. Instructional Videos: Create step-by-step video guides for performing exercises correctly. The design strategy focuses on user engagement and clarity, while the motivational strategy leverages emotional and psychological triggers to foster discipline and enthusiasm for fitness."
+    },
+    {
+        "instruction": "Develop a strategy game tutorial series, including written guides (text), map layouts (image), commentary tracks (audio), and gameplay strategy videos (video). Explain the tutorial series' educational approach.",
+        "output-abstract": "1. Written Guides, 2. Map Layouts, 3. Commentary Tracks, 4. Strategy Videos.",
+        "output-detail": "1. Written Guides: Offer in-depth explanations of game mechanics and strategies. 2. Map Layouts: Provide visual maps detailing key locations and resources. 3. Commentary Tracks: Record audio commentary explaining thought processes behind game decisions. 4. Strategy Videos: Show actual gameplay demonstrating strategies and tactics. The educational approach aims to combine theoretical knowledge with practical insights, allowing players to learn and apply strategies effectively in-game."
+    }
+]

@@ -1,0 +1,13 @@
+# Ignore the the following directories
+.DS_Store
+__pycache__/
+.venv/
+
+# Ignore the environment variables
+.env
+
+# Ignore any additional files
+blog_hierarchical_planning.md
+git_commands.md
+media_LinkedIn.md
+media_Twitter.md

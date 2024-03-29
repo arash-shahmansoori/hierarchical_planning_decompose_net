@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Create a virtual travel experience to Paris that includes a narrated video tour (video), an interactive map with points of interest (image, text), and background French caf\u00e9 music (audio).",
+        "output-abstract": "1. Video Tour, 2. Interactive Map, 3. Background Music.",
+        "output-detail": "1. Video Tour: A 5-minute footage combining drone and ground shots of Paris\u2019 landmarks with a voiceover narrating the history and cultural significance. 2. Interactive Map: A digital map marking major attractions with clickable icons to display short descriptions and photos. 3. Background Music: A compilation of ambient French caf\u00e9 music to play during the video and when interacting with the map."
+    },
+    {
+        "instruction": "Develop a comprehensive guide on starting an organic vegetable garden, including a step-by-step eBook (text), tutorial videos (video), and a planning toolkit (image, text).",
+        "output-abstract": "1. eBook, 2. Tutorial Videos, 3. Planning Toolkit.",
+        "output-detail": "1. eBook: A detailed guide covering the basics of organic gardening, choosing the right location, soil preparation, selecting vegetables, and pest control techniques. 2. Tutorial Videos: A series of 2-minute videos demonstrating key tasks such as soil testing, planting, and organic pest control methods. 3. Planning Toolkit: Includes a seasonal planting calendar, a companion planting chart, and a garden layout template."
+    },
+    {
+        "instruction": "Compose a multimedia storybook for children that tells an environmental conservation story, involving a narrated animation (video, audio), interactive quizzes (text, image), and downloadable activity sheets (text, image).",
+        "output-abstract": "1. Narrated Animation, 2. Interactive Quizzes, 3. Activity Sheets.",
+        "output-detail": "1. Narrated Animation: A 10-minute animated story with characters embarking on a conservation adventure, with voiceover narration. 2. Interactive Quizzes: After each story section, interactive questions with illustrations test comprehension and teach environmental facts. 3. Activity Sheets: Printable sheets with puzzles, coloring pages, and assignments related to the story's themes, encouraging offline engagement."
+    },
+    {
+        "instruction": "Produce a digital art exhibition exploring the concept of solitude, featuring a gallery of digital paintings (image), an explanatory guide (text), and an immersive VR walkthrough (video, audio).",
+        "output-abstract": "1. Digital Paintings, 2. Explanatory Guide, 3. VR Walkthrough.",
+        "output-detail": "1. Digital Paintings: A series of high-resolution images depicting various scenes of solitude. Each painting accompanies a description of the scene and the emotions it aims to evoke. 2. Explanatory Guide: A written document detailing the inspiration behind the exhibition, the significance of each artwork, and the artist's biography. 3. VR Walkthrough: A virtual reality experience that guides viewers through the exhibition, with accompanying audio commentary on the artworks."
+    },
+    {
+        "instruction": "Organize an online food festival showcasing cuisines from around the world, including live cooking demonstrations (video), recipe eBooks (text), and a virtual marketplace (image, text, audio).",
+        "output-abstract": "1. Live Cooking Demonstrations, 2. Recipe eBooks, 3. Virtual Marketplace.",
+        "output-detail": "1. Live Cooking Demonstrations: Stream chefs from various countries preparing signature dishes, with interactive Q&A sessions. 2. Recipe eBooks: A collection of downloadable books, each focused on a different cuisine, with detailed recipes and culinary history. 3. Virtual Marketplace: An interactive platform where users can explore booths representing different countries, listen to traditional music, view images and videos of dishes, and purchase related products."
+    },
+    {
+        "instruction": "Develop an educational module on solar system exploration, including an interactive eBook (text, image), a series of instructional videos (video), and a simulated space mission game (video, text, audio).",
+        "output-abstract": "1. Interactive eBook, 2. Instructional Videos, 3. Simulated Game.",
+        "output-detail": "1. Interactive eBook: Features detailed chapters on each planet, with embedded images, diagrams, and 3D models viewers can interact with to learn more. 2. Instructional Videos: Short videos explaining key concepts like gravity, orbits, and space technology. 3. Simulated Game: A game that lets players plan and execute missions to different planets, incorporating challenges based on real space exploration obstacles."
+    },
+    {
+        "instruction": "Create a wellness program that includes a series of guided meditation sessions (audio), a healthy eating guide (text, image), and interactive fitness challenges (video, text).",
+        "output-abstract": "1. Guided Meditation, 2. Eating Guide, 3. Fitness Challenges.",
+        "output-detail": "1. Guided Meditation: Audio recordings of meditation sessions, ranging from 5 to 20 minutes, with themes like mindfulness, stress relief, and sleep. 2. Healthy Eating Guide: An eBook detailing meal planning, nutritional information, and recipes, with accompanying images of dishes. 3. Fitness Challenges: Video-guided workouts with integrated interactive elements like progress tracking, achievement badges, and social sharing options."
+    },
+    {
+        "instruction": "Design a promotional campaign for a new tech product, including a product reveal video (video), a digital brochure (text, image), and an interactive FAQ section (text, audio).",
+        "output-abstract": "1. Reveal Video, 2. Digital Brochure, 3. Interactive FAQ.",
+        "output-detail": "1. Reveal Video: A dynamic presentation of the product with 3D animations, highlighting its features and benefits. 2. Digital Brochure: An engaging, visually-rich PDF outlining product specifications, use cases, and customer testimonials. 3. Interactive FAQ: A web-based question and answer section where users can get immediate audio responses to common questions."
+    },
+    {
+        "instruction": "Produce a how-to video series on DIY home repairs, complemented by a toolkit checklist (text, image), and after-repair care tips (text).",
+        "output-abstract": "1. How-to Videos, 2. Toolkit Checklist, 3. Care Tips.",
+        "output-detail": "1. How-to Videos: Step-by-step guides on common home repairs like fixing a leaky faucet, unclogging drains, and patching drywall. 2. Toolkit Checklist: A comprehensive list of tools and materials needed for each project, illustrated with photos. 3. Care Tips: Written advice on maintaining home repairs and preventing future issues, such as regular inspection routines and recommended cleaning products."
+    },
+    {
+        "instruction": "Assemble a career development portfolio for graphic designers, including a personal branding guide (text, image), portfolio samples (image, video), and a CV toolkit (text, image).",
+        "output-abstract": "1. Branding Guide, 2. Portfolio Samples, 3. CV Toolkit.",
+        "output-detail": "1. Personal Branding Guide: Advice on creating a unique professional identity through logos, color schemes, and typography, with visual examples. 2. Portfolio Samples: A collection of high-quality images and videos showcasing various design projects. 3. CV Toolkit: Templates for resumes and cover letters, plus tips on highlighting skills and experiences relevant to graphic design positions."
+    },
+    {
+        "instruction": "Develop a language learning app module focused on Italian, featuring interactive lessons (text, image, audio), pronunciation exercises (audio), and real-life conversation simulations (video, audio, text).",
+        "output-abstract": "1. Interactive Lessons, 2. Pronunciation Exercises, 3. Conversation Simulations.",
+        "output-detail": "1. Interactive Lessons: Engaging, bite-sized lessons on vocabulary and grammar, with visual aides and audio clips for correct pronunciation. 2. Pronunciation Exercises: Practice sessions using voice recognition software to give real-time feedback on the learner\u2019s pronunciation. 3. Conversation Simulations: Interactive scenarios where learners can practice conversations in various settings, evaluated by AI to provide tailored feedback."
+    },
+    {
+        "instruction": "Create a social media strategy for a music festival, including a content calendar (text, image), behind-the-scenes footage (video), and artist interview podcasts (audio).",
+        "output-abstract": "1. Content Calendar, 2. Behind-the-Scenes Footage, 3. Artist Interviews.",
+        "output-detail": "1. Content Calendar: A detailed plan of posts across platforms, visualizing the variety of content types and posting schedule leading up to the festival. 2. Behind-the-Scenes Footage: Exclusive video content showing preparations for the festival, including stage setup and sound checks. 3. Artist Interviews: Podcast episodes featuring interviews with the performing artists, discussing their music, inspirations, and expectations for the festival."
+    },
+    {
+        "instruction": "Compile a historical documentary series focusing on ancient civilizations, including research documents (text), reenactment videos (video), and an interactive timeline (image, text).",
+        "output-abstract": "1. Research Documents, 2. Reenactment Videos, 3. Interactive Timeline.",
+        "output-detail": "1. Research Documents: Detailed studies on the history, culture, and significant events of ancient civilizations. 2. Reenactment Videos: High-quality productions that dramatize important historical events, complemented by expert commentary. 3. Interactive Timeline: A digital graphical representation of key timelines, allowing users to click on events to read more detailed information or to watch related videos."
+    },
+    {
+        "instruction": "Produce a series of science experiment videos for children, accompanied by safety instructions (text, image) and interactive quizzes (text, image).",
+        "output-abstract": "1. Experiment Videos, 2. Safety Instructions, 3. Quizzes.",
+        "output-detail": "1. Experiment Videos: Demonstrations of simple, safe science experiments kids can do at home with household items, explaining the science behind each experiment. 2. Safety Instructions: Clear, illustrated guidelines on safety precautions and adult supervision requirements for each experiment. 3. Interactive Quizzes: Fun quizzes to test kids' understanding of the scientific concepts explored in the videos."
+    },
+    {
+        "instruction": "Develop a virtual museum tour focusing on Renaissance art, including high-resolution image galleries (image), artist biographies (text), and narrated historical context explanations (audio).",
+        "output-abstract": "1. Image Galleries, 2. Biographies, 3. Historical Narrations.",
+        "output-detail": "1. Image Galleries: Digital galleries of Renaissance artworks, each accompanied by a description of the piece's significance and details. 2. Biographies: Written profiles of major Renaissance artists, outlining their life, work, and impact on the art world. 3. Historical Narrations: Audio tracks providing context on the Renaissance period, explaining the cultural and historical backdrop that influenced the artworks."
+    },
+    {
+        "instruction": "Organize a global virtual conference on climate change, featuring keynote speeches (video), interactive workshops (video, text, image), and a digital resource library (text, image).",
+        "output-abstract": "1. Keynote Speeches, 2. Workshops, 3. Resource Library.",
+        "output-detail": "1. Keynote Speeches: Recorded videos of addresses by leading experts on climate science, policy, and innovation. 2. Workshops: Live and recorded sessions offering hands-on activities, discussions, and strategies for addressing climate change, with downloadable materials. 3. Resource Library: A comprehensive collection of articles, case studies, and visual data related to climate change, accessible online."
+    },
+    {
+        "instruction": "Create an online course on digital photography, including lecture videos (video), photo editing tutorials (video, text), and a student photo critique forum (text, image).",
+        "output-abstract": "1. Lecture Videos, 2. Editing Tutorials, 3. Critique Forum.",
+        "output-detail": "1. Lecture Videos: Comprehensive sessions covering camera operation, composition, and lighting techniques. 2. Editing Tutorials: Step-by-step guides on using popular photo editing software, with before-and-after examples. 3. Critique Forum: An interactive platform where students can post their photographs to receive constructive feedback from instructors and peers."
+    },
+    {
+        "instruction": "Launch a marketing campaign for a sustainable fashion brand, involving an eco-friendly message video (video), an infographic on the brand\u2019s sustainability practices (image, text), and a series of customer testimonial clips (video, text).",
+        "output-abstract": "1. Message Video, 2. Infographic, 3. Customer Testimonials.",
+        "output-detail": "1. Message Video: A compelling narrative showcasing the brand\u2019s commitment to sustainable practices, featuring footage of its eco-friendly processes. 2. Infographic: Visual representations of the environmental impact of fast fashion vs. sustainable practices, highlighting the brand's efforts. 3. Customer Testimonials: Video clips and written stories from happy customers detailing their experience with the brand and the quality of its sustainable products."
+    },
+    {
+        "instruction": "Develop a personal finance management guide including a budgeting eBook (text), an instructional savings plan video (video), and customizable budget templates (text, image).",
+        "output-abstract": "1. Budgeting eBook, 2. Savings Plan Video, 3. Budget Templates.",
+        "output-detail": "1. Budgeting eBook: A comprehensive guide on managing personal finances, covering topics like emergency funds, debt repayment, and investment strategies. 2. Savings Plan Video: An engaging tutorial on creating a savings plan, including tips on setting financial goals and methods for tracking expenses. 3. Budget Templates: A set of editable templates for monthly and annual budgeting, designed to accommodate various income and expense categories."
+    },
+    {
+        "instruction": "Assemble a beginner\u2019s guide to coding which includes tutorial videos (video), a glossary of terms (text), and interactive coding exercises (text, image).",
+        "output-abstract": "1. Tutorial Videos, 2. Glossary, 3. Coding Exercises.",
+        "output-detail": "1. Tutorial Videos: A series of videos introducing fundamental programming concepts and languages, starting with basics like variables, loops, and functions. 2. Glossary: A comprehensive list of coding terms and definitions, intended as a reference tool for beginners. 3. Coding Exercises: Interactive challenges that allow learners to apply what they've learned, with instant feedback on their solutions."
+    },
+    {
+        "instruction": "Create a series on sustainable living practices, featuring DIY upcycling project guides (text, image), expert interviews on environmental impact (audio), and community engagement challenges (text, video).",
+        "output-abstract": "1. Upcycling Projects, 2. Expert Interviews, 3. Engagement Challenges.",
+        "output-detail": "1. Upcycling Projects: Detailed instructions and visual guides on repurposing everyday items into useful products, promoting waste reduction. 2. Expert Interviews: Audio recordings with environmentalists discussing the importance of sustainable living and offering practical advice. 3. Engagement Challenges: A series of actionable challenges encouraging individuals and communities to adopt more eco-friendly habits, with video examples of successful initiatives."
+    }
+]

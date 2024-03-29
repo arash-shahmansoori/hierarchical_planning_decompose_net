@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Generate a digital travel brochure that incorporates an interactive map (image), engaging descriptions (text), a promotional video (video), and ambient background music (audio) for each destination.",
+        "output-abstract": "1. Interactive Map, 2. Descriptions, 3. Promotional Video, 4. Background Music.",
+        "output-detail": "1. Interactive Map: Design a user-friendly map highlighting destinations with clickable areas leading to content. 2. Descriptions: Write captivating text about each destination's history, attractions, and cuisine. 3. Promotional Video: Create a 2-minute video featuring stunning visuals of locations. 4. Background Music: Compose ambient tracks that match the mood of each destination, enhancing the user experience."
+    },
+    {
+        "instruction": "Develop a mobile app tutorial that includes a step-by-step guide (text), screenshots (image), instructional videos (video), and voice-over explanations (audio).",
+        "output-abstract": "1. Step-by-step Guide, 2. Screenshots, 3. Instructional Videos, 4. Voice-overs.",
+        "output-detail": "1. Step-by-step Guide: Write clear, concise instructions detailing the app's functionality. 2. Screenshots: Capture key screens within the app to aid in navigation. 3. Instructional Videos: Record screen with annotations highlighting features. 4. Voice-overs: Provide detailed audio explanations synchronized with videos, aiming for clarity and engagement."
+    },
+    {
+        "instruction": "Create a multi-modal news report on environmental conservation, featuring an article (text), infographics (image), interviews (video), and a podcast (audio).",
+        "output-abstract": "1. Article, 2. Infographics, 3. Interviews, 4. Podcast.",
+        "output-detail": "1. Article: Investigate and write an in-depth piece on conservation efforts. 2. Infographics: Design visual representations of data related to environmental issues. 3. Interviews: Conduct and record video interviews with experts in conservation. 4. Podcast: Produce an audio segment discussing the impact of conservation, including expert opinions."
+    },
+    {
+        "instruction": "Design a virtual museum exhibit on Ancient Egypt, which includes a narrated tour (audio), detailed artifact descriptions (text), high-resolution images of artifacts (image), and a virtual reality (VR) tour (video).",
+        "output-abstract": "1. Narrated Tour, 2. Artifact Descriptions, 3. Artifact Images, 4. VR Tour.",
+        "output-detail": "1. Narrated Tour: Record audio guides detailing the history and significance of each exhibit section. 2. Artifact Descriptions: Write informative texts on the history, context, and importance of the artifacts. 3. Artifact Images: Capture and edit high-resolution images of the artifacts for online viewing. 4. VR Tour: Develop a 360-degree VR experience allowing visitors to 'walk through' the exhibit."
+    },
+    {
+        "instruction": "Produce a comprehensive educational course on digital marketing, including written modules (text), infographics (image), tutorial videos (video), and a podcast series (audio).",
+        "output-abstract": "1. Written Modules, 2. Infographics, 3. Tutorial Videos, 4. Podcast Series.",
+        "output-detail": "1. Written Modules: Author detailed lessons covering various digital marketing topics. 2. Infographics: Create engaging visuals summarizing key points from modules. 3. Tutorial Videos: Film step-by-step instructional content on marketing tools and strategies. 4. Podcast Series: Record discussions with industry experts on trends and best practices in digital marketing."
+    },
+    {
+        "instruction": "Craft a children\u2019s storybook that combines short stories (text), illustrations (image), audiobook versions (audio), and animated story sequences (video).",
+        "output-abstract": "1. Short Stories, 2. Illustrations, 3. Audiobook Versions, 4. Animated Sequences.",
+        "output-detail": "1. Short Stories: Write engaging tales suitable for children with moral lessons. 2. Illustrations: Design vibrant, attention-grabbing pictures that depict key moments from the stories. 3. Audiobook Versions: Produce quality recordings of the stories, narrated in expressive voices. 4. Animated Sequences: Create short, animated clips that bring to life scenes from the stories, adding an interactive layer to the reading experience."
+    },
+    {
+        "instruction": "Organize a virtual cooking class that features recipe handouts (text), step-by-step cooking instruction videos (video), a gallery of finished dishes (image), and Q&A sessions with chefs (audio).",
+        "output-abstract": "1. Recipe Handouts, 2. Instruction Videos, 3. Gallery of Dishes, 4. Q&A Sessions.",
+        "output-detail": "1. Recipe Handouts: Compile detailed recipes and ingredient lists for participants. 2. Instruction Videos: Record chefs demonstrating each recipe step-by-step. 3. Gallery of Dishes: Photograph the completed dishes to provide visual examples. 4. Q&A Sessions: Host live audio discussions allowing participants to ask chefs cooking-related questions."
+    },
+    {
+        "instruction": "Launch a fitness challenge campaign that includes motivational guides (text), exercise demonstration videos (video), inspirational posters (image), and a playlist of workout music (audio).",
+        "output-abstract": "1. Motivational Guides, 2. Demonstration Videos, 3. Inspirational Posters, 4. Workout Music.",
+        "output-detail": "1. Motivational Guides: Write content to inspire and guide participants through the challenge. 2. Demonstration Videos: Film clear, easy-to-follow exercise demonstrations. 3. Inspirational Posters: Design powerful visual aids to motivate participants. 4. Workout Music: Compile high-energy music playlists to enhance the workout experience."
+    },
+    {
+        "instruction": "Develop a comprehensive guide to starting a small business, featuring a business plan template (text), branding inspiration galleries (image), tutorial webinars (video), and interviews with successful entrepreneurs (audio).",
+        "output-abstract": "1. Business Plan Template, 2. Branding Inspiration, 3. Tutorial Webinars, 4. Entrepreneurial Interviews.",
+        "output-detail": "1. Business Plan Template: Provide a customizable template detailing sections necessary for a comprehensive plan. 2. Branding Inspiration: Curate a collection of images showcasing successful branding examples. 3. Tutorial Webinars: Host live video sessions to walk through the planning and startup process. 4. Entrepreneurial Interviews: Record conversations with successful business owners sharing insights and advice."
+    },
+    {
+        "instruction": "Compile a wildlife documentary project that includes a narrated script (text), wildlife photographs (image), footage of animals in their natural habitats (video), and natural sound recordings (audio).",
+        "output-abstract": "1. Narrated Script, 2. Photographs, 3. Footage, 4. Natural Sounds.",
+        "output-detail": "1. Narrated Script: Write a compelling script that educates viewers on wildlife conservation. 2. Photographs: Gather high-quality images of animals and ecosystems. 3. Footage: Film animals in various settings, capturing their behaviors and environments. 4. Natural Sounds: Record ambient sounds from the habitats to enhance the documentary's authenticity."
+    },
+    {
+        "instruction": "Create an immersive language learning experience that includes vocabulary lists (text), pronunciation guides (audio), cultural context videos (video), and interactive quizzes (image/text).",
+        "output-abstract": "1. Vocabulary Lists, 2. Pronunciation Guides, 3. Cultural Videos, 4. Quizzes.",
+        "output-detail": "1. Vocabulary Lists: Compile lists of common phrases and words in the target language. 2. Pronunciation Guides: Record audio of native speakers for accurate pronunciation. 3. Cultural Videos: Produce videos that explore cultural aspects relevant to the language. 4. Quizzes: Design interactive quizzes with visual elements to test and reinforce learning."
+    },
+    {
+        "instruction": "Plan an online art exhibition that showcases digital art pieces (image), artist interviews (video), catalog essays (text), and ambient gallery sounds (audio).",
+        "output-abstract": "1. Digital Art, 2. Artist Interviews, 3. Catalog Essays, 4. Gallery Sounds.",
+        "output-detail": "1. Digital Art: Curate a diverse range of digital artworks for online viewing. 2. Artist Interviews: Conduct and record discussions with artists about their work and inspirations. 3. Catalog Essays: Write insightful essays on the themes and techniques present in the exhibition. 4. Gallery Sounds: Create an audio backdrop that mimics the ambiance of an art gallery to enhance the virtual experience."
+    },
+    {
+        "instruction": "Produce a social media awareness campaign on climate change that includes impactful posts (text/image), informative stories (video), expert interviews (audio), and shareable infographics (image).",
+        "output-abstract": "1. Impactful Posts, 2. Informative Stories, 3. Expert Interviews, 4. Shareable Infographics.",
+        "output-detail": "1. Impactful Posts: Create concise, informative content with compelling images to highlight climate issues. 2. Informative Stories: Develop short, engaging videos that provide insights into climate change impacts. 3. Expert Interviews: Record discussions with climate scientists and activists sharing their views. 4. Shareable Infographics: Design visually striking infographics summarizing key data and solutions to climate change."
+    },
+    {
+        "instruction": "Compose a multimedia history lesson on World War II, encompassing a timeline (text), archival photographs (image), documentary clips (video), and original radio broadcasts (audio).",
+        "output-abstract": "1. Timeline, 2. Archival Photographs, 3. Documentary Clips, 4. Radio Broadcasts.",
+        "output-detail": "1. Timeline: Compile a detailed, chronological narrative of key events. 2. Archival Photographs: Source authentic photographs from the era for educational use. 3. Documentary Clips: Utilize existing footage to illustrate significant moments and battles. 4. Radio Broadcasts: Include historic audio to provide contemporary perspectives and enhance realism."
+    },
+    {
+        "instruction": "Create an e-learning platform on sustainable living that includes informative articles (text), DIY tutorial videos (video), before-and-after project images (image), and interviews with sustainability experts (audio).",
+        "output-abstract": "1. Articles, 2. Tutorial Videos, 3. Project Images, 4. Expert Interviews.",
+        "output-detail": "1. Articles: Write comprehensive articles on various aspects of sustainable living. 2. Tutorial Videos: Produce step-by-step guides on sustainable DIY projects. 3. Project Images: Exhibit the transformation achieved through sustainable projects. 4. Expert Interviews: Share insights and tips through audio interviews with leading voices in sustainability."
+    },
+    {
+        "instruction": "Launch a virtual book club that features reading lists (text), author reading sessions (video), book cover galleries (image), and discussion forums (audio/text).",
+        "output-abstract": "1. Reading Lists, 2. Reading Sessions, 3. Cover Galleries, 4. Discussion Forums.",
+        "output-detail": "1. Reading Lists: Curate lists of books for club members to vote on. 2. Reading Sessions: Host live video readings with authors or skilled narrators. 3. Cover Galleries: Create an online gallery of high-resolution book covers. 4. Discussion Forums: Facilitate audio and text discussions for members to share insights and opinions on the books."
+    },
+    {
+        "instruction": "Design a series of motivational wallpapers that combine inspirational quotes (text), striking imagery (image), calming background music (audio), and short animation sequences (video).",
+        "output-abstract": "1. Quotes, 2. Imagery, 3. Music, 4. Animation.",
+        "output-detail": "1. Quotes: Select powerful and motivational quotes to drive inspiration. 2. Imagery: Pair each quote with visually stunning images that complement the message. 3. Music: Compose or select serene tracks to play in the background, enhancing the aesthetic and emotional impact. 4. Animation: Create subtle animations (e.g., gentle floating, light effects) that bring the wallpapers to life."
+    },
+    {
+        "instruction": "Organize a virtual science fair that includes research project summaries (text), poster presentations (image/video), experiment demonstrations (video), and live Q&A sessions with scientists (audio).",
+        "output-abstract": "1. Project Summaries, 2. Poster Presentations, 3. Experiment Demonstrations, 4. Q&A Sessions.",
+        "output-detail": "1. Project Summaries: Guide participants to write concise abstracts on their research findings. 2. Poster Presentations: Instruct on creating informative and visually appealing posters, possibly supplemented with short videos. 3. Experiment Demonstrations: Facilitate the recording of safe, illustrative experiments. 4. Q&A Sessions: Arrange for interactive audio sessions where participants can ask questions and receive advice from experts in various scientific fields."
+    },
+    {
+        "instruction": "Produce a guide to urban gardening that includes a planting schedule (text), tutorial videos for beginners (video), photo diaries of garden progress (image), and interviews with experienced urban gardeners (audio).",
+        "output-abstract": "1. Planting Schedule, 2. Tutorial Videos, 3. Photo Diaries, 4. Gardener Interviews.",
+        "output-detail": "1. Planting Schedule: Create a detailed calendar outlining when to plant various vegetables and flowers. 2. Tutorial Videos: Develop step-by-step guides covering basic urban gardening techniques and tips. 3. Photo Diaries: Encourage users to document their gardening journey through regular photographic updates. 4. Gardener Interviews: Record advice, stories, and tips from seasoned urban gardeners to inspire and educate beginners."
+    },
+    {
+        "instruction": "Develop a personal finance management course that includes instructional booklets (text), budgeting and investment infographics (image), explainer videos (video), and podcast episodes on financial wellness (audio).",
+        "output-abstract": "1. Instructional Booklets, 2. Infographics, 3. Explainer Videos, 4. Podcast Episodes.",
+        "output-detail": "1. Instructional Booklets: Write clear, accessible guides on various aspects of personal finance, from budgeting to investing. 2. Infographics: Design engaging visuals that break down complex financial concepts into understandable parts. 3. Explainer Videos: Produce concise, informative videos on financial practices and strategies. 4. Podcast Episodes: Record discussions that provide insights, tips, and advice on achieving financial wellness."
+    },
+    {
+        "instruction": "Create an online platform for studying world religions that includes comprehensive modules (text), iconic religious art galleries (image), documentary-style introduction videos (video), and podcasts discussing philosophical implications (audio).",
+        "output-abstract": "1. Modules, 2. Art Galleries, 3. Introduction Videos, 4. Philosophical Podcasts.",
+        "output-detail": "1. Modules: Develop detailed text-based lessons covering the beliefs, practices, and history of various world religions. 2. Art Galleries: Curate high-quality images of religious artworks, symbols, and artifacts. 3. Introduction Videos: Create engaging videos that introduce the core concepts of each religion. 4. Philosophical Podcasts: Produce a series of podcasts exploring the deeper philosophical questions and intersections between different faiths."
+    }
+]

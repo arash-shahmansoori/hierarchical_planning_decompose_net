@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Design a virtual gourmet food fair featuring a promotional video (video), an interactive map of food stalls (image), a schedule of live cooking shows (text), and background jazz music (audio). Explain how each element contributes to the fair's atmosphere.",
+        "output-abstract": "1. Promotional Video, 2. Interactive Map, 3. Schedule, 4. Background Music.",
+        "output-detail": "1. Promotional Video: Showcase signature dishes to tempt viewers. 2. Interactive Map: Navigate the fair's layout, highlighting food stalls. 3. Schedule: Text-based timetable of cooking shows, chef appearances. 4. Background Music: Soft jazz to enhance the fair's laid-back, luxurious vibe."
+    },
+    {
+        "instruction": "Create a children's storybook app including narration (audio), animated illustrations (image/video), interactive quizzes (text), and a theme song (audio). Detail the integration of each component for a cohesive user experience.",
+        "output-abstract": "1. Narration, 2. Animated Illustrations, 3. Quizzes, 4. Theme Song.",
+        "output-detail": "1. Narration: Engaging voice clips that complement text. 2. Animated Illustrations: Dynamic visuals to captivate children. 3. Quizzes: Text-driven questions to ensure comprehension. 4. Theme Song: Catchy, fun audio to establish the storybook's atmosphere."
+    },
+    {
+        "instruction": "Develop a digital marketing campaign for a hybrid electric vehicle, integrating an infomercial (video), an augmented reality (AR) car showcase (image/video), customer testimonials (audio), and a webpage layout design (image). Discuss each aspect's role in engaging potential customers.",
+        "output-abstract": "1. Infomercial, 2. AR Showcase, 3. Testimonials, 4. Webpage Design.",
+        "output-detail": "1. Infomercial: A persuasive short film highlighting the car's benefits. 2. AR Showcase: Interactive visual allowing users to explore car features. 3. Testimonials: Audio feedback from satisfied customers. 4. Webpage Design: Sleek, intuitive layout that complies with brand aesthetics."
+    },
+    {
+        "instruction": "Produce a podcast series on modern history, encompassing an intro theme (audio), episode summaries (text), guest speaker invitations (text), and social media promotional graphics (image). Clarify each element's function in the podcast's dissemination and listener retention.",
+        "output-abstract": "1. Intro Theme, 2. Episode Summaries, 3. Guest Invitations, 4. Promotional Graphics.",
+        "output-detail": "1. Intro Theme: A catchy tune that sets the podcast's tone. 2. Episode Summaries: Brief, engaging outlines for each episode. 3. Guest Invitations: Formal, personalized requests to potential speakers. 4. Promotional Graphics: Eye-catching images for social media to attract listeners."
+    },
+    {
+        "instruction": "Organize an online language-learning festival, featuring a keynote speech (video), digital brochures (image), interactive language games (text/image), and multicultural background music playlists (audio). Analyze the contribution of each element to the educational experience.",
+        "output-abstract": "1. Keynote Speech, 2. Digital Brochures, 3. Language Games, 4. Music Playlists.",
+        "output-detail": "1. Keynote Speech: Inspirational video from a linguistics expert. 2. Digital Brochures: Visually appealing overviews of language workshops. 3. Language Games: Text and image-based activities to practice new languages. 4. Music Playlists: Diverse audio tracks to immerse participants in different cultures."
+    },
+    {
+        "instruction": "Design a virtual fitness trainer comprising an introductory video (video), workout plans (text), nutritional guidelines (text), and motivating workout music (audio). Enumerate how each component supports users' health goals.",
+        "output-abstract": "1. Introductory Video, 2. Workout Plans, 3. Nutritional Guidelines, 4. Workout Music.",
+        "output-detail": "1. Introductory Video: An engaging brief on using the trainer effectively. 2. Workout Plans: Clear, structured text outlines for various fitness levels. 3. Nutritional Guidelines: Text-based advice on diet to accompany workout routines. 4. Workout Music: High-energy tunes to enhance workout intensity."
+    },
+    {
+        "instruction": "Create an educational video series on sustainable living, including an animated intro (video), expert interviews (audio), infographic handouts (image), and episode scripts (text). Detail the role of each component in educating viewers.",
+        "output-abstract": "1. Animated Intro, 2. Expert Interviews, 3. Infographics, 4. Scripts.",
+        "output-detail": "1. Animated Intro: Sets a friendly, approachable tone for the series. 2. Expert Interviews: Audio clips provide credibility and insight. 3. Infographics: Visually summarize key points for easy learning. 4. Scripts: Well-researched texts ensure thorough coverage of topics."
+    },
+    {
+        "instruction": "Launch a virtual art gallery, incorporating a virtual tour (video), artist commentary tracks (audio), gallery guides (text), and digital reproductions of the artworks (image). Explain the interactive experience's impact on visitor engagement.",
+        "output-abstract": "1. Virtual Tour, 2. Commentary Tracks, 3. Gallery Guides, 4. Digital Artworks.",
+        "output-detail": "1. Virtual Tour: Video walkthrough, making art accessible worldwide. 2. Commentary Tracks: Insightful audio from artists, adding depth to the viewing experience. 3. Gallery Guides: Textual descriptions to educate visitors on art styles and histories. 4. Digital Artworks: High-quality images allow detailed examination of each piece."
+    },
+    {
+        "instruction": "Compile a multimedia guide for a beginners\u2019 yoga course, featuring instructional videos (video), pose illustrations (image), class schedules (text), and a calming playlist (audio). Discuss how these elements synergize to create a comprehensive learning environment.",
+        "output-abstract": "1. Instructional Videos, 2. Pose Illustrations, 3. Class Schedules, 4. Playlist.",
+        "output-detail": "1. Instructional Videos: Demonstrations for mastering yoga poses. 2. Pose Illustrations: Static visuals for quick posture reference. 3. Class Schedules: Text lists of upcoming classes to plan participation. 4. Playlist: Ambient music aids relaxation and focus during practice."
+    },
+    {
+        "instruction": "Develop a promotional campaign for a new science fiction book series, including a teaser trailer (video), character bios (text), concept art (image), and a soundtrack snippet (audio). Elaborate on how each component builds anticipation and interest.",
+        "output-abstract": "1. Teaser Trailer, 2. Character Bios, 3. Concept Art, 4. Soundtrack Snippet.",
+        "output-detail": "1. Teaser Trailer: A brief video glimpse into the story's universe. 2. Character Bios: Deep dives into protagonists and antagonists. 3. Concept Art: Visual previews of settings and tech. 4. Soundtrack Snippet: Audio evoking the series' mood."
+    },
+    {
+        "instruction": "Assemble a travel blog post about a city, integrating a panoramic video tour (video), photomontage of landmarks (image), personal anecdotes (text), and ambient street sounds (audio). Describe how each component enriches the narrative.",
+        "output-abstract": "1. Video Tour, 2. Photomontage, 3. Anecdotes, 4. Street Sounds.",
+        "output-detail": "1. Video Tour: A moving visual experience through the city's heart. 2. Photomontage: A collection of captivating images showcasing major attractions. 3. Anecdotes: Personal, engaging stories tied to different locations. 4. Street Sounds: Authentic audio backdrop that transports readers."
+    },
+    {
+        "instruction": "Produce an instructional cooking show featuring recipe videos (video), step-by-step cooking guides (text), ingredient lists (text), and a theme song (audio). Illustrate how these components combine to create an effective learning tool.",
+        "output-abstract": "1. Recipe Videos, 2. Cooking Guides, 3. Ingredient Lists, 4. Theme Song.",
+        "output-detail": "1. Recipe Videos: Detailed demonstrations of each recipe. 2. Cooking Guides: Textual, step-by-step instructions accompanying videos. 3. Ingredient Lists: Clear, concise components needed for each recipe. 4. Theme Song: A catchy tune that unifies the show's episodes."
+    },
+    {
+        "instruction": "Design a virtual museum exhibit on ancient civilizations, featuring narrated tours (audio), interactive timelines (image/text), replica images (image), and a documentary (video). Clarify the educational benefits of this multi-modal approach.",
+        "output-abstract": "1. Narrated Tours, 2. Interactive Timelines, 3. Replica Images, 4. Documentary.",
+        "output-detail": "1. Narrated Tours: Audio guides provide context and stories behind artifacts. 2. Interactive Timelines: Visual and textual elements to explore historical progressions. 3. Replica Images: Detailed visuals of important artifacts. 4. Documentary: A comprehensive video overview of the civilization."
+    },
+    {
+        "instruction": "Compile an in-depth analysis of a renowned painting, incorporating a zoomable high-resolution image (image), an expert commentary podcast (audio), a historical context write-up (text), and an animated re-creation of the painting's story (video). Discuss how each element contributes to understanding the artwork.",
+        "output-abstract": "1. High-Resolution Image, 2. Podcast, 3. Historical Context, 4. Animated Story.",
+        "output-detail": "1. High-Resolution Image: Allows viewers to examine fine details. 2. Podcast: Experts discuss the painting's nuances and significance. 3. Historical Context: Background text illuminating the era and circumstances of the artwork. 4. Animated Story: Video that visually narrates the painting's story."
+    },
+    {
+        "instruction": "Create a multi-sensory experience for a new album release, featuring lyric videos (video), album cover artwork (image), written track reviews (text), and short behind-the-scenes audio clips (audio). Describe how each medium complements the others.",
+        "output-abstract": "1. Lyric Videos, 2. Album Cover, 3. Track Reviews, 4. Behind-the-Scenes Clips.",
+        "output-detail": "1. Lyric Videos: Combines music with visual texts for sing-along. 2. Album Cover: Visual identity for the album. 3. Track Reviews: Detailed analysis of each song's themes and production. 4. Behind-the-Scenes Clips: Audio insights into the recording process."
+    },
+    {
+        "instruction": "Develop an interactive e-learning course on digital photography, featuring module introductions (video), photography techniques (text), equipment guides (image), and photographer interviews (audio). Expose how these components cater to different learning styles.",
+        "output-abstract": "1. Module Introductions, 2. Techniques, 3. Equipment Guides, 4. Interviews.",
+        "output-detail": "1. Module Introductions: Brief videos outlining key learning points. 2. Techniques: Text-based explanations of various photography methods. 3. Equipment Guides: Visual aids showing camera and accessory details. 4. Interviews: Audio discussions with professional photographers to inspire learners."
+    },
+    {
+        "instruction": "Set up an online fashion boutique, featuring a virtual storefront (video), fashion lookbooks (image), item descriptions (text), and runway show music (audio). Explain the engagement strategy behind each choice.",
+        "output-abstract": "1. Virtual Storefront, 2. Lookbooks, 3. Descriptions, 4. Runway Music.",
+        "output-detail": "1. Virtual Storefront: A welcoming video tour of the boutique. 2. Lookbooks: High-quality images showcasing the latest trends. 3. Descriptions: Informative texts highlighting the uniqueness of each item. 4. Runway Music: Trendsetting beats that create an exclusive shopping vibe."
+    },
+    {
+        "instruction": "Produce a social media campaign for a tech start-up, incorporating an explainer video (video), infographics on service benefits (image), customer success stories (text), and a catchy jingle (audio). Outline how each component aids in brand recognition.",
+        "output-abstract": "1. Explainer Video, 2. Infographics, 3. Success Stories, 4. Jingle.",
+        "output-detail": "1. Explainer Video: Simplifies complex offerings for a broad audience. 2. Infographics: Visually outlines key service advantages. 3. Success Stories: Text testimonials build trust and credibility. 4. Jingle: Memorable tune that reinforces brand identity."
+    },
+    {
+        "instruction": "Launch a virtual book club, including a welcome intro (video), reading schedule (text), discussion forum (text), and themed background playlists (audio). Detail the importance of each element in fostering a community.",
+        "output-abstract": "1. Welcome Intro, 2. Reading Schedule, 3. Discussion Forum, 4. Background Playlists.",
+        "output-detail": "1. Welcome Intro: A friendly video greeting sets a warm tone. 2. Reading Schedule: Text-based calendar organizes monthly reads. 3. Discussion Forum: A space for sharing insights and questions. 4. Background Playlists: Curated audio tracks enhance reading moods."
+    },
+    {
+        "instruction": "Organize a multiplayer online game launch, featuring a cinematic trailer (video), gameplay guides (text), character skins preview (image), and original soundtrack (audio). Explain how these elements synergize to provide an immersive gaming experience.",
+        "output-abstract": "1. Cinematic Trailer, 2. Gameplay Guides, 3. Character Skins, 4. Soundtrack.",
+        "output-detail": "1. Cinematic Trailer: A visual introduction to the game world. 2. Gameplay Guides: Detailed instructions for navigating game mechanics. 3. Character Skins: Visual previews of customizable appearances. 4. Soundtrack: Engaging music that complements game dynamics."
+    }
+]

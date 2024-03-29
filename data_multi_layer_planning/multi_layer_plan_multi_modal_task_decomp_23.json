@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Create a marketing campaign for a new tech gadget involving a product description (text), a promotional video (video), a catchy jingle (audio), and an infographic on its features (image).",
+        "output-abstract": "1. Product Description, 2. Promotional Video, 3. Catchy Jingle, 4. Infographic.",
+        "output-detail": "1. Product Description: Highlight the unique features and benefits, targeting tech enthusiasts. 2. Promotional Video: Showcase the gadget in action, with compelling narrative to captivate viewers. 3. Catchy Jingle: Compose a memorable melody that summarizes the product\u2019s appeal. 4. Infographic: Visual representation of the gadget\u2019s specifications and comparisons to competitors."
+    },
+    {
+        "instruction": "Develop a virtual tour for a historical museum incorporating narrated history snippets (audio), restoration before-and-after comparisons (image), interactive map (text), and a walkthrough video of the museum (video).",
+        "output-abstract": "1. Narrated History Snippets, 2. Restoration Comparisons, 3. Interactive Map, 4. Walkthrough Video.",
+        "output-detail": "1. Narrated History Snippets: Record engaging stories behind artifacts. 2. Restoration Comparisons: Show transformation of items pre and post-restoration with details. 3. Interactive Map: Textual descriptions for user-guided virtual tour paths. 4. Walkthrough Video: Detailed video tour capturing the essence of being in the museum."
+    },
+    {
+        "instruction": "Compose an educational module on renewable energy, including an eBook (text), infographics (image), expert interviews (video), and a podcast series (audio).",
+        "output-abstract": "1. eBook, 2. Infographics, 3. Expert Interviews, 4. Podcast Series.",
+        "output-detail": "1. eBook: Comprehensive guide on renewable energy types, technology, and impact. 2. Infographics: Visual summaries of statistics and technologies. 3. Expert Interviews: Video recordings of conversations with professionals in the field. 4. Podcast Series: Discussions on advancements, challenges, and future of renewable energy."
+    },
+    {
+        "instruction": "Design a recipe blog featuring gourmet dishes with recipe guides (text), step-by-step cooking videos (video), plating design sketches (image), and ambient dining music playlists (audio).",
+        "output-abstract": "1. Recipe Guides, 2. Cooking Videos, 3. Plating Sketches, 4. Dining Music.",
+        "output-detail": "1. Recipe Guides: Detailed textual instructions and ingredients list. 2. Cooking Videos: Visual and auditory guidance through the cooking process. 3. Plating Sketches: Artistic representation of final dish presentation. 4. Dining Music: Curated playlists to enhance the dining experience."
+    },
+    {
+        "instruction": "Produce a multi-modal environmental awareness campaign with an animated short film (video), an interactive quiz (text and image), narrated factoids (audio), and a series of informative posters (image).",
+        "output-abstract": "1. Animated Short Film, 2. Interactive Quiz, 3. Narrated Factoids, 4. Informative Posters.",
+        "output-detail": "1. Animated Short Film: Illustrate environmental issues and solutions. 2. Interactive Quiz: Test knowledge on environmental facts with textual questions and image-based answers. 3. Narrated Factoids: Brief audio clips sharing surprising environmental facts. 4. Informative Posters: Visually appealing designs that educate on key topics."
+    },
+    {
+        "instruction": "Launch a personal branding package for a fitness influencer, including a logo (image), motivational speech (audio), brand manifesto (text), and a workout demonstration video (video).",
+        "output-abstract": "1. Logo, 2. Motivational Speech, 3. Brand Manifesto, 4. Workout Video.",
+        "output-detail": "1. Logo: Design a dynamic, vibrant logo that reflects energy and motivation. 2. Motivational Speech: Record an inspiring message that encapsulates the influencer's philosophy. 3. Brand Manifesto: Textual declaration of the influencer\u2019s mission and values. 4. Workout Video: Demonstrative content showing the influencer in action, emphasizing technique and motivation."
+    },
+    {
+        "instruction": "Engineer an interactive learning game for children aged 5-7, incorporating character voices (audio), storybook visuals (image), engaging puzzles (text), and animated sequences (video).",
+        "output-abstract": "1. Character Voices, 2. Storybook Visuals, 3. Engaging Puzzles, 4. Animated Sequences.",
+        "output-detail": "1. Character Voices: Create distinct, engaging voices for each game character. 2. Storybook Visuals: Illustrate vibrant, captivating scenes for story engagement. 3. Engaging Puzzles: Text-based puzzles that are educational yet entertaining. 4. Animated Sequences: Short video clips that progress the story and involve the player."
+    },
+    {
+        "instruction": "Organize a virtual conference on futuristic technologies, featuring keynote presentation slides (image), speaker introductions (text), panel discussions (video), and networking ambient music (audio).",
+        "output-abstract": "1. Keynote Presentation Slides, 2. Speaker Introductions, 3. Panel Discussions, 4. Ambient Music.",
+        "output-detail": "1. Keynote Presentation Slides: Visually compelling slides summarizing main points. 2. Speaker Introductions: Brief professional bios of each participant. 3. Panel Discussions: Recorded video discussions on various topics of futuristic technologies. 4. Ambient Music: Background playlists to enhance networking sessions."
+    },
+    {
+        "instruction": "Formulate a travel guide package for Paris, including a sightseeing itinerary (text), restaurant review videos (video), jazz club audio tours (audio), and a map of hidden gems (image).",
+        "output-abstract": "1. Itinerary, 2. Review Videos, 3. Audio Tours, 4. Hidden Gems Map.",
+        "output-detail": "1. Itinerary: Text-based plan covering major attractions, tips, and schedules. 2. Review Videos: Visual tours and testimonials of must-visit restaurants. 3. Audio Tours: Narratives of iconic jazz clubs\u2019 history and musical snippets. 4. Hidden Gems Map: Illustrated guide to lesser-known attractions."
+    },
+    {
+        "instruction": "Create a languages learning app featuring spelling quizzes (text), conversational practice dialogues (audio), grammar rules infographic (image), and cultural immersion videos (video).",
+        "output-abstract": "1. Spelling Quizzes, 2. Practice Dialogues, 3. Grammar Infographic, 4. Cultural Videos.",
+        "output-detail": "1. Spelling Quizzes: Interactive text-based tests on vocabulary. 2. Practice Dialogues: Recorded conversations for listening and speaking practice. 3. Grammar Infographic: Visual summary of key grammar points. 4. Cultural Videos: Visual insights into the culture of the language being learned."
+    },
+    {
+        "instruction": "Design a social media campaign for a local library\u2019s summer reading program, featuring themed book collections (image), reading challenges (text), author readings (video), and a soundtrack to read by (audio).",
+        "output-abstract": "1. Themed Book Collections, 2. Reading Challenges, 3. Author Readings, 4. Reading Soundtrack.",
+        "output-detail": "1. Themed Book Collections: Image collages of books sorted by themes. 2. Reading Challenges: Text-based prompts and challenges for summer reading. 3. Author Readings: Video clips of authors reading excerpts or discussing their work. 4. Reading Soundtrack: Curated audio playlists to accompany reading sessions."
+    },
+    {
+        "instruction": "Develop a content marketing strategy for an eco-friendly clothing brand, including blog posts on sustainability (text), fabric sourcing and production process documentaries (video), customer testimonial audio clips (audio), and product line photoshoots (image).",
+        "output-abstract": "1. Blog Posts, 2. Documentaries, 3. Testimonial Audio Clips, 4. Photoshoots.",
+        "output-detail": "1. Blog Posts: Written content on topics around sustainability and eco-friendly practices. 2. Documentaries: Behind-the-scenes videos of ethical fabric sourcing and garment production. 3. Testimonial Audio Clips: Voices of customers sharing their positive experiences. 4. Photoshoots: High-quality images showcasing the eco-friendly clothing line."
+    },
+    {
+        "instruction": "Compile a study guide for a college-level biology course, including illustrated lecture notes (image), study group discussion prompts (text), summary podcasts covering key concepts (audio), and lab experiment demonstration videos (video).",
+        "output-abstract": "1. Illustrated Lecture Notes, 2. Discussion Prompts, 3. Summary Podcasts, 4. Lab Videos.",
+        "output-detail": "1. Illustrated Lecture Notes: Visual aids and diagrams complementing text notes on topics. 2. Discussion Prompts: Questions and topics for group study sessions. 3. Summary Podcasts: Audio recaps of major concepts and theories. 4. Lab Videos: Step-by-step guides on conducting and understanding experiments."
+    },
+    {
+        "instruction": "Organize a global online art competition, including submission guidelines (text), promotional trailers (video), inspirational artwork examples (image), and a launch announcement voiceover (audio).",
+        "output-abstract": "1. Submission Guidelines, 2. Promotional Trailers, 3. Inspirational Art, 4. Launch Announcement.",
+        "output-detail": "1. Submission Guidelines: Comprehensive text detailing the theme, criteria, and process. 2. Promotional Trailers: Hyped video content to encourage participation. 3. Inspirational Art: Curated images showcasing previous winners or thematic ideas. 4. Launch Announcement: Engaging audio message to kick off the competition."
+    },
+    {
+        "instruction": "Produce a health and wellness guide for busy professionals, including stress management tips (text), quick healthy meal recipes (image), guided meditation sessions (audio), and home office ergonomics videos (video).",
+        "output-abstract": "1. Stress Management Tips, 2. Healthy Recipes, 3. Meditation Sessions, 4. Ergonomics Videos.",
+        "output-detail": "1. Stress Management Tips: Written advice on balancing work and self-care. 2. Healthy Recipes: Visual guides for preparing quick, nutritious meals. 3. Meditation Sessions: Audio tracks guiding listeners through relaxation techniques. 4. Ergonomics Videos: Video advice on setting up a healthy and productive workspace."
+    },
+    {
+        "instruction": "Craft a player's guide for a fantasy role-playing game, including character creation options (text), concept art (image), in-game music themes (audio), and cinematic trailers (video).",
+        "output-abstract": "1. Creation Options, 2. Concept Art, 3. In-game Music, 4. Cinematic Trailers.",
+        "output-detail": "1. Creation Options: Detailed descriptions of races, classes, and abilities. 2. Concept Art: Illustrations depicting game world, creatures, and characters. 3. In-game Music: Original soundtracks enhancing the gaming experience. 4. Cinematic Trailers: Engaging videos introducing the game's storyline and features."
+    },
+    {
+        "instruction": "Assemble a DIY home improvement guide, including safety tips (text), instructional videos (video), tool and material lists (text), and before-and-after project images (image).",
+        "output-abstract": "1. Safety Tips, 2. Instructional Videos, 3. Tool/Material Lists, 4. Project Images.",
+        "output-detail": "1. Safety Tips: Important precautions and best practices in text form. 2. Instructional Videos: Step-by-step visual guides on completing projects. 3. Tool/Material Lists: Comprehensive lists detailing necessary items for each project. 4. Project Images: Visual inspiration showing completed work for motivation."
+    },
+    {
+        "instruction": "Develop a promotional campaign for a music festival, including the lineup announcement (text), artist spotlight videos (video), festival anthems playlist (audio), and a festival map (image).",
+        "output-abstract": "1. Lineup Announcement, 2. Artist Spotlight, 3. Festival Anthems, 4. Festival Map.",
+        "output-detail": "1. Lineup Announcement: Text release of artists and bands performing. 2. Artist Spotlight: Short video introductions to highlight performers. 3. Festival Anthems: Audio collection of hit songs from the lineup. 4. Festival Map: Visually detailed guide to stages, amenities, and attractions."
+    },
+    {
+        "instruction": "Create a multimedia project on climate change impacts, including detailed articles (text), graphic temperature trends (image), survivor interviews (video), and environmental soundscape compositions (audio).",
+        "output-abstract": "1. Articles, 2. Temperature Trends, 3. Survivor Interviews, 4. Soundscapes.",
+        "output-detail": "1. Articles: In-depth textual content exploring various aspects of climate change. 2. Temperature Trends: Visual data representation of climate changes over time. 3. Survivor Interviews: Personal stories shared through video to illustrate the human impact. 4. Soundscapes: Audio compositions reflecting the environmental changes."
+    },
+    {
+        "instruction": "Design a virtual escape room game, including puzzle descriptions (text), room layout designs (image), suspenseful background music (audio), and intro/outro narrative videos (video).",
+        "output-abstract": "1. Puzzle Descriptions, 2. Room Layouts, 3. Background Music, 4. Narrative Videos.",
+        "output-detail": "1. Puzzle Descriptions: Text-based clues and challenges for players. 2. Room Layouts: Detailed images showing the design and clues within each virtual room. 3. Background Music: Audio tracks to enhance the game atmosphere and player immersion. 4. Narrative Videos: Video content to introduce and conclude the game story."
+    }
+]

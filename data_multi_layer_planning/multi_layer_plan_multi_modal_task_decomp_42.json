@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Design a promotional package for a new coffee blend including a name (text), packaging design (image), a jingle (audio), and a launch video (video).",
+        "output-abstract": "1. Name, 2. Packaging Design, 3. Jingle, 4. Launch Video.",
+        "output-detail": "1. Name: Create a catchy and evocative name that reflects the unique qualities of the coffee blend. 2. Packaging Design: Develop an eye-catching design utilizing warm colors to evoke the aroma and warmth of the coffee. Include visuals of coffee beans and cups. 3. Jingle: Compose a short, memorable jingle that encapsulates the essence of the coffee and encourages morning use. 4. Launch Video: Produce a 45-second video showcasing the joy of morning coffee rituals with the new blend, seamlessly integrating the jingle."
+    },
+    {
+        "instruction": "Craft a health and wellness app including app icon design (image), mission statement (text), a guided meditation audio (audio), and a user interface prototype (video).",
+        "output-abstract": "1. App Icon, 2. Mission Statement, 3. Guided Meditation Audio, 4. UI Prototype.",
+        "output-detail": "1. App Icon: Design a soothing and minimalist icon that represents tranquility and health. Use soft colors. 2. Mission Statement: Write a concise text that articulates the app\u2019s dedication to improving individual well-being through mindfulness and meditation. 3. Guided Meditation Audio: Record a 10-minute calming audio session aimed at beginners, focusing on breathing techniques. 4. UI Prototype: Create a short interactive video that demonstrates the app\u2019s user-friendly and intuitive navigation."
+    },
+    {
+        "instruction": "Produce an online cooking course including a course overview (text), introduction video (video), printable recipes (image/text), and a theme tune (audio).",
+        "output-abstract": "1. Overview, 2. Intro Video, 3. Recipes, 4. Theme Tune.",
+        "output-detail": "1. Overview: Draft a brief text summarizing the course objective, targeted audience, and what makes it unique. 2. Intro Video: Film a welcoming video that introduces the instructor, showcases the kitchen setup, and highlights what will be cooked. 3. Recipes: Design visually appealing recipe cards that are easy to follow, including high-quality images of the dishes. 4. Theme Tune: Compose a lively and inviting tune that plays at the beginning of each video lesson."
+    },
+    {
+        "instruction": "Create a blog post series on sustainable living with emphasis on zero waste, including blog banners (image), post entries (text), interview clips with experts (video), and a podcast episode (audio).",
+        "output-abstract": "1. Blog Banners, 2. Post Entries, 3. Interview Clips, 4. Podcast Episode.",
+        "output-detail": "1. Blog Banners: Design a series of eye-catching, theme-consistent banners for each blog post. Incorporate green and earth tones. 2. Post Entries: Write insightful and informative text entries covering different aspects of sustainable living and zero waste. Include practical tips. 3. Interview Clips: Record short video interviews with sustainability experts, focusing on their insights and recommendations. 4. Podcast Episode: Produce a comprehensive audio discussion on the journey and challenges of living a zero-waste lifestyle."
+    },
+    {
+        "instruction": "Develop a children\u2019s storybook that includes the story (text), illustrations (image), a reading of the story (audio), and an interactive storytelling app (video).",
+        "output-abstract": "1. Story, 2. Illustrations, 3. Story Reading, 4. Storytelling App.",
+        "output-detail": "1. Story: Create a magical, engaging narrative for children, with a moral lesson woven throughout. 2. Illustrations: Draw vibrant, detailed illustrations that bring the story to life on each page. 3. Story Reading: Record a captivating audio version of the story, possibly with different voices for characters. 4. Storytelling App: Design a brief video demo of an app that allows children to interact with the story through touch screen, choosing different paths for the characters."
+    },
+    {
+        "instruction": "Assemble a professional portfolio for a graphic designer including a biography (text), portfolio images (image), a portfolio overview video (video), and a presentation speech (audio).",
+        "output-abstract": "1. Biography, 2. Portfolio Images, 3. Overview Video, 4. Presentation Speech.",
+        "output-detail": "1. Biography: Write a compelling narrative detailing the designer's educational background, experience, and design philosophy. 2. Portfolio Images: Curate a selection of the designer's best work in high-quality images, neatly categorized by project. 3. Overview Video: Create a video that visually highlights projects within the portfolio, incorporating dynamic transitions and brief project descriptions. 4. Presentation Speech: Record an audio speech that the designer can use when presenting the portfolio to potential clients or at career fairs."
+    },
+    {
+        "instruction": "Design a social media campaign for Earth Day, including a series of informative posts (text/image), a cover video for profiles (video), and an Earth Day anthem (audio).",
+        "output-abstract": "1. Informative Posts, 2. Cover Video, 3. Earth Day Anthem.",
+        "output-detail": "1. Informative Posts: Create compelling visuals and short texts that highlight different Earth Day themes, like recycling, conservation, and biodiversity. Use engaging facts and calls to action. 2. Cover Video: Produce a short, inspiring video montage showcasing beautiful natural landscapes, people making a difference, and Earth Day events. 3. Earth Day Anthem: Compose an uplifting and motivational anthem that encourages unity and action for the planet, suitable for social media sharing."
+    },
+    {
+        "instruction": "Compile a digital photo album of a family vacation including photo selection (image), captions for each photo (text), a background music track (audio), and a slideshow video of the photos (video).",
+        "output-abstract": "1. Photo Selection, 2. Captions, 3. Background Music, 4. Slideshow Video.",
+        "output-detail": "1. Photo Selection: Choose the most memorable and high-quality photos that capture the essence of the vacation. 2. Captions: Write thoughtful, descriptive captions for each photo, sharing a snippet of the story or feeling evoked. 3. Background Music: Select or create a pleasant, fitting music track that complements the mood of the vacation. 4. Slideshow Video: Combine the selected photos and captions into a video slideshow, matching the pace of the background music."
+    },
+    {
+        "instruction": "Produce a tutorial video series on DIY home repairs including script writing (text), filming (video), step-by-step guides with diagrams (image/text), and voice-over instructions (audio).",
+        "output-abstract": "1. Script Writing, 2. Filming, 3. Step-by-Step Guides, 4. Voice-Over.",
+        "output-detail": "1. Script Writing: Develop detailed scripts for each tutorial video that outline the steps involved in the DIY project, materials needed, and safety tips. 2. Filming: Shoot high-definition video footage demonstrating the repair processes, ensuring clarity and good lighting. 3. Step-by-Step Guides: Design clear, easy-to-follow diagrams for complex steps, accompanied by concise textual instructions. 4. Voice-Over: Record clear, easy-to-understand voice-over instructions that synchronize with the video and diagrams."
+    },
+    {
+        "instruction": "Organize an educational webinar series on digital marketing including webinar outlines (text), presentation slides (image), promotional trailers (video), and Q&A session recordings (audio).",
+        "output-abstract": "1. Webinar Outlines, 2. Presentation Slides, 3. Promotional Trailers, 4. Q&A Sessions.",
+        "output-detail": "1. Webinar Outlines: Draft clear outlines for each webinar session, covering topics like SEO, content marketing, and social media strategies. 2. Presentation Slides: Design visually appealing slides that enhance the webinar content, using infographics and key points. 3. Promotional Trailers: Create short, engaging video trailers for each webinar, highlighting the key benefits and topics covered. 4. Q&A Sessions: Record the audio of live Q&A sessions during the webinars, for attendees to revisit important discussions."
+    },
+    {
+        "instruction": "Create a company newsletter including editorial content (text), employee photographs (image), an audio message from the CEO (audio), and a video tour of new office spaces (video).",
+        "output-abstract": "1. Editorial Content, 2. Employee Photographs, 3. CEO Audio Message, 4. Office Tour Video.",
+        "output-detail": "1. Editorial Content: Write engaging and informative articles on company updates, achievements, and future plans. 2. Employee Photographs: Take high-quality photos of employees in their working environments, capturing the company culture. 3. CEO Audio Message: Record a personal, encouraging message from the CEO discussing company values and goals. 4. Office Tour Video: Produce a professional video showcasing the new office spaces, emphasizing design features and employee amenities."
+    },
+    {
+        "instruction": "Develop an online course on photography including lesson plans (text), instructional videos (video), editing software tutorials (video), example photographs (image), and feedback session recordings (audio).",
+        "output-abstract": "1. Lesson Plans, 2. Instructional Videos, 3. Software Tutorials, 4. Example Photos, 5. Feedback Sessions.",
+        "output-detail": "1. Lesson Plans: Structure comprehensive text outlines for each lesson, detailing objectives, materials needed, and exercises. 2. Instructional Videos: Record high-quality videos that demonstrate shooting techniques, composition, and lighting. 3. Software Tutorials: Create detailed video guides on using editing software, including step-by-step instructions for beginners. 4. Example Photos: Provide a gallery of high-quality images that illustrate successful application of techniques taught. 5. Feedback Sessions: Record audio of feedback sessions where students can listen to critiques on submitted work, with constructive suggestions for improvement."
+    },
+    {
+        "instruction": "Design a language learning app including vocabulary lists (text), pronunciation guides (audio), interactive exercises (video), and cultural context lessons (text/image).",
+        "output-abstract": "1. Vocabulary Lists, 2. Pronunciation Guides, 3. Interactive Exercises, 4. Cultural Lessons.",
+        "output-detail": "1. Vocabulary Lists: Compile comprehensive lists of words and phrases categorized by topics, with text descriptions and example sentences. 2. Pronunciation Guides: Record clear, native pronunciation of each word and phrase in the vocabulary lists. 3. Interactive Exercises: Develop video-based, engaging exercises that allow users to practice vocabulary in real-life scenarios. 4. Cultural Lessons: Create lessons that combine text and images to provide insights into the cultural context and usage of the language, enhancing understanding."
+    },
+    {
+        "instruction": "Produce a music album including songwriting (text), album cover art (image), recording tracks (audio), and a behind-the-scenes documentary (video).",
+        "output-abstract": "1. Songwriting, 2. Album Cover, 3. Recording Tracks, 4. Documentary.",
+        "output-detail": "1. Songwriting: Craft the lyrics and music for each track, effectively conveying the album\u2019s theme. 2. Album Cover: Design an artistic and thematic cover that visually represents the album\u2019s mood and direction. 3. Recording Tracks: Capture high-quality audio recordings of each song, focusing on acoustic clarity and the artists' performances. 4. Documentary: Film a creative behind-the-scenes video showing the making of the album, including artist interviews, recording sessions, and the creative process."
+    },
+    {
+        "instruction": "Launch a fashion line including the collection theme (text), fashion sketches (image), runway show music (audio), and the runway show itself (video).",
+        "output-abstract": "1. Collection Theme, 2. Fashion Sketches, 3. Runway Music, 4. Runway Show.",
+        "output-detail": "1. Collection Theme: Develop a captivating narrative or concept that guides the fashion line, articulated through an engaging write-up. 2. Fashion Sketches: Create detailed illustrations of each piece in the collection, highlighting unique fabrics and silhouettes. 3. Runway Music: Select or produce a soundtrack that complements the theme of the collection, enhancing the runway atmosphere. 4. Runway Show: Organize and record the fashion show video, showcasing models wearing the collection, synchronized with the music and theme presentation."
+    },
+    {
+        "instruction": "Organize a virtual art exhibition including artist bios (text), artwork images (image), audio tours (audio), and a virtual gallery walk-through (video).",
+        "output-abstract": "1. Artist Bios, 2. Artwork Images, 3. Audio Tours, 4. Virtual Gallery.",
+        "output-detail": "1. Artist Bios: Write brief, informative biographies for each participating artist, highlighting their artistic journey and style. 2. Artwork Images: Collect high-resolution images of the art pieces featured in the exhibition. 3. Audio Tours: Produce audio guides that offer insights into the artworks and artists, enriching the viewing experience. 4. Virtual Gallery: Create an immersive video walk-through of the virtual exhibition space, guiding viewers through the displayed artworks and their stories."
+    },
+    {
+        "instruction": "Present a scholarly paper including the abstract (text), presentation slides (image/text), recorded lecture (audio), and an animated explanation of concepts (video).",
+        "output-abstract": "1. Abstract, 2. Presentation Slides, 3. Recorded Lecture, 4. Animated Explanation.",
+        "output-detail": "1. Abstract: Summarize the key findings and significance of the research in a concise, compelling manner. 2. Presentation Slides: Design clear, informative slides that support the narrative of the paper, including graphs and data visualizations. 3. Recorded Lecture: Deliver a detailed audio lecture on the study\u2019s methodology, results, and implications. 4. Animated Explanation: Develop an engaging, animated video that breaks down complex concepts and results for a broader audience."
+    },
+    {
+        "instruction": "Create a tutorial for a software application including a quick start guide (text), screencast tutorials (video), FAQ section (text), and user interface sound effects (audio).",
+        "output-abstract": "1. Quick Start Guide, 2. Screencast Tutorials, 3. FAQ, 4. UI Sound Effects.",
+        "output-detail": "1. Quick Start Guide: Write a clear, concise guide that provides new users with the steps to begin using the software effectively. 2. Screencast Tutorials: Produce detailed video screencasts that demonstrate how to use specific features of the software, including tips and tricks. 3. FAQ: Compile a list of frequently asked questions with comprehensive answers to help users solve common issues. 4. UI Sound Effects: Design subtle, yet intuitive sound effects for user interface interactions, enhancing the user experience."
+    },
+    {
+        "instruction": "Stage a virtual theatre production including the script (text), stage design concepts (image), original score (audio), and recording of the performance (video).",
+        "output-abstract": "1. Script, 2. Stage Design, 3. Original Score, 4. Performance Recording.",
+        "output-detail": "1. Script: Develop an engaging, original script that captures the essence of the story and its characters. 2. Stage Design: Sketch out innovative design concepts for the virtual stage, incorporating elements that enhance the storytelling. 3. Original Score: Compose a unique musical score that reflects the mood and dynamics of the play. 4. Performance Recording: Record the actors\u2019 performances, ensuring high-quality audio and video production, to bring the virtual theatre experience to the audience."
+    },
+    {
+        "instruction": "Plan a virtual conference including session descriptions (text), speaker headshots (image), keynote address (audio), and session recordings (video).",
+        "output-abstract": "1. Session Descriptions, 2. Speaker Headshots, 3. Keynote Address, 4. Session Recordings.",
+        "output-detail": "1. Session Descriptions: Write detailed outlines of each session, including topics, objectives, and speaker bios. 2. Speaker Headshots: Collect professional photographs of all speakers to accompany their bios and session descriptions. 3. Keynote Address: Record the audio of the keynote speech, focusing on the conference's theme and major takeaways. 4. Session Recordings: Capture video recordings of each session, ensuring clear audio and video quality for streaming or post-conference access."
+    }
+]

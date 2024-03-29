@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Develop a marketing strategy for a new eco-friendly toothbrush, including a product name (text), branding guidelines (text), advertisement script (text), and a promotional video (video).",
+        "output-abstract": "1. Product Name, 2. Branding Guidelines, 3. Advertisement Script, 4. Promotional Video.",
+        "output-detail": "1. Product Name: Brainstorm eco-centric names that highlight sustainability. 2. Branding Guidelines: Use green and blue colors, and a leaf motif; eco-friendly messaging tone. 3. Advertisement Script: Outline problem with plastic, introduce product as solution with benefits. 4. Promotional Video: Combine real-life footage and animation to show the toothbrush's impact on reducing plastic waste."
+    },
+    {
+        "instruction": "Create a historical documentary about the Roman Empire. It requires extensive research (text), scriptwriting (text), selection of historical images and recordings (image and audio), and final video editing (video).",
+        "output-abstract": "1. Research, 2. Scriptwriting, 3. Image/Recording Selection, 4. Final Video Editing.",
+        "output-detail": "1. Research: Gather credible sources on Roman history. 2. Scriptwriting: Narrate the rise and fall, focusing on key events. 3. Image/Recording Selection: Find artifacts and audio recordings descriptive of that era. 4. Final Video Editing: Compile the narrative, images, and recordings into a cohesive documentary."
+    },
+    {
+        "instruction": "Compose a short story inspired by a famous painting (text), creating an original soundtrack (audio) for its audiobook version, and design its book cover (image).",
+        "output-abstract": "1. Short Story, 2. Original Soundtrack, 3. Book Cover.",
+        "output-detail": "1. Short Story: Develop a narrative influenced by the painting's themes and emotions. 2. Original Soundtrack: Use elements from the story to compose mood-matching music. 3. Book Cover: Design a cover that reflects the story's theme and the painting's style."
+    },
+    {
+        "instruction": "Design a mobile app that helps users practice mindfulness through guided meditations (audio), mood tracking (text), and sharing experiences with a community (text).",
+        "output-abstract": "1. Guided Meditations, 2. Mood Tracking, 3. Community Sharing.",
+        "output-detail": "1. Guided Meditations: Record a series of audio sessions for different mindfulness exercises. 2. Mood Tracking: Develop a template for users to record their daily emotional states. 3. Community Sharing: Create a forum for users to share and discuss their mindfulness journey."
+    },
+    {
+        "instruction": "Create a virtual gallery showcasing famous artists' work, including high-resolution images (image), detailed analyses (text), and voice-guided tours (audio).",
+        "output-abstract": "1. High-Resolution Images, 2. Detailed Analyses, 3. Voice-Guided Tours.",
+        "output-detail": "1. High-Resolution Images: Secure permissions and source high-quality digital reproductions of artworks. 2. Detailed Analyses: Write comprehensive insights on each artwork's history, technique, and impact. 3. Voice-Guided Tours: Record audio guides offering a narrated experience of the gallery."
+    },
+    {
+        "instruction": "Produce an educational YouTube series teaching basic physics concepts, including lesson planning (text), visual aids design (image), explanatory videos (video), and quizzes (text).",
+        "output-abstract": "1. Lesson Planning, 2. Visual Aids, 3. Explanatory Videos, 4. Quizzes.",
+        "output-detail": "1. Lesson Planning: Structure each episode around a key physics concept. 2. Visual Aids: Create engaging infographics to illustrate complex theories. 3. Explanatory Videos: Develop clear and concise video tutorials. 4. Quizzes: Design interactive quizzes for viewers to test their understanding."
+    },
+    {
+        "instruction": "Develop a health and fitness app featuring workout plans (text), nutritional advice (text), instructional workout videos (video), and a feature to track workouts and diet (text).",
+        "output-abstract": "1. Workout Plans, 2. Nutritional Advice, 3. Instructional Videos, 4. Tracking Feature.",
+        "output-detail": "1. Workout Plans: Design a variety of routines for different fitness levels. 2. Nutritional Advice: Compile evidence-based dietary guidelines. 3. Instructional Videos: Film exercise demonstrations highlighting proper techniques. 4. Tracking Feature: Implement a system for users to log their workouts and meals."
+    },
+    {
+        "instruction": "Design a digital cookbook for traditional Italian cuisine, including recipe selection (text), photo illustrations (image), instructional cooking videos (video), and regional wine pairing suggestions (text).",
+        "output-abstract": "1. Recipe Selection, 2. Photo Illustrations, 3. Instructional Videos, 4. Wine Pairings.",
+        "output-detail": "1. Recipe Selection: Gather authentic recipes from various Italian regions. 2. Photo Illustrations: Take high-quality images of each dish's preparation steps and final presentation. 3. Instructional Videos: Create step-by-step cooking tutorials. 4. Wine Pairings: Research and recommend wines that complement each dish."
+    },
+    {
+        "instruction": "Create a corporate training program on diversity and inclusion, featuring a foundational eBook (text), interactive case studies (text and image), role-playing scenarios (video), and quizzes (text).",
+        "output-abstract": "1. Foundational eBook, 2. Interactive Case Studies, 3. Role-Playing Scenarios, 4. Quizzes.",
+        "output-detail": "1. Foundational eBook: Write comprehensive content covering principles of diversity and inclusion. 2. Interactive Case Studies: Develop real-world scenarios that require problem-solving. 3. Role-Playing Scenarios: Film enactments of workplace situations to foster empathy and understanding. 4. Quizzes: Assess participant's grasp of the material with thought-provoking questions."
+    },
+    {
+        "instruction": "Launch a multi-platform campaign for World Environment Day, involving social media posts (text and image), an awareness video (video), podcast episodes on environmental issues (audio), and an interactive web application educating users about their carbon footprint (text and interactive elements).",
+        "output-abstract": "1. Social Media Posts, 2. Awareness Video, 3. Podcast Episodes, 4. Interactive Web Application.",
+        "output-detail": "1. Social Media Posts: Craft engaging content paired with striking visuals highlighting environmental challenges. 2. Awareness Video: Produce a compelling narrative showing the impact of human activities on the planet. 3. Podcast Episodes: Record discussions with experts on reducing environmental footprints. 4. Interactive Web Application: Build a tool for users to calculate and understand their carbon emissions and how to reduce them."
+    },
+    {
+        "instruction": "Produce a series of Greeting Cards for various occasions (birthday, wedding, sympathy), including card design (image), personalization options (text), and select cards featuring an audio message (audio).",
+        "output-abstract": "1. Card Design, 2. Personalization Options, 3. Audio Messages.",
+        "output-detail": "1. Card Design: Create visually appealing templates for each occasion. 2. Personalization Options: Develop a set of customizable text phrases for clients to choose from. 3. Audio Messages: Record a selection of heartfelt audio messages that can be embedded in the cards."
+    },
+    {
+        "instruction": "Develop a virtual museum exhibit on Ancient Egypt, featuring a 3D tour (video), educational content on artifacts (text), narrated historical timelines (audio), and interactive quizzes (text).",
+        "output-abstract": "1. 3D Tour, 2. Artifacts Content, 3. Narrated Timelines, 4. Quizzes.",
+        "output-detail": "1. 3D Tour: Design a virtual space replicating an Egyptian museum, allowing users to explore exhibits. 2. Artifacts Content: Provide detailed descriptions and historical contexts of exhibits. 3. Narrated Timelines: Record audio guides that walk through the history of Ancient Egypt. 4. Quizzes: Include interactive quizzes to test user's knowledge on the exhibit topics."
+    },
+    {
+        "instruction": "Create a public health awareness campaign on the importance of vaccinations, including infographic posters (image), informative articles (text), explainer videos (video), and a podcast series with experts (audio).",
+        "output-abstract": "1. Infographic Posters, 2. Informative Articles, 3. Explainer Videos, 4. Podcast Series.",
+        "output-detail": "1. Infographic Posters: Design posters with compelling visuals and statistics to illustrate vaccination benefits. 2. Informative Articles: Write detailed articles debunking common myths and presenting scientific facts. 3. Explainer Videos: Produce short videos that explain how vaccines work and their importance. 4. Podcast Series: Host discussions with healthcare professionals about vaccine development and effectiveness."
+    },
+    {
+        "instruction": "Curate an online art exhibition focused on climate change, including artist selection (text), digital gallery creation (image and video), descriptive captions (text), and an ambient soundtrack (audio) that complements the theme.",
+        "output-abstract": "1. Artist Selection, 2. Digital Gallery Creation, 3. Descriptive Captions, 4. Ambient Soundtrack.",
+        "output-detail": "1. Artist Selection: Choose artists whose work powerfully represents themes of climate change. 2. Digital Gallery Creation: Build a virtual exhibition space with high-quality images and video tours of the art pieces. 3. Descriptive Captions: Write informative captions that explain each piece's relevance to climate change. 4. Ambient Soundtrack: Compose a collection of soundscapes that enhance the exhibition's atmosphere and theme."
+    },
+    {
+        "instruction": "Devise a comprehensive plan for a college's virtual open day, including a welcome message from the Dean (audio), introductory presentations to various departments (video), downloadable prospectus and curriculum details (text), and a virtual campus tour (video).",
+        "output-abstract": "1. Welcome Message, 2. Department Presentations, 3. Prospectus & Curriculum Details, 4. Virtual Campus Tour.",
+        "output-detail": "1. Welcome Message: Record a greeting from the Dean outlining the day's events. 2. Department Presentations: Prepare videos introducing faculty members and showcasing department achievements. 3. Prospectus & Curriculum Details: Provide PDF documents detailing academic programs and application procedures. 4. Virtual Campus Tour: Film a guided tour of campus facilities highlighting key locations."
+    },
+    {
+        "instruction": "Launch an online language learning platform, featuring interactive lessons in text format (text), pronunciation guides via audio recordings (audio), cultural context videos (video), and quizzes to assess progress (text).",
+        "output-abstract": "1. Lessons, 2. Pronunciation Guides, 3. Culture Videos, 4. Quizzes.",
+        "output-detail": "1. Lessons: Create structured text-based lessons for various language skills. 2. Pronunciation Guides: Record native speakers for accurate pronunciation and intonation examples. 3. Culture Videos: Produce videos that explore linguistic nuances within cultural contexts. 4. Quizzes: Design assessments to reinforce lesson content and measure learner progress."
+    },
+    {
+        "instruction": "Organize a virtual book club, including selection of monthly reading material (text), discussion guides (text), guest author webinars (video), and an online forum for ongoing discussions (text).",
+        "output-abstract": "1. Reading Material, 2. Discussion Guides, 3. Author Webinars, 4. Online Forum.",
+        "output-detail": "1. Reading Material: Choose engaging books that span various genres. 2. Discussion Guides: Prepare questions that provoke thought and discussion on the book's themes. 3. Author Webinars: Coordinate with authors to host live Q&A sessions. 4. Online Forum: Set up a platform for members to share insights and connect over shared readings."
+    },
+    {
+        "instruction": "Create a branding package for a start-up caf\u00e9, including the logo design (image), the creation of a company slogan (text), menu design (text and image), and a promotional video featuring the caf\u00e9's atmosphere and specialties (video).",
+        "output-abstract": "1. Logo Design, 2. Company Slogan, 3. Menu Design, 4. Promotional Video.",
+        "output-detail": "1. Logo Design: Develop a unique logo that embodies the caf\u00e9's cozy and welcoming vibe. 2. Company Slogan: Craft a memorable slogan that highlights the caf\u00e9\u2019s commitment to quality and community. 3. Menu Design: Create visually appealing menu layouts that feature high-quality images of the food and drinks. 4. Promotional Video: Produce a video that showcases the caf\u00e9\u2019s ambiance, menu offerings, and customer experiences."
+    },
+    {
+        "instruction": "Compile a comprehensive fitness e-guide for beginners, including an introduction to basic concepts (text), workout routines with illustrated exercises (image), motivational audio content (audio), and progress tracking sheets (text).",
+        "output-abstract": "1. Introduction, 2. Workout Routines, 3. Motivational Audio, 4. Progress Tracking.",
+        "output-detail": "1. Introduction: Outline the e-guide's purpose and key fitness concepts for beginners. 2. Workout Routines: Illustrate each exercise with detailed images and instructions. 3. Motivational Audio: Record inspiring messages to keep readers engaged and motivated. 4. Progress Tracking: Provide templates for tracking workouts, nutrition, and overall progress."
+    },
+    {
+        "instruction": "Develop a content strategy for a travel blog focusing on sustainable tourism, including blog post topics and outlines (text), engaging social media content (text and image), podcast episodes discussing sustainable travel practices (audio), and an e-book guide on eco-friendly destinations (text).",
+        "output-abstract": "1. Blog Posts, 2. Social Media Content, 3. Podcast Episodes, 4. E-book Guide.",
+        "output-detail": "1. Blog Posts: Identify compelling topics that highlight sustainable travel tips and destinations. 2. Social Media Content: Craft visually appealing posts that promote responsible tourism and engage the community. 3. Podcast Episodes: Record informative sessions with experts on sustainable travel. 4. E-book Guide: Compile a comprehensive guide to the world\u2019s most eco-friendly travel spots."
+    },
+    {
+        "instruction": "Design a digital learning module for children about solar system exploration, including interactive eBooks (text), augmented reality (AR) sky maps (video), narrated space mission histories (audio), and quizzes (text).",
+        "output-abstract": "1. Interactive eBooks, 2. AR Sky Maps, 3. Space Mission Histories, 4. Quizzes.",
+        "output-detail": "1. Interactive eBooks: Create engaging text-based content that introduces key concepts about the solar system. 2. AR Sky Maps: Develop an app that overlays interactive, informational content on real-time views of the night sky. 3. Space Mission Histories: Produce audio narrations covering landmark space missions and their significance. 4. Quizzes: Design interactive quizzes that reinforce learning and encourage exploration."
+    }
+]

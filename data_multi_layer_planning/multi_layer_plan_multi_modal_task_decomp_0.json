@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Develop a health app feature that analyzes sleep patterns using audio recordings of sleep sounds and provides personalized sleep improvement tips (text).",
+        "output-abstract": "1. Audio Analysis, 2. Sleep Pattern Identification, 3. Personalized Tips.",
+        "output-detail": "1. Audio Analysis: Record and analyze different sleep sounds to recognize patterns. 2. Sleep Pattern Identification: Categorize the audio into sleep stages and note disturbances. 3. Personalized Tips: Generate text-based advice based on the identified sleep patterns, focusing on improving sleep quality."
+    },
+    {
+        "instruction": "Create a digital cookbook that includes a collection of recipes (text), instructional videos (video), and high-quality images of the dishes (image). Provide a summary analysis of the cookbook's theme (text).",
+        "output-abstract": "1. Collection of Recipes, 2. Instructional Videos, 3. Dish Images, 4. Cookbook Summary.",
+        "output-detail": "1. Collection of Recipes: Curate a variety of meal recipes, focusing on a central theme. 2. Instructional Videos: Film step-by-step guides for preparing some of the key dishes. 3. Dish Images: Photograph each completed dish in high resolution. 4. Cookbook Summary: Analyze and summarize the theme, target audience, and unique selling points of the cookbook."
+    },
+    {
+        "instruction": "Generate a short documentary on urban wildlife, combining narrated audio (audio), text-based facts (text), video clips of animals (video), and a photographic slideshow (image). Conclude with an analysis of urban wildlife's impact on local ecosystems (text).",
+        "output-abstract": "1. Narrated Audio, 2. Text Facts, 3. Video Clips, 4. Photo Slideshow, 5. Ecosystem Impact Analysis.",
+        "output-detail": "1. Narrated Audio: Create engaging audio narration detailing the life of urban wildlife. 2. Text Facts: Compile interesting facts about each species featured. 3. Video Clips: Capture short clips of animals in urban settings. 4. Photo Slideshow: Assemble a series of high-quality images for a visual journey. 5. Ecosystem Impact Analysis: Discuss the symbiotic relationships and challenges between urban wildlife and city ecosystems."
+    },
+    {
+        "instruction": "Compose a piece of instrumental music inspired by rain (audio), create a digital painting of the mood the music evokes (image), and write a descriptive analysis (text) of how the elements interconnect.",
+        "output-abstract": "1. Instrumental Music, 2. Digital Painting, 3. Descriptive Analysis.",
+        "output-detail": "1. Instrumental Music: Develop a soothing, rain-inspired melody using various instruments. 2. Digital Painting: Create artwork that visualizes the feeling evoked by the music. 3. Descriptive Analysis: Analyze how the music's mood is effectively captured and reflected in the digital painting."
+    },
+    {
+        "instruction": "Design a virtual travel experience featuring historical landmarks around the world. Include interactive maps (image), narrated historical backgrounds (audio), panoramic videos of the landmarks (video), and engaging quizzes (text) about each site.",
+        "output-abstract": "1. Interactive Maps, 2. Narrated Histories, 3. Panoramic Videos, 4. Engaging Quizzes.",
+        "output-detail": "1. Interactive Maps: Create detailed maps that allow users to virtually travel between landmarks. 2. Narrated Histories: Provide audio narration that details the history and significance of each landmark. 3. Panoramic Videos: Film 360-degree videos at each landmark for immersive virtual tours. 4. Engaging Quizzes: Develop informative quizzes that test users' knowledge on the landmarks visited."
+    },
+    {
+        "instruction": "Produce an educational series on solar system exploration, including an introductory animation (video), infographic posters on each planet (image), narrations explaining their unique features (audio), and a concluding video summarizing key discoveries (video).",
+        "output-abstract": "1. Introductory Animation, 2. Infographic Posters, 3. Planet Narrations, 4. Summary Video.",
+        "output-detail": "1. Introductory Animation: Create an engaging video that introduces the solar system exploration theme. 2. Infographic Posters: Design posters for each planet, highlighting their characteristics visually. 3. Planet Narrations: Record audio descriptions for the unique features and facts of each planet. 4. Summary Video: Produce a concluding video that gathers all key facts and discoveries into a compelling narrative."
+    },
+    {
+        "instruction": "Curate a virtual art gallery exhibit featuring contemporary digital artists. Incorporate artist interviews (video and audio), artwork images (image), and critical reviews of the pieces (text). Offer a virtual tour of the gallery (video).",
+        "output-abstract": "1. Artist Interviews, 2. Artwork Images, 3. Critical Reviews, 4. Virtual Tour.",
+        "output-detail": "1. Artist Interviews: Conduct and record interviews with the artists on their inspirations and techniques, in both video and audio formats. 2. Artwork Images: Collect high-resolution images of the featured artworks. 3. Critical Reviews: Write insightful critiques on the artworks showcased. 4. Virtual Tour: Develop a video tour that guides viewers through the exhibit, including commentary on selected pieces."
+    },
+    {
+        "instruction": "Create a promotional campaign for a new e-bike model, including a catchy slogan (text), a demonstration video highlighting its features (video), lifestyle photos with the e-bike (image), and ambient background music for the video (audio).",
+        "output-abstract": "1. Catchy Slogan, 2. Demonstration Video, 3. Lifestyle Photos, 4. Background Music.",
+        "output-detail": "1. Catchy Slogan: Craft a memorable phrase that encapsulates the e-bike's appeal. 2. Demonstration Video: Produce a video showing the e-bike in action, emphasizing its unique features. 3. Lifestyle Photos: Photograph the e-bike in various urban settings, showcasing its versatility. 4. Background Music: Compose or select a suitable ambient track to enhance the video's mood."
+    },
+    {
+        "instruction": "Develop a multilingual language learning platform featuring basics of languages. Include interactive audio lessons (audio), written exercises (text), video pronunciation guides (video), and flashcards for vocabulary (image).",
+        "output-abstract": "1. Audio Lessons, 2. Written Exercises, 3. Pronunciation Guides, 4. Vocabulary Flashcards.",
+        "output-detail": "1. Audio Lessons: Create engaging lessons focusing on pronunciation and listening skills. 2. Written Exercises: Provide text-based grammatical exercises and quizzes. 3. Pronunciation Guides: Film native speakers demonstrating the correct pronunciation of words and sentences. 4. Vocabulary Flashcards: Design flashcards with the word, its meaning, and a picture to aid memorization."
+    },
+    {
+        "instruction": "Organize a virtual music festival featuring various artists. Plan for live performances (video), artist interviews (audio), interactive fan Q&A sessions (text), and a festival highlights reel (video).",
+        "output-abstract": "1. Live Performances, 2. Artist Interviews, 3. Fan Q&A, 4. Highlights Reel.",
+        "output-detail": "1. Live Performances: Schedule and stream live performances from multiple artists in a cohesive sequence. 2. Artist Interviews: Record pre- or post-performance interviews with artists discussing their music and experiences. 3. Fan Q&A: Host text-based interactive Q&A sessions allowing fans to ask artists questions. 4. Highlights Reel: Compile the best moments from performances, interviews, and Q&As into a memorable video montage."
+    },
+    {
+        "instruction": "Design an interactive online journey through the history of cinema, including text-based timelines (text), iconic movie clips (video), poster collections (image), and soundtrack medleys (audio). End with an analytical essay on cinema's evolution (text).",
+        "output-abstract": "1. Timelines, 2. Movie Clips, 3. Poster Collections, 4. Soundtrack Medleys, 5. Analytical Essay.",
+        "output-detail": "1. Timelines: Develop comprehensive timelines highlighting key milestones in cinema history. 2. Movie Clips: Curate clips from iconic films representing different eras. 3. Poster Collections: Assemble digital galleries of movie posters over the decades. 4. Soundtrack Medleys: Collect and merge pieces of significant film scores. 5. Analytical Essay: Write a detailed exploration of how cinema has evolved and its impact on culture and society."
+    },
+    {
+        "instruction": "Produce a multi-episode podcast series on innovative technologies, featuring expert interviews (audio), show notes with key points and resources (text), and interactive listener polls on each episode's topic (text).",
+        "output-abstract": "1. Expert Interviews, 2. Show Notes, 3. Listener Polls.",
+        "output-detail": "1. Expert Interviews: Record discussions with technology experts covering various innovative topics. 2. Show Notes: Compile detailed notes including summary, key points, and additional resources for each episode. 3. Listener Polls: Create and share interactive polls related to the episode's content, encouraging audience engagement."
+    },
+    {
+        "instruction": "Launch an online travel guide to European cities, showcasing street-level photography (image), narrated cultural histories (audio), city-specific travel tips (text), and virtual reality tours of landmarks (video).",
+        "output-abstract": "1. Street-Level Photography, 2. Cultural Histories, 3. Travel Tips, 4. Virtual Tours.",
+        "output-detail": "1. Street-Level Photography: Capture the essence of each city from a pedestrian's perspective through high-quality images. 2. Cultural Histories: Present audio narrations exploring the rich histories and cultural backgrounds of the featured cities. 3. Travel Tips: Write practical, city-specific advice for travelers. 4. Virtual Tours: Develop VR-compatible videos for an immersive experience of the cities' major landmarks."
+    },
+    {
+        "instruction": "Create a series of educational children\u2019s books that include simple narratives (text), accompanying illustrations (image), audio story versions (audio), and animated storybook videos (video).",
+        "output-abstract": "1. Narratives, 2. Illustrations, 3. Audio Stories, 4. Animated Videos.",
+        "output-detail": "1. Narratives: Write engaging stories with educational themes tailored for children. 2. Illustrations: Produce colorful and expressive illustrations that complement each story. 3. Audio Stories: Record narrations of the stories, adding sound effects and music to enhance engagement. 4. Animated Videos: Create animated adaptations of the stories, bringing them to life for young viewers."
+    },
+    {
+        "instruction": "Develop a marketing strategy for an eco-friendly product, involving an educational infographic (image) about environmental impacts, a promotional video (video) demonstrating the product in use, customer testimonials (video), and a FAQ section (text).",
+        "output-abstract": "1. Educational Infographic, 2. Promotional Video, 3. Customer Testimonials, 4. FAQ Section.",
+        "output-detail": "1. Educational Infographic: Design an infographic that illustrates the environmental benefits of the eco-friendly product. 2. Promotional Video: Produce a video that showcases how the product works and its advantages. 3. Customer Testimonials: Compile video interviews with users sharing their positive experiences. 4. FAQ Section: Create a detailed FAQ to address potential questions and concerns, providing informative answers."
+    },
+    {
+        "instruction": "Compose a meditation guide combining soothing background tracks (audio), calming imagery (image), guided meditation scripts (text), and instructional meditation videos (video).",
+        "output-abstract": "1. Background Tracks, 2. Calming Imagery, 3. Meditation Scripts, 4. Instructional Videos.",
+        "output-detail": "1. Background Tracks: Select or compose peaceful music pieces that enhance relaxation. 2. Calming Imagery: Curate or create images with tranquil scenes or abstract patterns that promote calmness. 3. Meditation Scripts: Write scripts for guided meditations, focusing on various techniques and themes. 4. Instructional Videos: Produce videos that visually guide viewers through meditation exercises and practices."
+    },
+    {
+        "instruction": "Organize a coding bootcamp program with tutorial videos (video), coding exercises (text), interactive coding challenges (text), and a gallery of project showcases (image). Include participant feedback as a reflection (text).",
+        "output-abstract": "1. Tutorial Videos, 2. Coding Exercises, 3. Interactive Challenges, 4. Project Showcases, 5. Participant Feedback.",
+        "output-detail": "1. Tutorial Videos: Create concise, informative videos covering essential programming concepts and languages. 2. Coding Exercises: Design a series of text-based exercises that reinforce the video lessons. 3. Interactive Challenges: Develop challenges that encourage learners to apply their skills in real-world scenarios. 4. Project Showcases: Compile a digital gallery of standout projects completed by participants. 5. Participant Feedback: Collect and summarize feedback from participants to highlight the program's impact and areas for improvement."
+    },
+    {
+        "instruction": "Create a social media campaign for a charity event, including an event announcement video (video), visually engaging posters (image), descriptive posts outlining the event's purpose (text), and a catchy theme song (audio).",
+        "output-abstract": "1. Announcement Video, 2. Posters, 3. Descriptive Posts, 4. Theme Song.",
+        "output-detail": "1. Announcement Video: Produce a compelling video that teases the event and calls to action. 2. Posters: Design eye-catching posters that highlight key information and the event date. 3. Descriptive Posts: Develop descriptive social media posts that detail the event's goals, significance, and why people should participate. 4. Theme Song: Compose an original, catchy song that encapsulates the spirit of the charity event."
+    },
+    {
+        "instruction": "Develop a study platform for historical battles, including detailed articles on each battle (text), maps showing troop movements (image), documentary-style explanation videos (video), and a podcast series featuring expert analysis (audio).",
+        "output-abstract": "1. Detailed Articles, 2. Maps, 3. Explanation Videos, 4. Podcast Series.",
+        "output-detail": "1. Detailed Articles: Write comprehensive articles that cover the background, key figures, and outcomes of significant battles. 2. Maps: Create or curate maps that visually illustrate troop movements and strategies. 3. Explanation Videos: Film documentary-style videos that provide visual and narrative insights into each battle. 4. Podcast Series: Produce a podcast series with historians and military experts discussing lesser-known details and analysis of the battles."
+    },
+    {
+        "instruction": "Launch an online platform for film enthusiasts, incorporating a blog for film reviews (text), a user-contributed photo gallery of movie-themed cosplay (image), podcasts discussing film theories and history (audio), and trailers of upcoming films (video).",
+        "output-abstract": "1. Film Reviews, 2. Cosplay Gallery, 3. Podcasts, 4. Upcoming Trailers.",
+        "output-detail": "1. Film Reviews: Create a blog where contributors can post detailed analyses of films, both classic and new. 2. Cosplay Gallery: Enable users to upload images of their movie-themed cosplay, creating a vibrant community gallery. 3. Podcasts: Develop a series of podcasts where hosts engage in discussions about film theories, history, and industry insights. 4. Upcoming Trailers: Provide a section for the latest trailers, allowing fans to watch and discuss upcoming films."
+    },
+    {
+        "instruction": "Design a tutorial for beginner photographers, including text-based photography principles (text), example photos showing different techniques (image), video tutorials for using camera settings (video), and a podcast discussing common challenges and solutions (audio).",
+        "output-abstract": "1. Photography Principles, 2. Technique Examples, 3. Camera Setting Tutorials, 4. Challenge Podcast.",
+        "output-detail": "1. Photography Principles: Write concise guides covering basic photography rules and composition tips. 2. Technique Examples: Showcase photographs that illustrate various shooting techniques and the effects achieved. 3. Camera Setting Tutorials: Produce videos that explain how to adjust camera settings for different scenarios. 4. Challenge Podcast: Create a podcast series addressing common beginner photographer challenges with expert advice and solution discussions."
+    }
+]

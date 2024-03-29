@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Create a podcast series cover art (image), intro music (audio), and episode summary template (text). Define the aesthetic and thematic consistency across them.",
+        "output-abstract": "1. Cover Art, 2. Intro Music, 3. Episode Summary Template.",
+        "output-detail": "1. Cover Art: Select a central theme reflecting podcast content, incorporate symbolic elements into the design. 2. Intro Music: Compose a short piece that captures the podcast's mood, use instruments that align with the theme. 3. Episode Summary Template: Design a text format that includes sections for episode title, guest names, key points, and a closing thought. Ensure the template's font and style match the art and music vibes."
+    },
+    {
+        "instruction": "Design a digital marketing campaign for an eco-friendly product, including an advertisement video (video), a series of promotional images (image), and engaging post captions (text).",
+        "output-abstract": "1. Advertisement Video, 2. Promotional Images, 3. Post Captions.",
+        "output-detail": "1. Advertisement Video: Storyboard a narrative emphasizing eco-friendliness, use natural lighting and greenery for scenes. Include customer testimonials. 2. Promotional Images: Capture the product in natural settings, employ photo editing to highlight its eco-friendly aspects. 3. Post Captions: Draft text that tells a story about the product's impact on the environment, include compelling calls-to-action that link back to the product's unique selling proposition."
+    },
+    {
+        "instruction": "Create an e-learning course on basic photography, incorporating a course outline (text), lesson presentations (image), and instructional videos (video). Detail the structure and interactivity aspects.",
+        "output-abstract": "1. Course Outline, 2. Lesson Presentations, 3. Instructional Videos.",
+        "output-detail": "1. Course Outline: Break down the course into modules covering different photography basics, like composition, lighting, and editing. 2. Lesson Presentations: Use vibrant images and infographics to illustrate points in each module, ensure visual consistency across presentations. 3. Instructional Videos: Produce step-by-step guides for practical photography exercises, incorporate picture-in-picture editing to show camera settings in action."
+    },
+    {
+        "instruction": "Develop a brand identity package for a new coffee shop, including logo design (image), brand story (text), and a signature background music playlist (audio). Highlight the brand's unique atmosphere.",
+        "output-abstract": "1. Logo Design, 2. Brand Story, 3. Signature Music Playlist.",
+        "output-detail": "1. Logo Design: Craft a logo that combines coffee-related imagery with elements reflecting the shop\u2019s unique atmosphere, like warmth or modernity. 2. Brand Story: Write a narrative that delves into the origins of the shop, the passion behind it, and the experience it aims to provide. 3. Signature Music Playlist: Curate a playlist that matches the shop\u2019s vibe, blending genres to cater to a diverse clientele while maintaining an overall cohesive mood."
+    },
+    {
+        "instruction": "Produce a travel vlog series documenting a trip across Europe, featuring vlogs (video), photography (image), and a travel diary (text). Discuss the integration of storytelling elements across the contents.",
+        "output-abstract": "1. Vlogs, 2. Photography, 3. Travel Diary.",
+        "output-detail": "1. Vlogs: Record daily activities, highlight spontaneous moments and scenic views. Use a personal storytelling style to engage viewers. 2. Photography: Capture landscapes, architectural details, and candid moments. Use these images to complement the vlog storyline. 3. Travel Diary: Write detailed accounts of each destination, including personal reflections and travel tips. Integrate diary entries with vlogs and photography to offer a comprehensive travel narrative."
+    },
+    {
+        "instruction": "Construct a comprehensive fitness guide for beginners, containing workout routines (text), demonstration videos (video), and motivational before-and-after images (image). Emphasize proper form and safety.",
+        "output-abstract": "1. Workout Routines, 2. Demonstration Videos, 3. Before-and-After Images.",
+        "output-detail": "1. Workout Routines: Write down exercises for different body parts, detailing sets, reps, and rest times. 2. Demonstration Videos: Record video instructions showing correct posture and movements for each exercise, highlighting common mistakes. 3. Before-and-After Images: Showcase transformation stories through images to motivate beginners, ensuring the presentation respects privacy and promotes a healthy body image."
+    },
+    {
+        "instruction": "Orchestrate an online art exhibition, featuring a virtual gallery tour (video), artist interviews (audio), and a catalog of artworks (image). Discuss how each element contributes to an immersive experience.",
+        "output-abstract": "1. Virtual Gallery Tour, 2. Artist Interviews, 3. Artwork Catalog.",
+        "output-detail": "1. Virtual Gallery Tour: Create a video walkthrough of the exhibition space, using cinematic techniques to highlight the artworks. 2. Artist Interviews: Record interviews with the artists, discussing their inspirations and techniques. Use background music subtly to enhance the mood. 3. Artwork Catalog: Compile high-quality images of the artworks with descriptions, arranging them in a visually appealing manner that encourages exploration."
+    },
+    {
+        "instruction": "Design a social media challenge to promote a new album release, involving a dance challenge video (video), a catchy hashtag (text), and a filter effect depicting the album theme (image).",
+        "output-abstract": "1. Dance Challenge Video, 2. Catchy Hashtag, 3. Filter Effect.",
+        "output-detail": "1. Dance Challenge Video: Choreograph a simple yet engaging dance, film a demonstration video that highlights the album\u2019s core musical themes. 2. Catchy Hashtag: Develop a memorable and relevant hashtag that encapsulates the essence of the album and encourages sharing. 3. Filter Effect: Design a filter that reflects the album's artwork and mood, making it compelling for users to add to their own challenge videos."
+    },
+    {
+        "instruction": "Compile a comprehensive guidebook for a video game, including gameplay strategies (text), walkthrough videos (video), and character art (image). Highlight how the guide complements the gaming experience.",
+        "output-abstract": "1. Gameplay Strategies, 2. Walkthrough Videos, 3. Character Art.",
+        "output-detail": "1. Gameplay Strategies: Write detailed strategies for different game levels, focusing on tips for navigating challenges and optimizing character skills. 2. Walkthrough Videos: Record step-by-step guides for difficult sections, providing commentary that explains decision-making processes. 3. Character Art: Include high-quality images of game characters, detailing their backstory and role within the game to deepen engagement."
+    },
+    {
+        "instruction": "Produce a series of cooking tutorial videos for beginners, incorporating recipe cards (text), step-by-step cooking videos (video), and photos of the finished dishes (image). Emphasize ease of preparation.",
+        "output-abstract": "1. Recipe Cards, 2. Cooking Videos, 3. Finished Dish Photos.",
+        "output-detail": "1. Recipe Cards: Write simple, concise recipes with clear ingredient lists and instructions. Use engaging, easy-to-understand language. 2. Cooking Videos: Film tutorials showing the cooking process from start to finish, with close-ups on technique and tips for common mistakes. 3. Finished Dish Photos: Capture appealing photos of the completed recipes, styled to inspire beginners to try cooking them."
+    },
+    {
+        "instruction": "Create a multilingual educational platform for children, featuring interactive storybooks (text+image), pronunciation guides (audio), and educational games (video). Discuss content accessibility and engagement strategies.",
+        "output-abstract": "1. Interactive Storybooks, 2. Pronunciation Guides, 3. Educational Games.",
+        "output-detail": "1. Interactive Storybooks: Develop text and illustrations for digital books in multiple languages, incorporating clickable elements for engagement. 2. Pronunciation Guides: Record clear audio clips for word pronunciation, including explanations and context for usage. 3. Educational Games: Design video games that reinforce language learning through enjoyable activities, ensuring intuitive navigation and inclusive design for diverse learning paces."
+    },
+    {
+        "instruction": "Launch a digital art contest focusing on environmental awareness, requiring submission of digital artwork (image), artist's statement (text), and a time-lapse of the art creation process (video). Outline participant guidelines.",
+        "output-abstract": "1. Digital Artwork, 2. Artist's Statement, 3. Art Creation Time-Lapse.",
+        "output-detail": "1. Digital Artwork: Ask participants to create digital art pieces that highlight environmental issues, specifying format and resolution requirements. 2. Artist's Statement: Require a brief description of the artwork, including inspiration and intended message. 3. Art Creation Time-Lapse: Request a video showing the artwork's evolution, stressing the importance of showcasing creative processes and techniques."
+    },
+    {
+        "instruction": "Organize a virtual music festival, including live performances (video), artist interviews (audio), and downloadable festival posters (image). Explain how each component enhances the festival experience.",
+        "output-abstract": "1. Live Performances, 2. Artist Interviews, 3. Festival Posters.",
+        "output-detail": "1. Live Performances: Stream performances with high-quality video and audio, ensuring a visually engaging setup that mirrors a live stage experience. 2. Artist Interviews: Record candid audio interviews with artists to share stories behind their music and connect with the audience. 3. Festival Posters: Design eye-catching posters that capture the essence of the festival, offering them as downloadable content for fans to commemorate the event."
+    },
+    {
+        "instruction": "Develop a virtual reality (VR) tour of historical sites, featuring narrated tour guides (audio), interactive maps (image), and detailed exploration videos (video). Focus on user engagement and educational value.",
+        "output-abstract": "1. Narrated Tour Guides, 2. Interactive Maps, 3. Exploration Videos.",
+        "output-detail": "1. Narrated Tour Guides: Produce audio narrations that provide historical context and interesting facts about each site, ensuring clarity and engagement. 2. Interactive Maps: Create detailed maps that users can interact with to select different parts of the site to explore. 3. Exploration Videos: Offer high-definition videos that allow users to virtually walk through the sites, including close-ups of important features and artifacts."
+    },
+    {
+        "instruction": "Create a thematic content series for a fashion blog, incorporating trend analysis (text), designer interviews (audio), and photo shoots (image). Discuss how the elements interlink to provide a comprehensive view.",
+        "output-abstract": "1. Trend Analysis, 2. Designer Interviews, 3. Photo Shoots.",
+        "output-detail": "1. Trend Analysis: Write articles that explore current fashion trends, referencing historical influences and predicting future directions. 2. Designer Interviews: Record interviews with designers discussing their work and its relevance to current trends. Enhance audio quality and include a brief music intro that reflects the blog's theme. 3. Photo Shoots: Organize shoots that visually represent discussed trends, ensuring images are stylistically coherent with the analysis and interviews."
+    },
+    {
+        "instruction": "Assemble a comprehensive homeowner's guide, including maintenance tips (text), DIY repair videos (video), and a visual directory of household tools (image). Highlight the guide's practicality and usability.",
+        "output-abstract": "1. Maintenance Tips, 2. DIY Repair Videos, 3. Household Tools Directory.",
+        "output-detail": "1. Maintenance Tips: Compile a list of essential maintenance tasks for different seasons, detailed with step-by-step instructions. 2. DIY Repair Videos: Produce video tutorials for common household repairs, focusing on clarity and simplicity in explanation. 3. Household Tools Directory: Create an annotated image catalog of essential tools, with descriptions of their uses to help homeowners identify and utilize them effectively."
+    },
+    {
+        "instruction": "Design a wellness app featuring daily meditation guides (audio), inspirational quotes (text), and calming wallpapers (image). Explain the app\u2019s structure and user interaction.",
+        "output-abstract": "1. Daily Meditation Guides, 2. Inspirational Quotes, 3. Calming Wallpapers.",
+        "output-detail": "1. Daily Meditation Guides: Record a variety of meditation sessions tailored to different times of the day and emotional needs, ensuring high-quality audio for a serene experience. 2. Inspirational Quotes: Curate a collection of quotes related to mindfulness and self-care, displayed in a visually appealing text format. 3. Calming Wallpapers: Include a gallery of images with soothing landscapes and abstract designs, allowing users to personalize their app backgrounds."
+    },
+    {
+        "instruction": "Develop content for a STEM education website, including science experiment tutorials (video), theory explanations (text), and infographics on results (image). Detail the educational approach and content interactivity.",
+        "output-abstract": "1. Science Experiment Tutorials, 2. Theory Explanations, 3. Infographics on Results.",
+        "output-detail": "1. Science Experiment Tutorials: Create engaging videos that guide viewers through experiments, emphasizing observation and safety. 2. Theory Explanations: Write clear, concise explanations of scientific principles underlying the experiments, including examples and applications. 3. Infographics on Results: Design visually engaging infographics that summarize experiment results and insights, making complex data easily understandable."
+    },
+    {
+        "instruction": "Produce an online language learning course, incorporating grammar lessons (text), pronunciation exercises (audio), and cultural immersion videos (video). Discuss the course's structure and user progress tracking.",
+        "output-abstract": "1. Grammar Lessons, 2. Pronunciation Exercises, 3. Cultural Immersion Videos.",
+        "output-detail": "1. Grammar Lessons: Write comprehensive lessons on grammar rules, including quizzes and exercises for self-assessment. 2. Pronunciation Exercises: Record audio clips that demonstrate correct pronunciation, accompanied by tips and common mistake corrections. 3. Cultural Immersion Videos: Film videos that expose learners to cultural contexts where the language is spoken, incorporating interviews, celebrations, and daily life scenarios to enrich learning."
+    },
+    {
+        "instruction": "Curate a documentary series on world religions, including historical timelines (text), sacred music compilations (audio), and virtual tours of religious sites (video). Explain the series' educative and immersive objectives.",
+        "output-abstract": "1. Historical Timelines, 2. Sacred Music Compilations, 3. Virtual Tours of Religious Sites.",
+        "output-detail": "1. Historical Timelines: Develop detailed text timelines that trace the origins and evolutions of different world religions, highlighting key figures and events. 2. Sacred Music Compilations: Assemble collections of religious music, offering insights into their significance and use in rituals. 3. Virtual Tours of Religious Sites: Produce virtual reality tours of significant religious sites, narrating their history, architectural features, and cultural impact."
+    }
+]

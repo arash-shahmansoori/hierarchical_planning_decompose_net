@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Develop a marketing campaign for a new eco-friendly sneaker brand, including a product name (text), promotional video (video), and Instagram advertising strategy (text/image).",
+        "output-abstract": "1. Product Name, 2. Promotional Video, 3. Instagram Strategy.",
+        "output-detail": "1. Product Name: Identify sustainable, vibrant words to resonate with eco-conscious consumers. 2. Promotional Video: Craft a 1-minute narrative highlighting the sneaker\u2019s eco-friendly materials and ethical manufacturing process. Incorporate user testimonials. 3. Instagram Strategy: Develop a mix of image posts showcasing the sneakers in natural settings and IG stories featuring behind-the-scenes of the making, with an emphasis on sustainable practices."
+    },
+    {
+        "instruction": "Create an educational module on the solar system for middle school students, including a lesson plan (text), interactive quizzes (text/image), and a short documentary (video).",
+        "output-abstract": "1. Lesson Plan, 2. Interactive Quizzes, 3. Short Documentary.",
+        "output-detail": "1. Lesson Plan: Outline key solar system facts, with engaging questions to provoke curiosity. 2. Interactive Quizzes: Design quizzes with visuals of planets and moons, incorporating instant feedback on answers. 3. Short Documentary: Produce a 10-minute video exploring the beauty and mysteries of the solar system, narrated in a way that captures young imaginations."
+    },
+    {
+        "instruction": "Plan a virtual art exhibition, including a collection of digital paintings (image), sculptural 3D models (image), an exhibition brochure (text/image), and a guided tour video (video).",
+        "output-abstract": "1. Digital Paintings, 2. Sculptural 3D Models, 3. Exhibition Brochure, 4. Guided Tour Video.",
+        "output-detail": "1. Digital Paintings: Curate a diverse range of digital art works that challenge traditional boundaries. 2. Sculptural 3D Models: Collaborate with artists to create immersive 3D models of virtual sculptures. 3. Exhibition Brochure: Design a visually appealing brochure detailing the artists, their works, and the exhibition theme. 4. Guided Tour Video: Produce a video that walks viewers through the exhibition, providing commentary on the artworks and interviews with the artists."
+    },
+    {
+        "instruction": "Design a mindfulness app featuring daily meditation guides (audio), personalized progress tracking (text), motivational quotes (text/image), and ambient soundscapes (audio).",
+        "output-abstract": "1. Meditation Guides, 2. Progress Tracking, 3. Motivational Quotes, 4. Ambient Soundscapes.",
+        "output-detail": "1. Meditation Guides: Record a series of guided meditations with varying lengths and focuses. 2. Progress Tracking: Implement a feature for users to journal their meditation frequency and mood changes. 3. Motivational Quotes: Curate a daily feed of quotes with serene backgrounds to inspire users. 4. Ambient Soundscapes: Compose a library of natural and synthetic sounds that users can play during meditation."
+    },
+    {
+        "instruction": "Organize an online music festival, including lineup announcements (text), promotional graphics (image), a website with ticketing (text/image), and live-stream setup (video/audio).",
+        "output-abstract": "1. Lineup Announcements, 2. Promotional Graphics, 3. Festival Website, 4. Live-Stream Setup.",
+        "output-detail": "1. Lineup Announcements: Draft engaging reveals of artists and bands partaking in the festival. 2. Promotional Graphics: Design vibrant visuals that capture the festival's atmosphere. 3. Festival Website: Develop a user-friendly site for event details, artist bios, and ticket sales. 4. Live-Stream Setup: Coordinate the technological requirements for streaming live performances, ensuring high-quality audio and video."
+    },
+    {
+        "instruction": "Compose a piece of instrumental music inspired by the ocean (audio), create a series of abstract paintings based on the music (image), and write an explanatory essay on the project (text).",
+        "output-abstract": "1. Instrumental Music, 2. Abstract Paintings, 3. Explanatory Essay.",
+        "output-detail": "1. Instrumental Music: Develop melodies and harmonies that reflect the depth and diversity of ocean life. 2. Abstract Paintings: Use colors and forms to visually interpret the music, expressing the emotion and rhythms of the ocean. 3. Explanatory Essay: Write about the creative process, the connection between the music and the paintings, and the intended emotional impact on the audience."
+    },
+    {
+        "instruction": "Create a digital portfolio for a graphic designer, showcasing logo designs (image), website wireframes (image), client testimonials (text), and a personal introduction video (video).",
+        "output-abstract": "1. Logo Designs, 2. Website Wireframes, 3. Client Testimonials, 4. Introduction Video.",
+        "output-detail": "1. Logo Designs: Present a selection of standout logo projects with descriptions of the design principles applied. 2. Website Wireframes: Display blueprints of web design projects, elaborating on user experience considerations. 3. Client Testimonials: Compile positive feedback from clients, highlighting successful collaboration outcomes. 4. Introduction Video: Produce a brief video where the designer discusses their design philosophy and approach to client projects."
+    },
+    {
+        "instruction": "Produce a mini-documentary on urban gardening, featuring interviews with local gardeners (video), before-and-after photos of garden projects (image), a resource guide for beginners (text), and background music composed for the documentary (audio).",
+        "output-abstract": "1. Interviews, 2. Before-and-After Photos, 3. Resource Guide, 4. Background Music.",
+        "output-detail": "1. Interviews: Film conversations with several urban gardeners about their experiences and tips. 2. Before-and-After Photos: Collect visual evidence of garden transformations to inspire viewers. 3. Resource Guide: Write a comprehensive guide covering how to start an urban garden, including necessary tools and beginner-friendly plants. 4. Background Music: Compose serene instrumental music that enhances the documentary\u2019s uplifting and educational tone."
+    },
+    {
+        "instruction": "Develop a tutorial on DIY home automation, including a step-by-step guide (text), circuit diagrams (image), troubleshooting tips (text), and a series of how-to videos (video).",
+        "output-abstract": "1. Step-by-Step Guide, 2. Circuit Diagrams, 3. Troubleshooting Tips, 4. How-To Videos.",
+        "output-detail": "1. Step-by-Step Guide: Draft a detailed instructional manual for basic DIY home automation projects. 2. Circuit Diagrams: Provide clear and correctly annotated diagrams for each project's electrical setup. 3. Troubleshooting Tips: Offer solutions for common issues encountered during DIY installation. 4. How-To Videos: Record comprehensive tutorials, demonstrating each step in the process, to assist visual learners."
+    },
+    {
+        "instruction": "Create a social media campaign for World Book Day, featuring inspirational reading quotes (text/image), author live-stream interviews (video), user-generated book reviews (video/text), and a hashtag challenge encouraging reading (text).",
+        "output-abstract": "1. Reading Quotes, 2. Author Interviews, 3. User-Generated Reviews, 4. Hashtag Challenge.",
+        "output-detail": "1. Reading Quotes: Post visually appealing graphics with quotes about the power of reading. 2. Author Interviews: Organize live sessions with authors discussing their works and reading's importance. 3. User-Generated Reviews: Invite followers to submit short reviews of their favorite books in text or video form. 4. Hashtag Challenge: Launch a challenge with a unique hashtag encouraging followers to share their current reads and tag friends to do the same."
+    },
+    {
+        "instruction": "Design a workout program for beginners, including a workout schedule (text), instructional videos for each exercise (video), motivational audio clips (audio), and printable progress charts (image).",
+        "output-abstract": "1. Workout Schedule, 2. Instructional Videos, 3. Motivational Clips, 4. Progress Charts.",
+        "output-detail": "1. Workout Schedule: Create a 4-week plan with diverse, low-impact exercises suitable for beginners. 2. Instructional Videos: Film clear, easy-to-follow exercise demonstrations with safety tips. 3. Motivational Clips: Record short, energizing messages to encourage users throughout the program. 4. Progress Charts: Design visually engaging charts for users to track their workouts and progress over time."
+    },
+    {
+        "instruction": "Plan a digital storytelling project for a local history museum, involving a narrated history timeline (audio/text), interactive maps of historical sites (image/text), collection highlights with detailed descriptions (text/image), and virtual reality tours (video).",
+        "output-abstract": "1. Narrated Timeline, 2. Interactive Maps, 3. Collection Highlights, 4. Virtual Reality Tours.",
+        "output-detail": "1. Narrated Timeline: Compile significant local historical events into a timeline, accompanied by detailed narration. 2. Interactive Maps: Design maps where users can click on historical sites to learn more through photos and narratives. 3. Collection Highlights: Feature key artifacts from the museum collection with high-quality images and in-depth descriptions. 4. Virtual Reality Tours: Produce immersive VR experiences allowing users to explore historical sites and museum exhibits virtually."
+    },
+    {
+        "instruction": "Launch a culinary blog focusing on healthy eating, including recipe guides (text/image), instructional cooking videos (video), a weekly meal planner (text), and podcast episodes discussing nutrition with experts (audio).",
+        "output-abstract": "1. Recipe Guides, 2. Cooking Videos, 3. Weekly Meal Planner, 4. Podcast Episodes.",
+        "output-detail": "1. Recipe Guides: Write and photograph step-by-step healthy recipes, emphasizing ingredients' nutritional benefits. 2. Cooking Videos: Shoot detailed video tutorials for preparing each recipe, showcasing cooking techniques. 3. Weekly Meal Planner: Develop a downloadable planner that helps readers organize their healthy meals for the week. 4. Podcast Episodes: Host discussions with nutritionists and chefs on topics around healthy eating, diet myths, and cooking tips."
+    },
+    {
+        "instruction": "Develop a personal finance management course, including a series of educational videos (video), infographics on key concepts (image), interactive budgeting worksheets (text/image), and weekly finance tips via email (text).",
+        "output-abstract": "1. Educational Videos, 2. Infographics, 3. Budgeting Worksheets, 4. Weekly Tips.",
+        "output-detail": "1. Educational Videos: Produce content covering basic personal finance principles, investment strategies, and saving tips. 2. Infographics: Design easily understandable graphics elucidating financial concepts such as interest, inflation, and debt. 3. Budgeting Worksheets: Create templates for tracking income, expenses, and savings goals, with examples and explanations. 4. Weekly Tips: Compile actionable financial advice and updates on economic trends for subscribers, delivered through a curated email series."
+    },
+    {
+        "instruction": "Compile a city travel guide, including a highlights video tour (video), local culinary favorites (text/image), interactive maps with points of interest (image), and a playlist of local music artists (audio).",
+        "output-abstract": "1. Video Tour, 2. Culinary Favorites, 3. Interactive Maps, 4. Local Music Playlist.",
+        "output-detail": "1. Video Tour: Create a captivating walkthrough of the city\u2019s top sights, featuring drone and street-level footage. 2. Culinary Favorites: Write brief reviews and take photographs of must-try local dishes and where to find them. 3. Interactive Maps: Design maps highlighting essential attractions, restaurants, and hidden gems, allowing users to explore virtually. 4. Local Music Playlist: Assemble a playlist showcasing the diversity of the city\u2019s music scene, introducing travelers to local sounds."
+    },
+    {
+        "instruction": "Organize a coding workshop for teenagers, including a curriculum guide (text), tutorial videos on programming concepts (video), interactive coding exercises (text/image), and a final project showcase (video/audio).",
+        "output-abstract": "1. Curriculum Guide, 2. Tutorial Videos, 3. Interactive Exercises, 4. Project Showcase.",
+        "output-detail": "1. Curriculum Guide: Outline a structured learning path from basics to advanced topics. 2. Tutorial Videos: Record lessons that explain programming concepts with visual aids and real-life applications. 3. Interactive Exercises: Develop coding challenges that reinforce lessons, providing instant feedback. 4. Project Showcase: Host an online event where participants present their projects, incorporating a Q&A session with professionals, and provide constructive feedback."
+    },
+    {
+        "instruction": "Create a brand identity for a tech startup, including a company logo (image), mission statement (text), product demonstration video (video), and an investor pitch deck (text/image).",
+        "output-abstract": "1. Company Logo, 2. Mission Statement, 3. Product Demo, 4. Pitch Deck.",
+        "output-detail": "1. Company Logo: Design a modern logo that reflects innovation and approachability. 2. Mission Statement: Craft a compelling statement that articulates the startup\u2019s vision and value proposition. 3. Product Demo: Produce a clear, engaging video that demonstrates the product's features and benefits. 4. Pitch Deck: Prepare a visually attractive presentation for potential investors, highlighting market research, business model, and financial projections."
+    },
+    {
+        "instruction": "Develop a series of science experiments for kids, with instructional guides (text), demonstration videos (video), safety tips (text), and worksheets for observations (text/image).",
+        "output-abstract": "1. Instructional Guides, 2. Demonstration Videos, 3. Safety Tips, 4. Observation Worksheets.",
+        "output-detail": "1. Instructional Guides: Write clear, step-by-step guides for each experiment, including the scientific principle being demonstrated. 2. Demonstration Videos: Record videos showing the experiments being performed, emphasizing the observation points. 3. Safety Tips: Provide specific safety instructions for both kids and parents to follow during the experiments. 4. Observation Worksheets: Design printable worksheets where kids can note their observations and conclusions, enhancing the learning experience."
+    },
+    {
+        "instruction": "Plan a virtual reality (VR) training program for firefighters, including scenario-based modules (video), instructional guides detailing the VR interface (text/image), real-time communication channels (text), and post-training analysis (text/video).",
+        "output-abstract": "1. Scenario Modules, 2. Instructional Guides, 3. Communication Channels, 4. Training Analysis.",
+        "output-detail": "1. Scenario Modules: Develop immersive VR simulations of various firefighting scenarios, including residential fires and forest fires. 2. Instructional Guides: Create comprehensive guides on navigating the VR interface, controlling avatars, and interacting with the environment. 3. Communication Channels: Setup real-time text-based communication tools for instructors to guide trainees during simulations. 4. Training Analysis: Record trainees' performance for post-training review, including video replays and written feedback on decision-making and technique."
+    },
+    {
+        "instruction": "Produce a podcast series on entrepreneurship, including interview episodes with successful founders (audio), episode summaries (text), promotional social media posts (text/image), and listener Q&A sessions (audio).",
+        "output-abstract": "1. Interview Episodes, 2. Episode Summaries, 3. Promotional Posts, 4. Q&A Sessions.",
+        "output-detail": "1. Interview Episodes: Record in-depth discussions with entrepreneurs about their journey, challenges, and advice. 2. Episode Summaries: Write concise summaries of each episode, highlighting key takeaways and quotes. 3. Promotional Posts: Design eye-catching social media graphics and posts to attract and inform new listeners. 4. Q&A Sessions: Organize special episodes where hosts answer questions from listeners, providing insights into entrepreneurship and startup culture."
+    },
+    {
+        "instruction": "Design an online language learning course, including introductory videos to languages (video), interactive grammar and vocabulary exercises (text/image), pronunciation guides (audio), and virtual conversation practice sessions (video/audio).",
+        "output-abstract": "1. Introductory Videos, 2. Grammar and Vocabulary Exercises, 3. Pronunciation Guides, 4. Conversation Practice.",
+        "output-detail": "1. Introductory Videos: Create engaging videos that introduce learners to the language\u2019s fundamentals and cultural context. 2. Grammar and Vocabulary Exercises: Develop interactive quizzes and exercises that reinforce grammar rules and vocabulary. 3. Pronunciation Guides: Record audio clips demonstrating correct pronunciation of key phrases and words. 4. Conversation Practice: Facilitate simulated conversations with AI or live partners, offering real-time feedback on usage and accent."
+    }
+]

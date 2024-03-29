@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Develop a storyboard for a short animated film on kindness, including character sketches (images), script (text), and soundtrack suggestions (audio).",
+        "output-abstract": "1. Character sketches, 2. Storyboard, 3. Script, 4. Soundtrack suggestions.",
+        "output-detail": "1. Character sketches: Design main characters with expressive features to convey emotions related to kindness. 2. Storyboard: Sequence of drawings outlining the animation's main scenes, depicting acts of kindness. 3. Script: Dialogue and scene descriptions focusing on the theme of kindness. 4. Soundtrack suggestions: Compile a list of songs and instrumental tracks that evoke feelings of warmth and compassion."
+    },
+    {
+        "instruction": "Create a multi-language learning app, featuring audio pronunciation guides (audio), written quizzes (text), and cultural context videos (video).",
+        "output-abstract": "1. Pronunciation guides, 2. Written quizzes, 3. Cultural context videos.",
+        "output-detail": "1. Pronunciation guides: Record native speakers pronouncing key phrases in multiple languages. 2. Written quizzes: Design text-based questions to test language comprehension and vocabulary. 3. Cultural context videos: Short clips explaining cultural nuances and usage of specific phrases in different situations."
+    },
+    {
+        "instruction": "Design a virtual reality experience of the solar system, incorporating educational narration (audio), interactive 3D models of planets (image), and a guided tour script (text).",
+        "output-abstract": "1. Educational narration, 2. 3D models of planets, 3. Guided tour script.",
+        "output-detail": "1. Educational narration: Prepare scripts for voice-over explanations of each planet's features and history. 2. 3D models of planets: Create detailed, interactive 3D representations of each planet in the solar system. 3. Guided tour script: Write a script for the virtual tour guide, leading users through the solar system and offering educational snippets."
+    },
+    {
+        "instruction": "Compose a piece of instrumental music inspired by rain (audio), create a digital painting of the mood the music evokes (image), and write a descriptive analysis (text).",
+        "output-abstract": "1. Rain-inspired music, 2. Mood digital painting, 3. Descriptive analysis.",
+        "output-detail": "1. Rain-inspired music: Compose an instrumental piece that captures the essence of rain, focusing on melody and rhythm. 2. Mood digital painting: Using the music as inspiration, create a digital painting that visually represents the emotions and mood evoked by the track. 3. Descriptive analysis: Write an analysis discussing the connection between the music, painting, and the theme of rain, detailing artistic choices and emotional resonance."
+    },
+    {
+        "instruction": "Produce a podcast episode on futuristic technologies, including a script (text), background music selection (audio), and promotional graphics (image).",
+        "output-abstract": "1. Episode script, 2. Background music, 3. Promotional graphics.",
+        "output-detail": "1. Episode script: Write a detailed script covering developments in futuristic technologies, including interviews with experts. 2. Background music: Select or compose music that fits the theme of innovation and the future. 3. Promotional graphics: Design eye-catching images for use on social media, highlighting key themes and guests."
+    },
+    {
+        "instruction": "Create a multimedia guide to making French pastries, with step-by-step video tutorials (video), written recipes (text), and photos of each step (image).",
+        "output-abstract": "1. Video tutorials, 2. Written recipes, 3. Step photos.",
+        "output-detail": "1. Video tutorials: Film detailed videos showing the preparation of different French pastries, offering tips and techniques. 2. Written recipes: Compose clear, concise text instructions for each pastry, including ingredients and baking times. 3. Step photos: Capture high-quality images of each significant step in the pastry-making process to accompany the written recipes."
+    },
+    {
+        "instruction": "Design an interactive e-book for children about forest animals, featuring narrative text (text), voice-over narration (audio), animated illustrations (image), and short educational videos (video).",
+        "output-abstract": "1. Narrative text, 2. Voice-over narration, 3. Animated illustrations, 4. Educational videos.",
+        "output-detail": "1. Narrative text: Write engaging stories for each forest animal, focusing on educational content. 2. Voice-over narration: Record clear, engaging audio of the narrative text, suitable for children. 3. Animated illustrations: Create dynamic, animated images of the forest animals interacting in their natural habitats. 4. Educational videos: Produce short clips that provide factual information about the animals' behaviors, diets, and conservation status."
+    },
+    {
+        "instruction": "Assemble a virtual museum exhibit on ancient Egypt, incorporating narrated histories (audio), interactive maps (image), artifact descriptions (text), and 3D model tours (video).",
+        "output-abstract": "1. Narrated histories, 2. Interactive maps, 3. Artifact descriptions, 4. 3D model tours.",
+        "output-detail": "1. Narrated histories: Create engaging audio segments detailing the history of ancient Egypt and its culture. 2. Interactive maps: Design and program interactive maps showing significant historical sites and their geographical context. 3. Artifact descriptions: Write informative texts describing the significance, use, and history behind various artifacts. 4. 3D model tours: Develop video tours of 3D models of key Egyptian artifacts and architectural sites, providing a virtual firsthand look."
+    },
+    {
+        "instruction": "Produce a comprehensive fitness workout program including workout videos (video), nutritional plans (text), motivational audio clips (audio), and progress tracking sheets (image).",
+        "output-abstract": "1. Workout videos, 2. Nutritional plans, 3. Motivational audio clips, 4. Progress tracking sheets.",
+        "output-detail": "1. Workout videos: Film a series of workout videos, each targeting different fitness goals and intensity levels. 2. Nutritional plans: Develop detailed meal plans tailored to various dietary needs and goals, providing written recipes and advice. 3. Motivational audio clips: Record short, inspiring messages to encourage consistency and effort in the workout program. 4. Progress tracking sheets: Design customizable, visually appealing tracking sheets for users to log their workouts, meals, and progress over time."
+    },
+    {
+        "instruction": "Build a digital marketing campaign for an eco-friendly product line, including product photography (image), customer testimonials (video), blog posts about sustainability (text), and a jingle (audio).",
+        "output-abstract": "1. Product photography, 2. Customer testimonials, 3. Blog posts, 4. Jingle.",
+        "output-detail": "1. Product photography: Capture high-quality, attractive images of the eco-friendly products, emphasizing their sustainable features. 2. Customer testimonials: Record video interviews with satisfied customers discussing the benefits and impacts of the products. 3. Blog posts: Write informative and engaging posts on sustainability topics related to the product line, aiming to educate and inspire readers. 4. Jingle: Compose a catchy, memorable jingle that encapsulates the eco-friendly message of the product line for use in promotional materials."
+    },
+    {
+        "instruction": "Organize an online music festival, featuring lineup announcements (text), artist performance teasers (video), festival-themed digital artwork (image), and a playlist of featured artists (audio).",
+        "output-abstract": "1. Lineup announcements, 2. Performance teasers, 3. Festival artwork, 4. Artist playlist.",
+        "output-detail": "1. Lineup announcements: Write engaging announcements detailing the artists and bands performing at the festival, including bios and performance times. 2. Performance teasers: Produce short teaser videos for each performing artist to build anticipation and highlight their music style. 3. Festival artwork: Design digital artwork capturing the essence of the festival, including promotional posters and social media graphics. 4. Artist playlist: Compile a playlist featuring songs from the festival's lineup, giving attendees a taste of what to expect."
+    },
+    {
+        "instruction": "Develop a series of cooking classes for a multicultural cookery school, including recipe cards (text), instructional cooking videos (video), ingredient sourcing guides (text), and cuisine history podcasts (audio).",
+        "output-abstract": "1. Recipe cards, 2. Cooking videos, 3. Ingredient sourcing guides, 4. Cuisine history podcasts.",
+        "output-detail": "1. Recipe cards: Write detailed, easy-to-follow recipe cards for each class, focusing on dishes from varied cultures. 2. Cooking videos: Film step-by-step instructional videos for each recipe, highlighting cooking techniques and cultural significance. 3. Ingredient sourcing guides: Prepare guides on finding and selecting traditional ingredients for the recipes. 4. Cuisine history podcasts: Record episodes exploring the history, evolution, and cultural importance of the cuisines being taught, featuring interviews with culinary experts."
+    },
+    {
+        "instruction": "Curate a digital art exhibition, including artist interviews (video), interactive gallery walkthroughs (video), artwork descriptions (text), and ambient music for viewing (audio).",
+        "output-abstract": "1. Artist interviews, 2. Gallery walkthroughs, 3. Artwork descriptions, 4. Ambient music.",
+        "output-detail": "1. Artist interviews: Conduct and record video interviews with the featured artists, discussing their processes and inspirations. 2. Gallery walkthroughs: Create interactive video walkthroughs of the exhibition, allowing viewers to click and learn more about each piece. 3. Artwork descriptions: Write detailed descriptions for each piece, including the artist's name, the medium used, and the piece's story or meaning. 4. Ambient music: Select or compose soothing ambient music to enhance the viewing experience of the digital exhibition."
+    },
+    {
+        "instruction": "Design a social media campaign for a local animal shelter, featuring rescue stories (text), before and after photos (image), adoption process videos (video), and happy tails podcasts (audio).",
+        "output-abstract": "1. Rescue stories, 2. Before and after photos, 3. Adoption process videos, 4. Happy tails podcasts.",
+        "output-detail": "1. Rescue stories: Write heartwarming stories about the animals' backgrounds and rescues, highlighting the shelter's efforts. 2. Before and after photos: Compile striking images showing the transformation of the animals pre- and post-rescue. 3. Adoption process videos: Produce informative videos explaining how to adopt from the shelter, including paperwork and preparations. 4. Happy tails podcasts: Record episodes featuring interviews with adopters, sharing their experiences and the joy their new pets bring."
+    },
+    {
+        "instruction": "Create an educational package on recycling, including an infographic on types of recyclable materials (image), a guide on setting up a home recycling system (text), DIY recycling project tutorials (video), and a podcast series on the impact of recycling (audio).",
+        "output-abstract": "1. Recyclable materials infographic, 2. Home recycling guide, 3. DIY project tutorials, 4. Impact podcast series.",
+        "output-detail": "1. Recyclable materials infographic: Design a visually engaging infographic detailing different types of recyclables and their categorization. 2. Home recycling guide: Write a comprehensive guide on how to effectively set up and manage a recycling system at home. 3. DIY project tutorials: Film step-by-step tutorial videos for creative recycling projects that viewers can undertake. 4. Impact podcast series: Produce a series of podcast episodes discussing the importance of recycling, featuring experts and case studies on its environmental impact."
+    },
+    {
+        "instruction": "Plan an online language exchange event, including participant introduction videos (video), discussion topic handouts (text), language learning resources compilation (text), and post-event feedback survey (text).",
+        "output-abstract": "1. Introduction videos, 2. Discussion topics, 3. Learning resources, 4. Feedback survey.",
+        "output-detail": "1. Introduction videos: Have participants submit short video clips introducing themselves, their native language, and the language they wish to learn. 2. Discussion topics: Prepare handouts of suggested topics for conversation, including common phrases and cultural exchange questions. 3. Learning resources: Compile a list of recommended websites, apps, books, and audio materials for learning languages. 4. Feedback survey: Design a survey to collect participants' feedback on the event's organization, the effectiveness of the exchange, and suggestions for future events."
+    },
+    {
+        "instruction": "Produce an online course on smartphone photography, including module overview videos (video), technical how-to guides (text), photo editing software tutorials (video), and a community photo critique forum (text).",
+        "output-abstract": "1. Overview videos, 2. How-to guides, 3. Software tutorials, 4. Photo critique forum.",
+        "output-detail": "1. Overview videos: Create short videos introducing each module of the course, outlining key learning objectives. 2. How-to guides: Write detailed guides on photography basics, such as lighting, composition, and subject selection, using a smartphone. 3. Software tutorials: Film tutorials on using different photo editing software available on smartphones, demonstrating techniques for improving photo quality. 4. Photo critique forum: Set up a forum where students can post their photos, receive feedback from peers and instructors, and engage in discussions about photography."
+    },
+    {
+        "instruction": "Build a campaign to promote reading among young adults, including engaging book trailers (video), reader blogs (text), interactive genre discovery tools (image/text), and author interview podcasts (audio).",
+        "output-abstract": "1. Book trailers, 2. Reader blogs, 3. Genre discovery tools, 4. Author interviews.",
+        "output-detail": "1. Book trailers: Produce captivating video trailers for popular and upcoming books, highlighting themes and enticing potential readers. 2. Reader blogs: Create a platform for readers to write and share reviews, reading experiences, and recommendations. 3. Genre discovery tools: Develop interactive web tools that help users find books based on their interests, previous reads, or search queries. 4. Author interviews: Record podcasts featuring interviews with authors, discussing their writing processes, inspirations, and advice for budding writers."
+    },
+    {
+        "instruction": "Launch a weekend DIY home improvement series, featuring project tutorials (video), cost breakdowns and materials lists (text), before and after project photos (image), and podcasts with DIY experts (audio).",
+        "output-abstract": "1. Project tutorials, 2. Cost breakdowns, 3. Before and after photos, 4. Expert podcasts.",
+        "output-detail": "1. Project tutorials: Film detailed step-by-step video tutorials for various home improvement projects, catering to different skill levels. 2. Cost breakdowns: Provide comprehensive lists of needed materials and tools, along with estimated costs, to help viewers budget for their projects. 3. Before and after photos: Showcase transformations achieved through the DIY projects to motivate viewers. 4. Expert podcasts: Host discussions with DIY experts and enthusiasts, sharing tips, tricks, and advice on tackling home improvement challenges."
+    },
+    {
+        "instruction": "Develop a social networking platform for artists, featuring portfolio creation tools (image/video), event announcement sections (text), live art sessions (video), and music background options for profiles (audio).",
+        "output-abstract": "1. Portfolio tools, 2. Event announcements, 3. Live sessions, 4. Background music.",
+        "output-detail": "1. Portfolio tools: Design user-friendly interfaces allowing artists to upload and showcase their work in image or video format, categorize their art, and provide descriptions. 2. Event announcements: Implement a feature for users to post and discover art-related events, including exhibitions, workshops, and meetups. 3. Live sessions: Enable artists to host live video sessions to demonstrate their art-making process in real-time or conduct workshops. 4. Background music: Allow artists to select or upload music tracks to play in the background of their profile or art galleries, enhancing the browsing experience."
+    },
+    {
+        "instruction": "Organize a virtual career fair for tech industry jobs, including company introduction videos (video), job listing descriptions (text), interactive company booths (image/video), and live Q&A sessions with recruiters (audio/video).",
+        "output-abstract": "1. Company videos, 2. Job descriptions, 3. Company booths, 4. Live Q&As.",
+        "output-detail": "1. Company videos: Invite participating companies to submit short videos introducing their organization, culture, and key projects. 2. Job descriptions: Work with companies to provide detailed text descriptions of available positions, including responsibilities, required skills, and application instructions. 3. Company booths: Design interactive virtual booths for each company, including videos, images, and downloadable content related to the company and its job openings. 4. Live Q&As: Schedule and coordinate live audio/video sessions with recruiters, allowing attendees to ask questions and learn more about the companies and roles."
+    }
+]

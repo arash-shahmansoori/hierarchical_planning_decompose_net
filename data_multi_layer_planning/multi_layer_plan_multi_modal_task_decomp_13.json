@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Develop a user manual for a smartwatch, incorporating text (user instructions), images (diagrams), and videos (tutorials).",
+        "output-abstract": "1. Text Instructions, 2. Diagrams, 3. Tutorial Videos.",
+        "output-detail": "1. Text Instructions: Provide clear, step-by-step usage instructions, including setup, features, and troubleshooting. 2. Diagrams: Create detailed images of the smartwatch, highlighting button functions, screen gestures, and connectivity ports. 3. Tutorial Videos: Film short, engaging videos covering initial setup, daily use, and advanced features, ensuring a cohesive visual style that aligns with the brand."
+    },
+    {
+        "instruction": "Compose a short story, illustrate key scenes (image), and create a soundtrack (audio) to enhance the narrative mood.",
+        "output-abstract": "1. Short Story, 2. Scene Illustrations, 3. Soundtrack.",
+        "output-detail": "1. Short Story: Draft a compelling narrative with distinct characters and a clear beginning, middle, and end. 2. Scene Illustrations: Based on the story, design artworks for pivotal moments, using color and style to convey the atmosphere of each scene. 3. Soundtrack: Compose music that reflects the overall theme and emotions of the story, creating specific tracks for moments of tension, joy, and resolution."
+    },
+    {
+        "instruction": "Create an educational module on the water cycle, featuring an animated video (video), a detailed blog post (text), and interactive quizzes (text and image).",
+        "output-abstract": "1. Animated Video, 2. Blog Post, 3. Interactive Quizzes.",
+        "output-detail": "1. Animated Video: Develop an engaging animation explaining the water cycle stages, suitable for a primary school audience. 2. Blog Post: Write an informative post detailing the scientific aspects of the water cycle, including diagrams and photographs for clarity. 3. Interactive Quizzes: Design quizzes with questions and answers, incorporating images of water cycle stages, to test understanding."
+    },
+    {
+        "instruction": "Plan a virtual museum exhibition on Renaissance art, including a guided tour video (video), detailed artwork descriptions (text), and high-resolution images of the exhibits (image).",
+        "output-abstract": "1. Guided Tour Video, 2. Artwork Descriptions, 3. Exhibit Images.",
+        "output-detail": "1. Guided Tour Video: Script and record a walkthrough of the virtual exhibition, narrating the significance of each piece and the era's historical context. 2. Artwork Descriptions: Craft engaging and informative descriptions for each artwork, discussing the artist, technique, and thematic elements. 3. Exhibit Images: Capture or compile high-resolution images of each exhibited piece, ensuring accurate color and detail representation."
+    },
+    {
+        "instruction": "Design a podcast series on futuristic technologies, including episode scripts (text), intro and outro music (audio), and promotional graphics (image).",
+        "output-abstract": "1. Episode Scripts, 2. Music, 3. Promotional Graphics.",
+        "output-detail": "1. Episode Scripts: Write engaging and informative scripts for each episode, covering different technologies and their potential impacts on society. 2. Music: Compose unique intro and outro music that reflects the innovative theme of the podcast. 3. Promotional Graphics: Design eye-catching images for use on social media and podcast platforms, highlighting key themes and episodes."
+    },
+    {
+        "instruction": "Develop a recipe blog with original dishes, including step-by-step instructions (text), photos of each step (image), and cooking demonstration videos (video).",
+        "output-abstract": "1. Recipe Instructions, 2. Step Photos, 3. Demonstration Videos.",
+        "output-detail": "1. Recipe Instructions: Create clear and precise text explanations for preparing each dish, including ingredients and measurements. 2. Step Photos: Capture high-quality images of the cooking process, emphasizing key moments and techniques. 3. Demonstration Videos: Record detailed video guides for each recipe, providing visual and audio cues to help enthusiasts replicate the dishes."
+    },
+    {
+        "instruction": "Produce a mini-documentary on urban wildlife, featuring interviews with experts (audio), narration overlaying footage of animals in the city (video), and a photo essay (image).",
+        "output-abstract": "1. Expert Interviews, 2. Narrated Footage, 3. Photo Essay.",
+        "output-detail": "1. Expert Interviews: Record audio discussions with biologists and urban planners on wildlife adaptation in cities. 2. Narrated Footage: Compile video clips of various animals navigating urban environments, overlaid with informative narration about each species. 3. Photo Essay: Assemble a series of compelling images capturing moments of wildlife within the urban landscape, with captions explaining their significance."
+    },
+    {
+        "instruction": "Create an online cooking class focusing on Italian cuisine, with written recipes (text), ingredient prep videos (video), and final dish presentations (image).",
+        "output-abstract": "1. Written Recipes, 2. Prep Videos, 3. Dish Presentations.",
+        "output-detail": "1. Written Recipes: Draft detailed recipes for Italian dishes, including history and variations. 2. Prep Videos: Film short clips showing how to prepare ingredients, emphasizing technique and tips. 3. Dish Presentations: Capture beautifully arranged final dishes, showcasing the colors and textures of Italian cuisine."
+    },
+    {
+        "instruction": "Design a digital marketing strategy for a startup, including a market analysis report (text), customer testimonial videos (video), and product infographics (image).",
+        "output-abstract": "1. Market Analysis Report, 2. Testimonial Videos, 3. Product Infographics.",
+        "output-detail": "1. Market Analysis Report: Write a comprehensive analysis of the target market, competitor landscape, and customer needs. 2. Testimonial Videos: Produce authentic testimonial videos from customers, highlighting their positive experiences with the product. 3. Product Infographics: Create visually appealing infographics that break down the product's features, benefits, and user statistics."
+    },
+    {
+        "instruction": "Develop an interactive educational app for children on space exploration, including informational content (text), quizzes with feedback (text and image), and narrated space journey simulations (video and audio).",
+        "output-abstract": "1. Informational Content, 2. Quizzes, 3. Space Journey Simulations.",
+        "output-detail": "1. Informational Content: Compile engaging and educational text on planets, stars, and spacecraft. 2. Quizzes: Design interactive quizzes with questions and answers, providing visual feedback and explanations for correct and incorrect responses. 3. Space Journey Simulations: Create immersive video simulations of space journeys, narrated with details about each destination, making the experience educational and engaging."
+    },
+    {
+        "instruction": "Compile a guide on mindfulness practices, including written techniques (text), guided meditation audios (audio), and serene nature scenes (image).",
+        "output-abstract": "1. Written Techniques, 2. Guided Meditations, 3. Nature Scenes.",
+        "output-detail": "1. Written Techniques: Describe various mindfulness exercises and their benefits, emphasizing how they can be integrated into daily life. 2. Guided Meditations: Record audio sessions guiding listeners through different meditation practices, ensuring clarity and calmness in the narration. 3. Nature Scenes: Capture or collect images of tranquil settings, using them to complement the written content and audios, enhancing the overall calming experience."
+    },
+    {
+        "instruction": "Create a virtual tour of a historical landmark, including a narrated video tour (video), detailed historical accounts (text), and interactive maps (image).",
+        "output-abstract": "1. Video Tour, 2. Historical Accounts, 3. Interactive Maps.",
+        "output-detail": "1. Video Tour: Record and narrate a walkthrough of the landmark, highlighting significant features and stories. 2. Historical Accounts: Write engaging and informative accounts of the landmark's history, from its construction to its role in cultural or historical events. 3. Interactive Maps: Design maps that allow users to explore different sections of the landmark, featuring clickable areas for more information or stories."
+    },
+    {
+        "instruction": "Organize a virtual fashion show, including designer interviews (video), collections portfolios (image and text), and a background music playlist (audio).",
+        "output-abstract": "1. Designer Interviews, 2. Collections Portfolios, 3. Background Music.",
+        "output-detail": "1. Designer Interviews: Film conversations with designers discussing their inspirations, design processes, and thoughts on fashion trends. 2. Collections Portfolios: Assemble a visual and textual presentation of each designer's collection, detailing the themes, materials, and key pieces. 3. Background Music: Curate a playlist of music that complements the style and atmosphere of the fashion show, enhancing the viewing experience."
+    },
+    {
+        "instruction": "Produce an investigative journalism piece on renewable energy, including interviews with experts (audio), an article with data analysis (text), and a documentary short (video).",
+        "output-abstract": "1. Expert Interviews, 2. Article with Data Analysis, 3. Documentary Short.",
+        "output-detail": "1. Expert Interviews: Record in-depth discussions with scientists, industry insiders, and activists about the current state and future of renewable energy. 2. Article with Data Analysis: Write a comprehensive article that includes interviews, current data trends, challenges, and predictions in the renewable energy sector. 3. Documentary Short: Create a compelling video that visually tells the story of renewable energy, incorporating interview clips, data visualizations, and on-location footage."
+    },
+    {
+        "instruction": "Design a social media campaign for Earth Day, including themed posts (image), engaging videos on environmental actions (video), and informative captions (text).",
+        "output-abstract": "1. Themed Posts, 2. Environmental Videos, 3. Informative Captions.",
+        "output-detail": "1. Themed Posts: Create visually striking images with Earth Day themes, such as conservation, recycling, and biodiversity. 2. Environmental Videos: Produce short, engaging videos that highlight simple actions people can take to help the environment. 3. Informative Captions: Write captions for each post and video, providing facts about the environment and tips for sustainable living."
+    },
+    {
+        "instruction": "Develop a comprehensive guide to starting a small business, including a business plan template (text), financial planning tools (interactive spreadsheets), and motivational audio clips (audio).",
+        "output-abstract": "1. Business Plan Template, 2. Financial Planning Tools, 3. Motivational Clips.",
+        "output-detail": "1. Business Plan Template: Draft a versatile template for a business plan, covering market analysis, strategy, and financial projections. 2. Financial Planning Tools: Create interactive spreadsheets that help calculate start-up costs, monthly expenses, and revenue forecasts, with guidance on how to fill them out. 3. Motivational Clips: Record short audio messages from successful entrepreneurs, offering encouragement and practical advice for new business owners."
+    },
+    {
+        "instruction": "Create a multimedia package for learning a new language, including basic lessons (text), pronunciation guides (audio), and cultural context videos (video).",
+        "output-abstract": "1. Basic Lessons, 2. Pronunciation Guides, 3. Cultural Context Videos.",
+        "output-detail": "1. Basic Lessons: Write lesson plans covering essential vocabulary, grammar, and phrases. 2. Pronunciation Guides: Produce audio recordings of native speakers demonstrating the correct pronunciation of the language's sounds and words. 3. Cultural Context Videos: Film videos that explore the culture, traditions, and nuances of the language\u2019s country of origin, enhancing the learning experience."
+    },
+    {
+        "instruction": "Plan a music album release, including the album cover art (image), tracklist descriptions (text), and preview clips of each song (audio).",
+        "output-abstract": "1. Cover Art, 2. Tracklist Descriptions, 3. Preview Clips.",
+        "output-detail": "1. Cover Art: Design visually captivating artwork that reflects the album's theme and mood. 2. Tracklist Descriptions: Write engaging descriptions for each song, highlighting the inspiration, themes, and any guest musicians. 3. Preview Clips: Edit short snippets from each track, giving listeners a taste of the album's style and diversity."
+    },
+    {
+        "instruction": "Design an online trivia game focusing on world history, including question sets (text), historical figure avatars (image), and game round summary videos (video).",
+        "output-abstract": "1. Question Sets, 2. Historical Figure Avatars, 3. Summary Videos.",
+        "output-detail": "1. Question Sets: Compile multiple-choice and true/false questions covering significant events, periods, and figures in world history. 2. Historical Figure Avatars: Create engaging images of famous historical figures that players can choose as their game avatars. 3. Summary Videos: Produce short videos summarizing game rounds, highlighting key moments, and providing educational snippets on the questions."
+    },
+    {
+        "instruction": "Develop a fitness challenge program, including daily workout routines (text), instructional exercise videos (video), and progress tracking charts (interactive image).",
+        "output-abstract": "1. Workout Routines, 2. Instructional Videos, 3. Progress Charts.",
+        "output-detail": "1. Workout Routines: Create daily workout plans tailored to different fitness levels, including exercises, sets, and repetitions. 2. Instructional Videos: Film clear, concise demonstrations of each exercise, offering modifications for different skill levels. 3. Progress Charts: Design interactive charts where participants can log workouts, track progress, and see graphical representations of their improvements."
+    }
+]

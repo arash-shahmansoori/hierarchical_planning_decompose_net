@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Develop a virtual museum exhibit on the evolution of video games, including a curated gallery (image), interactive timeline (text, image), and a documentary-style video (video).",
+        "output-abstract": "1. Curated gallery, 2. Interactive timeline, 3. Documentary video.",
+        "output-detail": "1. Curated gallery: Select and visually capture iconic video games across different eras. 2. Interactive timeline: Combine textual information with images to represent key milestones in gaming history. 3. Documentary video: Narrate the evolution, challenges, and breakthroughs in the gaming industry."
+    },
+    {
+        "instruction": "Create a multi-modal recipe guide for a vegan chocolate cake, including a step-by-step guide (text), images (image) of each step, and a tutorial video (video).",
+        "output-abstract": "1. Step-by-step guide, 2. Images, 3. Tutorial video.",
+        "output-detail": "1. Step-by-step guide: Write clear, concise instructions for each stage of the baking process. 2. Images: Take high-quality photos showcasing each major step in the recipe. 3. Tutorial video: Produce a captivating, instructional video covering the full baking process, from ingredient preparation to the final product."
+    },
+    {
+        "instruction": "Produce a podcast episode exploring the psychology of productivity, featuring expert interviews (audio), a summarized blog post (text), and accompanying infographics (image).",
+        "output-abstract": "1. Expert interviews, 2. Summarized blog post, 3. Infographics.",
+        "output-detail": "1. Expert interviews: Record in-depth discussions with psychologists and productivity coaches. 2. Summarized blog post: Condense key insights from interviews into an engaging, accessible article. 3. Infographics: Design visual summaries of the main points discussed in the blog post for quick reference."
+    },
+    {
+        "instruction": "Design a marketing campaign for a fictional eco-friendly car model, including a logo (image), a catchphrase (text), an advertisement video (video), and a background music track (audio).",
+        "output-abstract": "1. Logo, 2. Catchphrase, 3. Advertisement video, 4. Background music.",
+        "output-detail": "1. Logo: Use green and blue colors to symbolize eco-friendliness. Incorporate car and leaf imagery. 2. Catchphrase: Craft a catchy and memorable phrase highlighting sustainability. 3. Advertisement video: Create a compelling narrative showcasing the car's features and environmental benefits. 4. Background music: Compose a light, inspirational sound palette that complements the video's message."
+    },
+    {
+        "instruction": "Compile an educational module on ancient civilizations, featuring a series of lecture videos (video), interactive quizzes (text, image), and a virtual reality exploration experience (video, image, audio).",
+        "output-abstract": "1. Lecture videos, 2. Interactive quizzes, 3. Virtual reality experience.",
+        "output-detail": "1. Lecture videos: Produce detailed presentations on various ancient civilizations, focusing on culture, technology, and impact on modern society. 2. Interactive quizzes: Develop quizzes with both textual questions and image-based puzzles to test understanding. 3. Virtual reality experience: Create immersive VR simulations that allow users to explore ancient city replicas and learn through interactive storytelling."
+    },
+    {
+        "instruction": "Organize a virtual concert featuring several artists, including live performances (video, audio), artist interviews (text, video), and a digital album booklet (image, text).",
+        "output-abstract": "1. Live performances, 2. Artist interviews, 3. Digital album booklet.",
+        "output-detail": "1. Live performances: Stream high-quality audio and video of artists performing. 2. Artist interviews: Conduct and publish interviews, combining text summaries with short video clips. 3. Digital album booklet: Design a visually appealing booklet with artist bios, song lyrics, and exclusive images."
+    },
+    {
+        "instruction": "Create a comprehensive guide on maintaining mental health, encompassing a series of articles (text), an eBook (text, image), motivational podcasts (audio), and relaxation technique videos (video).",
+        "output-abstract": "1. Articles, 2. eBook, 3. Podcasts, 4. Technique videos.",
+        "output-detail": "1. Articles: Write informative pieces on different aspects of mental health, such as coping mechanisms, stress management, and the benefits of therapy. 2. eBook: Compile the articles into an eBook, enhanced with illustrative images and practical tips. 3. Podcasts: Produce episodes featuring discussions with mental health professionals and motivational content. 4. Technique videos: Film demonstrations of relaxation techniques, such as meditation and breathing exercises."
+    },
+    {
+        "instruction": "Develop a mobile app that teaches programming basics featuring interactive lessons (text, image), coding challenge videos (video), and a forum for discussion (text).",
+        "output-abstract": "1. Interactive lessons, 2. Coding challenge videos, 3. Forum discussion.",
+        "output-detail": "1. Interactive lessons: Create text-based tutorials with visual aids to explain fundamental programming concepts. 2. Coding challenge videos: Produce videos that pose coding problems followed by step-by-step solutions. 3. Forum discussion: Implement a text-based forum where learners can discuss lessons, share code, and seek help."
+    },
+    {
+        "instruction": "Produce an online photography course, covering basics to advanced techniques, including tutorial articles (text), sample photo galleries (image), critique sessions recordings (video), and fieldwork audio logs (audio).",
+        "output-abstract": "1. Tutorial articles, 2. Sample galleries, 3. Critique videos, 4. Audio logs.",
+        "output-detail": "1. Tutorial articles: Write comprehensive guides on various photography techniques and equipment. 2. Sample galleries: Showcase examples of photos taken using the techniques described. 3. Critique videos: Record video sessions of photo critiques, offering constructive feedback. 4. Audio logs: Include narrated fieldwork adventures, emphasizing the importance of exploring to find the perfect shot."
+    },
+    {
+        "instruction": "Create an interactive historical map of Rome, incorporating narrated stories (audio), detailed text descriptions (text), visual timelines (image), and 360-degree exploration videos (video).",
+        "output-abstract": "1. Narrated stories, 2. Descriptions, 3. Timelines, 4. Exploration videos.",
+        "output-detail": "1. Narrated stories: Record audio narrations recounting significant events in Rome's history. 2. Descriptions: Write comprehensive text descriptions for major landmarks and historical periods. 3. Timelines: Design visual timelines highlighting key dates and events in Roman history. 4. Exploration videos: Create 360-degree videos of important Roman sites, allowing viewers a virtual visit experience."
+    },
+    {
+        "instruction": "Assemble a digital magazine issue themed around future technologies, including feature articles (text), artist concept illustrations (image), expert interviews (audio), and an augmented reality section (image, video).",
+        "output-abstract": "1. Feature articles, 2. Concept illustrations, 3. Expert interviews, 4. Augmented reality section.",
+        "output-detail": "1. Feature articles: Write insightful articles exploring potential future technologies and their societal impacts. 2. Concept illustrations: Collaborate with artists to create visuals of imagined future tech. 3. Expert interviews: Record conversations with scientists and technologists discussing the feasibility and challenges of future innovations. 4. Augmented reality section: Design an interactive section where readers can use their devices to experience augmented reality representations of the technologies discussed."
+    },
+    {
+        "instruction": "Design an online course on sustainable living, including lesson modules (text, image), DIY project videos (video), a community forum (text), and a resource library (text, image, video).",
+        "output-abstract": "1. Lesson modules, 2. DIY videos, 3. Community forum, 4. Resource library.",
+        "output-detail": "1. Lesson modules: Develop comprehensive, easy-to-understand content on various sustainability topics, supplementing with informative images. 2. DIY videos: Create step-by-step guide videos for sustainable home projects. 3. Community forum: Establish a platform for learners to share experiences, challenges, and achievements. 4. Resource library: Compile a wide range of resources, including articles, infographics, and videos, to further support learning."
+    },
+    {
+        "instruction": "Create an eBook on the world's most influential women in history, featuring biographical profiles (text), portrait illustrations (image), voice narrations of selected profiles (audio), and an interactive timeline (text, image).",
+        "output-abstract": "1. Biographical profiles, 2. Portrait illustrations, 3. Voice narrations, 4. Interactive timeline.",
+        "output-detail": "1. Biographical profiles: Write detailed accounts of the lives, achievements, and impacts of notable women throughout history. 2. Portrait illustrations: Commission artists to create vivid portraits for each profiled individual. 3. Voice narrations: Record professional narrations of selected biographies, providing an auditory learning option. 4. Interactive timeline: Design a timeline featuring key events and figures, enriched with textual descriptions and images."
+    },
+    {
+        "instruction": "Produce a how-to guide for beginner gardeners, including written instructions (text), step-by-step photographic guides (image), video tutorials (video), and a Q&A podcast series (audio).",
+        "output-abstract": "1. Written instructions, 2. Photographic guides, 3. Video tutorials, 4. Q&A podcast.",
+        "output-detail": "1. Written instructions: Compose clear, detailed guides on basic gardening techniques and tips. 2. Photographic guides: Capture sequential images to visually demonstrate each instructional step. 3. Video tutorials: Film comprehensive tutorials covering garden setup, maintenance, and troubleshooting. 4. Q&A podcast: Host a series answering common gardening questions, featuring guest gardening experts."
+    },
+    {
+        "instruction": "Launch a social media campaign for a local animal shelter, including adoption spotlight posts (text, image), a virtual tour video of the shelter (video), and heartwarming adoption stories podcast series (audio).",
+        "output-abstract": "1. Spotlight posts, 2. Shelter tour video, 3. Adoption stories podcast.",
+        "output-detail": "1. Spotlight posts: Draft engaging posts highlighting animals available for adoption, including photos and brief bios. 2. Shelter tour video: Create a captivating video showcasing the shelter's facilities and the animals, to foster viewer connection and support. 3. Adoption stories podcast: Produce a series of episodes sharing successful adoption stories to inspire potential adopters and highlight the shelter's impact."
+    },
+    {
+        "instruction": "Develop a fitness app featuring workout guides (text, image), instructional videos (video), personalized progress tracking (text, image), and motivational audio clips (audio).",
+        "output-abstract": "1. Workout guides, 2. Instructional videos, 3. Progress tracking, 4. Motivational clips.",
+        "output-detail": "1. Workout guides: Write comprehensive guides for various exercises, including step-by-step instructions and accompanying images. 2. Instructional videos: Produce high-quality videos demonstrating correct exercise techniques. 3. Progress tracking: Implement features for users to log their exercises, track progress with text inputs and graphical displays. 4. Motivational clips: Record short, inspiring audio messages to encourage users to continue their fitness journey."
+    },
+    {
+        "instruction": "Create a branding package for a new coffee shop, including the shop logo (image), slogan (text), menu design (text, image), and a promotional jingle (audio).",
+        "output-abstract": "1. Shop logo, 2. Slogan, 3. Menu design, 4. Promotional jingle.",
+        "output-detail": "1. Shop logo: Design a logo that symbolizes comfort and warmth, embodying the coffee shop's inviting atmosphere. 2. Slogan: Develop a catchy and memorable phrase that embraces the community and coffee culture. 3. Menu design: Create a visually appealing menu that is easy to read, combining text descriptions with images of signature drinks. 4. Promotional jingle: Compose a short, catchy tune that encapsulates the coffee shop's brand identity and can be used in advertisements."
+    },
+    {
+        "instruction": "Curate an art exhibition on surrealism, including a catalog of artworks (text, image), an audio guide (audio), video interviews with contemporary surrealist artists (video), and an interactive VR gallery tour (video, image, audio).",
+        "output-abstract": "1. Artwork catalog, 2. Audio guide, 3. Artist interviews, 4. VR gallery tour.",
+        "output-detail": "1. Artwork catalog: Compile a detailed catalog with high-quality images of the featured artworks alongside textual descriptions and artists' bios. 2. Audio guide: Produce an engaging audio guide that offers insights into selected artworks and surrealist techniques. 3. Artist interviews: Film conversations with contemporary surrealist artists, discussing their influences and creative processes. 4. VR gallery tour: Develop a virtual reality experience allowing remote attendees to navigate through the exhibition space, integrating audio narratives and detailed views of artworks."
+    },
+    {
+        "instruction": "Construct a thematic escape room experience titled 'Mars Colony Crisis', including puzzle descriptions (text), room design sketches (image), background story narration (audio), and teaser trailer video (video).",
+        "output-abstract": "1. Puzzle descriptions, 2. Room sketches, 3. Story narration, 4. Teaser trailer.",
+        "output-detail": "1. Puzzle descriptions: Write creative, challenging puzzles that players must solve to 'escape' the Mars colony, tied to the room's theme. 2. Room sketches: Draft detailed sketches of each room's layout and design, indicating where puzzles and clues are located. 3. Story narration: Record a captivating backstory audio that sets the scene for players, explaining the crisis on Mars. 4. Teaser trailer: Produce a gripping video preview of the escape room, highlighting key challenges and the urgency of solving the crisis."
+    },
+    {
+        "instruction": "Produce a bi-weekly newsletter for technology enthusiasts, including industry news highlights (text), tech gadget photos (image), expert opinion podcasts (audio), and video tutorials for using new software (video).",
+        "output-abstract": "1. News highlights, 2. Gadget photos, 3. Opinion podcasts, 4. Software tutorials.",
+        "output-detail": "1. News highlights: Collate and summarize the most significant recent developments in the technology sector. 2. Gadget photos: Feature high-quality images of the latest tech gadgets and innovations. 3. Opinion podcasts: Record discussions with industry experts on trends, predictions, and the impact of new technologies. 4. Software tutorials: Create step-by-step video guides showing how to get started with and make the most out of new software releases."
+    },
+    {
+        "instruction": "Develop a language learning platform featuring beginner to advanced level courses, including interactive grammar exercises (text, image), pronunciation practice videos (video), cultural context articles (text), and language learning podcasts (audio).",
+        "output-abstract": "1. Grammar exercises, 2. Pronunciation videos, 3. Cultural articles, 4. Learning podcasts.",
+        "output-detail": "1. Grammar exercises: Craft interactive, visually engaging exercises to teach grammatical rules and principles. 2. Pronunciation videos: Produce clear, instructional videos demonstrating the correct pronunciation of words and phrases. 3. Cultural articles: Write informative articles about the cultural contexts behind language use, incorporating history, traditions, and social norms. 4. Learning podcasts: Host language learning podcasts featuring conversations, storytelling, and interviews to immerse learners in the language."
+    }
+]

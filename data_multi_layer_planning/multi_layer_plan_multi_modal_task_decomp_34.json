@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Design a digital cookbook featuring international cuisine with recipes (text), tutorial videos (video), thematic music playlists (audio), and regional dish photography (image). Outline the integration of each component for an engaging user experience.",
+        "output-abstract": "1. Recipes, 2. Tutorial Videos, 3. Music Playlists, 4. Dish Photography.",
+        "output-detail": "1. Recipes: Detailed text instructions for diverse international dishes with cultural significance notes. 2. Tutorial Videos: Step-by-step cooking guides matching recipes, highlighting culinary techniques and cultural context. 3. Music Playlists: Curated audio playlists reflecting the origin country's musical heritage to accompany cooking. 4. Dish Photography: High-quality images showcasing the final dish presentation, emphasizing texture and color for visual appeal."
+    },
+    {
+        "instruction": "Produce a historical documentary series including scriptwriting (text), archival footage compilation (video), thematic music score (audio), and promotional posters (image). Detail the collaborative process among elements for impactful storytelling.",
+        "output-abstract": "1. Scriptwriting, 2. Archival Footage, 3. Music Score, 4. Promotional Posters.",
+        "output-detail": "1. Scriptwriting: Crafting a compelling narrative bridging various historical events, integrating expert interviews and analysis. 2. Archival Footage: Sourcing and editing historical video clips that visually support the script's narrative, including considerations for copyright permissions. 3. Music Score: Composing or selecting period-appropriate music to enhance the emotional depth of the documentary. 4. Promotional Posters: Designing visually captivating posters with key historical figures or symbols, incorporating documentary branding and airing details."
+    },
+    {
+        "instruction": "Create an educational podcast series focused on environmental conservation, which includes episode scripting (text), background soundscapes (audio), episode transcriptions (text), and thematic cover art (image). Explain how these components interconnect to maximize listener engagement.",
+        "output-abstract": "1. Episode Scripting, 2. Background Soundscapes, 3. Episode Transcriptions, 4. Cover Art.",
+        "output-detail": "1. Episode Scripting: Detail planning and writing engaging scripts with clear, informative content on conservation topics, including guest speaker segments. 2. Background Soundscapes: Crafting or selecting audio tracks that evoke natural environments, supporting the podcast's theme. 3. Episode Transcriptions: Providing accurate and accessible text versions of each episode for inclusivity and searchability. 4. Cover Art: Creating visually appealing artwork that represents the series' focus on environmental conservation, aiding in identity and recognition."
+    },
+    {
+        "instruction": "Develop a virtual reality language learning application integrating interactive dialogues (text), native speaker conversation simulations (audio), cultural landmark tours (video), and user interface design (image). Detail the function of each element in facilitating immersive learning.",
+        "output-abstract": "1. Interactive Dialogues, 2. Conversation Simulations, 3. Cultural Tours, 4. User Interface Design.",
+        "output-detail": "1. Interactive Dialogues: Scripting text-based conversational exercises tailored to various proficiency levels, focusing on grammar, vocabulary, and cultural nuances. 2. Conversation Simulations: Utilizing audio recordings of native speakers for realistic dialogue practice, emphasizing pronunciation and spoken language flow. 3. Cultural Tours: Creating video tours of significant cultural landmarks, narrated in the target language, to enrich vocabulary and cultural context understanding. 4. User Interface Design: Designing visually intuitive UI that guides users through different components of the app with ease, incorporating cultural elements in the visuals."
+    },
+    {
+        "instruction": "Design an interactive children's storybook app featuring story narration (audio), animated story scenes (video), interactive reading games (text), and character art (image). Outline how each component contributes to a comprehensive and engaging learning experience.",
+        "output-abstract": "1. Story Narration, 2. Animated Scenes, 3. Reading Games, 4. Character Art.",
+        "output-detail": "1. Story Narration: Providing audio narrations by voice actors to bring the story to life and aid in listening comprehension. 2. Animated Scenes: Developing short animation clips for key story moments, enhancing engagement and understanding. 3. Reading Games: Creating text-based interactive quizzes and puzzles related to the story, reinforcing reading skills and retention. 4. Character Art: Designing vibrant and appealing character artwork, supporting visual storytelling and character familiarity."
+    },
+    {
+        "instruction": "Produce a multi-part webinar series on digital marketing featuring a comprehensive guidebook (text), expert interview videos (video), infographic summaries (image), and Q&A sessions recorded (audio). Discuss the interconnectedness of these elements for a holistic learning experience.",
+        "output-abstract": "1. Guidebook, 2. Expert Interviews, 3. Infographics, 4. Q&A Sessions.",
+        "output-detail": "1. Guidebook: Writing detailed text guides on various digital marketing strategies, tools, and case studies. 2. Expert Interviews: Recording video sessions with industry experts discussing their insights and experiences, providing real-world context. 3. Infographics: Designing visually straightforward infographic summaries of key points and data from the webinar content. 4. Q&A Sessions: Recording audio of live Q&A segments, offering insights into viewer concerns and expert responses."
+    },
+    {
+        "instruction": "Create a multilingual tourism guide app including city overviews (text), walking tour audio guides (audio), interactive maps (image), and short documentary clips about landmarks (video). Explain the synergy among these elements to enhance travel experiences.",
+        "output-abstract": "1. City Overviews, 2. Audio Guides, 3. Interactive Maps, 4. Documentary Clips.",
+        "output-detail": "1. City Overviews: Providing written descriptions of each city, covering historical background, cultural significances, and key attractions. 2. Audio Guides: Offering downloadable guided tours for self-paced walking, narrated by locals detailing stories and facts about the sights. 3. Interactive Maps: Designing user-friendly digital maps highlighting tour paths, landmarks, and points of interest, enhancing navigation and discovery. 4. Documentary Clips: Producing engaging short video documentaries on famous landmarks, giving travelers in-depth historical and cultural insights."
+    },
+    {
+        "instruction": "Launch a fitness and wellness platform with exercise routine videos (video), nutrition plan guides (text), progress tracking dashboards (image), and motivational podcast episodes (audio). Determine the role of each component in supporting users' health goals.",
+        "output-abstract": "1. Exercise Routines, 2. Nutrition Plans, 3. Progress Dashboards, 4. Motivational Podcasts.",
+        "output-detail": "1. Exercise Routines: Compiling a series of instructional workout videos catering to different fitness levels. 2. Nutrition Plans: Writing comprehensive guides on healthy eating, including meal prep and dietary advice. 3. Progress Dashboards: Creating visually intuitive dashboards for users to track their fitness progress, goals, and achievements. 4. Motivational Podcasts: Recording episodes that provide advice, success stories, and motivational speeches to inspire listeners towards their wellness journey."
+    },
+    {
+        "instruction": "Assemble a content marketing toolkit including a keyword research guide (text), viral marketing video examples (video), impactful blog post templates (text), and high-conversion ad designs (image). Illustrate how these elements work together to enhance digital marketing strategies.",
+        "output-abstract": "1. Keyword Research Guide, 2. Viral Video Examples, 3. Blog Post Templates, 4. Ad Designs.",
+        "output-detail": "1. Keyword Research Guide: Offering a comprehensive text-based manual on identifying and integrating effective keywords for SEO optimization. 2. Viral Video Examples: Providing examples of successful marketing videos, analyzing the elements that led to their virality. 3. Blog Post Templates: Creating customizable text templates for blog posts that encourage engagement and conversion. 4. Ad Designs: Designing eye-catching ad images that are optimized for high conversion rates through visual appeal and clear call-to-actions."
+    },
+    {
+        "instruction": "Compile a corporate training program on leadership development, featuring interactive e-books (text), role-playing simulation videos (video), feedback and assessment tools (audio), and motivational posters (image). Detail the interconnected roles of these materials.",
+        "output-abstract": "1. Interactive E-Books, 2. Simulation Videos, 3. Feedback Tools, 4. Motivational Posters.",
+        "output-detail": "1. Interactive E-Books: Creating text-based training modules with clickable elements for deeper learning on leadership theories and practices. 2. Simulation Videos: Producing role-playing scenarios in video format, allowing viewers to observe and learn effective leadership behaviors. 3. Feedback Tools: Implementing audio-based assessment tools where participants can receive spoken feedback on exercises, enhancing personal growth. 4. Motivational Posters: Designing visually inspiring posters with leadership quotes and principles, serving as daily motivation and reinforcement."
+    },
+    {
+        "instruction": "Develop a personalized learning application incorporating adaptive learning paths (text), interactive video lessons (video), achievement badges (image), and pronunciation guides (audio). Explain how each component contributes to a tailored educational experience.",
+        "output-abstract": "1. Adaptive Learning Paths, 2. Video Lessons, 3. Achievement Badges, 4. Pronunciation Guides.",
+        "output-detail": "1. Adaptive Learning Paths: Crafting text-based outlines that adjust the learning material based on user performance and feedback, ensuring a customized education journey. 2. Video Lessons: Creating short, interactive video tutorials on various topics, facilitating engagement and understanding. 3. Achievement Badges: Designing visually appealing badges for users to earn as they reach learning milestones, motivating continued progress. 4. Pronunciation Guides: Providing audio examples of correct pronunciation by native speakers, aiding in language acquisition."
+    },
+    {
+        "instruction": "Design a home gardening guide featuring plant care tips (text), time-lapse videos of plant growth (video), gardening tool icons (image), and audio explanations of gardening techniques (audio). Describe how these elements interrelate to support beginner gardeners.",
+        "output-abstract": "1. Plant Care Tips, 2. Time-Lapse Videos, 3. Tool Icons, 4. Audio Techniques.",
+        "output-detail": "1. Plant Care Tips: Writing detailed guides on various plant species\u2019 needs, from watering schedules to sunlight requirements. 2. Time-Lapse Videos: Recording the growth process of different plants, illustrating stages and changes. 3. Tool Icons: Creating simple, intuitive images of gardening tools, helping users identify and understand their uses. 4. Audio Techniques: Offering clear, step-by-step narrations of gardening methods, making complex tasks accessible to novices."
+    },
+    {
+        "instruction": "Organize a virtual fashion show including runway show streaming (video), designer interviews (audio), collections lookbook (image), and event press release (text). Detail the integration of these elements to provide a comprehensive fashion event experience.",
+        "output-abstract": "1. Runway Show, 2. Designer Interviews, 3. Lookbook, 4. Press Release.",
+        "output-detail": "1. Runway Show: Streaming high-definition video of the fashion show, showcasing designs on the catwalk. 2. Designer Interviews: Recording post-show audio interviews with designers, discussing inspirations and collection details. 3. Lookbook: Compiling high-quality images of each collection\u2019s pieces, capturing the essence and details of the designs. 4. Press Release: Writing detailed event summaries and highlights, providing a clear, engaging narrative of the show\u2019s success and key moments."
+    },
+    {
+        "instruction": "Produce an online science fiction film festival, with a selection of films (video), director commentary tracks (audio), promotional posters (image), and critical essays (text) on the genre. Explain how these components come together to celebrate and analyze science fiction.",
+        "output-abstract": "1. Film Selection, 2. Commentary Tracks, 3. Promotional Posters, 4. Critical Essays.",
+        "output-detail": "1. Film Selection: Curating a diverse range of science fiction films, focusing on both classic and contemporary works. 2. Commentary Tracks: Providing director-narrated audio tracks discussing the making of the film, themes, and creative choices. 3. Promotional Posters: Designing visually striking posters for each featured film, capturing the essence and intrigue of the science fiction genre. 4. Critical Essays: Writing insightful text analyses of science fiction themes, trends, and the cultural impact of selected films, fostering deeper understanding."
+    },
+    {
+        "instruction": "Build a platform for asynchronous team collaboration, including project management tools (text), instructional workflow videos (video), motivational audio messages from leadership (audio), and team roles and responsibilities infographics (image). Detail how these components foster effective teamwork.",
+        "output-abstract": "1. Project Management, 2. Workflow Videos, 3. Motivational Messages, 4. Team Infographics.",
+        "output-detail": "1. Project Management: Developing text-based tools for task assignment, progress tracking, and communication channels to streamline workflows. 2. Workflow Videos: Creating clear, concise tutorial videos on system use and best practices in module format. 3. Motivational Messages: Recording short, encouraging audio messages from company leadership to inspire team spirit and dedication. 4. Team Infographics: Designing visual summaries of team structure, highlighting roles, responsibilities, and collaboration points for clear understanding and alignment."
+    },
+    {
+        "instruction": "Launch a yoga and wellness YouTube channel featuring guided practice videos (video), meditation audio tracks (audio), posture breakdowns (text), and branded channel art (image). Explain the mutual reinforcement of these elements for viewer engagement and brand identity.",
+        "output-abstract": "1. Guided Practice Videos, 2. Meditation Tracks, 3. Posture Breakdowns, 4. Channel Art.",
+        "output-detail": "1. Guided Practice Videos: Filming sequences of yoga practices for various skill levels, including clear, visually guided instructions. 2. Meditation Tracks: Composing or curating soothing audio tracks to guide listeners through meditation sessions, enhancing the mental wellness aspect. 3. Posture Breakdowns: Writing detailed descriptions and tips for individual yoga postures, aiding viewers in understanding and improving their technique. 4. Channel Art: Creating cohesive, visually appealing brand imagery for the channel, reinforcing the channel\u2019s focus on wellness and community."
+    },
+    {
+        "instruction": "Develop a citizen science project platform that includes detailed project descriptions (text), instructional submission videos (video), data visualization dashboards (image), and interviews with researchers (audio). Describe how each component supports community engagement and data collection.",
+        "output-abstract": "1. Project Descriptions, 2. Submission Videos, 3. Data Dashboards, 4. Researcher Interviews.",
+        "output-detail": "1. Project Descriptions: Crafting clear, comprehensive text overviews of each citizen science project, outlining objectives, participant tasks, and scientific relevance. 2. Submission Videos: Producing short, instructive videos on how to participate and submit findings, ensuring accurate and efficient data collection. 3. Data Dashboards: Designing interactive, intuitive image-based dashboards for participants to view real-time project results and their contributions. 4. Researcher Interviews: Recording conversations with scientists and researchers, sharing insights into the impact of collected data and ongoing research questions."
+    },
+    {
+        "instruction": "Create an online coding bootcamp experience incorporating interactive coding exercises (text), tutorial screencasts (video), daily inspirational coding quotes (image), and feedback sessions (audio). Outline the cohesive integration of these elements to facilitate learning.",
+        "output-abstract": "1. Coding Exercises, 2. Tutorial Screencasts, 3. Daily Quotes, 4. Feedback Sessions.",
+        "output-detail": "1. Coding Exercises: Providing a variety of text-based interactive programming tasks, ranging from beginner to advanced, with instant feedback mechanisms. 2. Tutorial Screencasts: Recording step-by-step video demonstrations on coding concepts and real-world project builds, enhancing skill development. 3. Daily Quotes: Posting visually appealing motivational quotes related to coding and software development, intended to inspire and engage. 4. Feedback Sessions: Organizing regular, audio-led feedback and Q&A sessions with instructors, facilitating personalized learning and doubt resolution."
+    },
+    {
+        "instruction": "Organize a virtual concert series featuring live performances (video), artist interviews (audio), interactive setlists (text), and concert posters (image). Illustrate how these elements combine to provide a dynamic and engaging music experience.",
+        "output-abstract": "1. Live Performances, 2. Artist Interviews, 3. Interactive Setlists, 4. Concert Posters.",
+        "output-detail": "1. Live Performances: Streaming video of artists\u2019 live sets, capturing the energy and spontaneity of live music. 2. Artist Interviews: Recording audio discussions with performers pre- or post-show, providing insight into their music and the stories behind their songs. 3. Interactive Setlists: Creating text-based, user-interactive set lists that allow viewers to learn more about each song, including lyrics, song meanings, and artist notes. 4. Concert Posters: Designing visually striking posters for each event, featuring artists and the concert series branding, enhancing promotion and audience anticipation."
+    },
+    {
+        "instruction": "Compile an interactive first aid training course including step-by-step instructions for emergencies (text), tutorial videos for common procedures (video), printable quick-reference guides (image), and situational awareness audio simulations (audio). Explain how these components provide a comprehensive learning toolkit.",
+        "output-abstract": "1. Emergency Instructions, 2. Tutorial Videos, 3. Quick-Reference Guides, 4. Audio Simulations.",
+        "output-detail": "1. Emergency Instructions: Writing clear, concise text guides for handling a variety of emergency scenarios, prioritizing safety and efficacy. 2. Tutorial Videos: Filming detailed demonstrations of first aid techniques, such as CPR and wound care, ensuring proper execution. 3. Quick-Reference Guides: Designing easily printable, image-based reference materials for fast information access during emergencies. 4. Audio Simulations: Creating immersive audio tracks that simulate emergency situations, improving learner preparedness and response capability."
+    }
+]

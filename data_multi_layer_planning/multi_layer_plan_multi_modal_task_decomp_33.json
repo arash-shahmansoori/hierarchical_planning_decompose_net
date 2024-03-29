@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Design a virtual cooking class that includes a recipe eBook (text), cooking demonstration videos (video), and promotional materials (image, text). Explain how each element supports the overall class experience.",
+        "output-abstract": "1. Recipe eBook, 2. Demonstration Videos, 3. Promotional Materials.",
+        "output-detail": "1. Recipe eBook: Curate a collection of gourmet but accessible recipes, including detailed textual descriptions and high-quality photos of each dish. 2. Demonstration Videos: Record step-by-step cooking demonstrations for key recipes, ensuring clear visuals and instructions. 3. Promotional Materials: Develop eye-catching posters (image) and concise, compelling descriptions (text) to market the cooking class on social media and cooking forums."
+    },
+    {
+        "instruction": "Compose a tribute song for a famous artist that includes the music composition (audio), lyrics (text), a music video (video), and album artwork (image). Describe how each component tells part of the artist's story.",
+        "output-abstract": "1. Music, 2. Lyrics, 3. Music Video, 4. Album Artwork.",
+        "output-detail": "1. Music: Craft an instrumental that captures the essence of the artist's style. 2. Lyrics: Write lyrics that highlight significant moments in the artist's career and personal life. 3. Music Video: Create a narrative video that visually represents the song's lyrics and emotion, incorporating iconic motifs associated with the artist. 4. Album Artwork: Design artwork that reflects the artist's impact on the music industry, using symbolic imagery."
+    },
+    {
+        "instruction": "Develop an online art exhibition featuring digital art (image), artist interviews (video), a virtual gallery tour (video), and an interactive catalog (text, image). Outline how these elements combine to enhance viewer engagement.",
+        "output-abstract": "1. Digital Art, 2. Artist Interviews, 3. Gallery Tour, 4. Interactive Catalog.",
+        "output-detail": "1. Digital Art: Curate high-quality images of original digital artworks. 2. Artist Interviews: Record interviews with the artists discussing their inspirations and techniques. 3. Gallery Tour: Create a narrated video tour of the virtual gallery, showcasing how the artwork is displayed. 4. Interactive Catalog: Develop an online catalog that includes detailed descriptions of each piece (text) and images that viewers can click to view in high resolution."
+    },
+    {
+        "instruction": "Produce an educational podcast series on sustainable living that includes episode scripts (text), podcast recordings (audio), social media snippets (text, image), and an interactive website (text, image, video). Share how each component engages with the audience.",
+        "output-abstract": "1. Episode Scripts, 2. Podcast Recordings, 3. Social Media Snippets, 4. Interactive Website.",
+        "output-detail": "1. Episode Scripts: Draft engaging and informative scripts for each podcast episode, covering various aspects of sustainable living. 2. Podcast Recordings: Record clear and professional audio for each episode, incorporating expert interviews and practical tips. 3. Social Media Snippets: Create engaging posts and visuals for social media to promote each episode and encourage discussion. 4. Interactive Website: Design a website with episode guides (text), high-quality images, and embedded podcast episodes and related video content to provide a comprehensive resource on sustainable living."
+    },
+    {
+        "instruction": "Create a promotional campaign for a new tech gadget that includes a product description (text), a teaser video (video), press release (text), and concept art (image). Explain how these elements work together to generate buzz.",
+        "output-abstract": "1. Product Description, 2. Teaser Video, 3. Press Release, 4. Concept Art.",
+        "output-detail": "1. Product Description: Write a compelling and concise description of the gadget, focusing on its unique features and benefits. 2. Teaser Video: Produce a short, intriguing video that gives a sneak peek but leaves viewers wanting more. 3. Press Release: Draft a press release that details the gadget, its launch date, and why it's a must-have, targeting tech journalists and bloggers. 4. Concept Art: Design futuristic concept art that showcases the gadget's design and features, to be used in promotional materials."
+    },
+    {
+        "instruction": "Organize a virtual science fair that includes a call for submissions poster (image), participant guidelines (text), recorded project presentations (video), and a feedback mechanism (interactive text). Detail how these components facilitate the event.",
+        "output-abstract": "1. Call for Submissions Poster, 2. Participant Guidelines, 3. Project Presentations, 4. Feedback Mechanism.",
+        "output-detail": "1. Call for Submissions Poster: Design an eye-catching poster that provides essential information and generates interest among potential participants. 2. Participant Guidelines: Draft clear, comprehensive guidelines covering submission requirements, evaluation criteria, and presentation tips. 3. Project Presentations: Collect and organize recorded video presentations of each participant's project, ensuring they are accessible online. 4. Feedback Mechanism: Implement an interactive online platform where judges can leave constructive feedback on presentations and participants can respond or ask questions."
+    },
+    {
+        "instruction": "Develop a fantasy novel promotional package that includes a book cover design (image), book trailer (video), author biography (text), and audiobook samples (audio). Explicate how these elements attract and engage potential readers.",
+        "output-abstract": "1. Book Cover Design, 2. Book Trailer, 3. Author Biography, 4. Audiobook Samples.",
+        "output-detail": "1. Book Cover Design: Create an evocative and thematic book cover that catches the eye and suggests the novel's genre and tone. 2. Book Trailer: Produce a cinematic book trailer that introduces the novel's premise, stakes, and characters, sparking interest. 3. Author Biography: Write a compelling biography of the author, highlighting past works and how personal experiences influence their writing. 4. Audiobook Samples: Provide short samples of the audiobook version, showcasing the narrator's ability to bring the story and its characters to life."
+    },
+    {
+        "instruction": "Create a multi-modal health and wellness guide that includes a weekly meal planner (text, image), workout videos (video), motivational podcasts (audio), and a progress tracking app (interactive text, image). Detail how these elements contribute to a holistic wellness plan.",
+        "output-abstract": "1. Weekly Meal Planner, 2. Workout Videos, 3. Motivational Podcasts, 4. Progress Tracking App.",
+        "output-detail": "1. Weekly Meal Planner: Develop a detailed meal planner that offers nutritious recipes (text) and includes photographs of each dish (image) to inspire and guide users. 2. Workout Videos: Create a series of engaging workout videos for different fitness levels, with clear demonstrations and instructions. 3. Motivational Podcasts: Produce a series of podcasts featuring wellness experts and motivational speakers to encourage and educate users on their health journey. 4. Progress Tracking App: Design an app that allows users to track their meals, workouts, and overall progress, offering visual representations of their achievements and areas for improvement."
+    },
+    {
+        "instruction": "Plan a multi-city music tour that includes a tour schedule (text), venue highlight reels (video), promotional flyers (image), and a tour theme song (audio). Discuss how each component promotes the tour and enhances fan experience.",
+        "output-abstract": "1. Tour Schedule, 2. Venue Highlight Reels, 3. Promotional Flyers, 4. Tour Theme Song.",
+        "output-detail": "1. Tour Schedule: Compile a clear and concise text-based schedule of the tour dates, cities, and venues. 2. Venue Highlight Reels: Produce short video snippets of each venue, showcasing its features and the excitement of past events. 3. Promotional Flyers: Design visually appealing flyers with essential tour information, artist visuals, and dates, intended for both digital and print distribution. 4. Tour Theme Song: Compose and record a catchy theme song that encapsulates the spirit of the tour, to be used in promotions and played during shows."
+    },
+    {
+        "instruction": "Create an educational webinar series on digital marketing that includes webinar slides (image, text), guest speaker recordings (video), a series workbook (text, image), and an interactive Q&A platform (text). Illustrate how these components provide a comprehensive learning experience.",
+        "output-abstract": "1. Webinar Slides, 2. Guest Speaker Recordings, 3. Series Workbook, 4. Interactive Q&A Platform.",
+        "output-detail": "1. Webinar Slides: Design slides that visually complement and enhance the webinar content, incorporating both key points (text) and related imagery (image). 2. Guest Speaker Recordings: Record sessions with guest speakers, ensuring high-quality video and audio that covers various digital marketing topics. 3. Series Workbook: Develop a detailed workbook that follows the webinar series, including summaries, exercises, and additional resources. 4. Interactive Q&A Platform: Set up a platform where attendees can ask questions and interact with speakers for a deeper understanding of the topics discussed."
+    },
+    {
+        "instruction": "Generate a historical documentary project that includes a research dossier (text), archival footage compilation (video), narrative voiceovers (audio), and a series of promotional posters (image). Explain how each element contributes to the storytelling.",
+        "output-abstract": "1. Research Dossier, 2. Archival Footage, 3. Narrative Voiceovers, 4. Promotional Posters.",
+        "output-detail": "1. Research Dossier: Compile a comprehensive document detailing the historical events, key figures, and context to inform the documentary's narrative structure. 2. Archival Footage: Gather and curate a selection of archival video clips that visually illustrate the documentary's main themes and events. 3. Narrative Voiceovers: Record engaging and informative voiceovers that guide the viewer through the documentary, providing context and commentary. 4. Promotional Posters: Design a series of eye-catching posters that encapsulate the essence of the documentary, using imagery and text to attract potential viewers."
+    },
+    {
+        "instruction": "Design a virtual reality (VR) experience for historical education that includes a script for the narration (text), 3D models of historical artifacts (image), immersive environments (video), and background soundscapes (audio). Outline how these components interact to educate users.",
+        "output-abstract": "1. Script for Narration, 2. 3D Models of Artifacts, 3. Immersive Environments, 4. Background Soundscapes.",
+        "output-detail": "1. Script for Narration: Develop an engaging and informative script that will guide users through the VR experience, offering insights into historical events and contexts. 2. 3D Models of Artifacts: Create detailed 3D models of key historical artifacts that users can interact with within the VR environment. 3. Immersive Environments: Design and render immersive 3D environments that accurately reflect historical settings, enhancing the educational experience. 4. Background Soundscapes: Compose and record authentic sounding soundscapes that complement the historical periods being explored, adding depth to the immersive experience."
+    },
+    {
+        "instruction": "Launch a line of eco-friendly clothing that includes a sustainability report (text), fabric sample photos (image), manufacturing process videos (video), and a playlist of songs that inspired the line (audio). Describe how these components showcase the brand's values.",
+        "output-abstract": "1. Sustainability Report, 2. Fabric Sample Photos, 3. Manufacturing Process Videos, 4. Inspiration Playlist.",
+        "output-detail": "1. Sustainability Report: Draft a detailed report on the eco-friendly materials and processes used, explaining how they contribute to sustainability goals. 2. Fabric Sample Photos: Capture high-quality images of the fabric samples, emphasizing their eco-friendly attributes and quality. 3. Manufacturing Process Videos: Create videos that demonstrate the eco-friendly manufacturing processes, highlighting innovations and commitment to sustainability. 4. Inspiration Playlist: Compile a playlist of songs that inspired the clothing line, reflecting the brand's ethos and connecting with customers on an emotional level."
+    },
+    {
+        "instruction": "Prepare a photo essay on urban street life that includes high-resolution photographs (image), descriptive captions (text), an audio guide (audio), and a behind-the-scenes making-of video (video). Detail how these components together provide a vivid exploration.",
+        "output-abstract": "1. Photographs, 2. Captions, 3. Audio Guide, 4. Making-of Video.",
+        "output-detail": "1. Photographs: Take a series of high-resolution photographs capturing the essence of urban street life, focusing on people, architecture, and activities. 2. Captions: Write insightful captions for each photograph, providing context and further depth to the images. 3. Audio Guide: Record an audio guide that narrates the story behind the photo essay, offering additional insights into the subjects and themes. 4. Making-of Video: Produce a video documenting the process of creating the photo essay, including challenges faced and interactions with subjects."
+    },
+    {
+        "instruction": "Develop a multilingual tourism guide that includes sightseeing information (text), photos of landmarks (image), navigation maps (image), and welcome messages in different languages (audio). Explain how these elements cater to international tourists.",
+        "output-abstract": "1. Sightseeing Information, 2. Photos of Landmarks, 3. Navigation Maps, 4. Welcome Messages.",
+        "output-detail": "1. Sightseeing Information: Write concise overviews of must-see attractions, including historical background and visitor tips. 2. Photos of Landmarks: Provide high-quality photos of the landmarks mentioned, giving tourists a visual reference. 3. Navigation Maps: Design easy-to-read maps that help tourists navigate the area, featuring landmarks, transport links, and notable locations. 4. Welcome Messages: Record welcoming messages in multiple languages, offering a warm reception and essential information to help tourists feel accommodated regardless of their native language."
+    },
+    {
+        "instruction": "Create an online art class that includes lesson plans (text), tutorial videos (video), student galleries (image), and critique sessions (audio). Enumerate how these components work synergistically to provide a comprehensive learning experience.",
+        "output-abstract": "1. Lesson Plans, 2. Tutorial Videos, 3. Student Galleries, 4. Critique Sessions.",
+        "output-detail": "1. Lesson Plans: Prepare detailed lesson plans that cover various art techniques and themes, providing a structured learning path. 2. Tutorial Videos: Record step-by-step tutorial videos for each lesson plan, ensuring clarity and accessibility for students of all levels. 3. Student Galleries: Set up an online gallery where students can upload their work, fostering a sense of community and allowing for visual learning from peers. 4. Critique Sessions: Schedule regular audio critique sessions where students can receive constructive feedback in a supportive environment, enhancing their learning through personalized advice."
+    },
+    {
+        "instruction": "Compile a career guide for recent graduates that includes resume templates (image, text), interview tips (text), webinar recordings on job search strategies (video), and motivational speeches (audio). Highlight how these components equip job seekers.",
+        "output-abstract": "1. Resume Templates, 2. Interview Tips, 3. Webinar Recordings, 4. Motivational Speeches.",
+        "output-detail": "1. Resume Templates: Design modern and professional resume templates that can be customized for various job applications, including helpful annotations on how to fill them out effectively. 2. Interview Tips: Compile a list of actionable interview tips and best practices, emphasizing how to communicate skills and experiences. 3. Webinar Recordings: Produce recordings of webinars led by career experts, covering job search strategies, networking, and personal branding. 4. Motivational Speeches: Collect a series of inspirational speeches that encourage resilience, adaptability, and positivity in the job search process."
+    },
+    {
+        "instruction": "Produce a culinary travel show that includes destination guides (text), tasting adventure videos (video), local recipe features (text, image), and a show theme song (audio). Discuss how these components together create an immersive gastronomic journey.",
+        "output-abstract": "1. Destination Guides, 2. Tasting Adventure Videos, 3. Local Recipe Features, 4. Show Theme Song.",
+        "output-detail": "1. Destination Guides: Write engaging guides that highlight each destination's culinary landscape, providing background on local food culture and must-try dishes. 2. Tasting Adventure Videos: Film the host's tasting adventures, capturing the essence of each location's culinary offerings and the reactions to trying different dishes. 3. Local Recipe Features: Present detailed recipes of standout dishes showcased in the videos, accompanied by high-quality images and cultural context. 4. Show Theme Song: Compose a catchy theme song that reflects the show's spirit of culinary discovery and adventure."
+    },
+    {
+        "instruction": "Design a weather forecasting app that includes daily forecast summaries (text), weather pattern animations (video), radar images (image), and severe weather alerts (audio). Clarify how these features offer users a comprehensive weather update experience.",
+        "output-abstract": "1. Daily Forecast Summaries, 2. Weather Pattern Animations, 3. Radar Images, 4. Severe Weather Alerts.",
+        "output-detail": "1. Daily Forecast Summaries: Provide concise, easy-to-read summaries of the daily weather forecast, including temperature, precipitation, and wind. 2. Weather Pattern Animations: Develop animations that visually depict the day's weather patterns, aiding in the understanding of forecasted conditions. 3. Radar Images: Include real-time radar images that show precipitation, clouds, and storms, offering a detailed view of weather conditions. 4. Severe Weather Alerts: Implement an audio alert system that notifies users of severe weather warnings and advisories, ensuring timely and effective communication."
+    },
+    {
+        "instruction": "Launch a personal finance blog that includes insightful articles (text), financial health check tools (interactive text, image), interview podcasts with finance experts (audio), and explainer videos on budgeting (video). Describe how these elements provide value to readers.",
+        "output-abstract": "1. Articles, 2. Financial Health Check Tools, 3. Interview Podcasts, 4. Explainer Videos.",
+        "output-detail": "1. Articles: Write a variety of articles that cover topics such as saving, investing, budgeting, and financial planning, offering actionable advice and insights. 2. Financial Health Check Tools: Develop interactive tools that help users assess their financial health, including budget calculators and savings goal trackers. 3. Interview Podcasts: Record interviews with finance experts, providing insider tips, stories, and strategies on managing finances effectively. 4. Explainer Videos: Produce clear and engaging videos that explain the basics of budgeting, investing, and financial decision-making, making complex topics accessible to everyone."
+    }
+]

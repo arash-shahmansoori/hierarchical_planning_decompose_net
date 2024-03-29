@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Create a multilingual welcome packet for an international conference including a welcome letter (text), a list of essential local phrases with translations (text), and an introductory video of the conference's main attractions and schedule (video).",
+        "output-abstract": "1. Welcome Letter, 2. Essential Phrases, 3. Introductory Video.",
+        "output-detail": "1. Welcome Letter: Draft in English, highlighting the conference's objectives, key speakers, and expressing gratitude towards attendees. 2. Essential Phrases: Compile phrases in English and translate them into Spanish, French, German, and Mandarin. Include greetings, directions, courtesy expressions. 3. Introductory Video: Create a 3-minute video montage with subtitles in all mentioned languages, showcasing venue attractions, brief interviews with keynote speakers, and a dynamic schedule overview."
+    },
+    {
+        "instruction": "Develop an app design concept that assists users with household waste sorting, featuring an interactive tutorial (text and image), a quick sorting guide with icons (image), and an environmental impact tracker (text and data visualization).",
+        "output-abstract": "1. Interactive Tutorial, 2. Quick Sorting Guide, 3. Environmental Impact Tracker.",
+        "output-detail": "1. Interactive Tutorial: Design a step-by-step guide combining explanatory text with illustrative images to demonstrate proper waste sorting methods. 2. Quick Sorting Guide: Use icons and colors to represent different types of waste categories. 3. Environmental Impact Tracker: Implement a feature displaying text-based tips on reducing waste and data visualizations showing the user's personal impact on the environment over time."
+    },
+    {
+        "instruction": "Produce a documentary series on global cuisines featuring interviews with chefs (video), recipes (text), photo essays of dishes (image), and field recordings of local markets (audio).",
+        "output-abstract": "1. Chef Interviews, 2. Recipes, 3. Photo Essays, 4. Local Market Recordings.",
+        "output-detail": "1. Chef Interviews: Record video interviews focusing on their culinary philosophy, signature dishes, and cooking techniques. 2. Recipes: Write detailed recipes provided by the chefs, including ingredients list and step-by-step instructions. 3. Photo Essays: Curate a series of high-quality photos showcasing the preparation, cooking process, and the final dishes. 4. Local Market Recordings: Capture the ambiance of local markets with audio recordings of vendors, shoppers, and the general hustle."
+    },
+    {
+        "instruction": "Design a digital magazine focusing on sustainable living, including feature articles (text), photojournalism pieces (image), interactive quizzes on sustainability knowledge (text and image), and podcasts with experts (audio).",
+        "output-abstract": "1. Feature Articles, 2. Photojournalism, 3. Quizzes, 4. Podcasts.",
+        "output-detail": "1. Feature Articles: Compose in-depth articles discussing various aspects of sustainable living, from zero-waste living to renewable energy adoption. 2. Photojournalism: Commission photographers to document the impact of climate change globally, focusing on affected communities and ecosystems. 3. Quizzes: Develop interactive quizzes for readers to test their sustainability knowledge, incorporating text questions and related images. 4. Podcasts: Record discussions with environmentalists, scientists, and activists, providing insights into sustainable practices and innovations."
+    },
+    {
+        "instruction": "Construct a digital marketing campaign for a boutique coffee brand, including product photography (image), customer testimonial videos (video), blog posts on coffee culture and preparation tips (text), and a signature jingle for the brand (audio).",
+        "output-abstract": "1. Product Photography, 2. Testimonial Videos, 3. Blog Posts, 4. Brand Jingle.",
+        "output-detail": "1. Product Photography: Shoot high-quality images of the coffee products in various settings to highlight their quality and appeal. 2. Testimonial Videos: Record customer reviews discussing their experience with the brand and the taste of the coffee. 3. Blog Posts: Write engaging content covering topics such as the origin of beans, brewing methods, and cultural significance of coffee. 4. Brand Jingle: Compose a catchy and memorable jingle that encapsulates the essence of the brand."
+    },
+    {
+        "instruction": "Generate an interactive historical timeline for an online educational platform, including key events and figures (text), historical photographs and paintings (image), narrative voiceovers explaining each era (audio), and animated reenactments of significant moments (video).",
+        "output-abstract": "1. Key Events and Figures, 2. Historical Imagery, 3. Narrative Voiceovers, 4. Animated Reenactments.",
+        "output-detail": "1. Key Events and Figures: Compile a chronological list of significant events and figures, providing brief textual explanations for each. 2. Historical Imagery: Source authentic photographs and paintings to visually represent each era. 3. Narrative Voiceovers: Record professional voiceovers giving deeper insights into the historical context and significance of each event. 4. Animated Reenactments: Create short animations to bring pivotal moments to life, adding a dynamic layer to the learning experience."
+    },
+    {
+        "instruction": "Create a virtual reality experience of a space station for educational purposes, incorporating detailed module descriptions (text), 360-degree tours of each module (video), real-time communication simulations with mission control (audio), and an interactive dashboard displaying the station's stats and orbit data (text and data visualization).",
+        "output-abstract": "1. Module Descriptions, 2. 360-degree Tours, 3. Communication Simulations, 4. Interactive Dashboard.",
+        "output-detail": "1. Module Descriptions: Offer comprehensive text descriptions covering the function, history, and technological details of each module. 2. 360-degree Tours: Produce immersive video tours allowing users to explore the station as if they were astronauts. 3. Communication Simulations: Develop audio simulations of typical communications between the space station and mission control, including problem-solving scenarios. 4. Interactive Dashboard: Design a dashboard combining textual information with real-time data visualizations of the station\u2019s systems and its orbit around Earth."
+    },
+    {
+        "instruction": "Devise a social media campaign for a new urban gardening initiative, featuring DIY tutorial videos (video), before-and-after transformations (image and text), blog posts on the benefits of green spaces (text), and a playlist of nature sounds to inspire gardeners (audio).",
+        "output-abstract": "1. Tutorial Videos, 2. Transformations, 3. Blog Posts, 4. Nature Sounds Playlist.",
+        "output-detail": "1. Tutorial Videos: Create engaging step-by-step videos showing various gardening techniques suitable for urban environments. 2. Transformations: Showcase the impact of urban gardening through before-and-after images and descriptions of each project. 3. Blog Posts: Write informative posts highlighting the mental and environmental benefits of urban gardening. 4. Nature Sounds Playlist: Curate a collection of calming nature sounds to encourage relaxation and inspiration among gardeners."
+    },
+    {
+        "instruction": "Produce an e-learning course for amateur photographers, including basics of photography (text), video tutorials on using different camera settings (video), a gallery of exemplary photographs with annotations (image and text), and critiques of student's work (audio feedback).",
+        "output-abstract": "1. Basics of Photography, 2. Camera Settings Tutorials, 3. Exemplary Photographs, 4. Critiques.",
+        "output-detail": "1. Basics of Photography: Write clear instructional text on photography fundamentals, such as composition and lighting. 2. Camera Settings Tutorials: Record detailed video guides on adjusting various camera settings for different shooting conditions. 3. Exemplary Photographs: Assemble a collection of high-quality photos, providing annotations on why each image is effective. 4. Critiques: Offer audio feedback on students' submitted photographs, highlighting strengths and areas for improvement."
+    },
+    {
+        "instruction": "Design an interactive map of a fictional world for a fantasy novel, including detailed region descriptions (text), artist renditions of notable landmarks (image), ambient soundtrack capturing the essence of different regions (audio), and animated sequences showing historical events (video).",
+        "output-abstract": "1. Region Descriptions, 2. Landmark Renditions, 3. Ambient Soundtrack, 4. Historical Sequences.",
+        "output-detail": "1. Region Descriptions: Provide rich textual descriptions of various regions in the fantasy world, including geography, culture, and key events. 2. Landmark Renditions: Commission artists to create images of significant landmarks within each region. 3. Ambient Soundtrack: Compose an original soundtrack with distinct musical themes representing each area's atmosphere. 4. Historical Sequences: Produce short animated videos depicting major historical events that shaped the world."
+    },
+    {
+        "instruction": "Compile a cookbook featuring family recipes across generations, including scanned handwritten recipes (image), stories behind the dishes (text), step-by-step cooking tutorials (video), and recordings of family members sharing their memories (audio).",
+        "output-abstract": "1. Handwritten Recipes, 2. Dish Stories, 3. Cooking Tutorials, 4. Family Memories.",
+        "output-detail": "1. Handwritten Recipes: Digitally scan old handwritten recipes, preserving their original format. 2. Dish Stories: Write text detailing the origins and traditions associated with each recipe. 3. Cooking Tutorials: Film step-by-step video guides for preparing selected dishes. 4. Family Memories: Record audio clips of family members recounting memories and stories tied to the dishes, providing a personal connection to the recipes."
+    },
+    {
+        "instruction": "Create a promotional campaign for a mindfulness app, consisting of calming landscape wallpapers (image), guided meditation scripts (text), voiceover meditation sessions (audio), and an explainer video about the app's features (video).",
+        "output-abstract": "1. Wallpapers, 2. Meditation Scripts, 3. Voiceover Sessions, 4. Explainer Video.",
+        "output-detail": "1. Wallpapers: Design a series of serene and calming wallpapers depicting nature landscapes suitable for app backgrounds. 2. Meditation Scripts: Write detailed scripts for guided meditation sessions, focusing on breath work, mindfulness, and relaxation. 3. Voiceover Sessions: Record audio of guided meditations, using soothing voices to lead the sessions. 4. Explainer Video: Produce a concise video detailing the app's features, benefits, and user testimonials to encourage downloads."
+    },
+    {
+        "instruction": "Construct a dynamic website for a virtual art gallery, including biographies of featured artists (text), high-resolution images of artworks (image), curator-led tour videos (video), and an immersive audio guide for each art piece (audio).",
+        "output-abstract": "1. Artist Biographies, 2. Artwork Images, 3. Tour Videos, 4. Audio Guides.",
+        "output-detail": "1. Artist Biographies: Write comprehensive backgrounds for each showcased artist, summarizing their career, style, and notable works. 2. Artwork Images: Display detailed photographs of each piece, enabling zoom and detail exploration. 3. Tour Videos: Create engaging videos of curators discussing the significance of select artworks and their context within the exhibition. 4. Audio Guides: Offer downloadable or streamable audio guides, providing detailed commentary and insights on featured art pieces."
+    },
+    {
+        "instruction": "Develop an urban exploration game using augmented reality (AR), featuring historic site trivia (text), AR interactions with monuments (image and video), ambient soundscapes of historical periods (audio), and location-based challenges (text and image).",
+        "output-abstract": "1. Historic Site Trivia, 2. AR Interactions, 3. Ambient Soundscapes, 4. Location-Based Challenges.",
+        "output-detail": "1. Historic Site Trivia: Compile fascinating facts and stories about landmarks players will visit, presented in text form within the game. 2. AR Interactions: Design virtual overlays that bring monuments to life with historical figures and events, viewable on players' devices. 3. Ambient Soundscapes: Create audio tracks mimicking the historical era's atmosphere associated with each site, enhancing the immersive experience. 4. Location-Based Challenges: Set up tasks that players must complete in specific locations, using text for instructions and augmented reality imagery to guide and engage users."
+    },
+    {
+        "instruction": "Orchestrate a virtual conference on future technologies, including speaker presentations (video), interactive polls and Q&A sessions (text and image), virtual networking rooms (audio and text), and a digital exhibition hall (video and image).",
+        "output-abstract": "1. Speaker Presentations, 2. Interactive Polls and Q&A, 3. Networking Rooms, 4. Exhibition Hall.",
+        "output-detail": "1. Speaker Presentations: Arrange for experts to submit pre-recorded videos discussing innovations and trends in their field. 2. Interactive Polls and Q&A: Use live text feeds and image-based questions to engage the audience during presentations, allowing real-time interaction. 3. Networking Rooms: Set up virtual rooms with audio and chat functionalities for attendees to discuss topics and share ideas in groups. 4. Exhibition Hall: Develop a virtual space showcasing videos and images from tech companies and startups, highlighting their latest products and services."
+    },
+    {
+        "instruction": "Launch an online fitness platform with customizable workout plans (text), demonstration videos of exercises (video), motivational audio messages from fitness coaches (audio), and a gallery of transformation success stories (image and text).",
+        "output-abstract": "1. Workout Plans, 2. Demonstration Videos, 3. Motivational Messages, 4. Success Stories.",
+        "output-detail": "1. Workout Plans: Provide detailed, customizable text-based workout plans tailored to different fitness levels and goals. 2. Demonstration Videos: Film clear, easy-to-follow exercise demonstration videos for a range of workouts, ensuring accessibility for beginners and advanced users alike. 3. Motivational Messages: Record audio clips from various coaches offering encouragement, tips for staying motivated, and advice on maintaining a healthy lifestyle. 4. Success Stories: Feature before-and-after images of members who achieved their fitness goals, accompanied by narratives of their journeys."
+    },
+    {
+        "instruction": "Create a virtual book club platform, incorporating book summaries (text), author interview videos (video), community discussion forums (text), and themed ambient playlists for reading sessions (audio).",
+        "output-abstract": "1. Book Summaries, 2. Author Interviews, 3. Discussion Forums, 4. Ambient Playlists.",
+        "output-detail": "1. Book Summaries: Write concise summaries of monthly selected books, providing key insights and themes. 2. Author Interviews: Record video interviews with authors, discussing their writing process, inspirations, and behind-the-scenes stories. 3. Discussion Forums: Set up text-based forums for each book, facilitating community discussions, questions, and analysis. 4. Ambient Playlists: Compile playlists of calming background music matching the mood or setting of the monthly book, enhancing the reading experience."
+    },
+    {
+        "instruction": "Construct a language learning app with daily lesson modules (text and image), pronunciation guides (audio), interactive grammar and vocabulary exercises (text and image), and conversation simulation videos (video).",
+        "output-abstract": "1. Daily Lessons, 2. Pronunciation Guides, 3. Grammar and Vocabulary Exercises, 4. Conversation Simulations.",
+        "output-detail": "1. Daily Lessons: Structure text-based lessons with accompanying images to introduce new words, phrases, and cultural notes. 2. Pronunciation Guides: Record clear, slow-paced audio examples of native speakers for accurate pronunciation. 3. Grammar and Vocabulary Exercises: Create interactive text and image-based activities to reinforce lesson content, including matching, completion, and multiple-choice questions. 4. Conversation Simulations: Produce videos simulating real-life conversations, providing a context for using new language skills in practical situations."
+    },
+    {
+        "instruction": "Develop a series on personal finance management, including animated explainer videos on financial concepts (video), infographics on budgeting and saving strategies (image), podcast interviews with financial experts (audio), and interactive quizzes to test knowledge (text and image).",
+        "output-abstract": "1. Explainer Videos, 2. Infographics, 3. Podcast Interviews, 4. Interactive Quizzes.",
+        "output-detail": "1. Explainer Videos: Create short animations that break down complex financial topics, like investments, taxes, and budgeting, into understandable segments. 2. Infographics: Design visually appealing infographics that offer tips and strategies for effective money management. 3. Podcast Interviews: Conduct and record discussions with financial advisors, entrepreneurs, and personal finance gurus, sharing their experiences and advice. 4. Interactive Quizzes: Develop text and image-based quizzes to help users assess their understanding of personal finance concepts and their readiness to apply them."
+    },
+    {
+        "instruction": "Create a crisis management training module for corporate teams, featuring scenario-based training guides (text), role-play simulations (video), emergency procedure infographics (image), and stress-relief audio exercises (audio).",
+        "output-abstract": "1. Training Guides, 2. Role-Play Simulations, 3. Procedure Infographics, 4. Stress-Relief Exercises.",
+        "output-detail": "1. Training Guides: Draft comprehensive guides detailing different crisis scenarios, including both the theoretical background and practical steps for resolution. 2. Role-Play Simulations: Produce realistic videos simulating crisis situations, allowing teams to visualize and practice their response strategies. 3. Procedure Infographics: Create clear, informative infographics summarizing emergency procedures and protocols for quick reference. 4. Stress-Relief Exercises: Record guided audio exercises aimed at helping team members manage stress and maintain calm during high-pressure situations."
+    }
+]

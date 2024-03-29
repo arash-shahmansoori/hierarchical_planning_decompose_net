@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Design a book cover (image) and write a descriptive blurb (text) for a new detective novel set in 1940s New York.",
+        "output-abstract": "1. Book Cover, 2. Descriptive Blurb.",
+        "output-detail": "1. Book Cover: Utilize noir aesthetics, focusing on shadowy figures and the New York skyline, capturing the essence of 1940s detective stories. 2. Descriptive Blurb: Craft a compelling narrative hinting at the mystery and intrigue, incorporating period slang and the novel's dark, atmospheric setting."
+    },
+    {
+        "instruction": "Produce a marketing campaign for a new tech product, including a product demonstration video (video), user testimonials (video & text), and a digital brochure (image & text).",
+        "output-abstract": "1. Demonstration Video, 2. User Testimonials, 3. Digital Brochure.",
+        "output-detail": "1. Demonstration Video: Highlight key features through visual demonstration and a voiceover explaining benefits. 2. User Testimonials: Collect video and written statements from beta testers focusing on how the product improved their daily life. 3. Digital Brochure: Design a visually appealing brochure combining product images with concise, engaging descriptions of its features and advantages."
+    },
+    {
+        "instruction": "Develop an educational module on the solar system for children, including an interactive ebook (text & image), a series of short animations (video), and a quiz (text).",
+        "output-abstract": "1. Interactive Ebook, 2. Animations, 3. Quiz.",
+        "output-detail": "1. Interactive Ebook: Combine informative text with engaging, colorful images of planets and space phenomena, including clickable elements for further exploration. 2. Animations: Create short, engaging animations detailing key facts about each planet, the sun, and moon phases. 3. Quiz: Design a fun and educational quiz to test knowledge on the solar system, using multiple-choice and true/false questions."
+    },
+    {
+        "instruction": "Compose a piece of instrumental music inspired by the rain (audio), create a digital painting of the mood the music evokes (image), and write a descriptive analysis (text).",
+        "output-abstract": "1. Music Composition, 2. Digital Painting, 3. Descriptive Analysis.",
+        "output-detail": "1. Music Composition: Use piano and string instruments to emulate the sound and rhythm of rain, aiming for a soothing and introspective piece. 2. Digital Painting: Depict a scene that resonates with the music, perhaps a person gazing out a rain-streaked window, using cool tones to enhance the mood. 3. Descriptive Analysis: Write an analysis exploring how the music and painting interconnect, discussing the emotions and imagery stimulated by both."
+    },
+    {
+        "instruction": "Create an online cooking tutorial series, featuring a series of step-by-step how-to videos (video), printable recipes (text), and accompanying photos of the dishes (image).",
+        "output-abstract": "1. How-To Videos, 2. Printable Recipes, 3. Dish Photos.",
+        "output-detail": "1. How-To Videos: Film detailed cooking tutorials, breaking down each recipe into easy-to-follow steps, including tips for success. 2. Printable Recipes: Provide well-organized text documents with ingredients, measurements, and step-by-step instructions. 3. Dish Photos: Take high-quality, appetizing photos of the finished dishes, highlighting their presentation and appeal."
+    },
+    {
+        "instruction": "Develop a personal fitness app with custom workout plans (text), demonstration videos (video), and motivational audio messages (audio).",
+        "output-abstract": "1. Workout Plans, 2. Demonstration Videos, 3. Motivational Messages.",
+        "output-detail": "1. Workout Plans: Create diverse, personalized workout plans categorized by fitness level, goal, and available equipment. 2. Demonstration Videos: Record clear, instructive videos showcasing how to perform each exercise correctly, emphasizing form and safety. 3. Motivational Messages: Prepare short, energizing audio messages to inspire users throughout their fitness journey, focusing on perseverance and positive results."
+    },
+    {
+        "instruction": "Launch a virtual art gallery exhibition, featuring digital art (image), curator's commentary (audio), and interactive visitor's guide (text & image).",
+        "output-abstract": "1. Digital Art, 2. Curator's Commentary, 3. Visitor's Guide.",
+        "output-detail": "1. Digital Art: Curate a collection of digital artworks from various artists, ensuring a range of styles and themes. 2. Curator's Commentary: Record insightful audio commentary for selected pieces, discussing the artist's background, the work's context, and its significance. 3. Visitor's Guide: Design an interactive guide with images of the art pieces and texts that lead visitors through the exhibit, offering additional information on artworks not covered in the audio commentary."
+    },
+    {
+        "instruction": "Construct an educational podcast on historical events, including episode scripts (text), interview recordings with historians (audio), and a companion website featuring timelines and additional resources (text & image).",
+        "output-abstract": "1. Episode Scripts, 2. Interview Recordings, 3. Companion Website.",
+        "output-detail": "1. Episode Scripts: Write engaging, informative scripts for each podcast episode, blending narrative storytelling with factual history. 2. Interview Recordings: Conduct and record audio interviews with experts, offering insights and analysis on the events discussed. 3. Companion Website: Create a visually engaging website with episode summaries, interactive timelines of historical events, and links to further reading and resources."
+    },
+    {
+        "instruction": "Produce an instructional video on basic car maintenance (video), accompanied by a detailed tools and parts list (text) and infographics on common issues and fixes (image).",
+        "output-abstract": "1. Instructional Video, 2. Tools and Parts List, 3. Infographics.",
+        "output-detail": "1. Instructional Video: Film a comprehensive guide covering routine car maintenance tasks, with step-by-step demonstrations. 2. Tools and Parts List: Compile a detailed list of the necessary tools and replacement parts, with descriptions and specific uses for each item. 3. Infographics: Design informative infographics depicting common car issues, symptoms, and step-by-step solutions, ensuring clarity and visual appeal."
+    },
+    {
+        "instruction": "Design a social media campaign for Earth Day, including themed posts (text & image), an interactive quiz (text), and a promotional video highlighting the importance of environmental conservation (video).",
+        "output-abstract": "1. Themed Posts, 2. Interactive Quiz, 3. Promotional Video.",
+        "output-detail": "1. Themed Posts: Create engaging posts combining impactful images with informative text about different environmental issues and how to address them. 2. Interactive Quiz: Develop a fun and educational quiz to engage followers, testing their knowledge on environmental facts. 3. Promotional Video: Produce a captivating video that emphasizes the urgency of conservation efforts, featuring inspiring messages and calls to action."
+    },
+    {
+        "instruction": "Assemble a travel guide for a specific city, consisting of a main guidebook (text & image), a series of walking tour podcasts (audio), and a collection of short documentary videos on local landmarks (video).",
+        "output-abstract": "1. Guidebook, 2. Walking Tour Podcasts, 3. Documentary Videos.",
+        "output-detail": "1. Guidebook: Compile a comprehensive guidebook with maps, photographs, and texts detailing the city's history, culture, and key attractions. 2. Walking Tour Podcasts: Record audio guides for various walking tours around the city, offering historical context and anecdotes. 3. Documentary Videos: Produce short, informational videos on significant landmarks and cultural sites, integrating interviews with locals and experts."
+    },
+    {
+        "instruction": "Create a series of motivational posters (image) with accompanying inspirational quotes (text) and a background music playlist to enhance the mood (audio).",
+        "output-abstract": "1. Motivational Posters, 2. Inspirational Quotes, 3. Background Music.",
+        "output-detail": "1. Motivational Posters: Design posters with powerful imagery and colors that inspire action and optimism. 2. Inspirational Quotes: Select uplifting quotes that resonate with the poster themes, pairing them with the corresponding images. 3. Background Music: Curate a playlist of instrumental music that complements the tone and message of the posters, enhancing the overall motivational experience."
+    },
+    {
+        "instruction": "Develop a series of educational YouTube videos on basic programming concepts (video), along with downloadable code examples (text) and interactive coding exercises (text & image).",
+        "output-abstract": "1. Educational Videos, 2. Downloadable Code Examples, 3. Interactive Coding Exercises.",
+        "output-detail": "1. Educational Videos: Record clear, concise tutorials explaining programming concepts with visual aids and real-life examples. 2. Downloadable Code Examples: Prepare well-commented code samples illustrating the concepts discussed in the videos, available for viewers to download. 3. Interactive Coding Exercises: Design exercises where learners can practice coding directly on an interactive platform, receiving instant feedback and visual results."
+    },
+    {
+        "instruction": "Plan a virtual conference on renewable energy, including keynote speeches (video), panel discussions (audio), and a digital exhibition hall (image & text).",
+        "output-abstract": "1. Keynote Speeches, 2. Panel Discussions, 3. Digital Exhibition Hall.",
+        "output-detail": "1. Keynote Speeches: Arrange for industry leaders to deliver video presentations on current trends and future prospects in renewable energy. 2. Panel Discussions: Organize audio-recorded discussions featuring experts debating various facets of renewable energy, technology, and policy. 3. Digital Exhibition Hall: Create a virtual space displaying images and texts about innovative products, case studies, and companies in the renewable energy sector."
+    },
+    {
+        "instruction": "Compose a press release (text) announcing a new art exhibition, including a teaser video of the artwork (video), artist interviews (audio), and a digital catalog of the pieces (image & text).",
+        "output-abstract": "1. Press Release, 2. Teaser Video, 3. Artist Interviews, 4. Digital Catalog.",
+        "output-detail": "1. Press Release: Write an engaging press release detailing the exhibition theme, the featured artists, and the significance of the event. 2. Teaser Video: Produce a short video showcasing selected pieces from the exhibition, stirring interest and excitement. 3. Artist Interviews: Record interviews with the artists discussing their work, inspiration, and process. 4. Digital Catalog: Compile a digital catalog with high-quality images of the artwork and accompanying texts describing the pieces and artist bios."
+    },
+    {
+        "instruction": "Organize an online film festival, featuring a selection of short films (video), director Q&A sessions (video & text), and audience voting for their favorites (text).",
+        "output-abstract": "1. Short Films, 2. Director Q&A, 3. Audience Voting.",
+        "output-detail": "1. Short Films: Curate a diverse lineup of short films from emerging filmmakers, showcasing a variety of genres and styles. 2. Director Q&A: Schedule live or pre-recorded Q&A sessions where directors can discuss their films, answering questions submitted by the audience. 3. Audience Voting: Implement a simple, secure online voting system allowing viewers to vote for their favorite films, with results announced at the festival's conclusion."
+    },
+    {
+        "instruction": "Design a comprehensive workout and nutrition plan for athletes, including a series of instructional workout videos (video), meal prep guides (text & image), and a playlist of energizing workout music (audio).",
+        "output-abstract": "1. Instructional Videos, 2. Meal Prep Guides, 3. Workout Music.",
+        "output-detail": "1. Instructional Videos: Create clear, detailed videos demonstrating each exercise, providing variations to suit different fitness levels and goals. 2. Meal Prep Guides: Develop guides outlining balanced meal plans with recipes tailored to athletes, including nutritional information and preparation steps, accompanied by images of the meals. 3. Workout Music: Compile a playlist of high-energy music tracks to motivate and energize athletes during their workout sessions."
+    },
+    {
+        "instruction": "Produce a series of tutorials on sustainable living practices, including how-to guides on reducing waste (text), DIY project videos (video), and a podcast discussing the benefits and challenges of sustainability (audio).",
+        "output-abstract": "1. How-To Guides, 2. DIY Projects, 3. Podcast.",
+        "output-detail": "1. How-To Guides: Write informative guides on waste reduction strategies, such as composting, recycling, and mindful consumption. 2. DIY Projects: Film tutorials on easy, sustainable home projects, like making reusable shopping bags or upcycling furniture. 3. Podcast: Create a series of podcast episodes featuring conversations with sustainability experts, sharing insights, experiences, and tips for a greener lifestyle."
+    },
+    {
+        "instruction": "Create a multilingual welcome packet for international students, including a welcome letter (text), campus maps (image), a video tour of the school (video), and audio greetings in various languages (audio).",
+        "output-abstract": "1. Welcome Letter, 2. Campus Maps, 3. Video Tour, 4. Audio Greetings.",
+        "output-detail": "1. Welcome Letter: Draft a warm, informative welcome letter outlining essential resources and services available to international students. 2. Campus Maps: Design detailed, user-friendly maps of the campus, highlighting key locations such as the international student office, libraries, and dining halls. 3. Video Tour: Produce a comprehensive video tour of the campus, showcasing facilities, student life, and academic departments. 4. Audio Greetings: Record welcoming messages in several languages, offering a personal touch and making new students feel acknowledged and valued."
+    },
+    {
+        "instruction": "Launch a blog on futuristic technology trends, featuring in-depth articles (text), interviews with industry experts (audio), infographics on data and statistics (image), and review videos of new tech products (video).",
+        "output-abstract": "1. In-depth Articles, 2. Expert Interviews, 3. Infographics, 4. Review Videos.",
+        "output-detail": "1. In-depth Articles: Write articles exploring the latest advancements in technology, analyzing their potential impact on society and industries. 2. Expert Interviews: Record discussions with technology leaders and innovators, gaining their insights and predictions for the future. 3. Infographics: Design clear, informative infographics summarizing key data, trends, and statistics in an engaging visual format. 4. Review Videos: Produce videos testing and reviewing new technology products, offering honest evaluations and recommendations."
+    }
+]

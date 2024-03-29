@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Design an educational package for learning a new language, including an introductory video (video), interactive workbook exercises (text and images), pronunciation guides (audio), and a virtual reality (VR) simulation for cultural immersion (video and audio).",
+        "output-abstract": "1. Introductory Video, 2. Workbook Exercises, 3. Pronunciation Guides, 4. VR Cultural Simulation.",
+        "output-detail": "1. Introductory Video: Create a welcoming video explaining the language's importance and basics. 2. Workbook Exercises: Develop interactive text and image-based exercises focusing on grammar, vocabulary, and sentence construction. 3. Pronunciation Guides: Record audio samples of common phrases and their correct pronunciation. 4. VR Cultural Simulation: Design a VR experience that simulates real-life situations in the target culture to enhance understanding and empathy."
+    },
+    {
+        "instruction": "Produce a food blog that features recipes (text), cooking demonstrations (video), ingredient sourcing tips (text), food photography (image), and audio reviews of restaurants (audio).",
+        "output-abstract": "1. Recipes, 2. Cooking Demonstrations, 3. Sourcing Tips, 4. Food Photography, 5. Audio Reviews.",
+        "output-detail": "1. Recipes: Write detailed recipes with step-by-step instructions. 2. Cooking Demonstrations: Film and edit video tutorials for each recipe. 3. Sourcing Tips: Provide advice on finding and selecting the best ingredients. 4. Food Photography: Take high-quality images of the finished dishes. 5. Audio Reviews: Record and edit detailed reviews of restaurant experiences, highlighting menu recommendations."
+    },
+    {
+        "instruction": "Assemble a corporate branding package with a logo design (image), company anthem (audio), the brand story (text), and an introduction video for social media (video).",
+        "output-abstract": "1. Logo Design, 2. Company Anthem, 3. Brand Story, 4. Introduction Video.",
+        "output-detail": "1. Logo Design: Develop a logo that represents the company's values and mission. 2. Company Anthem: Compose and record a memorable tune that embodies the company spirit. 3. Brand Story: Write a compelling narrative that shares the company's history and vision. 4. Introduction Video: Create a short video that introduces the company, highlighting its products/services and team."
+    },
+    {
+        "instruction": "Create a virtual museum tour that includes high-resolution photographs of artifacts (image), detailed descriptions and history (text), audio guides (audio), and 360-degree video tours of each exhibit (video).",
+        "output-abstract": "1. Photographs of Artifacts, 2. Descriptions and History, 3. Audio Guides, 4. 360-degree Video Tours.",
+        "output-detail": "1. Photographs of Artifacts: Capture and edit high-resolution images of key artifacts. 2. Descriptions and History: Research and write informative texts about each artifact's significance and background. 3. Audio Guides: Record audio explanations offering additional insights into the artifacts and exhibits. 4. 360-degree Video Tours: Produce immersive video tours allowing virtual visitors to explore each exhibit from all angles."
+    },
+    {
+        "instruction": "Plan and execute a digital marketing campaign for a new smartphone, including press releases (text), product teasers (video), lifestyle photographs (image), and jingles for radio ads (audio).",
+        "output-abstract": "1. Press Releases, 2. Product Teasers, 3. Lifestyle Photographs, 4. Jingles for Radio Ads.",
+        "output-detail": "1. Press Releases: Write engaging press releases that highlight the smartphone's unique features. 2. Product Teasers: Create short, captivating video teasers that generate interest and anticipation. 3. Lifestyle Photographs: Conduct a photo shoot showcasing the smartphone in various lifestyle scenarios. 4. Jingles for Radio Ads: Compose and record catchy jingles that reinforce the brand's message and product appeal."
+    },
+    {
+        "instruction": "Develop a personal fitness program, including a series of workout guides (text), nutritional advice segments (text and images), exercise demonstration videos (video), and motivational speeches (audio).",
+        "output-abstract": "1. Workout Guides, 2. Nutritional Advice, 3. Exercise Demonstrations, 4. Motivational Speeches.",
+        "output-detail": "1. Workout Guides: Write comprehensive guides outlining each workout session, including exercises, sets, and repetitions. 2. Nutritional Advice: Provide detailed segments on meal planning, including text descriptions and images of healthy food choices. 3. Exercise Demonstrations: Film and edit clear, instructional videos demonstrating correct exercise techniques. 4. Motivational Speeches: Record inspiring audio speeches to motivate and guide listeners through their fitness journey."
+    },
+    {
+        "instruction": "Compile a comprehensive guide for planting a vegetable garden, encompassing soil preparation instructions (text), a planting calendar (image), tutorial videos for basic gardening techniques (video), and podcasts featuring interviews with gardening experts (audio).",
+        "output-abstract": "1. Soil Preparation Instructions, 2. Planting Calendar, 3. Tutorial Videos, 4. Gardening Podcasts.",
+        "output-detail": "1. Soil Preparation Instructions: Write an in-depth guide on preparing the soil for vegetable planting. 2. Planting Calendar: Design a visually appealing calendar marking optimal planting dates for various vegetables. 3. Tutorial Videos: Produce easy-to-follow video tutorials on gardening techniques such as sowing, watering, and harvesting. 4. Gardening Podcasts: Record interviews with gardening experts discussing tips, trends, and advice for beginners and experienced gardeners alike."
+    },
+    {
+        "instruction": "Design a science exploration package for kids, featuring animated explainer videos (video), interactive e-books (text and images), DIY experiment guides (text), and themed background music for each science topic (audio).",
+        "output-abstract": "1. Animated Explainer Videos, 2. Interactive E-Books, 3. DIY Experiment Guides, 4. Themed Background Music.",
+        "output-detail": "1. Animated Explainer Videos: Create entertaining and educational animations that introduce various science topics. 2. Interactive E-Books: Develop e-books with text and images that engage readers with interactive elements. 3. DIY Experiment Guides: Write instructions for safe and simple experiments that can be done at home. 4. Themed Background Music: Compose and record background music tailored to enhance the exploration of each science topic."
+    },
+    {
+        "instruction": "Craft an online course on digital photography, including written modules (text), photo editing tutorials (video), example photography portfolios (image), and interviews with professional photographers (audio).",
+        "output-abstract": "1. Written Modules, 2. Photo Editing Tutorials, 3. Example Portfolios, 4. Interviews.",
+        "output-detail": "1. Written Modules: Author detailed guides covering photography fundamentals and techniques. 2. Photo Editing Tutorials: Produce instructional videos on using popular photo editing software. 3. Example Portfolios: Compile portfolios showcasing exemplary work in different photography genres. 4. Interviews: Record conversations with professional photographers sharing their experiences and tips."
+    },
+    {
+        "instruction": "Prepare a multimedia presentation on climate change, including slides with graphs and images (image), an accompanying script (text), a voice-over narration (audio), and a short documentary segment (video).",
+        "output-abstract": "1. Slides with Graphs and Images, 2. Accompanying Script, 3. Voice-Over Narration, 4. Documentary Segment.",
+        "output-detail": "1. Slides with Graphs and Images: Design slides that visually represent climate change data and impacts. 2. Accompanying Script: Write a detailed script that outlines the presentation content, aligning with the visual data on the slides. 3. Voice-Over Narration: Record a clear and compelling audio narration that follows the script and enhances the slide presentation. 4. Documentary Segment: Produce a short video documentary illustrating real-world examples of climate change effects and ongoing mitigation efforts."
+    },
+    {
+        "instruction": "Organize a virtual conference on technology advancements, including a registration website (text and images), promotional teaser videos (video), speaker sessions recorded (audio), and post-conference summary reports (text).",
+        "output-abstract": "1. Registration Website, 2. Promotional Teasers, 3. Speaker Sessions, 4. Summary Reports.",
+        "output-detail": "1. Registration Website: Develop a user-friendly website with detailed information on the conference agenda and speakers, including text and image content. 2. Promotional Teasers: Create engaging video teasers to generate interest and excitement about the conference. 3. Speaker Sessions: Record high-quality audio of all conference sessions for later access. 4. Summary Reports: Write comprehensive reports summarizing key points covered in each session, along with attendee feedback and outcomes."
+    },
+    {
+        "instruction": "Design a fantasy novel promotion, including a book trailer (video), character illustration series (image), soundtrack inspired by the novel (audio), and a website with interactive maps and lore (text and images).",
+        "output-abstract": "1. Book Trailer, 2. Character Illustrations, 3. Soundtrack, 4. Interactive Website.",
+        "output-detail": "1. Book Trailer: Produce a captivating video teaser that introduces the novel's plot and key characters. 2. Character Illustrations: Create a series of detailed illustrations depicting the novel's main characters. 3. Soundtrack: Compose a unique soundtrack that captures the essence and moods of the novel. 4. Interactive Website: Build a website featuring interactive maps of the novel's universe and extensive lore to engage fans and attract new readers."
+    },
+    {
+        "instruction": "Develop a multi-platform mobile app for personal finance management, including a user-friendly interface design (image), tutorial videos on how to use the app (video), a blog with financial advice (text), and notification sound options (audio).",
+        "output-abstract": "1. Interface Design, 2. Tutorial Videos, 3. Financial Blog, 4. Notification Sounds.",
+        "output-detail": "1. Interface Design: Design an intuitive and attractive app interface with visuals that ensure ease of navigation. 2. Tutorial Videos: Record and edit videos demonstrating how to effectively use the app's features. 3. Financial Blog: Write a series of blog posts offering practical financial advice and tips to app users. 4. Notification Sounds: Create a variety of pleasant notification sounds for users to choose from, enhancing the app's usability."
+    },
+    {
+        "instruction": "Produce a historical documentary series, involving research and scriptwriting (text), interviews with historians (audio), archival footage and photographs (image), and reenactment scenes (video).",
+        "output-abstract": "1. Research and Scriptwriting, 2. Historian Interviews, 3. Archival Materials, 4. Reenactments.",
+        "output-detail": "1. Research and Scriptwriting: Conduct thorough research on the historical topic and write a compelling narrative script for the series. 2. Historian Interviews: Record audio interviews with historians and experts to provide insights and analyses. 3. Archival Materials: Source and digitize relevant archival footage and photographs to visually support the documentary's narrative. 4. Reenactments: Plan and film reenactment scenes to visually depict significant historical events or moments, contributing deeper understanding and engagement for the audience."
+    },
+    {
+        "instruction": "Launch an advertising campaign for a sports drink, incorporating athlete endorsements (video), product shots (image), energizing taglines (text), and an anthem-style advertisement jingle (audio).",
+        "output-abstract": "1. Athlete Endorsements, 2. Product Shots, 3. Taglines, 4. Advertisement Jingle.",
+        "output-detail": "1. Athlete Endorsements: Collaborate with popular athletes to create video endorsements, showcasing their use and approval of the sports drink. 2. Product Shots: Capture high-quality images of the product in various settings that emphasize its energy-boosting qualities. 3. Taglines: Develop catchy and motivating taglines to be used across marketing materials, reinforcing the drink's benefits. 4. Advertisement Jingle: Compose an anthem-style jingle that encapsulates the brand's spirit and appeals to the target audience, enhancing recall and connection."
+    },
+    {
+        "instruction": "Create a fantasy game world atlas, including the lore creation (text), detailed regional maps (image), background music themes for different areas (audio), and a cinematic trailer introducing the world (video).",
+        "output-abstract": "1. Lore Creation, 2. Regional Maps, 3. Background Music, 4. Cinematic Trailer.",
+        "output-detail": "1. Lore Creation: Write the foundational texts detailing the history, mythology, and societies within the game world. 2. Regional Maps: Design and illustrate detailed maps for different regions, showing geographic features, landmarks, and territories. 3. Background Music: Compose unique background music themes that reflect the characteristics and mood of each game world region. 4. Cinematic Trailer: Produce a high-quality video trailer that showcases the game world's vastness, key locations, and lore, sparking viewers' interest."
+    },
+    {
+        "instruction": "Stage an online music festival, including live performance streaming (video), downloadable festival-themed artwork (image), performer bios and schedules (text), and exclusive behind-the-scenes content (audio and video).",
+        "output-abstract": "1. Live Streaming, 2. Downloadable Artwork, 3. Performer Bios and Schedules, 4. Behind-the-Scenes Content.",
+        "output-detail": "1. Live Streaming: Set up and manage HD streaming of performances, ensuring a stable and high-quality viewer experience. 2. Downloadable Artwork: Collaborate with artists to create festival-themed digital artwork, available for attendees to download. 3. Performer Bios and Schedules: Write and compile engaging bios for each performer along with detailed schedules of their performances. 4. Behind-the-Scenes Content: Produce audio interviews with performers and video clips showing backstage and setup processes, providing an exclusive peak for attendees."
+    },
+    {
+        "instruction": "Compile a wellness and self-care guide, including meditation guides (audio), nutritional recipes (text and images), yoga routine videos (video), and a diary template for daily reflections (text and image).",
+        "output-abstract": "1. Meditation Guides, 2. Nutritional Recipes, 3. Yoga Videos, 4. Diary Template.",
+        "output-detail": "1. Meditation Guides: Record a series of audio meditation sessions for different levels of experience and goals. 2. Nutritional Recipes: Write healthy recipes that promote wellness, accompanied by images of the cooking process and final dishes. 3. Yoga Routine Videos: Film step-by-step yoga routines that cater to various skill levels and objectives. 4. Diary Template: Design a printable and digital diary template that includes prompts for daily reflections, goal setting, and tracking progress."
+    },
+    {
+        "instruction": "Organize a global virtual charity run, including promotional materials (text and images), instructional videos for participants (video), a live broadcast on the day of the event (video), and a podcast series featuring stories from participants (audio).",
+        "output-abstract": "1. Promotional Materials, 2. Instructional Videos, 3. Live Broadcast, 4. Podcast Series.",
+        "output-detail": "1. Promotional Materials: Create engaging text and image content to advertise the event across various platforms, highlighting the cause and how to participate. 2. Instructional Videos: Produce clear, concise videos explaining the registration process, how to log distances, and how to fundraise. 3. Live Broadcast: Set up live video streaming for the event, featuring start and finish line feeds, interviews with participants, and updates on fundraising progress. 4. Podcast Series: Record and publish stories from participants about their experiences, motivations, and the impact of their participation."
+    },
+    {
+        "instruction": "Design a series of environmental awareness animations, featuring short educational clips on different topics (video), downloadable infographics (image), a guidebook on everyday sustainability practices (text), and soothing nature sounds compilations (audio).",
+        "output-abstract": "1. Educational Clips, 2. Infographics, 3. Guidebook, 4. Nature Sounds.",
+        "output-detail": "1. Educational Clips: Create engaging animations explaining critical environmental issues, solutions, and the importance of sustainability. 2. Infographics: Design and distribute informative infographics that complement the video content, providing quick facts and easy-to-follow advice. 3. Guidebook: Write a comprehensive guidebook detailing practices for reducing one's environmental footprint in daily life. 4. Nature Sounds: Compile and share a series of audio tracks featuring soothing nature sounds to promote relaxation and connection to the environment."
+    },
+    {
+        "instruction": "Produce a series of career development webinars, featuring resume building workshops (text and images), interview preparation videos (video), networking strategies guides (text), and motivational speeches from industry leaders (audio).",
+        "output-abstract": "1. Resume Workshops, 2. Interview Videos, 3. Networking Guides, 4. Motivational Speeches.",
+        "output-detail": "1. Resume Workshops: Conduct webinars focused on creating impactful resumes, including text explanations and visualization of effective designs. 2. Interview Preparation Videos: Film comprehensive guides on interview techniques, body language, and question responses. 3. Networking Strategies: Write guides on building and maintaining professional networks, including tips on using social media effectively. 4. Motivational Speeches: Record and distribute inspirational speeches from successful industry figures, providing insights and encouragement."
+    }
+]

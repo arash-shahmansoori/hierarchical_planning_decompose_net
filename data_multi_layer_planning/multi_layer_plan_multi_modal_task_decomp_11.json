@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Design a smart home device ecosystem presentation, including a product video (video), informational brochure (image/text), and a voice command demo (audio).",
+        "output-abstract": "1. Product video, 2. Brochure, 3. Voice demo.",
+        "output-detail": "1. Product video: Create a 2-minute video showcasing the features and benefits, integrating 3D animation for clarity. 2. Brochure: Design a dual-sided brochure with high-quality images and concise text outlining product specs and smart home integration. 3. Voice demo: Record a series of voice commands and responses that demonstrate interaction with the device, ensuring varied tonalities for broad user representation."
+    },
+    {
+        "instruction": "Compose a blog series on traditional cuisines from five different countries, including photos (image), recipes (text), kitchen tips (text), and a cooking soundtrack (audio).",
+        "output-abstract": "1. Photos, 2. Recipes, 3. Kitchen tips, 4. Soundtrack.",
+        "output-detail": "1. Photos: Capture high-resolution images of the dishes and their preparation stages. 2. Recipes: Write detailed step-by-step recipes, including ingredient lists and cultural significance. 3. Kitchen tips: Provide practical tips for authentic cooking techniques and ingredient substitutions. 4. Soundtrack: Curate a playlist with music from each country, reflecting the mood of cooking traditional dishes."
+    },
+    {
+        "instruction": "Generate a multi-modal content series for promoting a new sci-fi novel, including a teaser trailer (video), character digital paintings (image), thematic instrumental pieces (audio), and book excerpts (text).",
+        "output-abstract": "1. Teaser trailer, 2. Character paintings, 3. Instrumental pieces, 4. Book excerpts.",
+        "output-detail": "1. Teaser trailer: Produce a 1-minute video capturing the novel's ambiance, highlighting key scenes without revealing the plot. 2. Character paintings: Create digital portraits of main characters, emphasizing their unique traits and sci-fi elements. 3. Instrumental pieces: Compose atmospheric music aligning with the novel\u2019s themes, using synthesizers for a futuristic feel. 4. Book excerpts: Select gripping passages that introduce the plot and characters, formatted for easy online reading."
+    },
+    {
+        "instruction": "Develop an educational program for children about wildlife conservation, including an interactive eBook (text/image), a series of short documentaries (video), quizzes (text), and sounds of nature (audio).",
+        "output-abstract": "1. eBook, 2. Documentaries, 3. Quizzes, 4. Sounds.",
+        "output-detail": "1. eBook: Combine engaging text and vivid illustrations in an interactive format that includes facts about animals and conservation efforts. 2. Documentaries: Produce 5-minute videos on different wildlife habitats, focusing on storytelling to capture the children\u2019s interest. 3. Quizzes: Design interactive quizzes with questions based on the eBook and documentaries to reinforce learning. 4. Sounds: Record authentic animal and nature sounds to create an immersive learning experience, complementing the eBooks and videos."
+    },
+    {
+        "instruction": "Orchestrate a virtual art exhibition, featuring digital art galleries (image), artist interviews (video), exhibition catalogues (text), and ambient music playlists (audio).",
+        "output-abstract": "1. Digital galleries, 2. Interviews, 3. Catalogues, 4. Music.",
+        "output-detail": "1. Digital galleries: Curate high-resolution images of artworks, organized by themes within a virtual gallery space. 2. Interviews: Film short interviews with artists discussing their inspirations, techniques, and messages behind their artworks. 3. Catalogues: Design downloadable PDF catalogues with artwork descriptions, artist biographies, and prices. 4. Music: Create themed playlists with ambient music to enhance the browsing experience through different gallery sections."
+    },
+    {
+        "instruction": "Craft an engaging online learning module for a cooking course, including video tutorials (video), recipe eBooks (text/image), a grocery shopping guide (text), and kitchen ambiance soundtracks (audio).",
+        "output-abstract": "1. Tutorials, 2. eBooks, 3. Shopping guide, 4. Soundtracks.",
+        "output-detail": "1. Tutorials: Produce detailed step-by-step cooking videos for various dishes, featuring clear instructions and tips. 2. eBooks: Compile comprehensive recipes with ingredient photos and cooking techniques in a user-friendly eBook format. 3. Shopping guide: Offer a downloadable guide outlining essential kitchen tools and ingredients for starting cooking, with tips on selecting quality products. 4. Soundtracks: Assemble collections of kitchen-related sounds and light music to keep learners relaxed and engaged during cooking."
+    },
+    {
+        "instruction": "Create a social media campaign for a local library event, featuring event posters (image), announcement video (video), reading list recommendations (text), and a podcast episode discussing the importance of reading (audio).",
+        "output-abstract": "1. Posters, 2. Video, 3. Reading list, 4. Podcast.",
+        "output-detail": "1. Posters: Design eye-catching posters with event details, using the library's branding. 2. Video: Produce a short video unveiling the event's agenda, including testimonials from previous attendees. 3. Reading list: Compile a diverse list of book recommendations suited for event themes, with brief annotations. 4. Podcast: Record a discussion with library staff and local authors on fostering a reading culture, incorporating listener questions."
+    },
+    {
+        "instruction": "Produce a comprehensive fitness program, incorporating workout routines (video), nutritional guides (text/image), daily motivation quotes (text), and energizing workout music (audio).",
+        "output-abstract": "1. Routines, 2. Guides, 3. Quotes, 4. Music.",
+        "output-detail": "1. Routines: Film a series of workout videos for different fitness levels, highlighting proper form and safety. 2. Guides: Create detailed meal plans and grocery lists, accompanied by images of healthy meals. 3. Quotes: Share daily inspirational quotes on fitness and well-being, designed for social media sharing. 4. Music: Curate high-energy playlists tailored to the workout intensity levels, motivating users to push through their sessions."
+    },
+    {
+        "instruction": "Plan a digital marketing campaign for an eco-friendly clothing brand, including a brand manifesto video (video), sustainable fashion photography (image), blogger outreach emails (text), and a playlist of songs representing the brand\u2019s ethos (audio).",
+        "output-abstract": "1. Manifesto video, 2. Fashion photography, 3. Outreach emails, 4. Playlist.",
+        "output-detail": "1. Manifesto video: Craft a compelling narrative video that communicates the brand's commitment to sustainability. 2. Fashion photography: Shoot high-quality, creative images of the clothing line in natural settings to emphasize eco-friendliness. 3. Outreach emails: Draft personalized emails to fashion bloggers, highlighting the brand's uniqueness and ethical practices, encouraging them to feature the clothing. 4. Playlist: Compile songs that reflect the brand\u2019s commitment to the environment and community, creating a vibe for the brand's audience."
+    },
+    {
+        "instruction": "Develop a mobile game launch plan, including a game trailer (video), promotional game art (image), press release (text), and the game's original soundtrack (audio).",
+        "output-abstract": "1. Trailer, 2. Game art, 3. Press release, 4. Soundtrack.",
+        "output-detail": "1. Trailer: Create an engaging game trailer showcasing gameplay, story, and graphics, aimed at capturing the target audience's attention. 2. Game art: Design captivating promotional art, featuring key characters and environments, for use in digital and physical marketing. 3. Press release: Write a comprehensive press release detailing the game\u2019s features, development journey, and availability. 4. Soundtrack: Compose a distinctive original soundtrack that captures the game's mood and themes, released as part of the marketing materials."
+    },
+    {
+        "instruction": "Organize a virtual reality (VR) music festival experience, including artist lineups (text), festival ground designs (image), promotional trailers (video), and live concert audio recordings (audio).",
+        "output-abstract": "1. Lineups, 2. Designs, 3. Trailers, 4. Live audio.",
+        "output-detail": "1. Lineups: List the performing artists with brief bios and genre classifications, tailored for an engaging festival schedule. 2. Designs: Develop immersive 3D designs of festival grounds, including stages, vendor areas, and interactive zones. 3. Trailers: Produce dynamic promotional videos that highlight the VR festival experience, teasing artist performances and interactive features. 4. Live audio: Record and mix live audio from performances, ensuring high-quality sound for VR playback, creating an authentic concert feel."
+    },
+    {
+        "instruction": "Create a suite of materials for a real estate marketing campaign, including property videos (video), feature sheets (image/text), neighborhood guides (text), and a virtual open house background music playlist (audio).",
+        "output-abstract": "1. Property videos, 2. Feature sheets, 3. Neighborhood guides, 4. Music playlist.",
+        "output-detail": "1. Property videos: Film high-definition walkthroughs of properties showcasing key features and benefits. 2. Feature sheets: Design visually appealing sheets that detail property specs, photos, and selling points. 3. Neighborhood guides: Write comprehensive guides highlighting local amenities, schools, and community activities. 4. Music playlist: Curate a soothing background music playlist to create a welcoming atmosphere for virtual open house tours."
+    },
+    {
+        "instruction": "Assemble a health and wellness podcast series, including interview episodes with experts (audio), show notes and summaries (text), promotional graphics (image), and teaser clips (video).",
+        "output-abstract": "1. Interviews, 2. Show notes, 3. Graphics, 4. Teaser clips.",
+        "output-detail": "1. Interviews: Record in-depth discussions with health and wellness experts, focusing on a variety of topics from nutrition to mental health. 2. Show notes: Write detailed summaries of each podcast episode, including key points, resources mentioned, and guest bios. 3. Graphics: Create engaging graphics to promote each episode across social media platforms, utilizing a consistent branding style. 4. Teaser clips: Edit short video clips from interviews or animated graphics to tease upcoming episodes, aiming to generate interest and increase subscriptions."
+    },
+    {
+        "instruction": "Launch a fashion brand\u2019s seasonal lookbook, including the collection\u2019s photo shoot (image), a behind-the-scenes video (video), designer interviews (text), and curated background music for the lookbook (audio).",
+        "output-abstract": "1. Photo shoot, 2. Behind-the-scenes, 3. Interviews, 4. Music.",
+        "output-detail": "1. Photo shoot: Conduct a professional photo shoot featuring the season's new designs, focusing on lighting and composition to enhance the apparel\u2019s features. 2. Behind-the-scenes: Create a video showing the preparation and effort that goes into the photo shoot, including model preparations and team interactions. 3. Interviews: Write insightful interviews with the designers discussing their inspirations and challenges, highlighting the creative process behind the collection. 4. Music: Select a playlist of songs that complement the aesthetic and mood of the collection, to be played during the lookbook browsing experience."
+    },
+    {
+        "instruction": "Produce content for a travel vlog series, featuring destination highlights (video), travel itineraries (text), must-see landmark photos (image), and local ambiance sounds (audio).",
+        "output-abstract": "1. Highlights, 2. Itineraries, 3. Landmark photos, 4. Ambiance sounds.",
+        "output-detail": "1. Highlights: Film short videos showcasing top attractions, local cuisine, and cultural experiences in each destination. 2. Itineraries: Draft detailed travel itineraries that provide viewers with a day-by-day guide to exploring the destination, including tips and recommendations. 3. Landmark photos: Capture high-quality images of iconic landmarks and hidden gems to visualize the travel experience. 4. Ambiance sounds: Record the sounds of bustling markets, seaside waves, or quiet forests to immerse viewers in the locale\u2019s atmosphere."
+    },
+    {
+        "instruction": "Build a personal branding package for an artist, including a professional portfolio (image/text), introduction video (video), artist statement (text), and an audio tour of their artwork (audio).",
+        "output-abstract": "1. Portfolio, 2. Introduction video, 3. Statement, 4. Audio tour.",
+        "output-detail": "1. Portfolio: Design a digital portfolio showcasing a curated selection of the artist\u2019s work, with high-resolution images and descriptions. 2. Introduction video: Produce a brief video where the artist introduces themselves and discusses their inspiration and technique. 3. Statement: Write a compelling artist statement that articulates the themes and motivations behind their work. 4. Audio tour: Record an audio guide in which the artist talks about selected pieces in their portfolio, providing insights into the creation and meaning of each work."
+    },
+    {
+        "instruction": "Develop a series of instructional materials for a DIY home improvement project, including step-by-step tutorial videos (video), a PDF guidebook (text/image), a list of necessary tools and materials (text), and a playlist of motivational music (audio).",
+        "output-abstract": "1. Tutorial videos, 2. Guidebook, 3. Tools list, 4. Music playlist.",
+        "output-detail": "1. Tutorial videos: Film comprehensive tutorials showing each step of the project, emphasizing safety and techniques. 2. Guidebook: Create a detailed guidebook with instructions, diagrams, and photos for additional clarity. 3. Tools list: Compile a checklist of required tools and materials, with tips on selection and handling. 4. Music playlist: Curate a playlist of upbeat songs to keep DIYers motivated and energized throughout the project."
+    },
+    {
+        "instruction": "Create an online course for learning a new language, including lesson modules (text), pronunciation guides (audio), interactive quizzes (text/image), and cultural immersion videos (video).",
+        "output-abstract": "1. Modules, 2. Pronunciation guides, 3. Quizzes, 4. Cultural videos.",
+        "output-detail": "1. Modules: Write comprehensive lesson modules covering grammar, vocabulary, and conversation skills. 2. Pronunciation guides: Record clear audio examples of native speakers pronouncing key phrases and sentences. 3. Quizzes: Design interactive quizzes that test vocabulary, reading comprehension, and grammar, incorporating visual aids for context where applicable. 4. Cultural videos: Produce videos that provide insights into the culture, traditions, and everyday life of native speakers, enhancing the language learning experience."
+    },
+    {
+        "instruction": "Compose a multimedia environmental advocacy campaign, including infographics on key issues (image), editorial articles (text), spokesperson interview videos (video), and a podcast series on sustainable solutions (audio).",
+        "output-abstract": "1. Infographics, 2. Articles, 3. Interviews, 4. Podcast.",
+        "output-detail": "1. Infographics: Design compelling infographics that highlight alarming environmental statistics and facts, using visually engaging elements to simplify complex data. 2. Articles: Write in-depth articles that explore environmental challenges, policy solutions, and individual actions for sustainability. 3. Interviews: Film interviews with environmental advocates, scientists, and policymakers, sharing their insights and calling for action. 4. Podcast: Produce a series of podcast episodes discussing sustainable living practices, featuring guest speakers from various sectors related to environmental conservation."
+    },
+    {
+        "instruction": "Craft a comprehensive guide for aspiring entrepreneurs, including a step-by-step eBook (text/image), webinar series (video), actionable worksheets (text/image), and motivational speaker recordings (audio).",
+        "output-abstract": "1. eBook, 2. Webinars, 3. Worksheets, 4. Recordings.",
+        "output-detail": "1. eBook: Write an informative eBook covering fundamental business principles, startup strategies, and case studies, supplemented with diagrams and charts. 2. Webinars: Host a series of webinars featuring experts discussing topics relevant to startup success, innovation, and scaling. 3. Worksheets: Develop interactive worksheets that guide users through business planning, market analysis, and financial forecasting. 4. Recordings: Share inspirational talks from successful entrepreneurs and motivational speakers, providing encouragement and wisdom for the entrepreneurial journey."
+    },
+    {
+        "instruction": "Design a digital toolkit for stress management, including informational guides (text), relaxation technique videos (video), mindfulness meditation audio tracks (audio), and stress relief digital art (image).",
+        "output-abstract": "1. Guides, 2. Videos, 3. Audio tracks, 4. Art.",
+        "output-detail": "1. Guides: Write comprehensive guides on identifying stress triggers, managing workload, and fostering a positive mindset. 2. Videos: Create video tutorials demonstrating relaxation techniques such as deep breathing, progressive muscle relaxation, and yoga. 3. Audio tracks: Compose or curate soothing audio tracks for mindfulness meditation, ensuring a variety of lengths and themes. 4. Art: Showcase digital art that promotes calmness and tranquility, employing soft colors and nature themes to aid in stress reduction."
+    }
+]

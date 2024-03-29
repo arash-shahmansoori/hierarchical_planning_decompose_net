@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Develop a travel blog post about Tokyo incorporating written content (text), original photographs (image), and a short narrated video tour (video).",
+        "output-abstract": "1. Written content, 2. Photographs, 3. Narrated video.",
+        "output-detail": "1. Written content: Research and compile information on Tokyo's history, culture, and must-visit places. 2. Photographs: Plan a photography session in Tokyo, focusing on landmarks, street food, and everyday life. 3. Narrated video: Script a 5-minute video tour of Tokyo, highlighting personal experiences, with voice-over narration."
+    },
+    {
+        "instruction": "Create a multi-modal educational package on the solar system for middle school students, including an illustrated e-book (text+image), interactive quizzes (text), and an instructional video (video).",
+        "output-abstract": "1. Illustrated e-book, 2. Interactive quizzes, 3. Instructional video.",
+        "output-detail": "1. Illustrated e-book: Research and create content about the solar system, incorporating diagrams and illustrations. 2. Interactive quizzes: Design quizzes based on the e-book content to test knowledge retention. 3. Instructional video: Produce a 10-minute video explaining the solar system, using animations to depict planetary movements."
+    },
+    {
+        "instruction": "Design a mobile application for learning a new language, featuring daily lessons (text), pronunciation guides (audio), and cultural mini-documentaries (video).",
+        "output-abstract": "1. Daily lessons, 2. Pronunciation guides, 3. Mini-documentaries.",
+        "output-detail": "1. Daily lessons: Develop structured text-based lessons on grammar and vocabulary. 2. Pronunciation guides: Record audio clips of native speakers for accurate pronunciation. 3. Mini-documentaries: Produce short video documentaries on cultural aspects relevant to the language."
+    },
+    {
+        "instruction": "Compose a multimedia presentation on climate change, including an infographic (image), a research paper (text), and a podcast episode interviewing experts (audio).",
+        "output-abstract": "1. Infographic, 2. Research paper, 3. Podcast episode.",
+        "output-detail": "1. Infographic: Design an infographic summarizing key climate change statistics and facts. 2. Research paper: Write an in-depth analysis of the causes and effects of climate change. 3. Podcast episode: Plan and record an interview with climate change experts, focusing on solutions."
+    },
+    {
+        "instruction": "Create a virtual cookbook for vegan recipes, consisting of recipe guides (text), step-by-step cooking videos (video), and gallery of final dishes (image).",
+        "output-abstract": "1. Recipe guides, 2. Cooking videos, 3. Gallery of dishes.",
+        "output-detail": "1. Recipe guides: Compile vegan recipes with detailed instructions and ingredient lists. 2. Cooking videos: Record step-by-step videos for selected recipes, highlighting cooking techniques. 3. Gallery of dishes: Photograph the final dishes in high quality for presentation."
+    },
+    {
+        "instruction": "Craft a digital marketing campaign for a new smartphone, including product descriptions (text), high-resolution images (image), promotional videos (video), and an official jingle (audio).",
+        "output-abstract": "1. Product descriptions, 2. High-resolution images, 3. Promotional videos, 4. Official jingle.",
+        "output-detail": "1. Product descriptions: Write compelling text highlighting the smartphone\u2019s features and benefits. 2. High-resolution images: Photograph the smartphone from various angles, showcasing its design. 3. Promotional videos: Create engaging videos demonstrating the smartphone's features. 4. Official jingle: Compose a catchy jingle that embodies the brand's identity."
+    },
+    {
+        "instruction": "Produce a community health awareness campaign, featuring educational flyers (text+image), health tips podcast (audio), and instructional hygiene practice videos (video).",
+        "output-abstract": "1. Educational flyers, 2. Health tips podcast, 3. Instructional videos.",
+        "output-detail": "1. Educational flyers: Design flyers that combine informative text with visuals to illustrate health practices. 2. Health tips podcast: Record episodes offering daily health tips and advice from medical professionals. 3. Instructional videos: Shoot videos demonstrating proper hygiene practices and preventive measures."
+    },
+    {
+        "instruction": "Develop a personal branding package for a freelance graphic designer, including a portfolio website (text+image), a series of tutorial videos on design (video), and a podcast about the design process (audio).",
+        "output-abstract": "1. Portfolio website, 2. Tutorial videos, 3. Design process podcast.",
+        "output-detail": "1. Portfolio website: Design a website showcasing the designer\u2019s work and services, with detailed descriptions and high-quality images. 2. Tutorial videos: Create instructional videos on various graphic design topics, demonstrating techniques and tools. 3. Design process podcast: Produce a podcast discussing the creative process, challenges in design, and industry advice."
+    },
+    {
+        "instruction": "Create a series of educational science experiments for kids, featuring experiment guides (text), demonstration videos (video), and result analysis discussions (audio).",
+        "output-abstract": "1. Experiment guides, 2. Demonstration videos, 3. Result analysis discussions.",
+        "output-detail": "1. Experiment guides: Write detailed instructions for safe and fun science experiments suitable for kids. 2. Demonstration videos: Record the experiments being performed, highlighting key learning points. 3. Result analysis discussions: Produce podcast episodes discussing the results of the experiments and their scientific principles."
+    },
+    {
+        "instruction": "Produce a documentary on traditional music around the world, involving research essays (text), field recordings of music (audio), photographs of instruments and performers (image), and interview videos with musicians (video).",
+        "output-abstract": "1. Research essays, 2. Field recordings, 3. Photographs, 4. Interview videos.",
+        "output-detail": "1. Research essays: Write essays detailing the history and cultural significance of traditional music in various countries. 2. Field recordings: Capture audio recordings of traditional music performances. 3. Photographs: Take photographs of musical instruments, performers, and performances. 4. Interview videos: Record interviews with musicians, discussing their art and experiences."
+    },
+    {
+        "instruction": "Design a series of themed mindfulness meditation sessions, including guided session scripts (text), ambient background music (audio), and calming visual animations (video).",
+        "output-abstract": "1. Guided session scripts, 2. Background music, 3. Visual animations.",
+        "output-detail": "1. Guided session scripts: Write detailed scripts for mindfulness meditation sessions, each focusing on a different theme. 2. Background music: Compose soothing ambient music to enhance the meditation experience. 3. Visual animations: Create gentle, calming animations to accompany the sessions visually."
+    },
+    {
+        "instruction": "Create an online course on digital photography, featuring written tutorials (text), video lessons (video), example photographs (image), and feedback sessions (audio).",
+        "output-abstract": "1. Written tutorials, 2. Video lessons, 3. Example photographs, 4. Feedback sessions.",
+        "output-detail": "1. Written tutorials: Develop comprehensive tutorials covering basics to advanced techniques in digital photography. 2. Video lessons: Produce video content demonstrating photography techniques in action. 3. Example photographs: Include high-quality photographs as examples for various techniques and styles. 4. Feedback sessions: Record audio feedback on student submissions to guide improvement."
+    },
+    {
+        "instruction": "Launch a fashion label, with a brand story (text), collection lookbook (image), runway show (video), and designer interviews (audio).",
+        "output-abstract": "1. Brand story, 2. Collection lookbook, 3. Runway show, 4. Designer interviews.",
+        "output-detail": "1. Brand story: Craft a compelling narrative that encapsulates the essence of the fashion label. 2. Collection lookbook: Photograph the collection, showcasing the designs and their details. 3. Runway show: Produce a video of the runway show, capturing the essence and ambiance of the collection. 4. Designer interviews: Record interviews with the designers, discussing inspirations and the creative process."
+    },
+    {
+        "instruction": "Organize a virtual science fair, including participant instruction kits (text), project presentation videos (video), judge feedback commentary (audio), and an online photo gallery of projects (image).",
+        "output-abstract": "1. Instruction kits, 2. Presentation videos, 3. Feedback commentary, 4. Photo gallery.",
+        "output-detail": "1. Instruction kits: Develop comprehensive guides for participants on how to prepare and present their science projects. 2. Presentation videos: Have participants submit videos presenting their science projects. 3. Feedback commentary: Record audio feedback from judges on each project, highlighting strengths and areas for improvement. 4. Photo gallery: Create an online gallery showcasing images of the projects."
+    },
+    {
+        "instruction": "Develop a campaign to promote local tourism, including destination articles (text), landscape photography (image), promotional videos (video), and podcasts discussing attractions (audio).",
+        "output-abstract": "1. Destination articles, 2. Landscape photography, 3. Promotional videos, 4. Podcasts.",
+        "output-detail": "1. Destination articles: Write engaging articles highlighting local attractions, activities, and culture. 2. Landscape photography: Capture stunning photographs of the destination\u2019s landscapes and points of interest. 3. Promotional videos: Create captivating videos that showcase the beauty and unique aspects of the destination. 4. Podcasts: Produce episodes discussing the attractions, featuring interviews with locals and experts."
+    },
+    {
+        "instruction": "Produce a video game development documentary, covering the concept creation (text), character design sketches (image), soundtrack composition (audio), and behind-the-scenes development footage (video).",
+        "output-abstract": "1. Concept creation, 2. Character design, 3. Soundtrack, 4. Development footage.",
+        "output-detail": "1. Concept creation: Document the process of forming the game\u2019s concept, including storyboards and initial ideas. 2. Character design: Share sketches and the evolution of character designs. 3. Soundtrack: Discuss the creation of the game\u2019s soundtrack, including composition and thematic elements. 4. Development footage: Showcase behind-the-scenes video of the development process, from coding to testing."
+    },
+    {
+        "instruction": "Compile a city guide for expatriates incorporating an introductory guidebook (text), a map highlighting essential places (image), welcome messages from locals (audio), and a virtual tour of the city (video).",
+        "output-abstract": "1. Guidebook, 2. Map, 3. Welcome messages, 4. Virtual tour.",
+        "output-detail": "1. Guidebook: Write an introductory guide covering living, working, and socializing in the city. 2. Map: Create an annotated map showing essential places like supermarkets, hospitals, and community centers. 3. Welcome messages: Record audio messages from locals offering tips and welcoming newcomers. 4. Virtual tour: Produce a video tour of the city, highlighting popular neighborhoods and hidden gems."
+    },
+    {
+        "instruction": "Create an online art exhibition featuring artist bios (text), artwork images (image), curator\u2019s audio tours (audio), and video interviews with artists (video).",
+        "output-abstract": "1. Artist bios, 2. Artwork images, 3. Audio tours, 4. Video interviews.",
+        "output-detail": "1. Artist bios: Compile detailed biographies of each featured artist, highlighting their career and influences. 2. Artwork images: Present a gallery of high-quality images of the exhibited artworks. 3. Audio tours: Record the curator providing context and insights on selected pieces. 4. Video interviews: Produce interviews with artists discussing their work, process, and exhibition pieces."
+    },
+    {
+        "instruction": "Develop a social media strategy for a new tech product, including feature highlight posts (text+image), explainer videos (video), customer testimonial clips (audio), and a launch event live stream (video).",
+        "output-abstract": "1. Highlight posts, 2. Explainer videos, 3. Testimonial clips, 4. Live stream.",
+        "output-detail": "1. Highlight posts: Craft engaging posts that combine text and images to highlight key features of the product. 2. Explainer videos: Create concise videos that explain how the product works and its benefits. 3. Testimonial clips: Collect and share audio clips from early users discussing their experiences with the product. 4. Live stream: Stream the product launch event, including presentations and a Q&A session."
+    },
+    {
+        "instruction": "Design an interactive learning module for a history course, including lecture notes (text), historical document archives (image), expert commentary (audio), and animated battle reenactments (video).",
+        "output-abstract": "1. Lecture notes, 2. Document archives, 3. Expert commentary, 4. Battle reenactments.",
+        "output-detail": "1. Lecture notes: Prepare comprehensive notes covering key historical events and figures. 2. Document archives: Include high-resolution images of important documents and artifacts. 3. Expert commentary: Offer insights and analyses from historians through audio clips. 4. Battle reenactments: Produce animated videos that bring historical battles to life, showcasing tactics and outcomes."
+    },
+    {
+        "instruction": "Organize a virtual craft fair, featuring vendor profiles (text), product catalogs (image), artisan interviews (audio), and live crafting demonstrations (video).",
+        "output-abstract": "1. Vendor profiles, 2. Product catalogs, 3. Artisan interviews, 4. Crafting demonstrations.",
+        "output-detail": "1. Vendor profiles: Write detailed profiles for each vendor, outlining their background and craft specialty. 2. Product catalogs: Display a wide range of handcrafted products through high-quality images, with descriptions and pricing. 3. Artisan interviews: Conduct audio interviews with artisans, discussing their techniques and inspirations. 4. Crafting demonstrations: Stream video demonstrations of artisans crafting their goods, offering viewers a behind-the-scenes look."
+    }
+]

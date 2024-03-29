@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Draft a holiday promotional campaign with an engaging email blast (text), a captivating homepage banner (image), and an instructional gift-wrapping video (video).",
+        "output-abstract": "1. Email Blast, 2. Homepage Banner, 3. Instructional Video.",
+        "output-detail": "1. Email Blast: Compose a festive, attention-grabbing message highlighting promotions. 2. Homepage Banner: Design a visually appealing banner with holiday elements and call-to-action. 3. Instructional Video: Create a step-by-step gift-wrapping guide with holiday-themed packaging inspiration."
+    },
+    {
+        "instruction": "Create a futuristic cityscape scene: concept art (image), a detailed narrative (text), and ambient soundscape (audio).",
+        "output-abstract": "1. Concept Art, 2. Narrative, 3. Soundscape.",
+        "output-detail": "1. Concept Art: Sketch a detailed and vibrant illustration of a futuristic city. 2. Narrative: Write a backstory about the city's technological advancements and societal structure. 3. Soundscape: Compose a blend of futuristic urban sounds with occasional natural elements."
+    },
+    {
+        "instruction": "Develop a comprehensive workout plan for beginners with instructional guides (text), demonstration videos (video), and motivational playlists (audio).",
+        "output-abstract": "1. Instructional Guides, 2. Demonstration Videos, 3. Playlists.",
+        "output-detail": "1. Instructional Guides: Write clear, concise instructions for each exercise, including benefits and safety tips. 2. Demonstration Videos: Film step-by-step demonstrations for each exercise, shot in a well-lit, minimalistic setting. 3. Playlists: Curate upbeat music playlists categorized by workout intensity."
+    },
+    {
+        "instruction": "Design a virtual art gallery featuring digital paintings (image), artist commentary (audio), and a virtual tour (video).",
+        "output-abstract": "1. Digital Paintings, 2. Artist Commentary, 3. Virtual Tour.",
+        "output-detail": "1. Digital Paintings: Create a series of thematic digital art pieces. 2. Artist Commentary: Record the artists explaining their inspiration and techniques for each piece. 3. Virtual Tour: Stitch together a 360-degree video tour of the virtual gallery, highlighting key artworks and commentary."
+    },
+    {
+        "instruction": "Produce a podcast episode about innovative tech trends with a script (text), episode cover design (image), and the actual episode recording (audio).",
+        "output-abstract": "1. Script, 2. Episode Cover, 3. Episode Recording.",
+        "output-detail": "1. Script: Draft a detailed script focusing on emerging technologies and their potential impact. 2. Episode Cover: Design an eye-catching cover that reflects the futuristic theme of the episode. 3. Episode Recording: Record clear, engaging audio, integrating interviews with tech experts."
+    },
+    {
+        "instruction": "Organize a virtual cooking class featuring recipe cards (text), step-by-step cooking videos (video), and a background jazz playlist (audio).",
+        "output-abstract": "1. Recipe Cards, 2. Cooking Videos, 3. Jazz Playlist.",
+        "output-detail": "1. Recipe Cards: Design visually appealing and easy-to-follow recipe cards. 2. Cooking Videos: Film detailed video guides for each recipe, focusing on techniques and tips. 3. Jazz Playlist: Compile a smooth jazz playlist to enhance the cooking experience."
+    },
+    {
+        "instruction": "Develop a mobile app for meditation with guided session scripts (text), calming wallpapers (image), and audio tracks for meditation (audio).",
+        "output-abstract": "1. Session Scripts, 2. Wallpapers, 3. Audio Tracks.",
+        "output-detail": "1. Session Scripts: Write scripts for various meditation lengths and purposes. 2. Wallpapers: Design serene and minimalistic wallpapers for the app background. 3. Audio Tracks: Record audio tracks featuring guided meditations, natural sounds, and soft music."
+    },
+    {
+        "instruction": "Curate a themed photo exhibition with historical context descriptions (text), a catalog of photos (image), and an introductory video about the theme (video).",
+        "output-abstract": "1. Historical Descriptions, 2. Photo Catalog, 3. Introductory Video.",
+        "output-detail": "1. Historical Descriptions: Provide detailed background information for each photo, enriching the viewer's understanding. 2. Photo Catalog: Select and edit a cohesive collection of photographs fitting the theme. 3. Introductory Video: Produce a compelling video that introduces the theme and significance of the exhibition."
+    },
+    {
+        "instruction": "Compose a multimedia travel guide for Paris with neighborhood guides (text), a map of key attractions (image), narrated historical anecdotes (audio), and a 'day in Paris' video montage (video).",
+        "output-abstract": "1. Neighborhood Guides, 2. Attractions Map, 3. Historical Anecdotes, 4. Video Montage.",
+        "output-detail": "1. Neighborhood Guides: Write informative and engaging descriptions of various districts. 2. Attractions Map: Design an interactive map highlighting must-visit spots. 3. Historical Anecdotes: Record captivating stories behind famous landmarks. 4. Video Montage: Edit a visually stunning montage of a day spent exploring Paris."
+    },
+    {
+        "instruction": "Create a short narrative film with a screenwriting (text), storyboarding (image), original soundtrack composition (audio), and the film itself (video).",
+        "output-abstract": "1. Screenwriting, 2. Storyboarding, 3. Soundtrack, 4. Film.",
+        "output-detail": "1. Screenwriting: Pen a compelling narrative with engaging characters and a strong plot. 2. Storyboarding: Sketch the visual flow of scenes to guide filming. 3. Soundtrack: Compose an original soundtrack that amplifies emotional tones of the story. 4. Film: Direct and produce the film, ensuring the story and visuals align with the storyboard."
+    },
+    {
+        "instruction": "Launch a fashion blog with editorial articles (text), high-fashion photoshoots (image), designer interview podcasts (audio), and fashion week vlogs (video).",
+        "output-abstract": "1. Editorial Articles, 2. Photoshoots, 3. Interview Podcasts, 4. Vlogs.",
+        "output-detail": "1. Editorial Articles: Write captivating articles on fashion trends, tips, and designer features. 2. Photoshoots: Organize and capture thematic high-fashion photo sessions. 3. Interview Podcasts: Record engaging interviews with fashion designers discussing their inspirations and collections. 4. Vlogs: Document fashion week experiences, showcasing runway shows and behind-the-scenes."
+    },
+    {
+        "instruction": "Create educational content for children with animated alphabet lessons (video), sing-along nursery rhymes (audio), printable coloring pages (image), and interactive reading exercises (text).",
+        "output-abstract": "1. Alphabet Lessons, 2. Nursery Rhymes, 3. Coloring Pages, 4. Reading Exercises.",
+        "output-detail": "1. Alphabet Lessons: Develop animated video lessons for each letter, integrating fun characters and stories. 2. Nursery Rhymes: Produce sing-along audio tracks with catchy tunes for children to learn and enjoy. 3. Coloring Pages: Design printable coloring pages that complement the video lessons. 4. Reading Exercises: Create engaging, interactive text-based activities that reinforce the alphabet teachings."
+    },
+    {
+        "instruction": "Build an online portfolio for an architect with project descriptions (text), architectural renderings (image), walkthrough videos of projects (video), and client testimonial recordings (audio).",
+        "output-abstract": "1. Project Descriptions, 2. Renderings, 3. Walkthrough Videos, 4. Testimonials.",
+        "output-detail": "1. Project Descriptions: Compose compelling narratives for each project, highlighting unique design elements. 2. Renderings: Display high-quality images of architectural renderings showcasing the projects. 3. Walkthrough Videos: Create detailed walkthrough videos for a selection of projects. 4. Testimonials: Record audio testimonials from satisfied clients, emphasizing successful collaboration and outcomes."
+    },
+    {
+        "instruction": "Orchestrate a brand launch on social media with a catchy jingle (audio), an eye-catching logo (image), captivating product reveals (video), and memorable taglines (text).",
+        "output-abstract": "1. Jingle, 2. Logo, 3. Product Reveals, 4. Taglines.",
+        "output-detail": "1. Jingle: Create a catchy, memorable jingle that encapsulates the brand's essence. 2. Logo: Design a unique and eye-catching logo that stands out on social platforms. 3. Product Reveals: Produce short, engaging videos showcasing the new products. 4. Taglines: Write memorable taglines that convey the brand's message and allure."
+    },
+    {
+        "instruction": "Publish a digital magazine with in-depth articles (text), exclusive photo essays (image), podcast interviews with thought leaders (audio), and documentary shorts (video).",
+        "output-abstract": "1. Articles, 2. Photo Essays, 3. Podcast Interviews, 4. Documentary Shorts.",
+        "output-detail": "1. Articles: Write insightful and in-depth articles on a variety of subjects, from technology to culture. 2. Photo Essays: Curate and present compelling photo essays capturing stories through visuals. 3. Podcast Interviews: Record interviews with experts and thought leaders to provide depth and perspective. 4. Documentary Shorts: Produce short documentaries that delve into topics covered in articles and interviews, adding a visual element to the storytelling."
+    },
+    {
+        "instruction": "Design a survival guide for zombie apocalypse incorporating: safe house setup instructions (text), zombie recognition guide (image), emergency broadcast tones (audio), and escape route maps (video).",
+        "output-abstract": "1. Safe House Instructions, 2. Recognition Guide, 3. Broadcast Tones, 4. Escape Routes.",
+        "output-detail": "1. Safe House Instructions: Provide detailed text instructions on how to secure a safe house against zombies. 2. Recognition Guide: Create clear, detailed illustrations of different types of zombies for easy identification. 3. Broadcast Tones: Compose urgent-sounding audio tones for different levels of emergency alerts. 4. Escape Routes: Film and annotate video maps showcasing safe escape routes and tactics from various locations."
+    },
+    {
+        "instruction": "Produce a historical documentary series featuring scriptwriting (text), archival photographs (image), narration recordings (audio), and cinematography (video).",
+        "output-abstract": "1. Scriptwriting, 2. Archival Photographs, 3. Narration, 4. Cinematography.",
+        "output-detail": "1. Scriptwriting: Develop a compelling narrative structure for the documentary, incorporating significant historical events and figures. 2. Archival Photographs: Source and edit archival photographs to support the narrative visually. 3. Narration: Record professional narration to guide viewers through the documentary's story. 4. Cinematography: Capture cinematic shots and scenes to visually enrich the storytelling, seamlessly integrating with the photographs and narration."
+    },
+    {
+        "instruction": "Develop a multi-platform marketing strategy for a new sneaker release with teaser videos (video), an ambient music ad soundtrack (audio), interactive shoe design feature (text), and high-quality product images (image).",
+        "output-abstract": "1. Teaser Videos, 2. Ad Soundtrack, 3. Interactive Design, 4. Product Images.",
+        "output-detail": "1. Teaser Videos: Shoot and edit short, hype-inducing videos that tease the sneaker's release across social media. 2. Ad Soundtrack: Produce an original, ambient soundtrack that captures the brand's ethos and can be used across marketing materials. 3. Interactive Design: Write an engaging narrative for a web feature that allows users to customize sneaker designs. 4. Product Images: Photograph the sneakers from multiple angles in high-definition to highlight their design and features."
+    },
+    {
+        "instruction": "Craft an immersive online museum experience featuring virtual exhibit walkthroughs (video), curator-led lecture series (audio), digital archive access (text), and high-fidelity artifact images (image).",
+        "output-abstract": "1. Virtual Walkthroughs, 2. Lecture Series, 3. Digital Archive, 4. Artifact Images.",
+        "output-detail": "1. Virtual Walkthroughs: Produce detailed video tours of each exhibit, enabling visitors to explore from anywhere. 2. Lecture Series: Record audio lectures by curators discussing the significance of key pieces and the stories behind them. 3. Digital Archive: Provide text-based access to extensive archives, allowing for research and exploration of the collection. 4. Artifact Images: Capture and display high-quality images of artifacts, offering close-up views of details not easily seen in person."
+    },
+    {
+        "instruction": "Create a comprehensive guide for stargazing with constellation maps (image), myths and stories behind constellations (text), a star identification app tutorial (video), and nighttime field recordings (audio).",
+        "output-abstract": "1. Constellation Maps, 2. Myths and Stories, 3. App Tutorial, 4. Field Recordings.",
+        "output-detail": "1. Constellation Maps: Design detailed constellation maps that are easy to read and use in the night sky. 2. Myths and Stories: Write compelling stories and myths associated with major constellations, enhancing the stargazing experience. 3. App Tutorial: Create a tutorial video showing how to use a star identification app effectively during stargazing. 4. Field Recordings: Record high-quality audio of nighttime sounds that can be used to set the ambiance for reading or outdoor stargazing."
+    },
+    {
+        "instruction": "Produce an online cooking show with recipe breakdowns (text), high-definition ingredient shots (image), step-by-step cooking instructions (video), and kitchen ambiance background music (audio).",
+        "output-abstract": "1. Recipe Breakdowns, 2. Ingredient Shots, 3. Cooking Instructions, 4. Background Music.",
+        "output-detail": "1. Recipe Breakdowns: Provide detailed written instructions and ingredient lists for each recipe featured on the show. 2. Ingredient Shots: Photograph each ingredient in high-definition to emphasize freshness and quality. 3. Cooking Instructions: Film detailed step-by-step videos showing the preparation and cooking processes. 4. Background Music: Compile a playlist of soothing kitchen ambiance music to play in the background during the show."
+    }
+]

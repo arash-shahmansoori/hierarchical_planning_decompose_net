@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Develop a digital cookbook featuring traditional Italian recipes with images (image), detailed cooking instructions (text), and a promotional video (video) that highlights the book's best features.",
+        "output-abstract": "1. Recipe Images, 2. Cooking Instructions, 3. Promotional Video.",
+        "output-detail": "1. Recipe Images: Clear, high-resolution photos showcasing the final dish, with emphasis on presentation and garnishing to make the dish look appealing. 2. Cooking Instructions: Step-by-step written guidelines, including ingredient lists, portion sizes, and cooking times, ensuring clarity and ease of understanding for readers of all skill levels. 3. Promotional Video: A 2-minute video capturing the essence of the cookbook, featuring quick flips through recipe pages, highlighted dishes, and snippets of cooking processes to entice potential buyers."
+    },
+    {
+        "instruction": "Create an educational module on solar system exploration with interactive quizzes (text), augmented reality (AR) models of planets (image), and a narrated video journey through the solar system (video).",
+        "output-abstract": "1. Quizzes, 2. AR Models, 3. Narrated Video.",
+        "output-detail": "1. Quizzes: Develop multiple-choice and fill-in-the-blank questions that assess learners' knowledge on the solar system, its planets, and key exploration milestones. Each quiz should have feedback mechanisms for correct and incorrect answers. 2. AR Models: Design detailed, scientifically accurate 3D models of each planet, allowing users to explore features like rings, moons, and surface conditions using AR technology. Include interactive labels for notable landmarks or characteristics. 3. Narrated Video: Produce a 10-minute educational video that takes viewers on a journey through the solar system, with voice-over narration explaining the significance of each planet, historical missions, and future exploration plans."
+    },
+    {
+        "instruction": "Compose a piece of instrumental music inspired by rain (audio), create a digital painting of the mood the music evokes (image), and write a descriptive analysis (text) of how the elements blend together.",
+        "output-abstract": "1. Music, 2. Painting, 3. Analysis.",
+        "output-detail": "1. Music: Record a 5-minute instrumental piece using piano and strings, capturing the rhythm and patterns of rainfall. Incorporate varying tempos to represent the changing intensity of rain showers. 2. Painting: Create a digital painting that visualizes the emotions evoked by the music, focusing on color schemes and imagery that suggest serenity and renewal, possibly depicting a rainy landscape. 3. Analysis: Write a 300-word analysis discussing how the music's tempo and the painting's visual elements work together to evoke a mood of calm and reflection. Highlight any specific moments in the music that directly influenced aspects of the painting."
+    },
+    {
+        "instruction": "Design a virtual reality (VR) guided meditation experience featuring calming visuals of nature (image/video), soothing background music (audio), and guided meditation instructions (text).",
+        "output-abstract": "1. Visuals, 2. Music, 3. Instructions.",
+        "output-detail": "1. Visuals: Create an immersive series of 360-degree videos and/or images of peaceful nature scenes, such as forests, oceans, and mountains, that users can explore during the meditation. 2. Music: Compose a 30-minute soundtrack using natural sounds (like birdsong, water flowing) and soft, rhythmic musical tones designed to enhance relaxation. 3. Instructions: Write a set of guided meditation instructions that synchronize with the visuals and music, prompting users at different intervals to focus on their breath, surroundings, and mindfulness practices."
+    },
+    {
+        "instruction": "Produce a comprehensive guide to sustainable living with infographics (image), written tips and strategies (text), and explainer videos (video) covering various sustainability topics.",
+        "output-abstract": "1. Infographics, 2. Written Tips, 3. Explainer Videos.",
+        "output-detail": "1. Infographics: Design visually engaging infographics that summarize key statistics, benefits, and methods related to sustainable living practices, such as reducing waste, conserving energy, and supporting local ecosystems. 2. Written Tips: Compile a detailed list of actionable advice and strategies for individuals looking to incorporate more sustainable practices into their daily life, including product recommendations, lifestyle changes, and potential impact assessments. 3. Explainer Videos: Create short (2-3 minute) explainer videos for each major sustainability topic covered in the guide, using clear visuals and straightforward language to illustrate concepts and practices."
+    },
+    {
+        "instruction": "Orchestrate a virtual art exhibit featuring digital art pieces (image), artist interviews (video), and an interactive gallery tour (video + text).",
+        "output-abstract": "1. Digital Art, 2. Interviews, 3. Gallery Tour.",
+        "output-detail": "1. Digital Art: Curate a selection of high-quality digital artworks from various artists, ensuring a diverse representation of styles and themes. Each piece should be accompanied by a title and a brief artist statement. 2. Interviews: Record video interviews with the featured artists, discussing their inspiration, technique, and thoughts on digital art's role in contemporary culture. Each interview should last between 5-10 minutes. 3. Gallery Tour: Develop an interactive video tour of the virtual exhibit, including navigable 360-degree views of the gallery space. Provide text descriptions for each artwork and link to relevant artist interviews."
+    },
+    {
+        "instruction": "Assemble a workout plan with exercise tutorials (video), a motivational playlist (audio), and daily workout schedules (text).",
+        "output-abstract": "1. Tutorials, 2. Playlist, 3. Schedules.",
+        "output-detail": "1. Tutorials: Film detailed video tutorials for each exercise in the workout plan, showing proper form and technique, common mistakes to avoid, and modifications for different fitness levels. 2. Playlist: Compile a high-energy playlist of songs to keep users motivated throughout their workout, ensuring a mix of genres and tempos that match the intensity of different exercise phases. 3. Schedules: Create text-based daily workout schedules that outline the exercises to be performed, reps, sets, and rest periods, along with suggestions for integrating the motivational playlist."
+    },
+    {
+        "instruction": "Craft a children's storybook with illustrated pages (image), an accompanying audiobook narration (audio), and animated book trailers (video).",
+        "output-abstract": "1. Illustrated Pages, 2. Audiobook, 3. Trailers.",
+        "output-detail": "1. Illustrated Pages: Design vivid, colorful illustrations for each page of the storybook, capturing key moments and characters in a style that appeals to young children. 2. Audiobook: Record a clear, expressive narration of the storybook, using different voices for characters and adding sound effects to enhance the listening experience. 3. Trailers: Produce short (30-second to 1 minute) animated trailers for the book, highlighting its themes, characters, and visual style, to spark interest among potential readers and their parents."
+    },
+    {
+        "instruction": "Generate a series of blog posts on personal development topics with accompanying custom illustrations (image) and podcast episodes (audio) discussing each post in depth.",
+        "output-abstract": "1. Blog Posts, 2. Illustrations, 3. Podcasts.",
+        "output-detail": "1. Blog Posts: Write engaging, insightful blog posts on various personal development topics, such as goal setting, productivity, and mindfulness, ensuring each post provides actionable advice and personal anecdotes. 2. Illustrations: Create custom illustrations for each blog post that capture key concepts or moments in a visually appealing manner, enhancing the readability and engagement of the content. 3. Podcasts: Record podcast episodes where the author discusses the blog post topics in greater detail, including personal experiences, listener questions, and interviews with experts in the field."
+    },
+    {
+        "instruction": "Create a virtual museum exhibit on ancient civilizations featuring 3D models of artifacts (image), detailed historical context and descriptions (text), and a guided video tour (video).",
+        "output-abstract": "1. 3D Models, 2. Descriptions, 3. Video Tour.",
+        "output-detail": "1. 3D Models: Digitally reconstruct a selection of artifacts from various ancient civilizations using 3D modeling software, ensuring high levels of accuracy and detail. Provide interactive features that allow viewers to explore each model from different angles. 2. Descriptions: Write comprehensive text descriptions for each artifact, including its historical significance, cultural context, and technical details about its creation and use. 3. Video Tour: Film a narrated video tour of the virtual exhibit, guiding viewers through the highlights and providing additional insights into the civilizations' contributions to history."
+    },
+    {
+        "instruction": "Build an online language learning course featuring lesson modules (text), pronunciation guides (audio), interactive exercises (text+image), and conversational practice videos (video).",
+        "output-abstract": "1. Lesson Modules, 2. Pronunciation Guides, 3. Exercises, 4. Practice Videos.",
+        "output-detail": "1. Lesson Modules: Write concise, easy-to-understand lesson modules that cover vocabulary, grammar, and cultural contexts for the language being taught. 2. Pronunciation Guides: Record audio clips that demonstrate the correct pronunciation of key vocabulary words and phrases, paying attention to tone, stress, and intonation. 3. Interactive Exercises: Develop interactive exercises that combine text descriptions with images (such as matching words to pictures or filling in blanks in sentences) to reinforce learning. 4. Practice Videos: Create short videos where native speakers engage in typical conversational scenarios, followed by slow and clear repetitions of sentences for practice."
+    },
+    {
+        "instruction": "Organize a virtual fashion show featuring designer collections (video), model interviews (video), and a catalogue of outfits with detailed descriptions (text+image).",
+        "output-abstract": "1. Designer Collections, 2. Model Interviews, 3. Catalogue.",
+        "output-detail": "1. Designer Collections: Produce high-quality videos showcasing the latest collections from various designers, capturing the details of the clothing on the runway. Include brief text overlays with designer names and collection themes. 2. Model Interviews: Record interviews with models discussing their experiences, thoughts on the fashion, and personal styles. These videos should provide a behind-the-scenes look at the show. 3. Catalogue: Compile a digital catalogue featuring images of each outfit presented during the show, accompanied by text descriptions that include materials, inspiration, and available sizes."
+    },
+    {
+        "instruction": "Design a travel guide for Tokyo featuring neighborhood maps (image), insider tips on local dining and shopping (text), and immersive 360-degree video tours of popular attractions (video).",
+        "output-abstract": "1. Maps, 2. Insider Tips, 3. Video Tours.",
+        "output-detail": "1. Maps: Create detailed, user-friendly maps of Tokyo's key neighborhoods, highlighting major landmarks, subway stations, and off-the-beaten-path gems. Use color coding for different areas and icons for various attractions. 2. Insider Tips: Compile a list of recommended local dining and shopping spots, including brief descriptions, addresses, and what makes them special, focusing on places that are popular with locals rather than tourists. 3. Video Tours: Produce immersive, 360-degree video tours of iconic locations and hidden treasures in Tokyo, providing viewers with a virtual experience of visiting these spots."
+    },
+    {
+        "instruction": "Produce a documentary on global climate change featuring interviews with scientists (video), animated infographics showing data trends (image), and voice-over narration explaining key concepts (audio).",
+        "output-abstract": "1. Interviews, 2. Infographics, 3. Narration.",
+        "output-detail": "1. Interviews: Record video interviews with climate scientists and researchers discussing their studies, findings, and the implications of climate change. Frame each interview to highlight the urgency and importance of the issue. 2. Infographics: Design animated infographics that visually represent data trends related to climate change, such as rising temperatures, CO2 levels, and ice cap melting. Ensure animations are clear and comprehensible. 3. Narration: Develop a script for voice-over narration that ties together the interviews and infographics, providing context, explaining scientific principles, and urging viewers toward action."
+    },
+    {
+        "instruction": "Develop a mobile app for daily mental health exercises featuring mood tracking (text), guided meditation audio (audio), and stress-reducing games (text+image).",
+        "output-abstract": "1. Mood Tracking, 2. Guided Meditation, 3. Games.",
+        "output-detail": "1. Mood Tracking: Implement a text-based diary feature where users can record their daily moods and feelings, using prompts to guide reflection and provide insights over time. 2. Guided Meditation: Record a series of guided meditation sessions focusing on different aspects of mental health, such as anxiety reduction, sleep improvement, and mindfulness. Use soothing music and voice instructions to enhance the experience. 3. Games: Develop simple, engaging games that incorporate elements of mindfulness and stress reduction, using visuals and gameplay to distract from anxiety and promote relaxation."
+    },
+    {
+        "instruction": "Create an online course on photography basics with video lessons (video), technique quizzes (text), and student photo critique sections (text+image).",
+        "output-abstract": "1. Video Lessons, 2. Quizzes, 3. Critiques.",
+        "output-detail": "1. Video Lessons: Produce clear, informative video lessons covering key photography techniques, such as composition, lighting, and editing. Include demonstrations and examples to enhance learning. 2. Quizzes: Design text-based quizzes that test students' understanding of each lesson's content, with immediate feedback on answers to reinforce learning. 3. Critiques: Establish a section where students can upload their own photos and receive critiques from instructors and peers, focusing on constructive feedback and improvement suggestions."
+    },
+    {
+        "instruction": "Launch a series of weekly podcasts on emerging technologies featuring expert interviews (audio), interactive episode notes with links and resources (text), and visual summaries of key points (image).",
+        "output-abstract": "1. Interviews, 2. Episode Notes, 3. Visual Summaries.",
+        "output-detail": "1. Interviews: Record audio interviews with experts in various fields of emerging technology, discussing current trends, innovations, and future prospects. Ensure sound quality is high and conversations are engaging. 2. Episode Notes: Draft detailed episode notes that accompany each podcast, including summaries, key takeaways, and links to further resources, allowing listeners to delve deeper into the topics discussed. 3. Visual Summaries: Create concise, informative visual summaries of each episode's key points, using graphics and icons to highlight important information in an easily digestible format."
+    },
+    {
+        "instruction": "Compile an anthology of short stories from various authors with illustrations for each story (image), author commentary videos (video), and an audiobook version (audio).",
+        "output-abstract": "1. Short Stories, 2. Illustrations, 3. Commentary, 4. Audiobook.",
+        "output-detail": "1. Short Stories: Select a diverse range of compelling short stories from different authors, ensuring a mix of genres and themes to appeal to a wide audience. 2. Illustrations: Commission unique illustrations for each story, capturing a key moment or theme in a style that complements the author's voice and the story's mood. 3. Commentary: Record video commentaries with the authors discussing the inspiration behind their stories, challenges during writing, and interpretations, adding depth to the readers' experience. 4. Audiobook: Produce an audiobook version of the anthology, with clear, engaging readings of each story, allowing for an alternative consumption mode."
+    },
+    {
+        "instruction": "Design a campaign for a new eco-friendly product line featuring product demonstrations (video), customer testimonials (video), and an infographic on product benefits (image).",
+        "output-abstract": "1. Demonstrations, 2. Testimonials, 3. Infographic.",
+        "output-detail": "1. Demonstrations: Create videos demonstrating the usage and effectiveness of the eco-friendly products, highlighting their unique features and showcasing how they compare to traditional alternatives. 2. Testimonials: Gather video testimonials from early users, focusing on their experiences, the benefits they've observed, and why they recommend the products. 3. Infographic: Design an engaging infographic that summarizes the key benefits of the eco-friendly product line, including environmental impact, cost savings, and health advantages, using clear visuals and concise text."
+    },
+    {
+        "instruction": "Organize a community art project where participants create artwork inspired by local landmarks (image), record their creative process (video), and write a narrative about their inspiration and techniques (text).",
+        "output-abstract": "1. Artwork, 2. Creative Process, 3. Narrative.",
+        "output-detail": "1. Artwork: Guide participants to create visual artworks (paintings, drawings, digital art) inspired by notable landmarks or aspects of the local community, focusing on personal interpretation and expression. Provide recommendations for capturing the essence of the subjects. 2. Creative Process: Encourage participants to record videos documenting their creative journey, showing progress from initial sketches to finished piece, including challenges and moments of inspiration. 3. Narrative: Ask participants to write a brief narrative accompanying their artwork, explaining the significance of the chosen landmark, their emotional connection to it, and the techniques used to bring their vision to life."
+    }
+]

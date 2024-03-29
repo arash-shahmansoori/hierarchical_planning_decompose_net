@@ -1,0 +1,97 @@
+[
+    {
+        "instruction": "Design a mobile app for stress management featuring a daily motivational quote (text), a soothing sound playlist (audio), calming wallpapers (image), and a tutorial video on meditation (video).",
+        "output-abstract": "1. Motivational Quote, 2. Soothing Sound Playlist, 3. Calming Wallpapers, 4. Tutorial Video on Meditation",
+        "output-detail": "1. Motivational Quote: Research psychology and positivity for impactful phrases. 2. Soothing Sound Playlist: Curate or create audio files that incorporate natural sounds or gentle music. 3. Calming Wallpapers: Design serene visuals focusing on nature or abstract calming patterns. 4. Tutorial Video on Meditation: Film and edit a beginner-friendly guide showcasing basic meditation techniques."
+    },
+    {
+        "instruction": "Create an educational package on renewable energy that includes an infographic (image), an explanatory article (text), a narrated presentation (audio), and a demonstration video (video).",
+        "output-abstract": "1. Infographic, 2. Article, 3. Narrated Presentation, 4. Demonstration Video",
+        "output-detail": "1. Infographic: Design visuals summarizing key renewable energy sources and their benefits. 2. Article: Write an in-depth exploration of renewable energy technologies and their impact on the environment. 3. Narrated Presentation: Prepare slides on renewable energy basics and record a narration explaining each slide. 4. Demonstration Video: Create a video showing practical examples of renewable energy in use."
+    },
+    {
+        "instruction": "Produce a real estate listing presentation with a house description (text), a photo gallery (image), a 360\u00b0 tour (video), and ambient background music (audio).",
+        "output-abstract": "1. House Description, 2. Photo Gallery, 3. 360\u00b0 Tour, 4. Background Music",
+        "output-detail": "1. House Description: Write a detailed narrative emphasizing the property's unique features and amenities. 2. Photo Gallery: Capture high-quality images of the property\u2019s interior and exterior. 3. 360\u00b0 Tour: Record and stitch video footage for a comprehensive virtual tour of the property. 4. Background Music: Select or compose subtle instrumental music to play during the virtual tour."
+    },
+    {
+        "instruction": "Launch an online coffee shop with a virtual menu (image), product descriptions (text), barista tutorial videos (video), and coffee brewing sounds (audio).",
+        "output-abstract": "1. Virtual Menu, 2. Product Descriptions, 3. Barista Tutorials, 4. Coffee Brewing Sounds",
+        "output-detail": "1. Virtual Menu: Design a visually appealing menu showcasing coffee varieties with prices. 2. Product Descriptions: Craft engaging narratives for each menu item, highlighting origins and taste notes. 3. Barista Tutorials: Film step-by-step preparation videos for popular coffee recipes. 4. Coffee Brewing Sounds: Record the ambient sounds of coffee being brewed to use as background audio on the site."
+    },
+    {
+        "instruction": "Develop a digital marketing course including a syllabus outline (text), promotional graphics (image), course introduction video (video), and podcast interviews with marketing experts (audio).",
+        "output-abstract": "1. Syllabus Outline, 2. Promotional Graphics, 3. Introduction Video, 4. Podcast Interviews",
+        "output-detail": "1. Syllabus Outline: Write a comprehensive breakdown of course modules, including objectives and expected outcomes. 2. Promotional Graphics: Create eye-catching images highlighting course features and benefits. 3. Introduction Video: Produce a short video that outlines what learners can expect from the course. 4. Podcast Interviews: Record conversations with field experts discussing key marketing trends and insights."
+    },
+    {
+        "instruction": "Organize an online art exhibition including a catalog description (text), high-resolution artwork images (image), artist interview videos (video), and an audio guide (audio).",
+        "output-abstract": "1. Catalog Description, 2. Artwork Images, 3. Artist Interviews, 4. Audio Guide",
+        "output-detail": "1. Catalog Description: Compose explanatory texts for the exhibition theme and featured artworks. 2. Artwork Images: Collect or photograph artworks in high resolution for online viewing. 3. Artist Interviews: Produce video interviews with artists discussing their pieces and inspirations. 4. Audio Guide: Narrate an engaging tour through the exhibition, offering insights into each artwork and artist."
+    },
+    {
+        "instruction": "Craft a city tourism promotional package with a welcome message (text), panoramic cityscapes (image), a narrated city tour (audio), and a highlights reel (video).",
+        "output-abstract": "1. Welcome Message, 2. Panoramic Cityscapes, 3. Narrated City Tour, 4. Highlights Reel",
+        "output-detail": "1. Welcome Message: Write a friendly and inviting message highlighting the city\u2019s unique attractions. 2. Panoramic Cityscapes: Capture or collect wide-angle photos showcasing iconic city views. 3. Narrated City Tour: Develop an audio guide tour pointing out key landmarks and their histories. 4. Highlights Reel: Edit a fast-paced video montage of must-see locations and experiences within the city."
+    },
+    {
+        "instruction": "Compile a fitness program with workout routines (text), motivational posters (image), a playlist of energetic songs (audio), and instructional exercise videos (video).",
+        "output-abstract": "1. Workout Routines, 2. Motivational Posters, 3. Energetic Songs Playlist, 4. Instructional Videos",
+        "output-detail": "1. Workout Routines: Detail various exercises including reps, sets, and rest periods. 2. Motivational Posters: Design vivid visuals with empowering fitness quotes. 3. Energetic Songs Playlist: Assemble a high-tempo music list to energize workouts. 4. Instructional Videos: Demonstrate proper exercise techniques and common mistakes to avoid."
+    },
+    {
+        "instruction": "Design a mindfulness podcast series including episode summaries (text), cover art (image), the actual podcast episodes (audio), and behind-the-scenes production videos (video).",
+        "output-abstract": "1. Episode Summaries, 2. Cover Art, 3. Podcast Episodes, 4. Behind-the-Scenes Videos",
+        "output-detail": "1. Episode Summaries: Write concise descriptions for each episode, highlighting main topics and guest speakers. 2. Cover Art: Create visually appealing graphic designs for each episode and the series as a whole. 3. Podcast Episodes: Record in-depth discussions on mindfulness practices and experiences. 4. Behind-the-Scenes Videos: Film the production process, including interviews with the team and guest speakers."
+    },
+    {
+        "instruction": "Prepare a science fair presentation on solar energy including a project abstract (text), diagrams of solar panels (image), a model solar panel system (video), and explanations of the science behind solar energy (audio).",
+        "output-abstract": "1. Project Abstract, 2. Solar Panel Diagrams, 3. Model Solar Panel System, 4. Science Explanations",
+        "output-detail": "1. Project Abstract: Draft a succinct summary of the project, outlining objectives, methodology, and expected outcomes. 2. Solar Panel Diagrams: Develop clear and informative diagrams showing parts and functions of solar panels. 3. Model Solar Panel System: Construct and video-document a small-scale working model of a solar panel system. 4. Science Explanations: Record detailed audio explanations of how solar panels convert sunlight into electricity."
+    },
+    {
+        "instruction": "Produce a cooking show episode featuring a recipe (text), step-by-step cooking photographs (image), chef\u2019s commentary explaining techniques (audio), and the final dish presentation (video).",
+        "output-abstract": "1. Recipe, 2. Cooking Photographs, 3. Chef\u2019s Commentary, 4. Final Dish Presentation",
+        "output-detail": "1. Recipe: Write a detailed recipe including ingredients, quantities, and cooking steps. 2. Cooking Photographs: Take high-resolution photos of each cooking stage. 3. Chef\u2019s Commentary: Record the chef\u2019s insights and tips on techniques used while cooking. 4. Final Dish Presentation: Film the plating process and showcase the completed dish from various angles."
+    },
+    {
+        "instruction": "Assemble a DIY home renovation guide with project instructions (text), before and after photos (image), time-lapse videos of the renovation process (video), and a podcast discussing common renovation challenges (audio).",
+        "output-abstract": "1. Project Instructions, 2. Before and After Photos, 3. Renovation Process Time-lapse, 4. Renovation Challenges Podcast",
+        "output-detail": "1. Project Instructions: Provide detailed step-by-step guidance for various home renovation projects. 2. Before and After Photos: Display transformation photos to inspire and guide users. 3. Renovation Process Time-lapse: Capture the entire renovation process in a time-lapse video to visually demonstrate progress. 4. Renovation Challenges Podcast: Discuss tips for overcoming common obstacles in home renovation projects."
+    },
+    {
+        "instruction": "Create a multi-language learning app with vocabulary lists (text), pronunciation guides (audio), interactive exercises (video), and language learning tips (image).",
+        "output-abstract": "1. Vocabulary Lists, 2. Pronunciation Guides, 3. Interactive Exercises, 4. Language Learning Tips",
+        "output-detail": "1. Vocabulary Lists: Compile lists of commonly used phrases and words in multiple languages. 2. Pronunciation Guides: Record clear audio pronunciations of each word or phrase by native speakers. 3. Interactive Exercises: Design video-based quizzes and games to practice vocabulary and grammar. 4. Language Learning Tips: Create engaging infographics summarizing effective language learning strategies."
+    },
+    {
+        "instruction": "Develop a promotional campaign for a music festival including a teaser trailer (video), a lineup announcement (text), artist spotlight profiles (image), and festival theme music (audio).",
+        "output-abstract": "1. Teaser Trailer, 2. Lineup Announcement, 3. Artist Spotlight Profiles, 4. Festival Theme Music",
+        "output-detail": "1. Teaser Trailer: Produce a short, engaging video that hints at the festival atmosphere and upcoming attractions. 2. Lineup Announcement: Write a clear and exciting announcement detailing the event lineup and special features. 3. Artist Spotlight Profiles: Design visually dynamic profiles for each headlining artist, incorporating their images and key information. 4. Festival Theme Music: Create or select a signature theme song that embodies the spirit of the festival."
+    },
+    {
+        "instruction": "Design a video game launch kit including a press release (text), game cover art (image), original soundtrack (audio), and gameplay trailers (video).",
+        "output-abstract": "1. Press Release, 2. Game Cover Art, 3. Original Soundtrack, 4. Gameplay Trailers",
+        "output-detail": "1. Press Release: Compose an engaging announcement that highlights the game\u2019s features, storyline, and release date. 2. Game Cover Art: Create compelling artwork that captures the essence of the game. 3. Original Soundtrack: Compose a unique soundtrack that enhances the gaming experience. 4. Gameplay Trailers: Edit together clips from various game levels to showcase mechanics, story highlights, and unique features."
+    },
+    {
+        "instruction": "Organize an interactive online art class including a class schedule (text), student art showcase (image), critique sessions (audio), and live drawing tutorials (video).",
+        "output-abstract": "1. Class Schedule, 2. Student Art Showcase, 3. Critique Sessions, 4. Live Drawing Tutorials",
+        "output-detail": "1. Class Schedule: Draft a detailed timetable of topics, assignments, and submission deadlines. 2. Student Art Showcase: Create an online gallery for students to post their artwork. 3. Critique Sessions: Record audio feedback for submitted artworks, discussing techniques and improvements. 4. Live Drawing Tutorials: Stream live sessions demonstrating drawing techniques and answering questions in real-time."
+    },
+    {
+        "instruction": "Compile a local community newsletter including news articles (text), community event photos (image), a podcast on local issues (audio), and video interviews with community leaders (video).",
+        "output-abstract": "1. News Articles, 2. Community Event Photos, 3. Local Issues Podcast, 4. Community Leader Interviews",
+        "output-detail": "1. News Articles: Write informative articles covering recent developments and upcoming events in the community. 2. Community Event Photos: Compile a photo gallery of recent community events, highlighting participation and key moments. 3. Local Issues Podcast: Create a series of podcast episodes discussing topical issues affecting the community. 4. Community Leader Interviews: Produce video interviews with local leaders, focusing on their perspectives and initiatives."
+    },
+    {
+        "instruction": "Design a social media marketing strategy for a bookstore including promotional posts (text), themed book collections (image), author interview clips (audio), and book review summaries (video).",
+        "output-abstract": "1. Promotional Posts, 2. Themed Book Collections, 3. Author Interview Clips, 4. Book Review Summaries",
+        "output-detail": "1. Promotional Posts: Forge engaging text content highlighting sales, events, and recommended reads. 2. Themed Book Collections: Assemble and photograph curated book sets based on themes or occasions. 3. Author Interview Clips: Record short audio sessions with authors discussing their works and inspiration. 4. Book Review Summaries: Produce concise video overviews of book reviews, providing visual and insightful analysis for viewers."
+    },
+    {
+        "instruction": "Create an environmental awareness campaign featuring infographics on pollution (image), educational articles (text), an awareness jingle (audio), and a documentary on conservation efforts (video).",
+        "output-abstract": "1. Infographics, 2. Educational Articles, 3. Awareness Jingle, 4. Conservation Documentary",
+        "output-detail": "1. Infographics: Design engaging visuals that highlight pollution statistics and preventive measures. 2. Educational Articles: Write comprehensive articles discussing different aspects of environmental conservation. 3. Awareness Jingle: Compose a catchy jingle to spread the message of environmental awareness. 4. Conservation Documentary: Produce a documentary showcasing successful conservation projects and initiatives worldwide."
+    }
+]

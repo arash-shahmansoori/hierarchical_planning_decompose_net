@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Design a virtual coffee shop experience with ambient background music (audio), a website interface (image/text), promotional video (video), and a menu (text).",
+        "output-abstract": "1. Background music, 2. Website interface, 3. Promotional video, 4. Menu.",
+        "output-detail": "1. Background music: Create a soothing, loopable coffee shop soundtrack. 2. Website interface: User-friendly design incorporating warm, inviting colors and interactive elements. 3. Promotional video: A day in the life of the virtual coffee shop, highlighting customer interactions and specialty drinks. 4. Menu: Detailed descriptions of coffee offerings and pastries, emphasizing organic and locally sourced ingredients."
+    },
+    {
+        "instruction": "Develop a children's learning app featuring an interactive eBook (text/image), educational games (text/image/audio), and a progress tracking system (text).",
+        "output-abstract": "1. eBook, 2. Educational games, 3. Progress tracking.",
+        "output-detail": "1. eBook: Interactive, story-driven learning with vibrant illustrations and text narration. 2. Educational games: Combination of quizzes, puzzles, and matching games with sound effects to reinforce learning objectives within the eBook. 3. Progress tracking: A textual report generated for parents, outlining the child\u2019s learning progress and suggesting areas for improvement."
+    },
+    {
+        "instruction": "Create a digital marketing strategy for a new fitness tracker, including a product teaser video (video), infographics on health benefits (image/text), testimonials compilation (video/text), and a launch event invitation (text).",
+        "output-abstract": "1. Teaser video, 2. Infographics, 3. Testimonials, 4. Invitation.",
+        "output-detail": "1. Teaser video: A 30-second sneak peek focusing on the fitness tracker's sleek design and key features. 2. Infographics: Visually engaging content highlighting health benefits and comparing features with competitors. 3. Testimonials: A compilation of short videos and written feedback from beta testers, underscoring the product's impact on their fitness routines. 4. Invitation: A creatively designed e-invite to the virtual launch event, including time, date, and RSVP instructions."
+    },
+    {
+        "instruction": "Produce a podcast series about digital nomads, including episode outlines (text), cover art (image), theme music (audio), and promotional teasers (video).",
+        "output-abstract": "1. Episode outlines, 2. Cover art, 3. Theme music, 4. Promotional teasers.",
+        "output-detail": "1. Episode outlines: Detailed text descriptions of each episode\u2019s focus, guest speakers, and intended takeaways. 2. Cover art: A visually stimulating image that captures the essence of digital nomad life. 3. Theme music: A short, upbeat audio piece that reflects the adventurous spirit of the podcast. 4. Promotional teasers: Brief video clips extracted from upcoming episodes designed to generate interest on social media platforms."
+    },
+    {
+        "instruction": "Organize an online film festival, including the creation of a submission platform (text/image), jury selection guide (text), festival trailer (video), and awards ceremony music (audio).",
+        "output-abstract": "1. Submission platform, 2. Jury selection, 3. Festival trailer, 4. Awards ceremony music.",
+        "output-detail": "1. Submission platform: A user-friendly website interface for filmmakers to submit their work, including guidelines and technical requirements. 2. Jury selection: A document outlining the criteria for jury members, emphasizing diversity and expertise in various film genres. 3. Festival trailer: A compilation of clips from the top submissions, set to a gripping narrative that encapsulates the festival's theme. 4. Awards ceremony music: Original, dramatic compositions to be played during the announcement of winners."
+    },
+    {
+        "instruction": "Create a virtual museum tour experience, integrating an interactive map (image/text), audio guides (audio), detailed artifact descriptions (text), and a method for virtual visitors to leave comments (text).",
+        "output-abstract": "1. Interactive map, 2. Audio guides, 3. Artifact descriptions, 4. Visitor comments.",
+        "output-detail": "1. Interactive map: A digital image-based map of the museum layout, allowing users to select different exhibits. 2. Audio guides: Professionally recorded guides, providing historical context and interesting anecdotes about key exhibits. 3. Artifact descriptions: Text-based insights into the significance, history, and conservation efforts of each item. 4. Visitor comments: An interface for feedback and reflections, encouraging engagement and community."
+    },
+    {
+        "instruction": "Develop a social media awareness campaign for climate change, including informational posts (text/image), a series of short documentaries (video), interactive quizzes (text/image/audio), and a virtual reality experience of affected areas (video/audio).",
+        "output-abstract": "1. Informational posts, 2. Documentaries, 3. Quizzes, 4. VR experience.",
+        "output-detail": "1. Informational posts: Engaging visuals paired with key facts and statistics about climate change. 2. Documentaries: Short films featuring interviews with scientists, footage of impacted areas, and calls to action. 3. Quizzes: Interactive content testing users\u2019 knowledge on climate change, with instant feedback and learning resources. 4. VR experience: An immersive video and audio tour through ecosystems ravaged by climate change, aimed at fostering empathy and understanding."
+    },
+    {
+        "instruction": "Compile a comprehensive e-learning course on web development, including modular lesson plans (text), coding exercises (text/image), tutorial videos (video), and a final project (text/image/audio).",
+        "output-abstract": "1. Lesson plans, 2. Exercises, 3. Tutorials, 4. Final project.",
+        "output-detail": "1. Lesson plans: Structured outlines for each module, covering HTML, CSS, JavaScript, and PHP fundamentals. 2. Exercises: Interactive coding tasks for skill reinforcement, with screenshots illustrating correct and incorrect code snippets. 3. Tutorials: Step-by-step instructional videos on key topics, demonstrating best practices in coding. 4. Final project: Guidelines for a comprehensive web application, encouraging students to integrate audio, image, and text elements."
+    },
+    {
+        "instruction": "Organize a virtual cooking class, featuring recipe booklets (text/image), step-by-step cooking videos (video), a playlist of cooking background music (audio), and a platform for participant feedback (text).",
+        "output-abstract": "1. Recipe booklets, 2. Cooking videos, 3. Background music, 4. Feedback platform.",
+        "output-detail": "1. Recipe booklets: Easy-to-follow textual and visual guidelines for each dish, including ingredient lists and cooking tips. 2. Cooking videos: Detailed demonstrations of the cooking process, providing visual and verbal instructions. 3. Background music: A curated playlist of uplifting and energizing songs to enhance the cooking experience. 4. Feedback platform: A simple interface for participants to share their cooking results and suggestions for future classes."
+    },
+    {
+        "instruction": "Create an anniversary event for a company, including a historical timeline (text/image), a highlight reel of major achievements (video), personalized greetings from employees (audio), and digital invitations (text/image).",
+        "output-abstract": "1. Historical timeline, 2. Highlight reel, 3. Greetings, 4. Invitations.",
+        "output-detail": "1. Historical timeline: A visually appealing infographic detailing key milestones in the company\u2019s history. 2. Highlight reel: A compilation video of significant achievements, interviews with founders, and future goals. 3. Greetings: Audio recordings from employees sharing their personal experiences and well-wishes. 4. Invitations: Elegantly designed digital invitations with event details, reflecting the company's branding and values."
+    },
+    {
+        "instruction": "Develop a 3D virtual real estate tour, combining panoramic views of properties (video/image), interactive floor plans (image/text), a narrative walkthrough (audio), and a Q&A section for potential buyers (text).",
+        "output-abstract": "1. Panoramic views, 2. Interactive floor plans, 3. Narrative walkthrough, 4. Q&A.",
+        "output-detail": "1. Panoramic views: High-definition videos and images offering 360-degree views of each property. 2. Interactive floor plans: Detailed diagrams allowing users to explore different rooms and features. 3. Narrative walkthrough: Guided audio tours highlighting the unique qualities and benefits of the property. 4. Q&A: A compiled list of frequently asked questions, providing insights into property maintenance, community features, and purchase procedures."
+    },
+    {
+        "instruction": "Launch a personal finance mobile app, featuring budgeting tools (text/image), financial literacy podcasts (audio), a weekly savings tips newsletter (text), and interactive investment simulations (text/image).",
+        "output-abstract": "1. Budgeting tools, 2. Podcasts, 3. Newsletter, 4. Investment simulations.",
+        "output-detail": "1. Budgeting tools: Intuitive interfaces for tracking expenses, income, and savings goals, supplemented with visualisations. 2. Podcasts: Educational series covering topics from basic budgeting to advanced investing strategies, featuring interviews with finance experts. 3. Newsletter: Regular updates providing practical tips for increasing savings and reducing expenses. 4. Investment simulations: Engaging modules allowing users to practice stock market investment strategies in a risk-free environment."
+    },
+    {
+        "instruction": "Create a tutorial for DIY home repairs, including step-by-step guides (text/image), demonstration videos (video), a list of required tools and materials (text), and a FAQ section (text).",
+        "output-abstract": "1. Guides, 2. Videos, 3. Tools list, 4. FAQs.",
+        "output-detail": "1. Guides: Detailed instructions for common home repairs, such as fixing a leaky faucet or patching drywall, accompanied by helpful images. 2. Videos: Hands-on demonstrations illustrating techniques and tips for efficient repairs. 3. Tools list: A categorized inventory of necessary tools and materials, with suggestions for where to purchase them. 4. FAQs: Answers to common questions about difficulty levels, safety precautions, and when to call a professional."
+    },
+    {
+        "instruction": "Develop a marketing plan for an art exhibition, including a catalogue (text/image), an exhibition trailer (video), artist interviews (audio), and a virtual gallery tour (video/image).",
+        "output-abstract": "1. Catalogue, 2. Trailer, 3. Interviews, 4. Virtual tour.",
+        "output-detail": "1. Catalogue: A beautifully designed booklet featuring artwork on display, artist bios, and descriptions. 2. Trailer: A captivating video tease of the exhibition space and selected works to intrigue viewers. 3. Interviews: Audio recordings with the artists, discussing their inspiration, creative process, and pieces on display. 4. Virtual tour: An interactive video walkthrough of the gallery, allowing remote viewers to explore the exhibition as if they were there."
+    },
+    {
+        "instruction": "Create a wellness retreat program, featuring daily schedules (text), guided meditation audio (audio), yoga session videos (video), and healthy recipe guides (text/image).",
+        "output-abstract": "1. Schedules, 2. Meditation audio, 3. Yoga videos, 4. Recipe guides.",
+        "output-detail": "1. Schedules: Text-based outlines of daily activities, including meditation, yoga, workshops, and free time. 2. Meditation audio: Professionally recorded sessions guiding attendees through various techniques for relaxation and mindfulness. 3. Yoga videos: Instructional videos demonstrating yoga flows for different levels, focusing on calming and rejuvenating poses. 4. Recipe guides: Visually appealing and easy-to-follow recipes for nutritious meals and snacks, emphasizing whole, plant-based ingredients."
+    },
+    {
+        "instruction": "Design a language learning app, incorporating vocabulary flashcards (text/image), pronunciation guides (audio), grammar exercises (text/image), and conversational practice simulations (text/audio).",
+        "output-abstract": "1. Flashcards, 2. Pronunciation guides, 3. Grammar exercises, 4. Conversational simulations.",
+        "output-detail": "1. Flashcards: A mix of text and images to help memorize new words and phrases. 2. Pronunciation guides: Audio recordings of native speakers demonstrating the correct pronunciation of key vocabulary. 3. Grammar exercises: Interactive activities focused on sentence structure, verb conjugation, and proper usage. 4. Conversational simulations: Scenario-based dialogues in text and audio formats, allowing users to practice speaking and listening in realistic contexts."
+    },
+    {
+        "instruction": "Organize a music festival online, including performance schedules (text), live-streamed concerts (video), artist interviews (audio), and a virtual merchandise store (text/image).",
+        "output-abstract": "1. Schedules, 2. Concerts, 3. Interviews, 4. Merchandise store.",
+        "output-detail": "1. Schedules: Clear, comprehensive lists of performance times and stages, available in various time zones. 2. Concerts: High-quality video streams of live performances, with multiple camera angles to choose from. 3. Interviews: Pre-recorded or live audio sessions with artists, discussing their music and experiences. 4. Merchandise store: An online platform showcasing festival-themed merchandise, including T-shirts, posters, and limited edition items, with images and descriptions for each product."
+    },
+    {
+        "instruction": "Produce a documentary on urban gardening, featuring research on its benefits (text), interviews with practitioners (video/audio), a how-to guide for starting (text/image), and a community forum (text).",
+        "output-abstract": "1. Research, 2. Interviews, 3. How-to guide, 4. Forum.",
+        "output-detail": "1. Research: An overview of urban gardening, highlighting environmental, social, and health benefits. 2. Interviews: A mix of video and audio interviews with urban gardeners, sharing their stories and tips. 3. How-to guide: Step-by-step instructions for creating an urban garden, including choosing plants and maximizing small spaces. 4. Forum: An online platform for enthusiasts to share experiences, ask questions, and connect with a community of urban gardeners."
+    },
+    {
+        "instruction": "Create a comprehensive guidebook for backpackers, including travel route maps (text/image), survival tips (text), cultural etiquette guides (text), and a companion mobile app with an SOS feature (text/image/audio).",
+        "output-abstract": "1. Maps, 2. Survival tips, 3. Etiquette guides, 4. Mobile app.",
+        "output-detail": "1. Maps: Detailed representations of popular backpacking routes, including points of interest and danger zones. 2. Survival tips: Essential information on navigating through remote areas, finding clean water, and emergency preparedness. 3. Etiquette guides: Cultural dos and don\u2019ts for interacting with local communities, respecting traditions, and minimizing environmental impact. 4. Mobile app: A digital companion to the guidebook, featuring an easy-to-use SOS signal that sends the user's location to local emergency services."
+    },
+    {
+        "instruction": "Design a campaign for promoting digital literacy among seniors, including instructional videos (video), step-by-step setup guides for devices (text/image), interactive quizzes (text/audio), and a help forum (text).",
+        "output-abstract": "1. Videos, 2. Setup guides, 3. Quizzes, 4. Forum.",
+        "output-detail": "1. Instructional videos: Short, clear tutorials on key digital skills, such as internet browsing, emailing, and using social media. 2. Setup guides: Visual guides and checklists to help seniors configure their devices and software. 3. Quizzes: Engaging exercises to reinforce learning, with immediate audio feedback. 4. Forum: An online community space for seniors to ask questions, share tips, and connect with peers for additional support."
+    }
+]

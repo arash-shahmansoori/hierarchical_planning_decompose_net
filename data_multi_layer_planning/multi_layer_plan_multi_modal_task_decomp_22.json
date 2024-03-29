@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Write a short story inspired by a given painting (text), then create a soundtrack for the story (audio), and finally produce a digital book cover (image).",
+        "output-abstract": "1. Short story, 2. Soundtrack, 3. Digital book cover.",
+        "output-detail": "1. Short story: Interpret the emotions and scenery depicted in the painting to construct a narrative. 2. Soundtrack: Compose music that reflects the story's mood and main themes. 3. Digital book cover: Design a cover that captures the essence of the story and its soundtrack, incorporating key elements from both."
+    },
+    {
+        "instruction": "Develop a language learning app including introductory lessons (text and audio), interactive exercises (text and video), and pronunciation guides (audio).",
+        "output-abstract": "1. Introductory lessons, 2. Interactive exercises, 3. Pronunciation guides.",
+        "output-detail": "1. Introductory lessons: Write short text lessons and record corresponding audio for basic phrases. 2. Interactive exercises: Create video demonstrations of real-life conversations with embedded text questions for user interaction. 3. Pronunciation guides: Record audio guides emphasizing tricky phonetics, with examples."
+    },
+    {
+        "instruction": "Organize a virtual art exhibition with an introductory video (video), a catalogue of artworks (image and text), and an interactive Q&A session with artists (audio).",
+        "output-abstract": "1. Introductory video, 2. Art catalogue, 3. Q&A session.",
+        "output-detail": "1. Introductory video: Produce a compelling video introducing the theme of the exhibition. 2. Art catalogue: Compile images of the artworks with descriptive text for each piece. 3. Q&A session: Arrange a live audio session where attendees can ask artists questions."
+    },
+    {
+        "instruction": "Create an instructional cooking video series featuring a main dish (video), a downloadable recipe booklet (text and image), and an ambient kitchen playlist (audio).",
+        "output-abstract": "1. Cooking video, 2. Recipe booklet, 3. Kitchen playlist.",
+        "output-detail": "1. Cooking video: Film step-by-step cooking instructions, emphasizing techniques. 2. Recipe booklet: Design a booklet with detailed recipes and high-quality images of the dishes. 3. Kitchen playlist: Curate a playlist of music to set a pleasant cooking ambiance."
+    },
+    {
+        "instruction": "Design a digital marketing campaign for a new smartphone, including a product launch video (video), infographics on features (image), customer testimonials (audio), and a press release (text).",
+        "output-abstract": "1. Launch video, 2. Infographics, 3. Testimonials, 4. Press release.",
+        "output-detail": "1. Launch video: Create a dynamic video showcasing the phone\u2019s innovative features. 2. Infographics: Design visuals summarizing key features and benefits. 3. Testimonials: Record genuine user feedback highlighting their positive experiences. 4. Press release: Write an engaging announcement detailing the phone\u2019s release and unique selling points."
+    },
+    {
+        "instruction": "Produce a mini-documentary on a historical event, including a narrative script (text), archival photographs (image), expert interviews (audio), and reenactment scenes (video).",
+        "output-abstract": "1. Narrative script, 2. Archival photos, 3. Expert interviews, 4. Reenactments.",
+        "output-detail": "1. Narrative script: Write a compelling script that provides a chronological account of the event. 2. Archival photos: Collect and digitize relevant photographs to support the narrative. 3. Expert interviews: Record audio interviews with historians or eyewitnesses. 4. Reenactments: Film key scenes to visually represent the event."
+    },
+    {
+        "instruction": "Develop a personal brand by creating a logo (image), a mission statement (text), a portfolio website (text, image, video), and a signature jingle (audio).",
+        "output-abstract": "1. Logo, 2. Mission statement, 3. Portfolio website, 4. Jingle.",
+        "output-detail": "1. Logo: Design a memorable emblem that visually communicates your brand identity. 2. Mission statement: Write a concise text articulating your values and goals. 3. Portfolio website: Build a site featuring text about your work, image galleries, and video presentations. 4. Jingle: Compose a catchy musical motif that embodies your brand's spirit."
+    },
+    {
+        "instruction": "Compose an educational video lesson on environmental conservation (video), followed by an interactive quiz (text and image), and a fieldwork guide pamphlet (text and image).",
+        "output-abstract": "1. Video lesson, 2. Interactive quiz, 3. Fieldwork guide.",
+        "output-detail": "1. Video lesson: Produce a video explaining the importance of conservation, with examples of successful efforts. 2. Interactive quiz: Create a quiz with questions related to the video lesson, incorporating images for visual aid. 3. Fieldwork guide: Write and design a pamphlet providing instructions and tips for conducting local conservation efforts."
+    },
+    {
+        "instruction": "Create a promotional package for a jazz festival, including a highlight reel from past festivals (video), artist bios and performance schedules (text and image), and recordings of select performances (audio).",
+        "output-abstract": "1. Highlight reel, 2. Artist bios and schedules, 3. Performance recordings.",
+        "output-detail": "1. Highlight reel: Edit footage from previous festivals to showcase the event's vibrancy and diversity. 2. Artist bios and schedules: Compile text profiles of performing artists alongside their photos and the event schedule. 3. Performance recordings: Share audio recordings from past performances to attract and entice potential attendees."
+    },
+    {
+        "instruction": "Design a virtual museum exhibit about ancient civilizations, including a guided tour narration (audio), interactive maps (image), detailed artifact descriptions (text), and virtual reality simulations (video).",
+        "output-abstract": "1. Narration, 2. Interactive maps, 3. Artifact descriptions, 4. VR simulations.",
+        "output-detail": "1. Narration: Record comprehensive audio guides covering various aspects of the civilizations. 2. Interactive maps: Create detailed maps showing the geographical spread and key sites. 3. Artifact descriptions: Write insightful descriptions for each displayed item. 4. VR simulations: Develop immersive video content that simulates walking through ancient cities and interacting with the environment."
+    },
+    {
+        "instruction": "Produce a wellness podcast series featuring meditation sessions (audio), informational guides on stress management (text), visual breathing exercise guides (image), and guest interviews on personal wellness journeys (audio).",
+        "output-abstract": "1. Meditation sessions, 2. Stress management guides, 3. Breathing exercises, 4. Guest interviews.",
+        "output-detail": "1. Meditation sessions: Record audio sessions guiding listeners through various meditation techniques. 2. Stress management guides: Write articles offering advice and strategies for coping with stress. 3. Breathing exercises: Design visual aids for practicing different breathing techniques. 4. Guest interviews: Conduct and record interviews with individuals sharing their wellness and mental health experiences."
+    },
+    {
+        "instruction": "Compile a comprehensive travel guide for a major city, including a welcome introduction (audio), top attractions brochure (text and image), recommended itineraries (text), and a series of short travel vlogs (video).",
+        "output-abstract": "1. Introduction, 2. Top attractions, 3. Itineraries, 4. Travel vlogs.",
+        "output-detail": "1. Introduction: Record an engaging audio message that captures the essence of the city. 2. Top attractions brochure: Write descriptions and include photographs of must-see sites. 3. Itineraries: Detail daily plans for various types of visitors. 4. Travel vlogs: Produce video diaries highlighting personal experiences at recommended locations."
+    },
+    {
+        "instruction": "Launch a recipe blog with step-by-step cooking instructions (text), high-resolution dish photos (image), tutorial videos for complex techniques (video), and a podcast series interviewing professional chefs (audio).",
+        "output-abstract": "1. Cooking instructions, 2. Dish photos, 3. Tutorial videos, 4. Chef interviews.",
+        "output-detail": "1. Cooking instructions: Write clear, concise directions for each recipe. 2. Dish photos: Capture and post appealing images of the finished dishes. 3. Tutorial videos: Record and edit how-to videos for recipes requiring intricate skills. 4. Chef interviews: Produce a podcast featuring conversations with chefs sharing insights and stories."
+    },
+    {
+        "instruction": "Develop a corporate training program including an orientation video (video), an interactive employee handbook (text and image), role-specific training modules (text, image, video), and motivational seminars (audio).",
+        "output-abstract": "1. Orientation video, 2. Employee handbook, 3. Training modules, 4. Seminars.",
+        "output-detail": "1. Orientation video: Create a welcoming video introducing new hires to the company culture. 2. Employee handbook: Compile an engaging digital handbook with clickable images for different sections. 3. Training modules: Develop comprehensive training content customized for various roles, incorporating text, images, and video for an immersive learning experience. 4. Seminars: Record audio sessions focusing on motivation, goal-setting, and personal development."
+    },
+    {
+        "instruction": "Create content for a fitness app including instructional workout videos (video), nutritional guides (text and image), progress tracking tools (text), and motivational speeches (audio).",
+        "output-abstract": "1. Workout videos, 2. Nutritional guides, 3. Progress tracking, 4. Motivational speeches.",
+        "output-detail": "1. Workout videos: Film a series of clear, easy-to-follow exercise demonstrations. 2. Nutritional guides: Write and illustrate articles on healthy eating habits, meal planning, and ingredient benefits. 3. Progress tracking: Develop an interface for users to log their workouts, meals, and weight changes. 4. Motivational speeches: Record inspiring talks on overcoming challenges and achieving fitness goals."
+    },
+    {
+        "instruction": "Produce an anthology of science fiction stories (text), with each story accompanied by its own original soundtrack (audio), a series of conceptual art (image), and trailers (video).",
+        "output-abstract": "1. Science fiction stories, 2. Original soundtracks, 3. Conceptual art, 4. Trailers.",
+        "output-detail": "1. Science fiction stories: Write engaging and innovative short stories exploring futuristic themes. 2. Original soundtracks: Compose unique musical pieces that reflect the mood and themes of each story. 3. Conceptual art: Design a range of artworks that visually represent the stories\u2019 settings, characters, and key events. 4. Trailers: Create brief video trailers that tease the plot and atmosphere of the stories, incorporating the soundtracks and artworks."
+    },
+    {
+        "instruction": "Design a social media campaign to promote renewable energy, including informative posts (text and image), an engaging explainer video (video), interactive polls (text), and podcast episodes discussing the technology and benefits (audio).",
+        "output-abstract": "1. Informative posts, 2. Explainer video, 3. Interactive polls, 4. Podcast episodes.",
+        "output-detail": "1. Informative posts: Create visually appealing graphics paired with concise text to highlight key facts about renewable energy. 2. Explainer video: Produce a short, captivating video that breaks down how renewable energy works and why it's important. 3. Interactive polls: Engage the audience with polls to gather opinions on renewable energy topics. 4. Podcast episodes: Record discussions with experts on advancements in renewable energy, its economic impact, and environmental benefits."
+    },
+    {
+        "instruction": "Develop a children's educational program featuring animated stories (video), sing-along songs (audio), interactive e-books (text and image), and character voice messages as learning aids (audio).",
+        "output-abstract": "1. Animated stories, 2. Sing-along songs, 3. Interactive e-books, 4. Voice messages.",
+        "output-detail": "1. Animated stories: Create engaging animations that incorporate fundamental lessons (e.g., alphabet, counting). 2. Sing-along songs: Compose catchy tunes that reinforce educational themes. 3. Interactive e-books: Design e-books with stories and activities that include clickable elements for interactive learning. 4. Voice messages: Record messages from characters in the stories giving educational tips and encouragement."
+    },
+    {
+        "instruction": "Launch an online art class platform offering video tutorials (video), a digital textbook (text and image), live critique sessions (audio), and a virtual gallery for student works (image).",
+        "output-abstract": "1. Video tutorials, 2. Digital textbook, 3. Live critiques, 4. Virtual gallery.",
+        "output-detail": "1. Video tutorials: Record comprehensive lessons on various art techniques and theories. 2. Digital textbook: Write and compile a textbook with images illustrating different art styles and historical contexts. 3. Live critiques: Host audio sessions where students can receive real-time feedback on their work. 4. Virtual gallery: Set up an online space where students can display and view each other\u2019s artwork."
+    },
+    {
+        "instruction": "Create a series of marketing materials for a tech startup, including a company backstory video (video), product data sheets (text and image), customer success stories (audio), and an interactive FAQ section on the website (text).",
+        "output-abstract": "1. Backstory video, 2. Product sheets, 3. Success stories, 4. FAQ section.",
+        "output-detail": "1. Backstory video: Produce a video that narrates the founding story of the startup and its vision. 2. Product sheets: Design informative sheets detailing the features and benefits of the product. 3. Success stories: Record audio testimonials from satisfied customers sharing their experiences. 4. FAQ section: Compile a list of frequently asked questions about the product and its usage, providing text answers in an interactive web format."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Design a digital magazine cover for a new Sci-Fi monthly publication, including a main cover image (image), tagline (text), and interactive QR code linking to a welcome message from the editor (video).",
+        "output-abstract": "1. Main Cover Image, 2. Tagline, 3. QR Code to Video Message.",
+        "output-detail": "1. Main Cover Image: Create an illustrative artwork featuring futuristic cityscapes with vibrant colors. 2. Tagline: Craft a compelling phrase that captures the essence of exploring new worlds. 3. QR Code to Video Message: Generate a QR code that directs to a short video where the editor discusses the vision for the publication and invites readers to submit their stories."
+    },
+    {
+        "instruction": "Prepare a comprehensive school project on Ancient Egypt, involving a written report (text), a poster (image), a narrated slideshow (video), and a simulated interview with an Egyptologist (audio).",
+        "output-abstract": "1. Written Report, 2. Poster, 3. Narrated Slideshow, 4. Simulated Interview.",
+        "output-detail": "1. Written Report: Detailed analysis on the culture, politics, and architecture of Ancient Egypt. 2. Poster: An engaging visual summarizing key points about Ancient Egypt, including pyramids and hieroglyphs. 3. Narrated Slideshow: A video presentation with voice-over summarizing the written report's main findings. 4. Simulated Interview: An audio recording of a mock interview with an 'Egyptologist' discussing daily life in Ancient Egypt."
+    },
+    {
+        "instruction": "Create a promotional package for a new coffee shop, including a logo design (image), a catchy jingle (audio), an introductory video tour (video), and a menu with descriptions (text).",
+        "output-abstract": "1. Logo Design, 2. Catchy Jingle, 3. Video Tour, 4. Menu Descriptions.",
+        "output-detail": "1. Logo Design: A modern yet cozy design that incorporates a coffee cup and the shop's name in warm colors. 2. Catchy Jingle: A short, memorable melody with lyrics that highlight the coffee shop's unique atmosphere and offerings. 3. Video Tour: A walkthrough of the coffee shop, showing the interior, menu items, and friendly staff. 4. Menu Descriptions: Detailed descriptions of each menu item, focusing on the ingredients and the taste experience."
+    },
+    {
+        "instruction": "Develop an online course on basic photography skills, including lecture notes (text), tutorial videos (video), sample photographs (image), and a podcast interview with a professional photographer (audio).",
+        "output-abstract": "1. Lecture Notes, 2. Tutorial Videos, 3. Sample Photographs, 4. Podcast Interview.",
+        "output-detail": "1. Lecture Notes: Comprehensive notes covering topics like exposure, composition, and lighting. 2. Tutorial Videos: Step-by-step guides demonstrating basic photography techniques. 3. Sample Photographs: A collection of photos illustrating different photography concepts. 4. Podcast Interview: An audio session where a professional photographer shares insights and personal experiences in photography."
+    },
+    {
+        "instruction": "Design a campaign to promote reading among teenagers, including a series of motivational posters (image), inspirational quotes from famous authors (text), a compilation of book trailers (video), and a theme song (audio).",
+        "output-abstract": "1. Motivational Posters, 2. Inspirational Quotes, 3. Book Trailers, 4. Theme Song.",
+        "output-detail": "1. Motivational Posters: Create visually appealing posters with catchy slogans encouraging teens to read. 2. Inspirational Quotes: Select powerful quotes from well-known authors about the joy and importance of reading. 3. Book Trailers: Produce short video trailers for popular teen books, highlighting intriguing plot points. 4. Theme Song: Compose a catchy tune that encapsulates the adventure and excitement found in books."
+    },
+    {
+        "instruction": "Organize an online art exhibition showcasing digital art (image), accompanied by artist interviews (audio), a virtual gallery tour (video), and a catalog with artist biographies and artwork descriptions (text).",
+        "output-abstract": "1. Digital Art Showcase, 2. Artist Interviews, 3. Virtual Gallery Tour, 4. Exhibition Catalog.",
+        "output-detail": "1. Digital Art Showcase: Select a diverse range of digital art pieces for the exhibition. 2. Artist Interviews: Record discussions with the artists about their inspiration and techniques. 3. Virtual Gallery Tour: Create a video walkthrough of the exhibition, highlighting key works and providing context. 4. Exhibition Catalog: Compile a detailed guide with information about the artists and descriptions of each artwork."
+    },
+    {
+        "instruction": "Conduct a study on local bird species, creating a field guide (text), recording birds' songs (audio), photographing birds in their natural habitat (image), and documenting the observation process (video).",
+        "output-abstract": "1. Field Guide, 2. Birds' Songs Recordings, 3. Bird Photography, 4. Observation Documentary.",
+        "output-detail": "1. Field Guide: Write detailed profiles for each observed bird species, including physical descriptions and behavior. 2. Birds' Songs Recordings: Capture audio recordings of various bird calls and songs. 3. Bird Photography: Take high-quality photographs of birds in various activities and settings. 4. Observation Documentary: Film the process of bird watching, highlighting techniques, challenges, and exciting discoveries."
+    },
+    {
+        "instruction": "Produce an anniversary celebration video for a company, featuring interviews with founders and long-term employees (video), a timeline of company milestones (image), background music that reflects the company's culture (audio), and a transcript of the video (text).",
+        "output-abstract": "1. Celebration Video, 2. Company Milestones Timeline, 3. Culture-Reflecting Background Music, 4. Video Transcript.",
+        "output-detail": "1. Celebration Video: Compile interviews discussing the company's journey, achievements, and future goals. 2. Company Milestones Timeline: Design a visual timeline detailing significant events and achievements in the company's history. 3. Culture-Reflecting Background Music: Select or create music that embodies the spirit and values of the company. 4. Video Transcript: Provide a written transcript of the entire video for accessibility and as a company keepsake."
+    },
+    {
+        "instruction": "Create a guide to hiking in the Rockies, including trail maps (image), descriptions of routes (text), Virtual Reality (VR) simulations of notable trails (video), and recordings of natural sounds encountered on the hikes (audio).",
+        "output-abstract": "1. Trail Maps, 2. Route Descriptions, 3. VR Trail Simulations, 4. Natural Sounds Recordings.",
+        "output-detail": "1. Trail Maps: Design detailed maps of popular hiking trails, with key landmarks and difficulty levels highlighted. 2. Route Descriptions: Write comprehensive guides for each trail, including scenic points, estimated times, and safety tips. 3. VR Trail Simulations: Develop VR videos that simulate the hiking experience on notable trails, offering a 360-degree view. 4. Natural Sounds Recordings: Capture the serene sounds of nature, such as flowing streams and rustling leaves, experienced along the hikes."
+    },
+    {
+        "instruction": "Plan a multi-sensory exhibition on the Solar System, incorporating interactive infographics (image), descriptive audio tours (audio), immersive 3D models of planets (video), and informative plaques next to each exhibit (text).",
+        "output-abstract": "1. Interactive Infographics, 2. Descriptive Audio Tours, 3. Immersive 3D Planet Models, 4. Informative Plaques.",
+        "output-detail": "1. Interactive Infographics: Create engaging visual data representations about each planet, including size comparison, distance from the Sun, and orbit period. 2. Descriptive Audio Tours: Produce audio guides that provide fascinating facts and stories about the planets and other celestial bodies. 3. Immersive 3D Planet Models: Develop detailed 3D animations that allow viewers to explore the surface and features of each planet. 4. Informative Plaques: Write concise, educational texts to accompany each exhibit, offering key facts and interesting tidbits."
+    },
+    {
+        "instruction": "Develop a fitness app that includes workout plans (text), instructional exercise videos (video), motivational messages (image), and a playlist of energizing music (audio).",
+        "output-abstract": "1. Workout Plans, 2. Instructional Videos, 3. Motivational Messages, 4. Energizing Playlist.",
+        "output-detail": "1. Workout Plans: Compile comprehensive workout routines catering to different fitness levels and goals. 2. Instructional Videos: Film clear, easy-to-follow exercise demonstrations with professional fitness trainers. 3. Motivational Messages: Design eye-catching images with motivational quotes and fitness tips. 4. Energizing Playlist: Curate a playlist of high-energy tracks to keep users motivated throughout their workout."
+    },
+    {
+        "instruction": "Compose a bedtime storybook for children, including the story narrative (text), illustrations (image), a read-along audio version (audio), and an animated short of the story (video).",
+        "output-abstract": "1. Story Narrative, 2. Illustrations, 3. Read-Along Audio Version, 4. Animated Short.",
+        "output-detail": "1. Story Narrative: Write a captivating story that conveys a moral lesson and is suitable for children. 2. Illustrations: Create vivid, colorful illustrations that bring the story to life and appeal to young readers. 3. Read-Along Audio Version: Record a soothing narration of the story, with character voices and gentle background music. 4. Animated Short: Produce a short animation that visualizes the story narrative, enhancing the storytelling experience for young viewers."
+    },
+    {
+        "instruction": "Produce a series of educational videos on sustainable living, featuring DIY recycling projects (video), downloadable guides for reducing waste (text), before-and-after visuals of recycling efforts (image), and podcast episodes discussing sustainability topics (audio).",
+        "output-abstract": "1. DIY Recycling Projects, 2. Downloadable Guides, 3. Before-and-After Visuals, 4. Podcast Episodes.",
+        "output-detail": "1. DIY Recycling Projects: Create step-by-step tutorial videos on how to reuse and recycle household items. 2. Downloadable Guides: Provide written instructions and tips for minimizing waste in daily life. 3. Before-and-After Visuals: Showcase the transformation of recycled items, emphasizing the impact of individual efforts on sustainability. 4. Podcast Episodes: Record discussions with experts on various aspects of sustainable living, offering insights and practical advice."
+    },
+    {
+        "instruction": "Curate a virtual museum exhibit on the evolution of music genres, including genre summaries (text), iconic song clips (audio), artist portraits (image), and an interactive timeline (video).",
+        "output-abstract": "1. Genre Summaries, 2. Iconic Song Clips, 3. Artist Portraits, 4. Interactive Timeline.",
+        "output-detail": "1. Genre Summaries: Write concise overviews of key music genres, outlining their origins, characteristics, and impacts. 2. Iconic Song Clips: Select representative audio clips from pivotal songs within each genre. 3. Artist Portraits: Gather or commission portraits of influential artists who shaped the music genres. 4. Interactive Timeline: Design a dynamic video timeline that marks important milestones in music history, allowing viewers to explore how music genres have evolved over time."
+    },
+    {
+        "instruction": "Create a comprehensive guide to a software development framework, including the architecture overview (text), diagrammatic representations (image), tutorial screencasts (video), and a Q&A segment with developers (audio).",
+        "output-abstract": "1. Architecture Overview, 2. Diagrammatic Representations, 3. Tutorial Screencasts, 4. Q&A with Developers.",
+        "output-detail": "1. Architecture Overview: Provide a written summary explaining the framework's architecture, features, and use cases. 2. Diagrammatic Representations: Illustrate the framework's structure and workflow using clear, informative diagrams. 3. Tutorial Screencasts: Record step-by-step video tutorials demonstrating how to set up and use the framework for different projects. 4. Q&A with Developers: Compile audio recordings of interviews with developers discussing tips, tricks, and common pitfalls to avoid when using the framework."
+    },
+    {
+        "instruction": "Plan a marketing strategy for a new tech gadget, involving a product description (text), unboxing videos (video), high-definition product images (image), and podcasts featuring user testimonials (audio).",
+        "output-abstract": "1. Product Description, 2. Unboxing Videos, 3. Product Images, 4. User Testimonials Podcast.",
+        "output-detail": "1. Product Description: Draft a captivating and detailed description of the gadget, highlighting its innovative features and benefits. 2. Unboxing Videos: Produce videos that showcase the gadget's packaging, its contents, and initial setup, providing first impressions. 3. Product Images: Capture high-quality images of the gadget from various angles, emphasizing its sleek design and functionality. 4. User Testimonials Podcast: Record a series of podcast episodes with early users sharing their experiences and feedback on the gadget."
+    },
+    {
+        "instruction": "Organize a digital storytelling competition, including submission guidelines (text), a gallery of entry visuals (image), podcasts critiquing selected stories (audio), and a compilation of winning stories (video).",
+        "output-abstract": "1. Submission Guidelines, 2. Entry Visuals Gallery, 3. Podcasts Critique, 4. Winning Stories Compilation.",
+        "output-detail": "1. Submission Guidelines: Write clear, detailed instructions on the competition's theme, format, and submission process. 2. Entry Visuals Gallery: Create an online gallery showcasing submitted story visuals. 3. Podcasts Critique: Produce critique sessions in podcast format, offering insights and advice on selected entries. 4. Winning Stories Compilation: Compile the winning stories into a video showcase, featuring readings and analysis."
+    },
+    {
+        "instruction": "Design a language learning app, featuring basic vocabulary lists (text), pronunciation guides (audio), grammar exercises (text + image), and role-playing conversations (video).",
+        "output-abstract": "1. Basic Vocabulary Lists, 2. Pronunciation Guides, 3. Grammar Exercises, 4. Role-Playing Conversations.",
+        "output-detail": "1. Basic Vocabulary Lists: Compile essential words and phrases categorized by topic. 2. Pronunciation Guides: Record audio clips of native speakers correctly pronouncing each word or phrase. 3. Grammar Exercises: Develop interactive exercises with explanations and correct/incorrect image examples to practice grammar rules. 4. Role-Playing Conversations: Produce video scenarios in which actors perform dialogues in real-life situations, encouraging learners to practice their speaking skills."
+    },
+    {
+        "instruction": "Establish an online platform for sharing homemade recipes, including written recipes (text), step-by-step cooking videos (video), photos of finished dishes (image), and reviews from community members (audio).",
+        "output-abstract": "1. Written Recipes, 2. Cooking Videos, 3. Dish Photos, 4. Community Reviews.",
+        "output-detail": "1. Written Recipes: Provide detailed instructions for each recipe, including ingredients, cooking techniques, and serving suggestions. 2. Cooking Videos: Film comprehensive step-by-step guides showing the preparation of recipes, with tips for achieving the best results. 3. Dish Photos: Upload high-quality images of the final dishes, styled to appeal to the site\u2019s audience. 4. Community Reviews: Feature audio reviews from community members who have tried the recipes, sharing their experiences and modifications."
+    },
+    {
+        "instruction": "Conduct a visual and audio tour of a historical landmark, providing a historical overview (text), a virtual reality tour (video), a collection of archival photographs (image), and narrations of personal stories from past visitors (audio).",
+        "output-abstract": "1. Historical Overview, 2. Virtual Reality Tour, 3. Archival Photographs, 4. Personal Stories Narrations.",
+        "output-detail": "1. Historical Overview: Write an engaging narrative detailing the landmark's history, architectural significance, and cultural impact. 2. Virtual Reality Tour: Create an immersive VR experience allowing users to explore the landmark from multiple angles and learn about key features. 3. Archival Photographs: Compile a diverse set of historical photos depicting the landmark through different eras. 4. Personal Stories Narrations: Record audio clips of individuals sharing their unique experiences and connections to the landmark."
+    }
+]

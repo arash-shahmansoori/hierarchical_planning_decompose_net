@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Generate a digital travel brochure for a futuristic Mars colony incorporating interactive maps (image), engaging descriptions (text), a virtual tour (video), and ambient soundscape (audio).",
+        "output-abstract": "1. Interactive maps, 2. Engaging descriptions, 3. Virtual tour, 4. Ambient soundscape.",
+        "output-detail": "1. Interactive maps: Dynamic, zoomable maps highlighting key features and habitats. 2. Engaging descriptions: Written content highlighting the unique aspects of life on Mars. 3. Virtual tour: 360-degree video showcasing the colony's facilities. 4. Ambient soundscape: Background audio simulating Mars' atmosphere to enhance immersion."
+    },
+    {
+        "instruction": "Design a multi-sensory educational kit on rainforest ecosystems involving an eBook (text), a set of puzzle games (interactive/image), a series of documentary clips (video), and the sounds of the rainforest (audio).",
+        "output-abstract": "1. eBook, 2. Puzzle games, 3. Documentary clips, 4. Sounds of the rainforest.",
+        "output-detail": "1. eBook: Informative text about rainforest flora, fauna, and threats. 2. Puzzle games: Interactive puzzle games featuring rainforest imagery to educate players. 3. Documentary clips: Short videos showing rainforest biodiversity and conservation efforts. 4. Sounds of the rainforest: Audio clips of rain, animal calls, and ambient rainforest sounds."
+    },
+    {
+        "instruction": "Create a social media campaign for a new eco-friendly product line including an infographic (image), promotional captions (text), an announcement video (video), and a theme jingle (audio).",
+        "output-abstract": "1. Infographic, 2. Promotional captions, 3. Announcement video, 4. Theme jingle.",
+        "output-detail": "1. Infographic: Visually striking stats and facts about the product's environmental benefits. 2. Promotional captions: Engaging and persuasive text for various social media platforms. 3. Announcement video: A compelling narrative video highlighting the product's features. 4. Theme jingle: A catchy tune that encapsulates the brand\u2019s eco-friendly mission."
+    },
+    {
+        "instruction": "Develop a virtual reality (VR) language learning application with immersive environments (image/video), vocabulary flashcards (text), pronunciation guides (audio), and interactive dialogues (text/audio).",
+        "output-abstract": "1. Immersive environments, 2. Vocabulary flashcards, 3. Pronunciation guides, 4. Interactive dialogues.",
+        "output-detail": "1. Immersive environments: VR settings that simulate real-life scenarios for language practice. 2. Vocabulary flashcards: Text-based flashcards with translations and usage examples. 3. Pronunciation guides: Audio recordings of native speakers for pronunciation practice. 4. Interactive dialogues: Text and audio-based dialogues for conversational practice."
+    },
+    {
+        "instruction": "Produce an online cooking course featuring step-by-step recipe guides (text), how-to videos (video), ingredient lists with nutritional info (text/image), and kitchen setup advice (audio).",
+        "output-abstract": "1. Recipe guides, 2. How-to videos, 3. Ingredient lists with nutritional info, 4. Kitchen setup advice.",
+        "output-detail": "1. Recipe guides: Detailed, written instructions for each recipe. 2. How-to videos: Visual, step-by-step cooking demonstrations. 3. Ingredient lists with nutritional info: Text and image breakdowns of each ingredient's benefits. 4. Kitchen setup advice: Audio tips on organizing and equipping a kitchen for cooking."
+    },
+    {
+        "instruction": "Compose a celebratory event package for a major achievement with a custom award (image), press release (text), highlight reel (video), and original celebratory anthem (audio).",
+        "output-abstract": "1. Custom award, 2. Press release, 3. Highlight reel, 4. Celebratory anthem.",
+        "output-detail": "1. Custom award: A visually striking award design symbolizing the achievement. 2. Press release: A well-crafted announcement detailing the achievement and its significance. 3. Highlight reel: A montage of key moments leading up to the achievement. 4. Celebratory anthem: An uplifting, original song encapsulating the spirit of the achievement."
+    },
+    {
+        "instruction": "Craft an educational science kit on renewable energy featuring a DIY solar panel project guide (text/image), a documentary about renewable energy (video), quizzes to test knowledge (text/image), and interviews with experts (audio).",
+        "output-abstract": "1. DIY solar panel project guide, 2. Documentary, 3. Quizzes, 4. Interviews with experts.",
+        "output-detail": "1. DIY solar panel project guide: Step-by-step instructions and images on building a simple solar panel. 2. Documentary: A comprehensive video explaining various renewable energy sources. 3. Quizzes: Interactive text and image-based quizzes to reinforce learning. 4. Interviews with experts: Audio recordings of conversations with renewable energy scientists and engineers."
+    },
+    {
+        "instruction": "Design a fitness challenge application featuring workout routines (video), nutritional plans (text/image), motivational audio clips (audio), and a progress tracking system (text/image).",
+        "output-abstract": "1. Workout routines, 2. Nutritional plans, 3. Motivational audio clips, 4. Progress tracking system.",
+        "output-detail": "1. Workout routines: Video demonstrations of exercises for different fitness levels. 2. Nutritional plans: Text and images outlining healthy eating plans. 3. Motivational audio clips: Inspiring audio messages to encourage users. 4. Progress tracking system: A feature to input and visualize exercise and diet progress."
+    },
+    {
+        "instruction": "Assemble an interactive city guide for tourists including panoramic photographs (image), historical insights (text), narrated walking tours (audio), and video interviews with locals (video).",
+        "output-abstract": "1. Panoramic photographs, 2. Historical insights, 3. Narrated walking tours, 4. Video interviews with locals.",
+        "output-detail": "1. Panoramic photographs: High-quality images showcasing city landmarks. 2. Historical insights: Written content detailing the historical significance of landmarks. 3. Narrated walking tours: Audio-guided tours offering in-depth explorations of the city. 4. Video interviews with locals: Videos featuring local residents sharing personal stories and tips."
+    },
+    {
+        "instruction": "Produce a fantasy novel promotional package including a book cover design (image), a synopsis (text), a series of character introduction videos (video), and original soundtrack snippets (audio).",
+        "output-abstract": "1. Book cover design, 2. Synopsis, 3. Character introduction videos, 4. Original soundtrack snippets.",
+        "output-detail": "1. Book cover design: An eye-catching image that captures the essence of the fantasy world. 2. Synopsis: A compelling written overview of the novel\u2019s plot. 3. Character introduction videos: Short videos introducing key characters and their backstories. 4. Original soundtrack snippets: Audio previews of the novel's soundtrack, evoking its themes and atmosphere."
+    },
+    {
+        "instruction": "Compile a digital art exhibition centered around 'The Four Elements' theme incorporating high-resolution art scans (image), artist biographies (text), virtual reality gallery tours (video), and ambient soundscapes for each element (audio).",
+        "output-abstract": "1. High-resolution art scans, 2. Artist biographies, 3. Virtual reality gallery tours, 4. Ambient soundscapes.",
+        "output-detail": "1. High-resolution art scans: Detailed images of artworks representing earth, water, fire, and air. 2. Artist biographies: Textual profiles of each artist contributing to the exhibition. 3. Virtual reality gallery tours: Interactive video tours through a VR-rendered gallery. 4. Ambient soundscapes: Unique audio backgrounds designed to complement the theme of each element."
+    },
+    {
+        "instruction": "Create a personal finance planning toolkit including a budgeting template (text/image), instructional videos on saving and investing (video), infographics on debt management (image), and podcasts with financial experts (audio).",
+        "output-abstract": "1. Budgeting template, 2. Instructional videos, 3. Infographics, 4. Podcasts.",
+        "output-detail": "1. Budgeting template: An editable document or spreadsheet for tracking income and expenses. 2. Instructional videos: Visual guides on effective saving and investment strategies. 3. Infographics: Visually appealing data representations on managing and reducing debt. 4. Podcasts: Audio interviews offering insights and advice from financial professionals."
+    },
+    {
+        "instruction": "Develop a multi-modal learning module for children about the water cycle, including a diagram (image), a descriptive narrative (text), a short animation explaining the process (video), and sound effects to illustrate rain, evaporation, and condensation (audio).",
+        "output-abstract": "1. Diagram, 2. Descriptive narrative, 3. Short animation, 4. Sound effects.",
+        "output-detail": "1. Diagram: A detailed illustration showing the stages of the water cycle. 2. Descriptive narrative: Text explaining the water cycle in simple terms for children. 3. Short animation: A video visually depicting the water cycle processes. 4. Sound effects: Audio clips mimicking the sounds of rain, water flowing, and other related phenomena."
+    },
+    {
+        "instruction": "Organize a virtual science fair with student project presentations (video), digital posters summarizing findings (image/text), interactive Q&A sessions (audio/text), and a live-streamed awards ceremony (video/audio).",
+        "output-abstract": "1. Project presentations, 2. Digital posters, 3. Interactive Q&A sessions, 4. Awards ceremony.",
+        "output-detail": "1. Project presentations: Video submissions by students explaining their experiments. 2. Digital posters: Visual summaries of project hypotheses, methods, and outcomes. 3. Interactive Q&A sessions: Audio and text-based forums for real-time questions and answers. 4. Awards ceremony: A live-streamed video event where winners are announced and celebrated."
+    },
+    {
+        "instruction": "Design a motivational morning routine app that includes a personalized greeting (text), a daily curated playlist (audio), an inspiring quote image (image), and a brief motivational video (video).",
+        "output-abstract": "1. Personalized greeting, 2. Curated playlist, 3. Inspiring quote image, 4. Motivational video.",
+        "output-detail": "1. Personalized greeting: A text message that addresses the user by name and wishes them a good day. 2. Curated playlist: A selection of uplifting music and podcasts to start the day. 3. Inspiring quote image: A visually appealing graphic featuring a motivational quote. 4. Motivational video: A short video clip intended to inspire and energize the user."
+    },
+    {
+        "instruction": "Compile a career advancement toolkit including a resume template (text/image), instructional videos for interviewing skills (video), LinkedIn profile optimization tips (text), and success stories podcasts (audio).",
+        "output-abstract": "1. Resume template, 2. Interviewing skills videos, 3. LinkedIn tips, 4. Success stories podcasts.",
+        "output-detail": "1. Resume template: A well-designed template that highlights key professional information. 2. Interviewing skills videos: A series of videos offering tips and practices for successful job interviews. 3. LinkedIn tips: Textual advice on improving LinkedIn profiles for professional networking. 4. Success stories podcasts: Audio interviews with individuals sharing their career progression stories and advice."
+    },
+    {
+        "instruction": "Plan an interactive exhibit on ancient civilizations incorporating augmented reality (AR) features for artifacts (video/image), explanatory plaques (text), virtual reality (VR) historical site tours (video), and period-specific background music (audio).",
+        "output-abstract": "1. AR features for artifacts, 2. Explanatory plaques, 3. VR historical site tours, 4. Background music.",
+        "output-detail": "1. AR features for artifacts: Video and image overlays providing detailed views and information about artifacts. 2. Explanatory plaques: Text descriptions offering context and significance of displayed items. 3. VR historical site tours: Interactive video tours allowing users to explore historical sites. 4. Background music: Audio tracks replicating the music of the era being showcased."
+    },
+    {
+        "instruction": "Launch a company-wide wellness program that includes a wellness challenge tracker (text/image), stress reduction techniques videos (video), healthy eating guides (text/image), and meditation and mindfulness audio sessions (audio).",
+        "output-abstract": "1. Wellness challenge tracker, 2. Stress reduction techniques videos, 3. Healthy eating guides, 4. Mindfulness audio sessions.",
+        "output-detail": "1. Wellness challenge tracker: A digital or printable log for tracking participation in wellness activities. 2. Stress reduction techniques videos: Video tutorials on exercises and practices for reducing stress. 3. Healthy eating guides: Text and image resources offering nutrition information and meal planning tips. 4. Mindfulness audio sessions: Guided audio meditations for enhancing mental well-being."
+    },
+    {
+        "instruction": "Establish a multimedia historic battle re-enactment channel that features detailed battle strategy analysis (text), re-enactment videos (video), interactive battle maps (image), and period-accurate soundtracks (audio).",
+        "output-abstract": "1. Battle strategy analysis, 2. Re-enactment videos, 3. Interactive battle maps, 4. Period-accurate soundtracks.",
+        "output-detail": "1. Battle strategy analysis: In-depth text discussions of strategies used in historic battles. 2. Re-enactment videos: Dramatized recreations of battles for educational content. 3. Interactive battle maps: Digital or static images allowing for in-depth exploration of battle terrains. 4. Period-accurate soundtracks: Audio recreations of the sounds and music that would have been present during the battles."
+    },
+    {
+        "instruction": "Create a mobile app for museum visitors that includes artifact detail pages (text/image), audio tour guides (audio), augmented reality (AR) experiences bringing artifacts to life (video/image), and a virtual museum map (image).",
+        "output-abstract": "1. Artifact detail pages, 2. Audio tour guides, 3. AR experiences, 4. Virtual map.",
+        "output-detail": "1. Artifact detail pages: Text and image descriptions providing historical context and significance. 2. Audio tour guides: Narrated explanations and stories related to museum exhibits. 3. AR experiences: Video and image augmentations that animate and provide interactive insights into the artifacts. 4. Virtual map: An interactive image map facilitating navigation of the virtual museum layout."
+    }
+]

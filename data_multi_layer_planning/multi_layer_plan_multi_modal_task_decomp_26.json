@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Design a digital brochure for a new tech gadget, including product description (text), realistic images (image), customer testimonials (video), and a catchy jingle (audio).",
+        "output-abstract": "1. Product Description, 2. Realistic Images, 3. Customer Testimonials, 4. Catchy Jingle.",
+        "output-detail": "1. Product Description: Detailed features and benefits, focusing on innovation. 2. Realistic Images: High-quality renders showcasing the gadget from various angles. 3. Customer Testimonials: Short video clips of satisfied users highlighting key features. 4. Catchy Jingle: Compose a memorable tune reflecting the gadget\u2019s modernity."
+    },
+    {
+        "instruction": "Compose a multimedia guide for a healthy lifestyle, featuring diet plans (text), exercise routines (video), motivational posters (image), and background music for workouts (audio).",
+        "output-abstract": "1. Diet Plans, 2. Exercise Routines, 3. Motivational Posters, 4. Workout Music.",
+        "output-detail": "1. Diet Plans: Customized meal suggestions with nutritional breakdowns and benefits. 2. Exercise Routines: Step-by-step instruction videos for various fitness levels. 3. Motivational Posters: Inspiring quotes with engaging visuals for fitness motivation. 4. Workout Music: Upbeat tracks designed to enhance exercise performance."
+    },
+    {
+        "instruction": "Create a themed event plan, including the event concept (text), a promotional flyer (image), a teaser video (video), and an official theme song (audio).",
+        "output-abstract": "1. Event Concept, 2. Promotional Flyer, 3. Teaser Video, 4. Theme Song.",
+        "output-detail": "1. Event Concept: A creative narrative detailing the theme, purpose, and audience. 2. Promotional Flyer: An attention-grabbing design with key event details. 3. Teaser Video: A short clip that builds anticipation, featuring highlights and invites. 4. Theme Song: A custom track that captures the spirit of the event."
+    },
+    {
+        "instruction": "Develop a personal branding package for a professional speaker, including a biography (text), a professional portrait (image), a speaking engagement highlight reel (video), and a signature opening sound (audio).",
+        "output-abstract": "1. Biography, 2. Professional Portrait, 3. Highlight Reel, 4. Opening Sound.",
+        "output-detail": "1. Biography: A compelling narrative of the speaker's journey and achievements. 2. Professional Portrait: A high-quality, engaging photo that conveys authority. 3. Highlight Reel: A montage of speaking engagements showcasing expertise and charisma. 4. Opening Sound: A unique audio clip that introduces the speaker memorably."
+    },
+    {
+        "instruction": "Produce an educational module on climate change, including an introductory article (text), infographics (image), documentary-style interviews (video), and an interactive quiz soundtrack (audio).",
+        "output-abstract": "1. Introductory Article, 2. Infographics, 3. Interviews, 4. Quiz Soundtrack.",
+        "output-detail": "1. Introductory Article: An overview of climate change causes, effects, and solutions. 2. Infographics: Visual data representations to highlight key statistics and information. 3. Interviews: Compelling conversations with experts on the implications of climate change. 4. Quiz Soundtrack: Background music to engage users during interactive quizzes."
+    },
+    {
+        "instruction": "Design an immersive storytelling experience for a historic event, including a detailed narrative (text), period-accurate illustrations (image), voice-over narration (audio), and reenactment clips (video).",
+        "output-abstract": "1. Detailed Narrative, 2. Illustrations, 3. Voice-Over, 4. Reenactment Clips.",
+        "output-detail": "1. Detailed Narrative: An engaging text that brings to life the historic event. 2. Illustrations: Artwork that accurately reflects the period's culture and setting. 3. Voice-Over: A compelling audio narration that enhances the storytelling. 4. Reenactment Clips: Short video segments that visually depict key moments."
+    },
+    {
+        "instruction": "Compile a comprehensive travel guide for a city, including a written overview (text), a map with points of interest (image), street interviews with locals (video), and ambient city sounds (audio).",
+        "output-abstract": "1. Written Overview, 2. Map, 3. Street Interviews, 4. City Sounds.",
+        "output-detail": "1. Written Overview: Insights into the city's history, culture, and attractions. 2. Map: A detailed image pinpointing must-visit locations. 3. Street Interviews: Video footage capturing the perspectives of residents. 4. City Sounds: Audio recordings of the city's unique atmosphere."
+    },
+    {
+        "instruction": "Create a multi-sensory cookbook, featuring recipes (text), step-by-step cooking videos (video), high-resolution dish photos (image), and audio guides for each recipe (audio).",
+        "output-abstract": "1. Recipes, 2. Cooking Videos, 3. Dish Photos, 4. Audio Guides.",
+        "output-detail": "1. Recipes: Detailed instructions and ingredient lists for various dishes. 2. Cooking Videos: Visual guides demonstrating the cooking process. 3. Dish Photos: Professional images showcasing the finished meals. 4. Audio Guides: Step-by-step auditory assistance for preparing each recipe."
+    },
+    {
+        "instruction": "Develop a corporate training module on teamwork, including an eBook (text), team-building activity instructions (video), inspirational posters (image), and a background playlist for activities (audio).",
+        "output-abstract": "1. eBook, 2. Activity Instructions, 3. Posters, 4. Playlist.",
+        "output-detail": "1. eBook: A comprehensive guide on the principles of effective teamwork. 2. Activity Instructions: Video tutorials on engaging team-building exercises. 3. Posters: Motivational visuals to inspire collaboration and unity. 4. Playlist: A curated set of songs to foster a positive team environment."
+    },
+    {
+        "instruction": "Plan a virtual book launch, incorporating an author interview (video), readings from the book (audio), promotional graphics (image), and a press release (text).",
+        "output-abstract": "1. Author Interview, 2. Book Readings, 3. Promotional Graphics, 4. Press Release.",
+        "output-detail": "1. Author Interview: A video session discussing the book\u2019s themes and origins. 2. Book Readings: Audio clips of select passages, enhancing the narrative experience. 3. Promotional Graphics: Eye-catching images for social media and advertisements. 4. Press Release: A well-crafted announcement detailing the book launch."
+    },
+    {
+        "instruction": "Design a promotional campaign for a music album, including the album cover art (image), a behind-the-scenes making-of video (video), audio snippets of tracks (audio), and a press kit (text).",
+        "output-abstract": "1. Album Cover Art, 2. Making-Of Video, 3. Audio Snippets, 4. Press Kit.",
+        "output-detail": "1. Album Cover Art: A visually captivating image that reflects the album's theme. 2. Making-Of Video: A glimpse into the creative process and recording sessions. 3. Audio Snippets: Previews of the album\u2019s tracks to pique interest. 4. Press Kit: An informative text providing album details, release dates, and artist bio."
+    },
+    {
+        "instruction": "Create a social media strategy for an environmental campaign, featuring engaging posts (text), shareable infographics (image), awareness videos (video), and calls-to-action via podcast episodes (audio).",
+        "output-abstract": "1. Engaging Posts, 2. Shareable Infographics, 3. Awareness Videos, 4. Podcast Episodes.",
+        "output-detail": "1. Engaging Posts: Written content that educates and prompts discussion on environmental issues. 2. Shareable Infographics: Visually appealing data representations to spread awareness. 3. Awareness Videos: Short clips that illustrate the campaign\u2019s goals and impact. 4. Podcast Episodes: Audio content discussing environmental problems with actionable solutions."
+    },
+    {
+        "instruction": "Assemble a market research presentation, including an industry overview (text), market trends graphs (image), competitor analysis videos (video), and customer feedback compilations (audio).",
+        "output-abstract": "1. Industry Overview, 2. Market Trends, 3. Competitor Analysis, 4. Customer Feedback.",
+        "output-detail": "1. Industry Overview: A summary of the market and its key players. 2. Market Trends: Graphical representations of the industry's evolution and forecasts. 3. Competitor Analysis: Video briefings on key competitors and their strategies. 4. Customer Feedback: Audio clips of consumer opinions and experiences."
+    },
+    {
+        "instruction": "Organize a digital art exhibition, including an exhibition catalog (text), virtual gallery tour (video), featured artworks (image), and artist interviews (audio).",
+        "output-abstract": "1. Exhibition Catalog, 2. Gallery Tour, 3. Artworks, 4. Artist Interviews.",
+        "output-detail": "1. Exhibition Catalog: A descriptive list of all pieces and artists involved. 2. Gallery Tour: A video walk-through of the virtual exhibition space. 3. Artworks: High-resolution images of the featured digital creations. 4. Artist Interviews: Audio discussions with the creators about their inspirations and processes."
+    },
+    {
+        "instruction": "Produce an online course on web development, including lesson scripts (text), instructional videos (video), code snippets and diagrams (image), and Q&A sessions (audio).",
+        "output-abstract": "1. Lesson Scripts, 2. Instructional Videos, 3. Code Snippets and Diagrams, 4. Q&A Sessions.",
+        "output-detail": "1. Lesson Scripts: Detailed outlines and explanations for each topic. 2. Instructional Videos: Step-by-step tutorials on coding and design principles. 3. Code Snippets and Diagrams: Visual aids to illustrate coding concepts and workflows. 4. Q&A Sessions: Recorded audio interactions addressing student queries."
+    },
+    {
+        "instruction": "Launch a fashion line, including a lookbook (image), designer commentary (video), collection descriptions (text), and atmospheric runway music (audio).",
+        "output-abstract": "1. Lookbook, 2. Designer Commentary, 3. Collection Descriptions, 4. Runway Music.",
+        "output-detail": "1. Lookbook: A series of high-quality images showcasing the fashion collection. 2. Designer Commentary: A behind-the-scenes video detailing the inspirations behind each look. 3. Collection Descriptions: Text that narrates the story and aesthetic of the line. 4. Runway Music: An audio track that complements the theme of the fashion line."
+    },
+    {
+        "instruction": "Compile wellness retreat promotional materials, including retreat overview (text), serene location highlights (video), tranquil environment photos (image), and a meditation guide voiceover (audio).",
+        "output-abstract": "1. Retreat Overview, 2. Location Highlights, 3. Environment Photos, 4. Meditation Guide.",
+        "output-detail": "1. Retreat Overview: A detailed description of the retreat\u2019s purpose, activities, and benefits. 2. Location Highlights: A video showcasing the retreat's setting and facilities. 3. Environment Photos: Images capturing the peaceful and rejuvenating atmosphere. 4. Meditation Guide: A soothing audio walkthrough of meditation practices."
+    },
+    {
+        "instruction": "Develop an informational campaign about digital safety, including tip sheets (text), tutorial videos (video), infographics (image), and podcast discussions (audio).",
+        "output-abstract": "1. Tip Sheets, 2. Tutorial Videos, 3. Infographics, 4. Podcast Discussions.",
+        "output-detail": "1. Tip Sheets: Concise advice on protecting one\u2019s digital footprint and data. 2. Tutorial Videos: Step-by-step guides on security software and settings. 3. Infographics: Visual summaries of key digital safety practices. 4. Podcast Discussions: Expert conversations on current cybersecurity threats and protections."
+    },
+    {
+        "instruction": "Create a series of instructional gardening materials, including a planting guide (text), time-lapse growth videos (video), pest identification posters (image), and relaxation audios for gardening (audio).",
+        "output-abstract": "1. Planting Guide, 2. Growth Videos, 3. Pest Posters, 4. Relaxation Audios.",
+        "output-detail": "1. Planting Guide: Detailed instructions and schedules for various plants. 2. Growth Videos: Time-lapse footage showing the progression of plant growth. 3. Pest Posters: Images aiding in the identification of common garden pests. 4. Relaxation Audios: Background music and nature sounds to enhance the gardening experience."
+    },
+    {
+        "instruction": "Orchestrate a multi-channel marketing campaign for a new coffee blend, including product blurbs (text), brewing tutorial videos (video), lifestyle images (image), and coffee shop ambient sounds (audio).",
+        "output-abstract": "1. Product Blurbs, 2. Tutorial Videos, 3. Lifestyle Images, 4. Ambient Sounds.",
+        "output-detail": "1. Product Blurbs: Engaging descriptions that highlight the unique qualities of the coffee blend. 2. Tutorial Videos: Demonstrations on the best methods for brewing the new blend. 3. Lifestyle Images: Photos depicting the coffee in various daily settings. 4. Ambient Sounds: Audio that captures the inviting atmosphere of a cozy coffee shop."
+    }
+]

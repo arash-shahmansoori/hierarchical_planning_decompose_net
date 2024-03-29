@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Develop a short story involving time travel (text), illustrated with digital art (image), and supplemented with a soundscape (audio) that includes pivotal narrative moments.",
+        "output-abstract": "1. Short Story, 2. Digital Art, 3. Soundscape.",
+        "output-detail": "1. Short Story: Flesh out a narrative involving time travel focusing on a unique twist or character development. 2. Digital Art: Create illustrations that capture key scenes or elements of the story, enhancing the narrative visually. 3. Soundscape: Compose auditory elements that represent time travel effects and settings which audibly accentuate critical moments."
+    },
+    {
+        "instruction": "Compose a persuasive video advertisement for a futuristic gadget (video) that includes a catchy jingle (audio) and a striking logo (image).",
+        "output-abstract": "1. Video Advertisement, 2. Jingle, 3. Logo.",
+        "output-detail": "1. Video Advertisement: Create a storyboard outlining the gadget's features, benefits, and the lifestyle it endorses, leading to script development. 2. Jingle: Develop a catchy and memorable melody with lyrics that efficiently communicate the gadget\u2019s core appeal. 3. Logo: Design a visually compelling logo that represents the gadget's innovative nature and ingrains the brand in viewers' memories."
+    },
+    {
+        "instruction": "Produce a comprehensive tutorial on creating layered digital paintings (text), demonstrating techniques through a series of instructional videos (video) and before/after images (image).",
+        "output-abstract": "1. Instructional Text, 2. Tutorial Videos, 3. Before/After Images.",
+        "output-detail": "1. Instructional Text: Outline the steps in text format, explaining essential digital painting techniques and concepts. 2. Tutorial Videos: Record a step-by-step guide showing techniques in action, narrate each step to enhance comprehension. 3. Before/After Images: Showcase a series of before and after shots for each technique to visually display the impact and improvement."
+    },
+    {
+        "instruction": "Create a thematic playlist for a coffee shop ambiance (audio), including a description of each track's mood contribution (text), and design a playlist cover (image).",
+        "output-abstract": "1. Playlist, 2. Track Descriptions, 3. Playlist Cover.",
+        "output-detail": "1. Playlist: Curate a selection of tracks that musically manifest the essence of a cozy and inviting coffee shop environment. 2. Track Descriptions: Write brief summaries for each track, elucidating how they contribute to the overall ambiance. 3. Playlist Cover: Design a visually appealing cover that reflects the playlist\u2019s theme, using warm colors and coffee-related motifs."
+    },
+    {
+        "instruction": "Design a brochure for a fantasy-themed amusement park (image), write engaging descriptions for the attractions (text), and create an interactive park map (video).",
+        "output-abstract": "1. Brochure, 2. Attraction Descriptions, 3. Park Map.",
+        "output-detail": "1. Brochure: Use vibrant and magical design elements to craft a visually stunning brochure that captures the fantasy theme. 2. Attraction Descriptions: Pen vivid and appealing descriptions of each attraction that capture their essence and excitement. 3. Park Map: Develop an interactive video map that guides viewers through the park layout, highlighting key attractions with clips and animations."
+    },
+    {
+        "instruction": "Generate a viral marketing campaign for an eco-friendly product, incorporating a slogan (text), an engaging meme (image), and an explainer video (video).",
+        "output-abstract": "1. Slogan, 2. Meme, 3. Explainer Video.",
+        "output-detail": "1. Slogan: Craft a memorable and concise slogan that highlights the eco-friendly aspect of the product. 2. Meme: Design a humorous or thought-provoking image that communicates the product's benefit and encourages sharing. 3. Explainer Video: Produce a short, informative video that demonstrates the product's usage, benefits, and its environmental impact."
+    },
+    {
+        "instruction": "Create a collection of science-fiction short stories (text), come up with unique sound effects for key scenes (audio), and design covers for each story (image).",
+        "output-abstract": "1. Short Stories, 2. Sound Effects, 3. Story Covers.",
+        "output-detail": "1. Short Stories: Write a series of engaging science-fiction tales with distinct themes and plots. 2. Sound Effects: Develop original audio effects to enhance pivotal moments or technologies featured in the stories. 3. Story Covers: Design captivating and thematic covers for each story, reflecting the unique essence of each tale."
+    },
+    {
+        "instruction": "Produce a workout program featuring instructional guides (text), demonstration videos (video), motivational background music (audio), and a downloadable progress tracker (image).",
+        "output-abstract": "1. Instructional Guides, 2. Demonstration Videos, 3. Background Music, 4. Progress Tracker.",
+        "output-detail": "1. Instructional Guides: Write detailed workout routines, including exercises, reps, and rest periods. 2. Demonstration Videos: Film clear and concise exercise demonstrations to ensure proper form and technique. 3. Background Music: Compile or create uplifting and energetic music tracks to keep participants motivated. 4. Progress Tracker: Design an easy-to-use progress tracker, visually representing workout days, achievements, and personal records."
+    },
+    {
+        "instruction": "Create a series of relaxation audio tracks (audio) with accompanying mindfulness exercises (text), and design soothing thumbnail images for each track (image).",
+        "output-abstract": "1. Audio Tracks, 2. Mindfulness Exercises, 3. Thumbnails.",
+        "output-detail": "1. Audio Tracks: Compose or curate a selection of music and natural sounds that promote relaxation and calmness. 2. Mindfulness Exercises: Write concise instructions for exercises or meditations that listeners can practice while enjoying the tracks. 3. Thumbnails: Design serene and visually appealing thumbnails for each audio track, incorporating elements of nature and tranquility."
+    },
+    {
+        "instruction": "Organize a virtual gallery exhibition of digital art (image/video), including artist interviews (video/audio), and write an exhibition guide (text).",
+        "output-abstract": "1. Digital Art Exhibition, 2. Artist Interviews, 3. Exhibition Guide.",
+        "output-detail": "1. Digital Art Exhibition: Select and curate a diverse range of digital artworks, creating a virtual gallery space for online display. 2. Artist Interviews: Conduct video or audio interviews with the artists, discussing their work and inspirations. 3. Exhibition Guide: Draft a comprehensive guide introducing the exhibition\u2019s theme, featured artists, and selected works, including navigating the virtual gallery."
+    },
+    {
+        "instruction": "Design a series of educational posters about the solar system (image), write detailed descriptions for each celestial body (text), and create an immersive DHTML component space tour (video).",
+        "output-abstract": "1. Educational Posters, 2. Celestial Body Descriptions, 3. Space Tour.",
+        "output-detail": "1. Educational Posters: Develop visually stimulating posters for each celestial body in the solar system, using accurate and engaging visuals. 2. Celestial Body Descriptions: Produce informative and intriguing text about each celestial body, focusing on key facts and unique features. 3. Space Tour: Create a dynamic video tour of the solar system, seamlessly guiding viewers through each planet and feature, enhancing learning through immersive experience."
+    },
+    {
+        "instruction": "Develop a branding kit for a gourmet coffee shop, including a logo (image), brand story (text), lifestyle photography (image), and an introductory video (video).",
+        "output-abstract": "1. Logo, 2. Brand Story, 3. Lifestyle Photography, 4. Introductory Video.",
+        "output-detail": "1. Logo: Create an elegant logo that encapsulates the premium experience of the coffee shop. 2. Brand Story: Write a compelling narrative that delves into the coffee shop's origins, values, and vision. 3. Lifestyle Photography: Capture high-quality images that depict the coffee shop atmosphere and customer experience. 4. Introductory Video: Produce a well-crafted video that introduces potential customers to the coffee shop, its offerings, and its ambiance."
+    },
+    {
+        "instruction": "Craft a theme song (audio) for a new animated series, script a catchy tagline (text), design the main character (image), and create a trailer (video).",
+        "output-abstract": "1. Theme Song, 2. Tagline, 3. Main Character, 4. Trailer.",
+        "output-detail": "1. Theme Song: Compose an upbeat and memorable theme song that encapsulates the spirit of the series. 2. Tagline: Develop a catchy and succinct tagline that effectively communicates the series' premise. 3. Main Character: Design the series' protagonist, focusing on unique traits that make them stand out. 4. Trailer: Craft a compelling trailer that highlights the series' theme, introduces the main characters, and teases intriguing plot points."
+    },
+    {
+        "instruction": "Compile an instructional e-book on beginner gardening (text), supplemented with step-by-step how-to videos (video), audio narration (audio), and illustrative diagrams (image).",
+        "output-abstract": "1. E-book, 2. How-To Videos, 3. Audio Narration, 4. Diagrams.",
+        "output-detail": "1. E-book: Write comprehensively about gardening basics, covering topics from soil preparation to plant care. 2. How-To Videos: Provide visual step-by-step instructions for key gardening tasks, ensuring clarity for beginners. 3. Audio Narration: Offer narrated versions of each section of the e-book for an accessible audio learning option. 4. Diagrams: Include detailed diagrams and illustrations in both the e-book and videos to visually demonstrate techniques and concepts."
+    },
+    {
+        "instruction": "Produce a documentary on urban farming initiatives (video), featuring interviews with project leaders (video/audio), and a photographic essay on the farms (image). End it with a compelling call to action (text).",
+        "output-abstract": "1. Documentary, 2. Interviews, 3. Photographic Essay, 4. Call to Action.",
+        "output-detail": "1. Documentary: Shoot and edit a documentary exploring various urban farming projects, highlighting their impacts and challenges. 2. Interviews: Record interviews with the individuals leading these initiatives, discussing their motivations and insights. 3. Photographic Essay: Capture a series of impactful photographs showcasing the beauty and innovation of urban farms. 4. Call to Action: Write a persuasive conclusion encouraging viewers to support or initiate urban farming in their communities."
+    },
+    {
+        "instruction": "Design an immersive virtual reality (VR) tour of historical sites around the world (video), accompanied by a narrative guide (audio), and an interactive quiz (text/image).",
+        "output-abstract": "1. VR Tour, 2. Narrative Guide, 3. Interactive Quiz.",
+        "output-detail": "1. VR Tour: Develop a series of VR experiences that transport users to various historical sites, offering panoramic and detailed views. 2. Narrative Guide: Create audio guides that provide historical context, stories, and facts about each site visited. 3. Interactive Quiz: Design a quiz with text questions and image options that tests users on the information learned during the tour, enhancing educational value."
+    },
+    {
+        "instruction": "Create a language learning app module focusing on culinary terms (text), with pronunciation guides (audio), flashcards of kitchen tools and ingredients (image), and interactive cooking lesson videos (video).",
+        "output-abstract": "1. Culinary Terms, 2. Pronunciation Guides, 3. Flashcards, 4. Lesson Videos.",
+        "output-detail": "1. Culinary Terms: Compile a list of essential culinary terms and their definitions in the target language. 2. Pronunciation Guides: Record clear and accurate audio pronunciations of each term, aiding in language acquisition. 3. Flashcards: Design flashcards featuring images of kitchen tools and ingredients with their names in the target language, enhancing visual learning. 4. Lesson Videos: Produce interactive cooking videos that incorporate the terms, tools, and ingredients, applying language skills in a practical, engaging way."
+    },
+    {
+        "instruction": "Develop a set of motivational posters (image) with uplifting quotes (text), accompanied by a playlist of inspirational speeches (audio), and a video montage of achievements (video).",
+        "output-abstract": "1. Posters, 2. Quotes, 3. Speech Playlist, 4. Achievement Montage.",
+        "output-detail": "1. Posters: Create visually appealing posters that incorporate vibrant designs and inspirational quotes. 2. Quotes: Select or craft powerful and motivating quotes that resonate with audiences, aiming to uplift and inspire. 3. Speech Playlist: Compile a playlist of iconic and inspirational speeches, offering auditory motivation. 4. Achievement Montage: Produce a video montage showcasing various individuals achieving personal or professional milestones, visually depicting perseverance and success."
+    },
+    {
+        "instruction": "Compose a series of blog posts (text) exploring different music genres (text), each accompanied by a curated playlist (audio) and an iconic album cover gallery (image).",
+        "output-abstract": "1. Blog Posts, 2. Curated Playlists, 3. Album Cover Gallery.",
+        "output-detail": "1. Blog Posts: Write insightful articles on various music genres, discussing their history, evolution, and key characteristics. 2. Curated Playlists: Develop playlists that exemplify each genre, selecting tracks that best represent their essence. 3. Album Cover Gallery: Compile galleries of iconic album covers for each genre, illustrating the visual aspect of musical branding and culture."
+    },
+    {
+        "instruction": "Produce a series of instructional cooking videos (video) for international dishes, providing written recipes (text), step-by-step preparation photos (image), and background cultural music (audio).",
+        "output-abstract": "1. Cooking Videos, 2. Written Recipes, 3. Preparation Photos, 4. Cultural Music.",
+        "output-detail": "1. Cooking Videos: Film detailed videos demonstrating the cooking process for various international dishes, with clear instructions and tips. 2. Written Recipes: Provide accurate and concise written versions of each recipe, including ingredient lists and cooking steps. 3. Preparation Photos: Capture high-quality images of the key preparation stages and final presentations of the dishes. 4. Cultural Music: Select or create music tracks that reflect the cultural background of each dish, enhancing the cooking experience."
+    }
+]

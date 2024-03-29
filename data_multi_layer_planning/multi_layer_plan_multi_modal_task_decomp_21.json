@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Design an educational app for learning new languages that includes quizzes (text), pronunciation guides (audio), cultural context lessons (text and images), and conversational practice simulations (video).",
+        "output-abstract": "1. Quizzes, 2. Pronunciation guides, 3. Cultural lessons, 4. Conversational practice.",
+        "output-detail": "1. Quizzes: Develop text-based quizzes focusing on vocabulary, grammar, and comprehension. 2. Pronunciation guides: Record audio samples with native speakers for accurate pronunciation. 3. Cultural lessons: Combine brief historical texts with images highlighting cultural nuances. 4. Conversational practice: Script and film simulation videos for immersive language use scenarios."
+    },
+    {
+        "instruction": "Produce an online cooking guide featuring recipes (text), how-to videos (video), ingredient sourcing tips (text and image), and a section for user-submitted photos of completed dishes (image).",
+        "output-abstract": "1. Recipes, 2. How-to videos, 3. Sourcing tips, 4. User submissions.",
+        "output-detail": "1. Recipes: Write detailed, step-by-step cooking instructions. 2. How-to videos: Film chefs executing each step of the recipe. 3. Sourcing tips: Provide advice on finding ingredients, supplemented with photographs of them in markets. 4. User submissions: Create a gallery for users to upload images of their culinary achievements."
+    },
+    {
+        "instruction": "Create a digital travel diary platform where users can log their journeys through written entries (text), photos (image), voice memos (audio), and videos (video) of their adventures.",
+        "output-abstract": "1. Written entries, 2. Photos, 3. Voice memos, 4. Videos.",
+        "output-detail": "1. Written entries: Implement a text editor with features for storytelling. 2. Photos: Integrate a photo upload feature with basic editing tools. 3. Voice memos: Embed an audio recording tool for capturing instant narrations. 4. Videos: Include a video upload section with lightweight editing capabilities."
+    },
+    {
+        "instruction": "Develop a podcast series on technology trends featuring episode scripts (text), interviews with experts (audio), episode graphics (image), and video summaries of key points (video).",
+        "output-abstract": "1. Episode scripts, 2. Interviews, 3. Graphics, 4. Video summaries.",
+        "output-detail": "1. Episode scripts: Craft detailed outlines and scripts for each episode. 2. Interviews: Record conversations with tech industry leaders. 3. Graphics: Design unique visual identifiers for each episode. 4. Video summaries: Produce short video clips highlighting the main discussions of each episode."
+    },
+    {
+        "instruction": "Plan a virtual reality (VR) tour of the solar system, involving 3D models of planets (image), informative narration (audio), interactive learning modules (text), and a guided tour video (video).",
+        "output-abstract": "1. 3D models, 2. Narration, 3. Learning modules, 4. Guided tour.",
+        "output-detail": "1. 3D models: Create detailed renderings of each planet and significant moons. 2. Narration: Record accurate and engaging descriptions for each celestial body. 3. Learning modules: Write text-based quizzes and explanations that pop up during the tour. 4. Guided tour: Film a VR video guiding the viewer through the tour, incorporating the 3D models and narrations."
+    },
+    {
+        "instruction": "Compile a city's cultural guide consisting of historical summaries (text), a gallery of landmark photos (image), narrated cultural significance (audio), and a documentary-style introduction video (video).",
+        "output-abstract": "1. Historical summaries, 2. Photo gallery, 3. Narrated significance, 4. Introduction video.",
+        "output-detail": "1. Historical summaries: Write concise overviews of each key landmark. 2. Photo gallery: Assemble high-quality images showcasing the landmarks. 3. Narrated significance: Record audio clips explaining the cultural importance of each site. 4. Introduction video: Produce a short documentary introducing the city's history and cultural highlights."
+    },
+    {
+        "instruction": "Create a fitness app that offers workout routines (text), motivational audio clips (audio), progress tracking visuals (image), and instructional exercise videos (video).",
+        "output-abstract": "1. Workout routines, 2. Motivational clips, 3. Progress tracking, 4. Instructional videos.",
+        "output-detail": "1. Workout routines: Develop detailed text-based guides for various exercises and fitness levels. 2. Motivational clips: Record short, inspiring messages to encourage users. 3. Progress tracking: Design infographics and charts for users to visually monitor their improvements. 4. Instructional videos: Film clear, easy-to-follow exercise demonstrations."
+    },
+    {
+        "instruction": "Construct a digital marketing campaign for an eco-friendly product, including advertisement copy (text), product photoshoot (image), customer testimonials (audio), and a launch event highlight reel (video).",
+        "output-abstract": "1. Advertisement copy, 2. Photoshoot, 3. Testimonials, 4. Highlight reel.",
+        "output-detail": "1. Advertisement copy: Write compelling and persuasive texts to showcase the product's benefits. 2. Photoshoot: Capture the product in various natural and sustainable settings. 3. Testimonials: Record genuine customer feedback and experiences. 4. Highlight reel: Edit video footage from the launch event, emphasizing key moments and reactions."
+    },
+    {
+        "instruction": "Produce a wildlife documentary series, incorporating research notes (text), ambient sounds of nature (audio), high-resolution habitat shots (image), and filmed animal behavior (video).",
+        "output-abstract": "1. Research notes, 2. Ambient sounds, 3. Habitat shots, 4. Animal behavior.",
+        "output-detail": "1. Research notes: Compile extensive background information on the featured wildlife. 2. Ambient sounds: Record the natural sounds within various habitats for authenticity. 3. Habitat shots: Photograph the environments in high detail to provide viewers with context. 4. Animal behavior: Film the animals in action, capturing feeding, hunting, and social interactions."
+    },
+    {
+        "instruction": "Design a digital magazine focused on sustainable living, featuring editorials (text), interviews with sustainability experts (audio and text), photo essays on green initiatives (image), and documentaries on successful sustainability stories (video).",
+        "output-abstract": "1. Editorials, 2. Interviews, 3. Photo essays, 4. Documentaries.",
+        "output-detail": "1. Editorials: Write in-depth articles advocating for sustainable practices. 2. Interviews: Conduct discussions with leaders in the field, available in both audio and transcribed formats. 3. Photo essays: Curate visual stories showcasing global efforts in sustainability. 4. Documentaries: Produce compelling video narratives highlighting impactful environmental projects."
+    },
+    {
+        "instruction": "Launch a music album release campaign, with detailed track descriptions (text), album cover art (image), behind-the-scenes recording sessions (video), and preview clips of each song (audio).",
+        "output-abstract": "1. Track descriptions, 2. Album cover art, 3. Behind-the-scenes, 4. Song previews.",
+        "output-detail": "1. Track descriptions: Write insights and inspirations behind each song on the album. 2. Album cover art: Design a visually striking cover that encapsulates the album's theme. 3. Behind-the-scenes: Film the process of songwriting, arranging, and recording to engage fans. 4. Song previews: Release short audio teasers of tracks to generate excitement and anticipation."
+    },
+    {
+        "instruction": "Develop an instructional cooking web series focused on homemade pasta, including recipe sheets (text), step-by-step preparation instructions (video), ingredient origin stories (text and image), and final dish presentations (image).",
+        "output-abstract": "1. Recipe sheets, 2. Preparation instructions, 3. Ingredient origins, 4. Final presentations.",
+        "output-detail": "1. Recipe sheets: Provide detailed ingredients lists and written instructions for various pasta dishes. 2. Preparation instructions: Film comprehensive tutorials demonstrating the making of each pasta dish. 3. Ingredient origins: Share the history and cultural significance of key ingredients in written form with accompanying visuals. 4. Final presentations: Showcase the plated dishes in professionally styled photographs."
+    },
+    {
+        "instruction": "Organize an online art exhibition featuring artist biographies (text), digital galleries of artworks (image), curator-led tour explanations (audio), and an opening ceremony livestream (video).",
+        "output-abstract": "1. Artist biographies, 2. Digital galleries, 3. Tour explanations, 4. Opening ceremony.",
+        "output-detail": "1. Artist biographies: Compile comprehensive backgrounds and artistic journey summaries. 2. Digital galleries: Create virtual rooms displaying high-resolution images of the artworks. 3. Tour explanations: Record audio guides offering insights into selected works and themes. 4. Opening ceremony: Stream the inaugural event live, including speeches and artist interviews."
+    },
+    {
+        "instruction": "Create an interactive children's storybook app featuring written stories (text), animated characters and backgrounds (image), character voice-overs (audio), and mini-games based on the story plots (video).",
+        "output-abstract": "1. Written stories, 2. Animations, 3. Voice-overs, 4. Mini-games.",
+        "output-detail": "1. Written stories: Craft engaging narratives suitable for children. 2. Animations: Develop animated visuals for characters and settings to bring the stories to life. 3. Voice-overs: Record actors performing character dialogues and narrations. 4. Mini-games: Design interactive video games that reinforce the story's themes and lessons."
+    },
+    {
+        "instruction": "Launch an online course on web development, including syllabus overviews (text), coding screencasts (video), documentation resources (text and image), and interactive coding exercises (text).",
+        "output-abstract": "1. Syllabus overviews, 2. Screencasts, 3. Documentation, 4. Coding exercises.",
+        "output-detail": "1. Syllabus overviews: Outline each module with goals and key learnings. 2. Screencasts: Record detailed video tutorials of coding sessions. 3. Documentation: Provide supplementary materials and references with examples. 4. Coding exercises: Create practical, hands-on coding challenges with feedback mechanisms."
+    },
+    {
+        "instruction": "Compile a health and wellness newsletter with sections on nutrition tips (text), exercise routines (video), stress reduction techniques (text), and subscriber Q&A highlights (audio).",
+        "output-abstract": "1. Nutrition tips, 2. Exercise routines, 3. Stress reduction, 4. Q&A highlights.",
+        "output-detail": "1. Nutrition tips: Publish articles on diet and healthy eating habits. 2. Exercise routines: Share video demonstrations of workouts suitable for different fitness levels. 3. Stress reduction: Offer guidance on mindfulness and relaxation practices. 4. Q&A highlights: Feature audio recordings of answers to common health questions from subscribers."
+    },
+    {
+        "instruction": "Design promotional materials for a tech conference, including the event brochure (text and image), keynote speeches (audio), promotional teaser video (video), and interactive venue map (image and text).",
+        "output-abstract": "1. Brochure, 2. Keynote speeches, 3. Teaser video, 4. Venue map.",
+        "output-detail": "1. Brochure: Assemble detailed information on speakers, sessions, and exhibitors, incorporating engaging visuals. 2. Keynote speeches: Record audio previews of main event highlights or previous years' keynotes. 3. Teaser video: Produce a compelling video that captures the essence and excitement of the conference. 4. Venue map: Create an interactive map detailing session locations, amenities, and points of interest."
+    },
+    {
+        "instruction": "Create a social media marketing strategy involving post schedules (text), branded content images (image), promotional videos (video), and podcast episodes on industry topics (audio).",
+        "output-abstract": "1. Post schedules, 2. Branded content, 3. Promotional videos, 4. Podcasts.",
+        "output-detail": "1. Post schedules: Develop a calendar detailing the timing and themes of posts across platforms. 2. Branded content: Design visually appealing images reflecting the brand\u2019s message. 3. Promotional videos: Script and produce short videos that highlight product features or testimonials. 4. Podcasts: Record episodic content discussing industry trends, behind-the-scenes insights, and expert interviews."
+    },
+    {
+        "instruction": "Develop a comprehensive guide to personal finance management, including budgeting methods (text), infographic on saving strategies (image), interviews with financial experts (audio), and software tool tutorials (video).",
+        "output-abstract": "1. Budgeting methods, 2. Saving strategies, 3. Expert interviews, 4. Software tutorials.",
+        "output-detail": "1. Budgeting methods: Write about different approaches to managing finances effectively. 2. Saving strategies: Create infographics that visually breakdown various techniques for saving money. 3. Expert interviews: Produce podcast episodes featuring conversations with financial advisors. 4. Software tutorials: Film step-by-step guides on using financial management tools and apps."
+    },
+    {
+        "instruction": "Produce an online trivia game focusing on world history, including question sets (text), historical figure portraits (image), narration of significant events (audio), and interactive timeline activities (video).",
+        "output-abstract": "1. Question sets, 2. Portraits, 3. Narration, 4. Timeline activities.",
+        "output-detail": "1. Question sets: Develop a variety of text-based questions ranging in difficulty and era. 2. Portraits: Gather and display images of key historical figures associated with questions. 3. Narration: Record detailed explanations and context for select questions. 4. Timeline activities: Create video-guided exercises where players arrange events or figures in chronological order."
+    },
+    {
+        "instruction": "Curate a virtual gallery exhibit on contemporary art, involving artist statements (text), artwork images (image), guided tour audio (audio), and artist interviews (video).",
+        "output-abstract": "1. Artist statements, 2. Artwork images, 3. Guided audio, 4. Interviews.",
+        "output-detail": "1. Artist statements: Collect written narratives from the artists about their work and inspiration. 2. Artwork images: Display high-resolution photos of each piece included in the exhibit. 3. Guided audio: Provide an auditory walk-through of the exhibit, discussing each piece's significance. 4. Interviews: Produce video conversations with artists, exploring their techniques and creative processes."
+    }
+]

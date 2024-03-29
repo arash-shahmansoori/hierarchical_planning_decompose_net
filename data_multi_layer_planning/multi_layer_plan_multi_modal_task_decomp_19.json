@@ -1,0 +1,107 @@
+[
+    {
+        "instruction": "Develop an online cookery class featuring a signature dish, complete with a promotional video (video), written recipe instructions (text), and photos of the dish (image).",
+        "output-abstract": "1. Promotional Video, 2. Written Recipe, 3. Dish Photos.",
+        "output-detail": "1. Promotional Video: Craft a 1-minute video spotlighting the dish's appeal, including cooking highlights and end result. 2. Written Recipe: Detailed, step-by-step cooking instructions with ingredient list, quantities, and cooking times. 3. Dish Photos: High-resolution images showcasing the dish from various angles, emphasizing its appeal and presentation."
+    },
+    {
+        "instruction": "Create a multi-lingual welcome packet for a global conference, including a welcome letter (text), a short introduction video (video) in three languages, and a digital map of the venue (image).",
+        "output-abstract": "1. Welcome Letter, 2. Introduction Video, 3. Digital Map.",
+        "output-detail": "1. Welcome Letter: Personalized text for attendees, detailing the event's objective and key information. 2. Introduction Video: Create a concise video introduction, scripted and recorded in three different languages, highlighting essential conference aspects. 3. Digital Map: Design a detailed, easy-to-navigate digital map of the conference venue, marking key locations (like event halls, restrooms, dining areas)."
+    },
+    {
+        "instruction": "Assemble a virtual museum exhibit featuring Renaissance art, including a catalog (text), audio tours in English and Spanish (audio), and a virtual reality (VR) gallery tour (video).",
+        "output-abstract": "1. Catalog, 2. Audio Tours, 3. VR Gallery Tour.",
+        "output-detail": "1. Catalog: Compile a comprehensive, scholarly catalog in text format detailing the artworks on display, including historical and artistic context. 2. Audio Tours: Record engaging and informative audio tours in English and Spanish, guiding visitors through the exhibit highlights. 3. VR Gallery Tour: Design and develop a VR tour experience allowing users to explore the museum's Renaissance art section interactively."
+    },
+    {
+        "instruction": "Produce a children\u2019s storybook that includes a narrative (text), illustrations of key scenes (image), and an accompanying storytelling audio (audio).",
+        "output-abstract": "1. Narrative, 2. Illustrations, 3. Storytelling Audio.",
+        "output-detail": "1. Narrative: Write an engaging, age-appropriate story with a moral lesson. 2. Illustrations: Develop detailed, colorful illustrations for key scenes to enhance reader engagement and comprehension. 3. Storytelling Audio: Record an expressive audio narration of the story, incorporating different voices for characters and sound effects where appropriate."
+    },
+    {
+        "instruction": "Design a virtual reality (VR) training simulation for first responders, encompassing scenario descriptions (text), audio instructions (audio), and interactive simulation environments (video).",
+        "output-abstract": "1. Scenario Descriptions, 2. Audio Instructions, 3. Interactive Simulation Environments.",
+        "output-detail": "1. Scenario Descriptions: Draft detailed text scenarios of various emergency situations that first responders could face. 2. Audio Instructions: Provide clear, step-by-step audio instructions for navigating the scenarios and performing critical tasks. 3. Interactive Simulation Environments: Create realistic, interactive VR simulation environments for each scenario, allowing for practice in a risk-free, immersive setting."
+    },
+    {
+        "instruction": "Generate a comprehensive fitness program, including workout routines (text), instructional exercise videos (video), and a motivational soundtrack (audio).",
+        "output-abstract": "1. Workout Routines, 2. Instructional Videos, 3. Motivational Soundtrack.",
+        "output-detail": "1. Workout Routines: Create detailed, diverse fitness routines categorized by difficulty and focus area, including instructions and recommended durations. 2. Instructional Videos: Record high-quality videos demonstrating correct techniques for each exercise in the routines. 3. Motivational Soundtrack: Compile or create a series of high-energy tracks to motivate users during their workouts."
+    },
+    {
+        "instruction": "Organize a digital photography contest, including submission guidelines (text), a promotional teaser video (video), and a web gallery for finalist photos (image).",
+        "output-abstract": "1. Submission Guidelines, 2. Promotional Teaser, 3. Web Gallery.",
+        "output-detail": "1. Submission Guidelines: Draft clear, concise instructions outlining theme, eligibility, format, and how to submit photos. 2. Promotional Teaser: Produce an engaging video teaser to announce the contest, highlight prizes, and encourage participation. 3. Web Gallery: Design an attractive, user-friendly online gallery to display shortlisted and winning photos."
+    },
+    {
+        "instruction": "Compile a detailed report on sustainable living practices, consisting of research findings (text), infographics illustrating key data (image), and expert interviews (video).",
+        "output-abstract": "1. Research Findings, 2. Infographics, 3. Expert Interviews.",
+        "output-detail": "1. Research Findings: Synthesize comprehensive text on sustainable living practices, summarizing current practices, challenges, and potential solutions. 2. Infographics: Design visual aids that succinctly represent statistical data and trends identified in the research. 3. Expert Interviews: Conduct and record video interviews with sustainability experts, discussing their insights and recommendations."
+    },
+    {
+        "instruction": "Create a social media campaign for a new tech gadget, including teaser posts (text), product demos (video), and high-quality product images (image).",
+        "output-abstract": "1. Teaser Posts, 2. Product Demos, 3. Product Images.",
+        "output-detail": "1. Teaser Posts: Craft engaging and mysterious teaser text posts to spark interest and discussion among the target audience. 2. Product Demos: Produce clear, informative product demonstration videos, showcasing features and uses. 3. Product Images: Capture sleek, high-quality images of the product from various angles, highlighting its design and innovation."
+    },
+    {
+        "instruction": "Develop a podcast series on historical mysteries, including episode scripts (text), background music and sound effects (audio), and a promotional trailer (video).",
+        "output-abstract": "1. Episode Scripts, 2. Background Music and Sound Effects, 3. Promotional Trailer.",
+        "output-detail": "1. Episode Scripts: Write engaging and well-researched scripts for each podcast episode, weaving together narrative and historical fact. 2. Background Music and Sound Effects: Select or create music and sound effects that enhance the storytelling atmosphere and mood of each episode. 3. Promotional Trailer: Edit a captivating video trailer that previews the podcast's theme and highlights intriguing mysteries to be explored."
+    },
+    {
+        "instruction": "Organize an online art exhibition, featuring artist biographies (text), recorded artist talks (video), and a virtual gallery of artworks (image).",
+        "output-abstract": "1. Artist Biographies, 2. Recorded Artist Talks, 3. Virtual Gallery.",
+        "output-detail": "1. Artist Biographies: Compile detailed biographies for each featured artist, highlighting their career, style, and contributions to the art world. 2. Recorded Artist Talks: Record video conversations with artists discussing their techniques, inspirations, and the stories behind their works. 3. Virtual Gallery: Design an immersive online gallery space where visitors can view high-resolution images of the exhibited artworks, complete with descriptions and artist credits."
+    },
+    {
+        "instruction": "Create a DIY home improvement tutorial series, including written instructions (text), step-by-step guide videos (video), and before-and-after photos (image).",
+        "output-abstract": "1. Written Instructions, 2. Guide Videos, 3. Before-and-After Photos.",
+        "output-detail": "1. Written Instructions: Provide detailed, easy-to-follow written instructions for various home improvement projects, including materials list and tools required. 2. Guide Videos: Record comprehensive video guides demonstrating each step of the project, offering tips and tricks along the way. 3. Before-and-After Photos: Capture high-quality before and after photos of the completed projects to showcase transformation and encourage viewers."
+    },
+    {
+        "instruction": "Produce an educational webinar on financial literacy, including lecture notes (text), presentation slides (image), and a recording of the webinar (video).",
+        "output-abstract": "1. Lecture Notes, 2. Presentation Slides, 3. Webinar Recording.",
+        "output-detail": "1. Lecture Notes: Write comprehensive notes covering key financial literacy concepts, examples, and strategies. 2. Presentation Slides: Design visually engaging slides to accompany the lecture, highlighting important points and data. 3. Webinar Recording: Record the live presentation, ensuring clear audio and video quality, making the webinar accessible for later viewing."
+    },
+    {
+        "instruction": "Develop a language learning app that includes conversational practice scenarios (text), pronunciation guides (audio), and cultural context videos (video).",
+        "output-abstract": "1. Conversational Practice Scenarios, 2. Pronunciation Guides, 3. Cultural Context Videos.",
+        "output-detail": "1. Conversational Practice Scenarios: Write realistic text scenarios that users can engage with to practice conversation in the target language. 2. Pronunciation Guides: Record clear, accurate audio guides focusing on pronunciation, intonation, and rhythm. 3. Cultural Context Videos: Create short, informative videos providing cultural background and context relevant to the language, enhancing learner engagement and understanding."
+    },
+    {
+        "instruction": "Produce an audiobook version of a classic novel, including the narration (audio), a series of thematic illustrations (image), and a promotional trailer (video).",
+        "output-abstract": "1. Narration, 2. Thematic Illustrations, 3. Promotional Trailer.",
+        "output-detail": "1. Narration: Record a compelling, emotive narration of the novel, ensuring clear voice modulation and pacing. 2. Thematic Illustrations: Create a set of illustrations that capture the novel's key themes, characters, and settings. 3. Promotional Trailer: Edit a video trailer that combines snippets of the audio narration with the illustrations to entice potential listeners."
+    },
+    {
+        "instruction": "Create a mindfulness app featuring guided meditation sessions (audio), inspirational daily quotes (text), and calming visual animations (video).",
+        "output-abstract": "1. Guided Meditation Sessions, 2. Inspirational Quotes, 3. Calming Visual Animations.",
+        "output-detail": "1. Guided Meditation Sessions: Record audio sessions that guide users through various meditation techniques, tailored to different experience levels and goals. 2. Inspirational Quotes: Compile a collection of text-based daily quotes aimed at inspiring positivity and mindfulness. 3. Calming Visual Animations: Design gentle, looped visual animations that complement the audio meditations, helping to create a more immersive relaxation experience."
+    },
+    {
+        "instruction": "Design a comprehensive travel guide for a specific city, including neighborhoods to explore (text), a playlist of local music (audio), and video walking tours of famous landmarks (video).",
+        "output-abstract": "1. Neighborhood Guides, 2. Local Music Playlist, 3. Video Walking Tours.",
+        "output-detail": "1. Neighborhood Guides: Write detailed descriptions of recommended neighborhoods, focusing on culture, dining, shopping, and entertainment. 2. Local Music Playlist: Assemble a playlist featuring a variety of local music to give travelers an authentic auditory experience of the city. 3. Video Walking Tours: Record video tours of iconic landmarks and hidden gems, providing commentary on history, architecture, and cultural significance."
+    },
+    {
+        "instruction": "Organize a virtual coding bootcamp, featuring programming tutorials (text), coding challenges (audio), and live coding session recordings (video).",
+        "output-abstract": "1. Programming Tutorials, 2. Coding Challenges, 3. Live Coding Sessions.",
+        "output-detail": "1. Programming Tutorials: Create comprehensive, beginner-friendly text tutorials covering fundamental programming concepts and languages. 2. Coding Challenges: Develop audio presentations of coding problems, encouraging learners to think critically and problem-solve. 3. Live Coding Sessions: Record video of live coding sessions, including real-time problem solving, debugging, and Q&A segments."
+    },
+    {
+        "instruction": "Produce an online marketing course, including module summaries (text), guest speaker interviews (video), and case study analyses (audio).",
+        "output-abstract": "1. Module Summaries, 2. Guest Speaker Interviews, 3. Case Study Analyses.",
+        "output-detail": "1. Module Summaries: Write detailed summaries for each course module, covering key concepts, strategies, and tools in modern marketing. 2. Guest Speaker Interviews: Record video interviews with marketing professionals discussing industry insights, experiences, and advice. 3. Case Study Analyses: Provide audio analyses of marketing case studies, dissecting strategies, outcomes, and lessons learned."
+    },
+    {
+        "instruction": "Launch a community gardening project, including planting guides (text), a documentary-style introduction video (video), and an audio diary documenting the project's progress (audio).",
+        "output-abstract": "1. Planting Guides, 2. Introduction Video, 3. Audio Diary.",
+        "output-detail": "1. Planting Guides: Develop detailed guides offering advice on selecting plants, preparing soil, planting techniques, and ongoing care. 2. Introduction Video: Produce a documentary-style video highlighting the project's goals, community involvement, and benefits. 3. Audio Diary: Record periodic audio updates from project participants, sharing experiences, challenges, and successes."
+    },
+    {
+        "instruction": "Create a series of instructional cooking videos, including ingredient lists (text), step-by-step cooking demonstration videos (video), and a background music playlist to cook along to (audio).",
+        "output-abstract": "1. Ingredient Lists, 2. Cooking Demonstration Videos, 3. Background Music Playlist.",
+        "output-detail": "1. Ingredient Lists: Compile detailed lists of ingredients for each recipe, including quantities and potential substitutes. 2. Cooking Demonstration Videos: Record clear, easy-to-follow cooking videos, visually guiding viewers through each recipe step. 3. Background Music Playlist: Curate a playlist of uplifting, energetic background music to enhance the cooking experience."
+    }
+]

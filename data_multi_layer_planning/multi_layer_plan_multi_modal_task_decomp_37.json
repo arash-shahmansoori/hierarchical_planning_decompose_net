@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Generate an e-book cover (image) and write the book's introduction (text).",
+        "output-abstract": "1. E-book cover, 2. Book introduction.",
+        "output-detail": "1. E-book cover: Design with a focus on genre-appropriate imagery, ensuring the title and author's name are prominently featured. 2. Book introduction: Craft a compelling opening that sets the tone for the book, introduces the main themes, and hooks the reader."
+    },
+    {
+        "instruction": "Compose a podcast episode script (text) and produce an intro jingle (audio).",
+        "output-abstract": "1. Script, 2. Jingle.",
+        "output-detail": "1. Script: Develop an engaging narrative or discussion outline that fits the podcast's theme, including an introduction, main content, and conclusion. 2. Jingle: Create a short, catchy tune that embodies the podcast's essence, to be used during the introduction and transitions."
+    },
+    {
+        "instruction": "Write a review for a virtual reality (VR) game (text) and create a gameplay highlight reel (video).",
+        "output-abstract": "1. Game review, 2. Gameplay highlight reel.",
+        "output-detail": "1. Game review: Analyze the VR game's graphics, gameplay mechanics, story, and overall user experience, providing constructive criticism and rating. 2. Gameplay highlight reel: Compile the most exciting and visually engaging moments from the game into a short video, including commentary on why these moments stand out."
+    },
+    {
+        "instruction": "Design an infographic (image) summarizing the results of a recent survey on remote work (text), and narrate the key findings (audio).",
+        "output-abstract": "1. Infographic, 2. Survey summary, 3. Key findings narration.",
+        "output-detail": "1. Infographic: Visualize the survey data through charts and graphics, highlighting significant statistics and trends in remote work. 2. Survey summary: Write a detailed analysis of the survey findings, focusing on major insights and their implications for the future of work. 3. Key findings narration: Record a concise audio summary of the most critical survey results, using intonation to emphasize important points."
+    },
+    {
+        "instruction": "Create a thematic playlist for a coffee shop (audio), write a brief description of the theme (text), and design a display poster (image).",
+        "output-abstract": "1. Playlist, 2. Theme description, 3. Display poster.",
+        "output-detail": "1. Playlist: Curate a list of tracks that evoke a warm, inviting atmosphere appropriate for a coffee shop setting. 2. Theme description: Write a paragraph explaining the playlist's mood, the selection criteria for the songs, and how it enhances the coffee shop experience. 3. Display poster: Design an attractive poster that visually represents the playlist theme, to be placed inside the coffee shop for patrons to see."
+    },
+    {
+        "instruction": "Develop a mobile app prototype (image/video) showcasing a new fitness tracking feature (text), and explain its functionality in a tutorial (video).",
+        "output-abstract": "1. Prototype, 2. Feature description, 3. Tutorial.",
+        "output-detail": "1. Prototype: Create a visual or video prototype of the app interface highlighting the new fitness tracking feature. 2. Feature description: Write a detailed explanation of how the fitness tracking feature works, its benefits, and how users can utilize it for improving their health. 3. Tutorial: Produce a step-by-step video guide showing how to use the fitness tracking feature within the app, including tips for optimization."
+    },
+    {
+        "instruction": "Generate a sci-fi short story (text) and its accompanying soundtrack (audio), then create a teaser trailer (video).",
+        "output-abstract": "1. Short story, 2. Soundtrack, 3. Teaser trailer.",
+        "output-detail": "1. Short story: Write a compelling science fiction tale that explores futuristic themes and characters. 2. Soundtrack: Compose an instrumental soundtrack that matches the story's tone and pace, enhancing the narrative's emotional depth. 3. Teaser trailer: Produce a short video that combines select readings from the story, soundtrack highlights, and visually engaging imagery to entice potential readers."
+    },
+    {
+        "instruction": "Design a logo for a new bakery (image), come up with a catchy tagline (text), and produce a short promotional video (video).",
+        "output-abstract": "1. Logo, 2. Tagline, 3. Promotional video.",
+        "output-detail": "1. Logo: Create a visually appealing design that effectively conveys the bakery's warmth and authenticity. 2. Tagline: Craft a memorable phrase that captures the unique selling proposition of the bakery. 3. Promotional video: Film a brief video showcasing the bakery's environment, product offerings, and the freshly baked goods, complemented by the tagline and logo."
+    },
+    {
+        "instruction": "Illustrate a children's book (image), write the story (text), and record a narrated version (audio).",
+        "output-abstract": "1. Illustrations, 2. Story, 3. Narration.",
+        "output-detail": "1. Illustrations: Design colorful and engaging illustrations that visually tell the story and captivate children's imaginations. 2. Story: Develop a simple yet meaningful narrative suitable for children, incorporating themes of friendship, adventure, or learning. 3. Narration: Record a clear and expressive audio version of the story, using different voices for characters to enhance the listening experience."
+    },
+    {
+        "instruction": "Create a comprehensive fitness guide (text), along with workout demonstration videos (video), and a motivational soundtrack (audio).",
+        "output-abstract": "1. Fitness guide, 2. Demonstration videos, 3. Soundtrack.",
+        "output-detail": "1. Fitness guide: Write a detailed guide covering various workouts, nutrition advice, and wellness tips for different fitness levels. 2. Demonstration videos: Film clear and concise videos demonstrating each workout mentioned in the guide, providing tips for proper form and safety. 3. Soundtrack: Compile or create uplifting music tracks that listeners can play during their workouts to stay motivated."
+    },
+    {
+        "instruction": "Develop a digital marketing strategy for a start-up (text), including a logo (image) and a series of social media advertisement designs (image).",
+        "output-abstract": "1. Marketing strategy, 2. Logo, 3. Social media ads.",
+        "output-detail": "1. Marketing strategy: Construct a detailed plan outlining the start-up's target audience, value proposition, and key marketing channels. 2. Logo: Design a logo that effectively represents the start-up\u2019s identity and mission. 3. Social media ads: Create visually compelling advertisement designs tailored for different social media platforms, aligned with the marketing strategy's objectives."
+    },
+    {
+        "instruction": "Write an article about the benefits of meditation (text), create a guided meditation script (text), and record the guided meditation (audio).",
+        "output-abstract": "1. Article, 2. Meditation script, 3. Guided meditation recording.",
+        "output-detail": "1. Article: Research and compose a comprehensive piece on how meditation can improve mental health and productivity. 2. Meditation script: Write a soothing script that gradually leads the listener into a deep state of relaxation and self-awareness. 3. Guided meditation recording: Record the script in a calming voice, optionally adding soft background music to enhance the meditative experience."
+    },
+    {
+        "instruction": "Design a travel itinerary for a cultural exploration trip (text), including photographs of key landmarks (image) and brief history narrations (audio).",
+        "output-abstract": "1. Itinerary, 2. Photographs, 3. History narrations.",
+        "output-detail": "1. Itinerary: Develop a detailed plan that highlights the must-visit cultural landmarks, including timing and logistics. 2. Photographs: Capture or select high-quality images of each mentioned landmark to give travelers a visual preview. 3. History narrations: Record short, engaging histories or stories associated with each landmark, providing cultural context and enriching the travel experience."
+    },
+    {
+        "instruction": "Compose a whitepaper on blockchain technology (text), design an accompanying infographic (image), and present the whitepaper in a webinar (video).",
+        "output-abstract": "1. Whitepaper, 2. Infographic, 3. Webinar.",
+        "output-detail": "1. Whitepaper: Write a detailed and informative paper elucidating blockchain technology's principles, uses, and future prospects. 2. Infographic: Create a visual summary of the whitepaper's key points, making the information more accessible. 3. Webinar: Plan and record a presentation of the whitepaper, including a Q&A session to engage the audience and clarify complex topics."
+    },
+    {
+        "instruction": "Develop a recipe blog post (text), including step-by-step cooking process photos (image) and a video of the final dish being prepared (video).",
+        "output-abstract": "1. Blog post, 2. Process photos, 3. Preparation video.",
+        "output-detail": "1. Blog post: Write a blog entry detailing the recipe's background, the ingredients list, and the cooking instructions. 2. Process photos: Take clear, step-by-step photos demonstrating key stages of the cooking process. 3. Preparation video: Film a video showing the entire preparation of the dish, offering tips, and showcasing the final product."
+    },
+    {
+        "instruction": "Write a corporate communication on new workplace policies (text), create a FAQ document for employees (text), and record a message from the CEO addressing the changes (video).",
+        "output-abstract": "1. Corporate communication, 2. FAQ document, 3. CEO message.",
+        "output-detail": "1. Corporate communication: Draft a clear and formal announcement of the new policies, explaining the reasons behind the changes and how they benefit the workplace. 2. FAQ document: Compile a list of potential questions employees might have about the new policies, providing detailed answers. 3. CEO message: Record a video of the CEO delivering a personal message to employees, emphasizing the importance of the changes and encouraging feedback."
+    },
+    {
+        "instruction": "Generate a tutorial on creating digital art (text), include example artwork (image), and provide a video demonstration of the techniques used (video).",
+        "output-abstract": "1. Tutorial, 2. Example artwork, 3. Technique demonstration.",
+        "output-detail": "1. Tutorial: Write detailed instructions on digital art creation, covering essential tools, software, and techniques. 2. Example artwork: Create or select an example piece that illustrates the types of results one can achieve by following the tutorial. 3. Technique demonstration: Produce a video showcasing the step-by-step process of creating the example artwork, highlighting tips and common pitfalls to avoid."
+    },
+    {
+        "instruction": "Document an experiment on plant growth under different light conditions (text), including data charts (image), and narrate the experiment's conclusions (audio).",
+        "output-abstract": "1. Experiment documentation, 2. Data charts, 3. Conclusions narration.",
+        "output-detail": "1. Experiment documentation: Write a comprehensive report detailing the experiment's objective, methodology, and observations. 2. Data charts: Visualize the growth data under different lighting conditions using graphs and charts for easy comparison. 3. Conclusions narration: Record a summary discussing the outcomes of the experiment, implications for plant care, and potential areas for further research."
+    },
+    {
+        "instruction": "Create a marketing campaign for a new product launch (text), design a series of promotional banners (image), and produce a commercial (video).",
+        "output-abstract": "1. Campaign plan, 2. Promotional banners, 3. Commercial.",
+        "output-detail": "1. Campaign plan: Outline the strategy for introducing the product to the market, identifying target audiences, key messages, and promotional channels. 2. Promotional banners: Design eye-catching banners for use across various digital platforms, emphasizing the product's unique selling points. 3. Commercial: Film a creative ad that demonstrates the product's features and benefits, generating excitement and anticipation among potential customers."
+    },
+    {
+        "instruction": "Compile a report on current trends in e-learning (text), create an illustrative presentation (image/video), and record an expert discussing these trends (audio).",
+        "output-abstract": "1. Trends report, 2. Presentation, 3. Expert discussion.",
+        "output-detail": "1. Trends report: Research and write an in-depth analysis of emerging trends in e-learning, including technological advancements, pedagogical strategies, and market growth. 2. Presentation: Develop a visually engaging slideshow that highlights the key points from the report, suitable for academic or industry conference settings. 3. Expert discussion: Record an interview with an e-learning expert, offering insights into the report's findings and potential impacts on the industry."
+    }
+]

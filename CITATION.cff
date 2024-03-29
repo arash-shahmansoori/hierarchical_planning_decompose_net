@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Shahmansoori"
+    given-names: "Arash"
+    orcid: "https://orcid.org/0000-0001-5126-8005"
+title: "Advancing Hierarchical Planning in Multi-Modal Task Decomposition Through Fine-Tuning Open Source LLMs"
+version: "1.0.0"
+date-released: "2024-03-28"
+doi: ""
+url: "https://github.com/arash-shahmansoori/hierarchical_planning_decompose_net.git"
+
