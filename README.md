@@ -1,5 +1,7 @@
 # Advancing Hierarchical Planning in Multi-Modal Task Decomposition Through Fine-Tuning Open Source LLMs
 
+https://medium.com/@arash.mansoori65/advancing-hierarchical-planning-in-multi-modal-task-decomposition-through-fine-tuning-open-source-2c93e984d434
+
 ![Train-Validation-Loss](assets/hierarchical_decompose_net_5.png)
 
 Welcome to the repository dedicated to pioneering research in the realm of artificial intelligence, focusing on hierarchical planning and multi-modal task decomposition using an advanced fine-tuning process on the Mistral-7B version 2 Large Language Model (LLM). Here, you will find a comprehensive collection of resources, including the source code, dataset, and methodology used to achieve this groundbreaking work.
